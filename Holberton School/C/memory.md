@@ -66,11 +66,14 @@ The `malloc` function is used to allocate a certain amount of memory during th
 
 `malloc()`: function to request a block of heap memory. It returns a pointer of type void which can be cast into a pointer of any form.
 
-syntax: `ptr = (cast-type*) malloc(size_t <bytes>)`
+The `malloc` function allocates a specific number of bytes in memory and returns a pointer to the allocated memory. This memory will have read and write permissions.
+
+Prototype: `<type> *p = void *malloc(size_t <bytes>);`
+- `void *` means it is a pointer to the type of your choice
 - `size_t` is a speciall type that is simillar to `unsigned int` but only allows for positive values
 - `<bytes>`: a number that indicates how much memory in bytes we need
-* `malloc(size_t <size>)`: is the memory allocated in heap
-* `ptr` is the pointer that stores the memory allocated
+* `malloc(size_t <bytes>)`: is the memory allocated in heap
+* `p` is the pointer that stores the memory allocated
 - If space is insufficient, allocation fails and returns a NULL pointer.
 
 When the amount of memory is not needed anymore, you must return it to the operating system by calling the function `free`.

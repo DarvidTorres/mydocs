@@ -104,6 +104,8 @@ return (0);
 }
 ```
 
+[c - Do I cast the result of malloc? - Stack Overflow](https://stackoverflow.com/questions/605845/do-i-cast-the-result-of-malloc)
+
 ## memory leaks
 
 - Ocurrs when we fail to free dynamically allocated memory

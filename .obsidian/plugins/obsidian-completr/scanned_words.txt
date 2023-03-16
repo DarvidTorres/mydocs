@@ -640,6 +640,7 @@ allocated
 allocates
 accesses
 accessed
+addresses
 tica
 to
 the
@@ -1367,6 +1368,8 @@ functionality
 float
 flag
 factorial
+fails
+freeing
 gabriela
 gica
 globalspeechtherapy
@@ -2314,6 +2317,7 @@ contained
 corresponding
 completes
 crashing
+calloc
 unam
 uninterrupted
 unvoiced
@@ -2851,6 +2855,7 @@ mpg
 manages
 members
 malloc
+management
 Norte
 Now
 Nasals
@@ -3500,6 +3505,7 @@ decreases
 dereferencing
 desc
 dynamic
+dynamically
 Conjuntos
 Changing
 Cob
@@ -4758,6 +4764,7 @@ Observation
 Owen
 Opening
 OK
+Ocurrs
 Anki
 Add
 All
@@ -4914,6 +4921,7 @@ AMD
 Aseembler
 ALL
 Arrays
+Allocation
 Fluent
 For
 Frequency
@@ -5914,6 +5922,8 @@ sep
 stack
 sizes
 safer
+speciall
+simillar
 Vowels
 Vowel
 Vocabulary
@@ -6280,6 +6290,7 @@ verbose
 varable
 varaibles
 vim
+void
 is
 its
 in
@@ -6647,6 +6658,7 @@ invoked
 install
 initialization
 instructions
+insufficient
 exception
 easiest
 end
@@ -7520,6 +7532,9 @@ resul
 removed
 routines
 resized
+runtime
+realloc
+realocated
 lower
 lip
 levels
@@ -7800,6 +7815,8 @@ loops
 linker
 locations
 located
+leaks
+leaked
 by
 back
 banana
@@ -8477,6 +8494,7 @@ Bash
 BASH
 Booleans
 Blocks
+Bytes
 Height
 He
 How
@@ -8898,6 +8916,7 @@ Move
 METHOD
 Matches
 Makefile
+Manual
 Widely
 When
 Words
@@ -9552,6 +9571,7 @@ Declaration
 Definition
 Defining
 Download
+Dynamic
 YNrwNla
 You
 Your

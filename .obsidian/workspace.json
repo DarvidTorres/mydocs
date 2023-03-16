@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github/git_github.md",
+                "file": "Holberton School/C/memory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github/git_github.md",
+                "file": "Holberton School/C/memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github/git_github.md",
+                "file": "Holberton School/C/memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github/git_github.md"
+                "file": "Holberton School/C/memory.md"
               }
             }
           }
@@ -219,10 +219,11 @@
   },
   "active": "93ffcdfd20fae59a",
   "lastOpenFiles": [
+    "Holberton School/C/Overview.md",
+    "github/git_github.md",
     "README.md",
     "R/R.md",
-    "github/git_github.md",
-    "Holberton School/C/memory allocation.md",
+    "Holberton School/C/memory.md",
     "Holberton School/C/arrays.md",
     "Holberton School/C/data types.md",
     "Holberton School/Bash commands.md",
@@ -234,7 +235,6 @@
     "Holberton School/C/flow control && loops.md",
     "Holberton School/C/operators.md",
     "Excel.md",
-    "Holberton School/C/Overview.md",
     "Holberton School/C/headers.md",
     "Holberton School/C/compile.md",
     "Holberton School/Bash/mv.md",

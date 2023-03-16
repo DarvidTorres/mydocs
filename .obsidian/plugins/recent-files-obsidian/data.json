@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "memory",
+      "path": "Holberton School/C/memory.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Holberton School/C/Overview.md"
+    },
+    {
       "basename": "git_github",
       "path": "github/git_github.md"
     },
     {
       "basename": "R",
       "path": "R/R.md"
-    },
-    {
-      "basename": "memory allocation",
-      "path": "Holberton School/C/memory allocation.md"
     },
     {
       "basename": "arrays",
@@ -51,10 +55,6 @@
     {
       "basename": "operators",
       "path": "Holberton School/C/operators.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Holberton School/C/Overview.md"
     },
     {
       "basename": "headers",

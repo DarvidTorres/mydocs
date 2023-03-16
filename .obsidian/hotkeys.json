@@ -60,5 +60,14 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }

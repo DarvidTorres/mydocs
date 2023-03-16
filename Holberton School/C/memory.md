@@ -1,5 +1,3 @@
-# memory
-
 RAM: Random-access memory.
 
 Memory is a (list) sequence of locations to store data (numbers).
@@ -63,6 +61,8 @@ There are 4 library functions provided by C defined under `<stdlib.h>` header fi
 ## malloc
 
 malloc: memory allocation.
+
+The `malloc` function is used to allocate a certain amount of memory during the execution of a program. It will request a block of memory from the heap. If the request is granted, the operating system will reserve the requested amount of memory and `malloc` will return a pointer to the reserved space.
 
 `malloc()`: function to request a block of heap memory. It returns a pointer of type void which can be cast into a pointer of any form.
 

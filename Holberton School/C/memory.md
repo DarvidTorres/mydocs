@@ -73,6 +73,8 @@ syntax: `ptr = (cast-type*) malloc(size_t <bytes>)`
 * `ptr` is the pointer that stores the memory allocated
 - If space is insufficient, allocation fails and returns a NULL pointer.
 
+When the amount of memory is not needed anymore, you must return it to the operating system by calling the function `free`.
+
 Example:
 ```C
 #include <stdio.h> // for printf

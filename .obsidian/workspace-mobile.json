@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "38f95c9ad216a661",
+    "type": "split",
+    "children": [
+      {
+        "id": "c95a467889d67a40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa53b9c32a4c9abb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/French/Vocab.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8594c84c05be0cfb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "20a634b3a57aee9a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "237acd0067f6d45c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "90bd49e9ceaaa4c4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "531f782366e149a9",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "990de6ab0466008b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3f533b35170cd74f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Languages/French/Vocab.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7af5ea392b554106",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Languages/French/Vocab.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7ba389bf2cda8bd2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Languages/French/Vocab.md"
+          }
+        }
+      },
+      {
+        "id": "c22214aa10f3ca9f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "aa53b9c32a4c9abb",
+  "lastOpenFiles": [
+    "Languages/English/Speaking/Pronunciation/Liquids/r.md",
+    "Languages/French/Vocab.md",
+    "Personal/Untitled.md",
+    "Languages/English/Speaking/Pronunciation/Vowels/Overview.md",
+    "Quotes/Quotes.md",
+    "Personal/Recipes.md",
+    "GYM.md",
+    "UNAM.md",
+    "Business/Natural languages/English/Areas/Pronunciation/Vowels/General American English/General American English.md",
+    "Business/Natural languages/English/Areas/Pronunciation/Pronunciation.md"
+  ]
+}

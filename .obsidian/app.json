@@ -1,0 +1,15 @@
+{
+  "promptDelete": true,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-MX"
+  ],
+  "trashOption": "system",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "D:\\Obsidian\\Attachments",
+  "showFrontmatter": true,
+  "fileSortOrder": "byModifiedTime",
+  "alwaysUpdateLinks": true
+}

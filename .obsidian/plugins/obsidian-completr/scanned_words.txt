@@ -7535,6 +7535,7 @@ resized
 runtime
 realloc
 realocated
+reserve
 lower
 lip
 levels
@@ -9165,6 +9166,7 @@ Preprocessor
 Pointers
 Pick
 Pile
+Prototype
 Roundedness
 Read
 Recordings

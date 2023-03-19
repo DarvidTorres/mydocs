@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bash commands",
+      "path": "Holberton School/Bash commands.md"
+    },
+    {
       "basename": "memory",
       "path": "Holberton School/C/memory.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "data types",
       "path": "Holberton School/C/data types.md"
-    },
-    {
-      "basename": "Bash commands",
-      "path": "Holberton School/Bash commands.md"
     },
     {
       "basename": "recursion",

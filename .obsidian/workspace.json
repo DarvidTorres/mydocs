@@ -177,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b58ece58924e30c",
+  "active": "c0d9dd5ebd5d1621",
   "lastOpenFiles": [
+    "EXAMPLE",
     "Holberton School/C/Overview.md",
     "github/git_github.md",
     "README.md",
@@ -204,7 +205,6 @@
     "Languages/French/Resources.md",
     "Languages/French/Vocab.md",
     "Utilities/Key bindings hot keys.md",
-    "Utilities/Words.md",
-    "Utilities/Other.md"
+    "Utilities/Words.md"
   ]
 }

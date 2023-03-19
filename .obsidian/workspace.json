@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Holberton School/C/memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Holberton School/C/memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Holberton School/C/memory.md"
+              }
             }
           }
         ],
@@ -173,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0d9dd5ebd5d1621",
+  "active": "93ffcdfd20fae59a",
   "lastOpenFiles": [
-    "Holberton School/C/memory.md",
     "example/example.md",
+    "Holberton School/C/memory.md",
     "example",
     "EXAMPLE",
     "Holberton School/C/Overview.md",

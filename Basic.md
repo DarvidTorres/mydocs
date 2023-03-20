@@ -11,4 +11,5 @@
 	- shape
 	- etc.
 - Objects have hirearchy
-1. Application (Exc)
+1. Application (Excel itself)
+2. Workbook(s) objects, Add-in objects

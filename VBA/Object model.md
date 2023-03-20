@@ -30,16 +30,17 @@ Collections:
 
 To refer to a Workbook object, use dot operator following hierarchy structure.
 
->You can start with the Application object like in the following code:
+>Start with the Application object like in the following code:
 >`Application.Workbooks.Item("Book1").Path`
 
 All collection objects have an Item property to get to a singular instance of an object they collect. A collection’s Item property takes one argument. That argument can be a string (enclosed in double quotes) or an integer.
 
-The following code returns the first worksheet of the second workbook:
-`Application.Workbooks.Item(2).Worksheets.Item(1)`
-Worksheets are ordered the same way as in Excel. The left-most worksheet is the first worksheet in the collection.
+>The following code returns the first worksheet of the second workbook:
+>`Application.Workbooks.Item(2).Worksheets.Item(1)`
 
-Item is the default property for every collection object making the following code equivalent:
+The left-most worksheet in Excel is the first worksheet in the collection.
+
+Item is the default property for every collection, making the following code lines equivalent:
 
 ```VBA
 Application.Workbooks.Item("Book1.xlsx").Worksheets.Item(2).Range("A1").Value
@@ -69,4 +70,18 @@ Range("A1").Value
 
 You almost never need the Application object in your reference, but you may need the Workbook
 object.
+
+# Properties & Methods
+
+To accomplish anything meaningful, you must do one of two things:
+- Read or modify an object’s properties.
+	- `<object> = <value>`
+- Call a method to be used with an object.
+	- `<object>.<method>`
+
+
+
+
+
+
 

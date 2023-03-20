@@ -21,4 +21,4 @@ Collections:
 - Workbooks
 - Worksheets
 - Charts
-- Shetts
+- Sheets

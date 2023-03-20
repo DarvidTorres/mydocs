@@ -10,5 +10,10 @@ Alt + F11 to open the VBE
 	- Forms: modules that have a form user-interface
 	- Class Modules: Modules where you can create own objects
 
+- Code Pane is the text editor
+- immediate window is a terminal
 
-There 
+# module
+
+
+

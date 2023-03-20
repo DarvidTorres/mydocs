@@ -79,6 +79,43 @@ To accomplish anything meaningful, you must do one of two things:
 - Call a method to be used with an object.
 	- `<object>.<method>`
 
+Modify property:
+```VBA
+Sub ChangeValue()
+	Worksheets("Sheet1").Range("A1").Value = 994.92
+End Sub
+```
+
+Call a method
+```VBA
+	Sub ClearRange()
+	Range("A1:A12").ClearContents
+End Sub
+```
+
+Some methods take arguments:
+- `<object>.<method> <argument>`
+- `<object>.<method> <name>:=<argument>`
+Example:
+```VBA
+Sub CopyOne()
+'Both lines do the same
+	Range("A1").Copy Range("B1")
+	Range("A1").Copy Destination:=Range("B1")
+End Sub
+```
+
+Another example:
+```VBA
+Sub AddAWorkbook()
+	Workbooks.Add
+End Sub
+```
+
+
+
+
+
 
 
 

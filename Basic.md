@@ -11,6 +11,8 @@
 	- shape
 	- etc.
 - Objects have hirearchy
-1. Application (Excel itself)
-2. Workbook(s) objects, Add-in objects
-
+![small portion of Excel's VBA object hierarchy](https://i.imgur.com/0oCU0r1.png)
+- Collection objects are objects themselves
+	- Worksheets collection (in a workbook)
+	- Charts collection (in a workbook)
+- To refer to objects 

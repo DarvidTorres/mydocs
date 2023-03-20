@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "905dc5a473c0c631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Holberton School/Bash commands.md",
+                "file": "Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Holberton School/Bash commands.md",
+                "file": "Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Holberton School/Bash commands.md"
+                "file": "Basic.md"
               }
             }
           }
@@ -165,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93ffcdfd20fae59a",
+  "active": "b546043ba531341b",
   "lastOpenFiles": [
+    "Holberton School/Bash commands.md",
+    "Basic.md",
+    "VBA",
     "Holberton School/C/memory.md",
     "example/example.md",
     "example",
@@ -189,7 +207,6 @@
     "R/R.md",
     "Holberton School/C/arrays.md",
     "Holberton School/C/data types.md",
-    "Holberton School/Bash commands.md",
     "Holberton School/C/recursion.md",
     "Holberton School/C/make files.md",
     "Holberton School/C/pointers.md",
@@ -206,7 +223,6 @@
     "Holberton School/ASCII characters.md",
     "Languages/French/Resources.md",
     "Languages/French/Vocab.md",
-    "Utilities/Key bindings hot keys.md",
-    "Utilities/Words.md"
+    "Utilities/Key bindings hot keys.md"
   ]
 }

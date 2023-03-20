@@ -22,3 +22,5 @@ Collections:
 - Worksheets
 - Charts
 - Sheets
+
+To get to a Workbook object, you can start with the Application object like in the following code:

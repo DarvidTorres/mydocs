@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Object model",
+      "path": "VBA/Object model.md"
+    },
+    {
       "basename": "Intro",
       "path": "VBA/Intro.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to really learn a language",
       "path": "Books/How to really learn a language.md"
-    },
-    {
-      "basename": "Spanish",
-      "path": "Languages/Spanish.md"
     }
   ],
   "omittedPaths": [],

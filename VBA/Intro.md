@@ -1,6 +1,6 @@
-
+- Blocks of code or programs are called modules.
 - A VBA module consists of Sub procedures.
-	- Snipets of code to perform some action on or with obects
+	- Snipets of code to perform some action on or with objects
 - A VBA module can also have Function procedures.
 	- Returns a single value
 	- Can be invoked as from another VBA procedure or as afucntion in a worksheet formula

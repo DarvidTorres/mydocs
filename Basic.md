@@ -1,3 +1,5 @@
+# Object model
+
 - A VBA module consists of Sub procedures.
 	- Snipets of code to perform some action on or with obects
 - A VBA module can also have Function procedures.
@@ -16,5 +18,10 @@
 	- Worksheets collection (in a workbook)
 	- Charts collection (in a workbook)
 - To call objects specify its position in the hirearchy
-	- `Application.Workbooks("Book1.xlsx").Worksheets("Sheet1").Range("A1").Value`
-- 
+	- `Application.Workbooks("Book1.xlsx").Worksheets("Sheet1").Range("A1")
+- Objects have properties that can be read and written
+	- Range object has Value and Address
+	- Chart object has HasTitle and Type
+- To point to properties use the dot syntax:
+	- `Application.Workbooks("Book1.xlsx").Worksheets("Sheet1").Range("A1").Value
+	- 

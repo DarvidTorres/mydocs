@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VBA/Object model.md",
+                "file": "VBA/Intro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VBA/Visual Basic Editor.md",
+                "file": "VBA/Intro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VBA/Visual Basic Editor.md",
+                "file": "VBA/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VBA/Visual Basic Editor.md",
+                "file": "VBA/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VBA/Visual Basic Editor.md"
+                "file": "VBA/Intro.md"
               }
             }
           }
@@ -205,11 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08e4a9c96669804e",
+  "active": "c0d9dd5ebd5d1621",
   "lastOpenFiles": [
-    "Holberton School/Bash commands.md",
-    "VBA/Object model.md",
     "VBA/Visual Basic Editor.md",
+    "Holberton School/Bash commands.md",
+    "VBA/Intro.md",
     "Pasted image 20230319193607.png",
     "VBA",
     "Holberton School/C/memory.md",

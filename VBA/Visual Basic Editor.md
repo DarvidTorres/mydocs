@@ -5,7 +5,7 @@ Alt + F11 to open the VBE
 - In the VBE workbooks are called projects.
 - Every project contains exactly one workbook
 - A project contains:
-	- [[Object model|Objects]]
+	- [[Intro|Objects]]
 	- Modules: Scripts
 	- Forms: modules that have a form user-interface
 	- Class Modules: Modules where you can create own objects
@@ -51,12 +51,15 @@ End Sub
 An example:
 
 ```VBA
-Sub GuessName() '
-    Msg = "Is your name " & Application.UserName & "?"
-    Ans = MsgBox(Msg, vbYesNo)
+Sub GuessName() 'Define a Sub procedure
+	'Define Msg and Ans variables
+    Msg = "Is your name " & Application.UserName & "?" 'Concatenate strings
+    'Use MsgBox built-in function
+    Ans = MsgBox(Msg, vbYesNo) 'vbYesNo, vbNo, vbYes' are VBA constants
+    'If-then conditional
     If Ans = vbNo Then MsgBox "Oh, never mind."
     If Ans = vbYes Then MsgBox "I must be psychic!"
-End Sub
+End Sub 'End Sub procedure
 ```
 
 Use F5 to run the macro, or F8 to run line by line (debugger) and Ctrl+Shift+F8 to exit debugger.

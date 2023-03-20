@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Intro",
+      "path": "VBA/Intro.md"
+    },
+    {
       "basename": "Visual Basic Editor",
       "path": "VBA/Visual Basic Editor.md"
     },
     {
       "basename": "Bash commands",
       "path": "Holberton School/Bash commands.md"
-    },
-    {
-      "basename": "Object model",
-      "path": "VBA/Object model.md"
     },
     {
       "basename": "memory",

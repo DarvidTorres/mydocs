@@ -1,8 +1,11 @@
 {
   "promptDelete": true,
   "showLineNumber": false,
-  "spellcheck": false,
-  "spellcheckLanguages": null,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-MX"
+  ],
   "trashOption": "system",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "D:\\Obsidian\\Attachments",

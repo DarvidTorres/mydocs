@@ -192,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b546043ba531341b",
+  "active": "905dc5a473c0c631",
   "lastOpenFiles": [
+    "Pasted image 20230319193607.png",
     "Holberton School/Bash commands.md",
     "Basic.md",
     "VBA",
@@ -222,7 +223,6 @@
     "Holberton School/C/for.md",
     "Holberton School/ASCII characters.md",
     "Languages/French/Resources.md",
-    "Languages/French/Vocab.md",
-    "Utilities/Key bindings hot keys.md"
+    "Languages/French/Vocab.md"
   ]
 }

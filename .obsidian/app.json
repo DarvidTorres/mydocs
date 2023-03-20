@@ -8,5 +8,7 @@
   "attachmentFolderPath": "D:\\Obsidian\\Attachments",
   "showFrontmatter": true,
   "fileSortOrder": "byModifiedTime",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "livePreview": true
 }

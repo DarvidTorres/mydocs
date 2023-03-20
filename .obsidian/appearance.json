@@ -1,9 +1,10 @@
 {
   "cssTheme": "Obsidianite",
-  "translucency": false,
+  "translucency": true,
   "textFontFamily": "",
   "interfaceFontFamily": "",
   "baseFontSize": 15,
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "showViewHeader": false
 }

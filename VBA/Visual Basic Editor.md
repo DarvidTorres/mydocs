@@ -32,6 +32,22 @@ Order1:=xlAscending, Header:=xlGuess, _
 Orientation:=xlTopToBottom
 ```
 
+To comment use `'` or `REM`
+
+```VBA
+Selection.Sort Key1:=Range("A1"), _ '
+Order1:=xlAscending, Header:=xlGuess, _
+Orientation:=xlTopToBottom
+```
+
+or
+
+```VBA
+Selection.Sort Key1:=Range("A1"), _
+Order1:=xlAscending, Header:=xlGuess, _
+Orientation:=xlTopToBottom
+```
+
 An example:
 
 ```VBA
@@ -43,5 +59,5 @@ Sub GuessName()
 End Sub
 ```
 
-Use F5 to run the macro, or F8 to run line by line.
+Use F5 to run the macro, or F8 to run line by line (debugger) and Ctrl+Shift+F8 to exit debugger.
 

@@ -32,26 +32,26 @@ Order1:=xlAscending, Header:=xlGuess, _
 Orientation:=xlTopToBottom
 ```
 
-To comment use `'` or `REM`
+To comment use `'`
 
 ```VBA
-Selection.Sort Key1:=Range("A1"), _ '
-Order1:=xlAscending, Header:=xlGuess, _
-Orientation:=xlTopToBottom
-```
+Sub myMacro()
 
-or
+'Clear the content from selection
+'Then, enter value "done"
+'Finally, make the font in the selection bold
 
-```VBA
-Selection.Sort Key1:=Range("A1"), _
-Order1:=xlAscending, Header:=xlGuess, _
-Orientation:=xlTopToBottom
+	Selection.ClearContents
+	Selection.Value = "Done"
+	Selection.Font.Bold = True
+
+End Sub
 ```
 
 An example:
 
 ```VBA
-Sub GuessName()
+Sub GuessName() '
     Msg = "Is your name " & Application.UserName & "?"
     Ans = MsgBox(Msg, vbYesNo)
     If Ans = vbNo Then MsgBox "Oh, never mind."

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Object model",
-      "path": "Object model.md"
-    },
-    {
       "basename": "Bash commands",
       "path": "Holberton School/Bash commands.md"
+    },
+    {
+      "basename": "Visual Basic Editor",
+      "path": "VBA/Visual Basic Editor.md"
+    },
+    {
+      "basename": "Object model",
+      "path": "VBA/Object model.md"
     },
     {
       "basename": "memory",
@@ -195,10 +199,6 @@
     {
       "basename": "Spanish",
       "path": "Languages/Spanish.md"
-    },
-    {
-      "basename": "Stop plosives overview",
-      "path": "Languages/English/Speaking/Pronunciation/Consonants/Stops Plosives/Stop plosives overview.md"
     }
   ],
   "omittedPaths": [],

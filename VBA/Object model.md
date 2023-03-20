@@ -1,3 +1,5 @@
+# Hierarchy
+
 There are many objects in the hierarchy.
 
 Application
@@ -15,6 +17,7 @@ Application
 		- PageSetup
 		- PivotTable
 		- Range
+			- Excel does not have a Cell object. A cell is a Range that consists of one element.
 - WorksheetFunction
 
 Collections:
@@ -23,12 +26,47 @@ Collections:
 - Charts
 - Sheets
 
-To get to a Workbook object, you can start with the Application object like in the following code: `Application.Workbooks.Item("Book1").Path`. All collection objects have an Item property to get to a singular instance of an object they collect. A collection’s Item property takes one argument. That argument can be a string (enclosed in double quotes) or an integer.
+# Referencing
+
+To refer to a Workbook object, use dot operator following hierarchy structure.
+
+>You can start with the Application object like in the following code:
+>`Application.Workbooks.Item("Book1").Path`
+
+All collection objects have an Item property to get to a singular instance of an object they collect. A collection’s Item property takes one argument. That argument can be a string (enclosed in double quotes) or an integer.
 
 The following code returns the first worksheet of the second workbook:
 `Application.Workbooks.Item(2).Worksheets.Item(1)`
-
 Worksheets are ordered the same way as in Excel. The left-most worksheet is the first worksheet in the collection.
 
+Item is the default property for every collection object making the following code equivalent:
 
+```VBA
+Application.Workbooks.Item("Book1.xlsx").Worksheets.Item(2).Range("A1").Value
+Application.Workbooks("Book1.xlsx").Worksheets(2).Range("A1").Value
+```
+
+The Application object is always assumed.
+
+```VBA
+Application.Workbooks("Book1.xlsx").Worksheets(2).Range("A1").Value
+Workbooks("Book1.xlsx").Worksheets(2).Range("A1").Value
+```
+
+We can assume active workbook:
+
+```VBA
+Workbooks("Book1.xlsx").Worksheets(2).Range("A1").Value
+Worksheets(2).Range("A1").Value
+```
+
+We can assume active worksheet:
+
+```VBA
+Worksheets(2).Range("A1").Value
+Range("A1").Value
+```
+
+You almost never need the Application object in your reference, but you may need the Workbook
+object.
 

@@ -21,7 +21,7 @@
 - Objects have properties that can be read and written
 	- `Range` object has `Value` and `Address`
 	- `Chart` object has `Title` and `Type`
-- Objects have default properties that doesn't need to be speci
+- Objects have default properties that doesn't need to be specified to access
 - To point to properties use the dot operator:
 	- `Application.Workbooks("Book1.xlsx").Worksheets("Sheet1").Range("A1").Value
 	- Use `=` operator for variable assignments

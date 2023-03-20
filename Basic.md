@@ -15,4 +15,6 @@
 - Collection objects are objects themselves
 	- Worksheets collection (in a workbook)
 	- Charts collection (in a workbook)
-- To refer to objects 
+- To call objects specify its position in the hirearchy
+	- `Application.Workbooks("Book1.xlsx").Worksheets("Sheet1").Range("A1").Value`
+- 

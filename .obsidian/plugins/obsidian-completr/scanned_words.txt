@@ -4076,6 +4076,8 @@ warning
 warnings
 writes
 wrapper
+workbooks
+workbook
 presentacion
 pronunciation
 pairs
@@ -4765,6 +4767,7 @@ Owen
 Opening
 OK
 Ocurrs
+Objects
 Anki
 Add
 All
@@ -4922,6 +4925,7 @@ Aseembler
 ALL
 Arrays
 Allocation
+Alt
 Fluent
 For
 Frequency
@@ -5005,6 +5009,7 @@ Fou
 Feu
 Function
 FALSE
+Forms
 nasal
 number
 non
@@ -5966,6 +5971,7 @@ Vico
 Vi
 Version
 VSCode
+VBE
 overview
 of
 on
@@ -8918,6 +8924,7 @@ METHOD
 Matches
 Makefile
 Manual
+Modules
 Widely
 When
 Words

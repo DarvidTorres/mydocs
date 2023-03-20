@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic.md",
+                "file": "Object model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 242.5
   },
   "right": {
     "id": "5bb57be36f262ef5",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic.md",
+                "file": "Object model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic.md",
+                "file": "Object model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic.md"
+                "file": "Object model.md"
               }
             }
           }
@@ -196,7 +196,7 @@
   "lastOpenFiles": [
     "Pasted image 20230319193607.png",
     "Holberton School/Bash commands.md",
-    "Basic.md",
+    "Object model.md",
     "VBA",
     "Holberton School/C/memory.md",
     "example/example.md",

@@ -1,4 +1,3 @@
-# Object model
 
 - A VBA module consists of Sub procedures.
 	- Snipets of code to perform some action on or with obects
@@ -20,8 +19,15 @@
 - To call objects specify its position in the hirearchy
 	- `Application.Workbooks("Book1.xlsx").Worksheets("Sheet1").Range("A1")
 - Objects have properties that can be read and written
-	- Range object has Value and Address
-	- Chart object has HasTitle and Type
-- To point to properties use the dot syntax:
+	- `Range` object has `Value` and `Address`
+	- `Chart` object has `Title` and `Type`
+- To point to properties use the dot operator:
 	- `Application.Workbooks("Book1.xlsx").Worksheets("Sheet1").Range("A1").Value
-	- 
+	- Use `=` operator for variable assignments
+		- `Interest = Worksheets("Sheet1").Range("A1").Value`
+- Objects have methods
+	- A method is an *action* upon an object.
+	- `Range` has method `ClearContents`
+- To call method use dot operator:
+	- `Application.Workbooks("Book1.xlsx").Worksheets("Sheet1").Range("A1").ClearContents
+- VBA is a programming language

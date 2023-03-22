@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "compile",
+      "path": "C/compile.md"
+    },
+    {
       "basename": "Object model",
       "path": "VBA/Object model.md"
     },
@@ -14,15 +18,15 @@
     },
     {
       "basename": "Bash commands",
-      "path": "Holberton School/Bash commands.md"
+      "path": "Bash/Bash commands.md"
     },
     {
       "basename": "memory",
-      "path": "Holberton School/C/memory.md"
+      "path": "C/memory.md"
     },
     {
       "basename": "Overview",
-      "path": "Holberton School/C/Overview.md"
+      "path": "C/Overview.md"
     },
     {
       "basename": "git_github",
@@ -34,51 +38,47 @@
     },
     {
       "basename": "arrays",
-      "path": "Holberton School/C/arrays.md"
+      "path": "C/arrays.md"
     },
     {
       "basename": "data types",
-      "path": "Holberton School/C/data types.md"
+      "path": "C/data types.md"
     },
     {
       "basename": "recursion",
-      "path": "Holberton School/C/recursion.md"
+      "path": "C/recursion.md"
     },
     {
       "basename": "make files",
-      "path": "Holberton School/C/make files.md"
+      "path": "C/make files.md"
     },
     {
       "basename": "pointers",
-      "path": "Holberton School/C/pointers.md"
+      "path": "C/pointers.md"
     },
     {
       "basename": "variables",
-      "path": "Holberton School/C/variables.md"
+      "path": "C/variables.md"
     },
     {
       "basename": "functions",
-      "path": "Holberton School/C/functions.md"
+      "path": "C/functions.md"
     },
     {
       "basename": "flow control && loops",
-      "path": "Holberton School/C/flow control && loops.md"
+      "path": "C/flow control && loops.md"
     },
     {
       "basename": "operators",
-      "path": "Holberton School/C/operators.md"
+      "path": "C/operators.md"
     },
     {
       "basename": "headers",
-      "path": "Holberton School/C/headers.md"
-    },
-    {
-      "basename": "compile",
-      "path": "Holberton School/C/compile.md"
+      "path": "C/headers.md"
     },
     {
       "basename": "mv",
-      "path": "Holberton School/Bash/mv.md"
+      "path": "Bash/mv.md"
     },
     {
       "basename": "Vocab",

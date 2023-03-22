@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VBA/Object model.md",
+                "file": "C/compile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VBA/Object model.md",
+                "file": "C/compile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VBA/Object model.md",
+                "file": "C/compile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VBA/Object model.md"
+                "file": "C/compile.md"
               }
             }
           }
@@ -180,34 +180,34 @@
   },
   "active": "e0417314abbe2302",
   "lastOpenFiles": [
-    "VBA/Intro.md",
     "VBA/Object model.md",
+    "VBA/Intro.md",
     "VBA/Visual Basic Editor.md",
-    "Holberton School/Bash commands.md",
+    "Bash/Bash commands.md",
     "Pasted image 20230319193607.png",
     "VBA",
-    "Holberton School/C/memory.md",
+    "C/memory.md",
     "example/example.md",
     "example",
     "EXAMPLE",
-    "Holberton School/C/Overview.md",
+    "C/Overview.md",
     "github/git_github.md",
     "README.md",
     "R/R.md",
-    "Holberton School/C/arrays.md",
-    "Holberton School/C/data types.md",
-    "Holberton School/C/recursion.md",
-    "Holberton School/C/make files.md",
-    "Holberton School/C/pointers.md",
-    "Holberton School/C/variables.md",
-    "Holberton School/C/functions.md",
-    "Holberton School/C/flow control && loops.md",
-    "Holberton School/C/operators.md",
+    "C/arrays.md",
+    "C/data types.md",
+    "C/recursion.md",
+    "C/make files.md",
+    "C/pointers.md",
+    "C/variables.md",
+    "C/functions.md",
+    "C/flow control && loops.md",
+    "C/operators.md",
     "Excel.md",
-    "Holberton School/C/headers.md",
-    "Holberton School/C/compile.md",
-    "Holberton School/Bash/mv.md",
-    "Holberton School/Bash",
+    "C/headers.md",
+    "C/compile.md",
+    "Bash/mv.md",
+    "Bash",
     "Holberton School/C/for.md",
     "Holberton School/ASCII characters.md",
     "Languages/French/Resources.md"

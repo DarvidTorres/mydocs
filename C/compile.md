@@ -1,9 +1,9 @@
 # compiler process
 
-1. source code: `.c` file
+1. Source code: `.c` file
 2. Preprocessor: Remove comments and add code from headers
 3. Compiler: Generate assembly code
-4. Aseembler: Generate object code (binary)
+4. Assembler: Generate object code (binary) 
 5. Linker: Link code from file(s) and libraries to generate an executable.
 
 # compiling

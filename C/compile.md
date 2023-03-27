@@ -1,10 +1,19 @@
 # compiler process
 
-1. Source code: `.c` file
-2. Preprocessor: Remove comments and add code from headers
-3. Compiler: Generate assembly code
-4. Assembler: Generate object code (binary) 
-5. Linker: Link code from file(s) and libraries to generate an executable.
+0. Source code: `.c` file
+1. Preprocessor: Remove comments and add code from headers
+2. Compiler: Generate assembly code
+3. Assembler: Generate object code (binary) `.o` file
+4. Linker: Link code from file(s) and libraries to generate an executable.
+
+# Preprocessing
+
+Expands macros and include files in source code
+- `#include`
+- `#define`
+
+The `cpp` command performs file inclusion and macro substitution on C language source files.
+	-
 
 # compiling
 

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "strings",
+      "path": "C/data types/strings.md"
+    },
+    {
+      "basename": "arrays",
+      "path": "C/data types/arrays.md"
+    },
+    {
+      "basename": "data types",
+      "path": "C/data types/data types.md"
+    },
+    {
+      "basename": "pointers",
+      "path": "C/pointers.md"
+    },
+    {
       "basename": "compile",
       "path": "C/compile.md"
     },
@@ -37,24 +53,12 @@
       "path": "R/R.md"
     },
     {
-      "basename": "arrays",
-      "path": "C/arrays.md"
-    },
-    {
-      "basename": "data types",
-      "path": "C/data types.md"
-    },
-    {
       "basename": "recursion",
       "path": "C/recursion.md"
     },
     {
       "basename": "make files",
       "path": "C/make files.md"
-    },
-    {
-      "basename": "pointers",
-      "path": "C/pointers.md"
     },
     {
       "basename": "variables",
@@ -195,10 +199,6 @@
     {
       "basename": "How to learn a foreing language - Pimsleur",
       "path": "Books/How to learn a foreing language - Pimsleur.md"
-    },
-    {
-      "basename": "How to really learn a language",
-      "path": "Books/How to really learn a language.md"
     }
   ],
   "omittedPaths": [],

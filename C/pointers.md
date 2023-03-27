@@ -1,5 +1,5 @@
-Pointers: varaibles that store address of another variable.
-Every time a program is rerunned the address alocation changes.
+Pointers: variables that store address of another variable.
+Every time a program is rerunned the address allocation changes.
 
 `p`: address of stored variable
 `*p`: value at address

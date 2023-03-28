@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "pointers",
-      "path": "C/pointers.md"
+      "basename": "types",
+      "path": "C/data types/types.md"
+    },
+    {
+      "basename": "signed vs unsigned",
+      "path": "C/data types/signed vs unsigned.md"
+    },
+    {
+      "basename": "char",
+      "path": "C/data types/char.md"
+    },
+    {
+      "basename": "int",
+      "path": "C/data types/int.md"
     },
     {
       "basename": "arrays",
       "path": "C/data types/arrays.md"
     },
     {
-      "basename": "data types",
-      "path": "C/data types/data types.md"
+      "basename": "pointers",
+      "path": "C/pointers.md"
     },
     {
       "basename": "compile",
@@ -187,14 +199,6 @@
     {
       "basename": "IPA",
       "path": "Languages/English/Phonetics/IPA.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Languages/English/Speaking/Pronunciation/Consonants/Overview.md"
-    },
-    {
-      "basename": "How to learn a foreing language - Pimsleur",
-      "path": "Books/How to learn a foreing language - Pimsleur.md"
     }
   ],
   "omittedPaths": [],

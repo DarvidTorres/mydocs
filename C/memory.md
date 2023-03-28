@@ -9,8 +9,8 @@ The Stack and the Heap are two memory areas located in the computer’s RAM.
 
 The stack is the sequence (oredered list) of memory:
 * it is a contiguous (continuous, in a row) block of memory.
-- Data on the stack has a [[data types|fixed size]]
-- Arrays have the [[data types#size|size]] of their type multiplied by the number of elements
+- Data on the stack has a [[types|fixed size]]
+- Arrays have the [[types#size|size]] of their type multiplied by the number of elements
 	- float a\[10\] = 4 bytes x 10 elements = 40 bytes
 
 - Variables are stored in memory at some memory address.

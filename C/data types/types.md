@@ -1,8 +1,10 @@
+## size
+
 Data type specifies the size and type of information the variable will store.
 
 | type           | size (bytes) |
 | -------------- | ------------ |
-| chat           | 1            |
+| char           | 1            |
 | unsigned char  | 1            |
 | signed char    | 1            |
 | int            | 2 or 4       |
@@ -11,16 +13,11 @@ Data type specifies the size and type of information the variable will store.
 | unsigned short | 2            |
 | long           | 8            |
 | unsigned long  | 8             |
-
-## size
-
-| type        | size (bytes) | precision |
-| ----------- | ------------ | --------- |
 | float       | 4            | 6         |
 | double      | 8            | 15        |
 | long double | 10           | 19          |
 
-Example
+Example:
 
 ```c
 #include <stdio.h>
@@ -34,14 +31,7 @@ int main()
 }
 ```
 
-The following programm outputs the following:
-
-julien@ubuntu:~/c/$ ./size64
-Size of a char: 1 byte(s)
-Size of an int: 4 byte(s)
-Size of a long int: 8 byte(s)
-Size of a long long int: 8 byte(s)
-Size of a float: 4 byte(s)
+Example:
 
 ```C
 #include<stdio.h>
@@ -56,16 +46,25 @@ return (0);
 }
 ```
 
-# integers
+# range
 
-There are:
-- `ints` plain base
-- signed `int`
-- unsigned `int`: non negative values
+1 byte consists of 8 bits of memory. Consider a byte as a sequence of 8 place-holders (bits), where each bit can hold either 0 or 1 (as each memory bit can only be set to an *on* or *off* state). There are $2^8$ or 256 distinct combinations of 0's and 1's, and we can use each combination to represent a 
 
-# characters
+distinct values we can represent from the 8 bits.
 
-In C programming language, a character variable does not contain a character value itself rather the [ASCII value](https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html) of the character variable. The ascii value represents the character variable in numbers, and each character variable is assigned with some number range from 0 to 127. For example, the ascii value of 'A' is 65.
+Take the first of the 256 combinations to represent a 0, and the final combination as 255:
+| byte            | value |
+| --------------- | ----- |
+| 0 0 0 0 0 0 0 0 | 0     |
+| 0 0 0 0 0 0 0 1 | 1     |
+| ...             | ...   |
+| 1 1 1 1 1 1 1 0 | 254   |
+| 1 1 1 1 1 1 1 1 | 255   |
+
+For this data type, the range is from 0 to 255. This type is generally called an unsigned byte, as the values it can represent is unsigned as it has no sign. Basically, it is handled as if it were all positive numbers.
+
+
+
 
 # type casting
 

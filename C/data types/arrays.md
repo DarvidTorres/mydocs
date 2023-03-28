@@ -107,7 +107,7 @@ printf("%d", *(myNumbers + 2));
 # strings as arrays
 
 - A string is an array of type `char`.
-- [[data types#characters|characters]] in C are enclosed within a single quote for example, 'a', 'b', 'c'.
+- [[types#characters|characters]] in C are enclosed within a single quote for example, 'a', 'b', 'c'.
 - To create a string in C, create an array and store characters on it.
 - A string in C always ends with a null character (`\0`)
 	- the null character is always the last character in the array.

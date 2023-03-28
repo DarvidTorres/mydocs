@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "int",
+      "path": "C/data types/int.md"
+    },
+    {
       "basename": "types",
       "path": "C/data types/types.md"
+    },
+    {
+      "basename": "floats",
+      "path": "C/data types/floats.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "C/Overview.md"
     },
     {
       "basename": "signed vs unsigned",
@@ -11,10 +23,6 @@
     {
       "basename": "char",
       "path": "C/data types/char.md"
-    },
-    {
-      "basename": "int",
-      "path": "C/data types/int.md"
     },
     {
       "basename": "arrays",
@@ -47,10 +55,6 @@
     {
       "basename": "memory",
       "path": "C/memory.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "C/Overview.md"
     },
     {
       "basename": "git_github",
@@ -195,10 +199,6 @@
     {
       "basename": "θ",
       "path": "Languages/English/Speaking/Pronunciation/Consonants/Fricatives/θ.md"
-    },
-    {
-      "basename": "IPA",
-      "path": "Languages/English/Phonetics/IPA.md"
     }
   ],
   "omittedPaths": [],

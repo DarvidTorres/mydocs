@@ -1,50 +1,11 @@
-## size
+A data type is a family/collection of sets of *data values* and each member is a set of allowed operations on these values.
 
-Data type specifies the size and type of information the variable will store.
+The type of a variable determines how much space it occupies in storage and how the *bit pattern* stored is interpreted.
 
-| type           | size (bytes) |
-| -------------- | ------------ |
-| char           | 1            |
-| unsigned char  | 1            |
-| signed char    | 1            |
-| int            | 2 or 4       |
-| unsigned int   | 2 or 4       |
-| short          | 2            |
-| unsigned short | 2            |
-| long           | 8            |
-| unsigned long  | 8             |
-| float       | 4            | 6         |
-| double      | 8            | 15        |
-| long double | 10           | 19          |
-
-Example:
-
-```c
-#include <stdio.h>
-int main()
-{
-    printf("%lu\n", sizeof(char));
-    printf("%lu\n", sizeof(int));
-    printf("%lu\n", sizeof(float));
-    printf("%lu", sizeof(double));
-    return 0;
-}
-```
-
-Example:
-
-```C
-#include<stdio.h>
-int main(void)
-{
-printf("Size of a char: %ld byte(s)\n", sizeof(char));
-printf("Size of an int: %ld byte(s)\n", sizeof(int));
-printf("Size of a long int: %ld byte(s)\n", sizeof(long int));
-printf("Size of a long long int: %ld byte(s)\n", sizeof(double));
-printf("Size of a float: %ld byte(s)\n", sizeof(float));
-return (0);
-}
-```
+- Basic Types: They are arithmetic types and are further classified into: (a) integer types and (b) floating-point types.
+- Enumerated types: They are again arithmetic types and they are used to define variables that can only assign certain discrete integer values throughout the program.
+- The type void: The type specifier void indicates that no value is available.
+- Derived types: They include (a) Pointer types, (b) Array types, (c) Structure types, (d) Union types and (e) Function types.
 
 # range
 
@@ -99,6 +60,90 @@ However, they are both have 256 possible combinations of values they can represe
 | unsigned long  | 8 bytes                           | 0 to 18446744073709551615                            |
 
 The actual number of bits for each type, such as `int` and `long` can be implementation- and architecture-dependent, so the above chart is not necessarily true.
+
+If you want to know the actual minimum and maximum values an implementation uses they are defined in the `limits.h` header file. It defines various constants like SCHAR_MIN, SCHAR_MAX, etc. that give the values for this implementation of C. The following example shows the limits of this implementation:
+
+```C
+#include <stdio.h>
+    #include <limits.h>
+ 
+   void main()
+   {
+          printf("Signed char minimum value: %d\n", SCHAR_MIN );
+          printf("Signed char maximum value: %d\n", SCHAR_MAX );
+          printf("Unsigned char minimum value: %d\n", 0 );
+          printf("Unsigned char maximum value: %d\n", UCHAR_MAX );
+          printf("Char minimum value: %d\n", CHAR_MIN );
+          printf("Char maximum value: %d\n", CHAR_MAX );
+          printf("Signed short minimum value: %d\n", SHRT_MIN );
+          printf("Signed short maximum value: %d\n", SHRT_MAX );
+          printf("Unsigned short minimum value: %d\n", 0 );
+          printf("Unsigned short maximum value: %d\n", USHRT_MAX );
+          printf("Signed int minimum value: %d\n", INT_MIN );
+          printf("Signed int maximum value: %d\n", INT_MAX );
+          printf("Unsigned int minimum value: %u\n", 0 );
+          printf("Unsigned int maximum value: %u\n", UINT_MAX );
+          printf("Signed long minimum value: %ld\n", LONG_MIN );
+          printf("Signed long maximum value: %ld\n", LONG_MAX );
+          printf("Unsigned long minimum value: %lu\n", 0 );
+          printf("Unsigned long maximum value: %lu\n", ULONG_MAX );
+          printf("Signed long long minimum value: %lld\n", LLONG_MIN );
+          printf("Signed long long maximum value: %lld\n", LLONG_MAX );
+          printf("Unsigned long long minimum value: %lu\n", 0 );
+          printf("Unsigned long long maximum value: %llu\n", ULLONG_MAX );
+  }
+```
+
+## size
+
+Data type specifies the size and type of information the variable will store. [[Overview#C standards|The C standard]] usually does not specify exact sizes for the native types, preferring to set a basic minimum that all conforming implementations of C must meet. Implementations are free to go above these minimum requirements.
+
+This means that different implementations can have different sizes for the same type.
+
+| type           | size (bytes) |
+| -------------- | ------------ |
+| char           | 1            |
+| unsigned char  | 1            |
+| signed char    | 1            |
+| int            | 2 or 4       |
+| unsigned int   | 2 or 4       |
+| short          | 2            |
+| unsigned short | 2            |
+| long           | 8            |
+| unsigned long  | 8             |
+| float       | 4            | 6         |
+| double      | 8            | 15        |
+| long double | 10           | 19          |
+
+Example:
+
+```c
+#include <stdio.h>
+int main()
+{
+    printf("%lu\n", sizeof(char));
+    printf("%lu\n", sizeof(int));
+    printf("%lu\n", sizeof(float));
+    printf("%lu", sizeof(double));
+    return 0;
+}
+```
+
+Example:
+
+```C
+#include<stdio.h>
+int main(void)
+{
+printf("Size of a char: %ld byte(s)\n", sizeof(char));
+printf("Size of an int: %ld byte(s)\n", sizeof(int));
+printf("Size of a long int: %ld byte(s)\n", sizeof(long int));
+printf("Size of a long long int: %ld byte(s)\n", sizeof(double));
+printf("Size of a float: %ld byte(s)\n", sizeof(float));
+return (0);
+}
+```
+
 # type casting
 
 Converting one datatype into another is known as type casting or, type-conversion. For example, if you want to store a 'long' value into a simple integer then you can type cast 'long' to 'int'. You can convert the values from one type to another explicitly using the cast operator

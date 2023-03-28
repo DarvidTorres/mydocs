@@ -71,3 +71,15 @@ return (0);
 The following are C keywords:
 
 `auto`, `double`, `int`, `struct`, `break`, `else`, `long`, `switch`, `case`, `enum`, `register`, `typedef`, `char`, `extern`, `return`, `union`, `const`, `float`, `short`, `unsigned`, `continue`, `for`, `signed`, `void`, `default`, `goto`, `sizeof`, `volatile`, `do`, `if`, `static`, `while`, `const`, `signed`, `void` and `volatile`
+
+# C standards
+
+The C standards are documents that are intended to reduce variation in C language implementation across the different compilers. An “implementation” is basically the combination of the compiler, and the hardware platform. C standards are highly technical documents, are written for compiler implementers and they define the standard behavior a C implementation must follow.
+
+There are a number of those standards, and a certain C implementation that abides by the standard is known as “Standard C” or “ISO C”. Complying with the standard doesn’t mean a certain implementation cannot add its own features, and most of them do (e.g. the GCC has extra features that can be accessed by defining the \_GNU\_SOURCE macro).
+
+- C89: The first C standard, published by the American National Standards Institute (ANSI) in 1989, hence the name C89. You can check compiler support for ANSI C by checking for the definition of the __ANSI__ macro.
+- C90: The C89 was adopted by the International Organization for Standardization (ISO) in 1990, and is known as C90.
+- C95: Extension to C90, published in 1995. Added some features like digraphs and multibyte support. It also defined the __STDC_VERSION__ macro that can be tested to determine the version of ISO C a certain compiler supports.
+- C99: Improvements added to C95 like C++-style single line comments, inline functions, plus addition of more headers.
+- C11: published in 2011. Added some keywords (like _Generic) and a multi-threading API. Improved Unicode support.

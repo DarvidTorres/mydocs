@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "strings",
-      "path": "C/data types/strings.md"
+      "basename": "pointers",
+      "path": "C/pointers.md"
     },
     {
       "basename": "arrays",
@@ -11,10 +11,6 @@
     {
       "basename": "data types",
       "path": "C/data types/data types.md"
-    },
-    {
-      "basename": "pointers",
-      "path": "C/pointers.md"
     },
     {
       "basename": "compile",

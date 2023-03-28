@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/data types/data types.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "664cda555032425c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/data types/strings.md",
+                "file": "C/pointers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/data types/strings.md",
+                "file": "C/pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/data types/strings.md",
+                "file": "C/pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/data types/strings.md"
+                "file": "C/pointers.md"
               }
             }
           }
@@ -179,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,13 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "664cda555032425c",
+  "active": "e0417314abbe2302",
   "lastOpenFiles": [
     "C/data types/arrays.md",
-    "C/data types/strings.md",
     "C/data types/data types.md",
-    "C/data types",
     "C/pointers.md",
+    "C/data types/strings.md",
+    "C/data types",
     "C/compile.md",
     "VBA/Object model.md",
     "VBA/Intro.md",

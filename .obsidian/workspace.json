@@ -4,76 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "866870cbc7473da5",
+        "id": "07118acee1e59da5",
         "type": "tabs",
         "children": [
           {
-            "id": "e0417314abbe2302",
+            "id": "6e15ff3a75c596b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/pointers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54bd305ab2cbdb4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/data types/signed vs unsigned.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8f09f9e96159d59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/data types/types.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0be45d80ff016e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/data types/types.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f25fbd0264916365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/data types/int.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/data types/int.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/data types/int.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C/data types/int.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -231,14 +169,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f25fbd0264916365",
+  "active": "6e15ff3a75c596b1",
   "lastOpenFiles": [
+    "C/data types/int.md",
     "C/data types/types.md",
     "C/data types/floats.md",
     "C/Overview.md",
     "C/data types/signed vs unsigned.md",
     "C/data types/char.md",
-    "C/data types/int.md",
     "C/data types/arrays.md",
     "C/pointers.md",
     "C/data types/strings.md",

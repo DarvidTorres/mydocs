@@ -1,28 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "types",
-      "path": "C/data types/types.md"
-    },
-    {
       "basename": "void",
       "path": "C/data types/void.md"
     },
     {
-      "basename": "memory",
-      "path": "C/memory.md"
+      "basename": "int",
+      "path": "C/data types/int.md"
     },
     {
       "basename": "char",
       "path": "C/data types/char.md"
     },
     {
+      "basename": "types",
+      "path": "C/data types/types.md"
+    },
+    {
       "basename": "casting",
       "path": "C/data types/casting.md"
     },
     {
-      "basename": "int",
-      "path": "C/data types/int.md"
+      "basename": "memory",
+      "path": "C/memory.md"
     },
     {
       "basename": "floats",

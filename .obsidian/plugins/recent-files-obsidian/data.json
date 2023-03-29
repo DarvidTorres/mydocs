@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "int",
-      "path": "C/data types/int.md"
-    },
-    {
       "basename": "types",
       "path": "C/data types/types.md"
+    },
+    {
+      "basename": "void",
+      "path": "C/data types/void.md"
+    },
+    {
+      "basename": "memory",
+      "path": "C/memory.md"
+    },
+    {
+      "basename": "char",
+      "path": "C/data types/char.md"
+    },
+    {
+      "basename": "casting",
+      "path": "C/data types/casting.md"
+    },
+    {
+      "basename": "int",
+      "path": "C/data types/int.md"
     },
     {
       "basename": "floats",
@@ -19,10 +35,6 @@
     {
       "basename": "signed vs unsigned",
       "path": "C/data types/signed vs unsigned.md"
-    },
-    {
-      "basename": "char",
-      "path": "C/data types/char.md"
     },
     {
       "basename": "arrays",
@@ -51,10 +63,6 @@
     {
       "basename": "Bash commands",
       "path": "Bash/Bash commands.md"
-    },
-    {
-      "basename": "memory",
-      "path": "C/memory.md"
     },
     {
       "basename": "git_github",
@@ -191,14 +199,6 @@
     {
       "basename": "j",
       "path": "Languages/English/Speaking/Pronunciation/Consonants/Glides/j.md"
-    },
-    {
-      "basename": "ð",
-      "path": "Languages/English/Speaking/Pronunciation/Consonants/Fricatives/ð.md"
-    },
-    {
-      "basename": "θ",
-      "path": "Languages/English/Speaking/Pronunciation/Consonants/Fricatives/θ.md"
     }
   ],
   "omittedPaths": [],

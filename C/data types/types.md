@@ -1,15 +1,24 @@
-A data type is a family/collection of sets of *data values* and each member is a set of allowed operations on these values.
+A data type is a set of *data values* associated to a set of allowed operations on these values.
 
-The type of a variable determines how much space it occupies in storage and how the *bit pattern* stored is interpreted.
+The type of a [[variables|variable]] determines how much space it occupies in [[memory|storage]] and how the *bit pattern* stored is interpreted.
 
-- Basic Types: They are arithmetic types and are further classified into: (a) integer types and (b) floating-point types.
-- Enumerated types: They are again arithmetic types and they are used to define variables that can only assign certain discrete integer values throughout the program.
-- The type void: The type specifier void indicates that no value is available.
-- Derived types: They include (a) Pointer types, (b) Array types, (c) Structure types, (d) Union types and (e) Function types.
+- Basic Types: Arithmetic types and are further classified into:
+	- integer types
+	- floating-point types
+- Enumerated types: Arithmetic types used to define variables that can only assign certain discrete integer values throughout the program.
+- The type [[void]]: The type specifier void indicates that no value is available.
+- Derived types:
+	- Pointer types
+	- Array types
+	- Structure types
+	- Union types
+	- Function types
 
 # range
 
-1 byte consists of 8 bits of memory. Consider a byte as a sequence of 8 place-holders (bits), where each bit can hold either 0 or 1 (as each memory bit can only be set to an *on* or *off* state). There are $2^8$ or 256 distinct combinations of 0's and 1's, and we can use each 8-bit combination to represent a different value.
+1 byte consists of 8 bits of [[memory]].
+
+Consider a byte as a sequence of 8 place-holders (bits), where each bit can hold either 0 or 1 (as each memory bit can only be set to an *on* or *off* state). There are $2^8$ or 256 distinct combinations of 0's and 1's in 8 bits of memory, and we can use each 8-bit combination to represent a different *value*.
 
 Example:
 
@@ -143,42 +152,3 @@ printf("Size of a float: %ld byte(s)\n", sizeof(float));
 return (0);
 }
 ```
-
-# type casting
-
-Converting one datatype into another is known as type casting or, type-conversion. For example, if you want to store a 'long' value into a simple integer then you can type cast 'long' to 'int'. You can convert the values from one type to another explicitly using the cast operator
-
-```c
-(type_name) expression
-```
-
-Consider the following program:
-
-```c
-#include <stdio.h>
-
-main() {
-int sum = 17, count = 5;
-double mean;
-
-mean = sum / count;
-printf("Value of mean : %f\n", mean);
-return (0);
-}
-```
-
-The output is $3.000000$ and not the expected $3.400000$, this happens because `sum` and `count` are integers, and though `mean` is a double (and thus we get decimal `0`'s), the operation `sum / count` still returns an integer; hence, to get the expected double with the correct result we need to typecast the resul from `sum / count` to `double`, we do this with the cast operator:
-
-```c
-#include <stdio.h>
-
-main() {
-int sum = 17, count = 5;
-double mean;
-
-mean = (double) sum / count; // typecasting
-printf("Value of mean : %f\n", mean);
-return (0);
-}
-```
-

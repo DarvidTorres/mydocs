@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "int",
-      "path": "C/data types/int.md"
+      "basename": "char",
+      "path": "C/data types/char.md"
     },
     {
       "basename": "signed vs unsigned",
       "path": "C/data types/signed vs unsigned.md"
     },
     {
-      "basename": "char",
-      "path": "C/data types/char.md"
+      "basename": "int",
+      "path": "C/data types/int.md"
     },
     {
       "basename": "void",

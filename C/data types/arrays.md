@@ -55,9 +55,9 @@ for (i = 0; i < 4; i++) {
 
 # pointers && arrays
 
-- In C, the name of an array, is actually a pointer to the first element of the array.
 - An array name is a constant pointer to the first element of the array.
-	- `double balance[50];`: `balance` is a pointer to `&balance[0]`, which is the address of the first element of the array `balance`.
+	- in the code `double balance[50];`,
+		- `balance` is the name of an array of size 50, but `balance` is also a pointer to `&balance[0]`, which is the address of the first element of the array `balance`.
 
 Example:
 

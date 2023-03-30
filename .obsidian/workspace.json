@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9511376d722b59fb",
+            "id": "72fadd553f9b851f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/data types/arrays.md",
+                "file": "C/functions/function pointers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/data types/arrays.md",
+                "file": "C/functions/function pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/data types/arrays.md",
+                "file": "C/functions/function pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/data types/arrays.md"
+                "file": "C/functions/function pointers.md"
               }
             }
           }
@@ -178,8 +178,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9511376d722b59fb",
+  "active": "72fadd553f9b851f",
   "lastOpenFiles": [
+    "C/variables.md",
+    "C/functions/function pointers.md",
+    "C/functions/prototypes.md",
+    "C/functions/functions.md",
+    "C/functions",
+    "C/data types/arrays.md",
     "C/data types/char.md",
     "C/data types/signed vs unsigned.md",
     "C/data types/int.md",
@@ -189,7 +195,6 @@
     "C/memory.md",
     "C/data types/floats.md",
     "C/Overview.md",
-    "C/data types/arrays.md",
     "C/pointers.md",
     "C/data types/strings.md",
     "C/data types",
@@ -207,10 +212,6 @@
     "README.md",
     "R/R.md",
     "C/recursion.md",
-    "C/make files.md",
-    "C/variables.md",
-    "C/functions.md",
-    "C/flow control && loops.md",
     "Bash"
   ]
 }

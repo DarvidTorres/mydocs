@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "function pointers",
+      "path": "C/functions/function pointers.md"
+    },
+    {
+      "basename": "variables",
+      "path": "C/variables.md"
+    },
+    {
+      "basename": "prototypes",
+      "path": "C/functions/prototypes.md"
+    },
+    {
+      "basename": "functions",
+      "path": "C/functions/functions.md"
+    },
+    {
       "basename": "arrays",
       "path": "C/data types/arrays.md"
     },
@@ -79,14 +95,6 @@
     {
       "basename": "make files",
       "path": "C/make files.md"
-    },
-    {
-      "basename": "variables",
-      "path": "C/variables.md"
-    },
-    {
-      "basename": "functions",
-      "path": "C/functions.md"
     },
     {
       "basename": "flow control && loops",
@@ -191,14 +199,6 @@
     {
       "basename": "Law's project",
       "path": "Business ideas/Law's project.md"
-    },
-    {
-      "basename": "Original idea",
-      "path": "Business ideas/Agora/Original idea.md"
-    },
-    {
-      "basename": "j",
-      "path": "Languages/English/Speaking/Pronunciation/Consonants/Glides/j.md"
     }
   ],
   "omittedPaths": [],

@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "function pointers",
-      "path": "C/functions/function pointers.md"
-    },
-    {
-      "basename": "variables",
-      "path": "C/variables.md"
-    },
-    {
       "basename": "prototypes",
       "path": "C/functions/prototypes.md"
     },
@@ -17,8 +9,28 @@
       "path": "C/functions/functions.md"
     },
     {
+      "basename": "function pointers",
+      "path": "C/functions/function pointers.md"
+    },
+    {
+      "basename": "pointers",
+      "path": "C/pointers.md"
+    },
+    {
+      "basename": "types",
+      "path": "C/data types/types.md"
+    },
+    {
       "basename": "arrays",
       "path": "C/data types/arrays.md"
+    },
+    {
+      "basename": "memory",
+      "path": "C/memory.md"
+    },
+    {
+      "basename": "variables",
+      "path": "C/variables.md"
     },
     {
       "basename": "char",
@@ -37,16 +49,8 @@
       "path": "C/data types/void.md"
     },
     {
-      "basename": "types",
-      "path": "C/data types/types.md"
-    },
-    {
       "basename": "casting",
       "path": "C/data types/casting.md"
-    },
-    {
-      "basename": "memory",
-      "path": "C/memory.md"
     },
     {
       "basename": "floats",
@@ -55,10 +59,6 @@
     {
       "basename": "Overview",
       "path": "C/Overview.md"
-    },
-    {
-      "basename": "pointers",
-      "path": "C/pointers.md"
     },
     {
       "basename": "compile",
@@ -195,10 +195,6 @@
     {
       "basename": "Languages",
       "path": "Contemplation/Languages.md"
-    },
-    {
-      "basename": "Law's project",
-      "path": "Business ideas/Law's project.md"
     }
   ],
   "omittedPaths": [],

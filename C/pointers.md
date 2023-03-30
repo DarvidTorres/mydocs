@@ -1,4 +1,4 @@
-Pointers: variables that store address of another variable.
+Pointers are variables that store the address of another variable.
 Every time a program is rerunned the address allocation changes.
 
 `p`: address of stored variable
@@ -8,7 +8,7 @@ Every time a program is rerunned the address allocation changes.
 
 In 64-bit data models, pointer sizes are always 64 bits (8 bytes).
 
-variables have a [[types | type]], and pointers have a *strong type* 
+variables have a [[types|type]], and pointers have a *strong type* 
 
 ```c
 int a; // declare variable

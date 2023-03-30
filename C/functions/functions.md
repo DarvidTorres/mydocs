@@ -2,12 +2,12 @@
 	1. return type
 	2. function name
 	3. If the function takes arguments:
-		1. Type of parameter
-		2. Parameter
+		1. Type of parameter(s)
+		2. Parameter(s)
 - **Definition**: the body of the function (code to be executed).
 
 ```c
-<rtrn_type> <fun_name>(<prmtr_type> <prmtr1>, <prmtr_type> <prmtr2>) {
+<rtrnType> <funName>(<prmtrType> <prmtr1>, <prmtrType> <prmtr2>) {
   // Body of the function  
 }
 ```
@@ -55,3 +55,10 @@ int max(int num1, int num2) {
    return result; 
 }
 ```
+
+# signature
+
+A function signature defines:
+- Arity (# of parameters)
+- Parameter types
+

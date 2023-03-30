@@ -6,3 +6,5 @@ C defines a minimum set of characters that need to be supported on a system wher
 
 C does not specify whether a plain ‘char’ refers to a signed or unsigned number – that is implementation defined. If you need to be sure your char variable is signed or unsigned, specify it in the declaration like this: `unsigned char c`.
 
+- The range of an `unsigned char` is 0 to 256, while the range of a `signed char` is -127 to 127.
+

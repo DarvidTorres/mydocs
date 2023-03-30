@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "void",
-      "path": "C/data types/void.md"
-    },
-    {
       "basename": "int",
       "path": "C/data types/int.md"
     },
     {
+      "basename": "signed vs unsigned",
+      "path": "C/data types/signed vs unsigned.md"
+    },
+    {
       "basename": "char",
       "path": "C/data types/char.md"
+    },
+    {
+      "basename": "void",
+      "path": "C/data types/void.md"
     },
     {
       "basename": "types",
@@ -31,10 +35,6 @@
     {
       "basename": "Overview",
       "path": "C/Overview.md"
-    },
-    {
-      "basename": "signed vs unsigned",
-      "path": "C/data types/signed vs unsigned.md"
     },
     {
       "basename": "arrays",

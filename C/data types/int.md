@@ -1,3 +1,7 @@
+- An `int` type in C, C++, and C# is `signed` by default.
+- If negative numbers are involved, the `int` must be `signed`
+- An `unsigned int` cannot represent a negative number.
+
 C provides several standard integer types:. This table defines the minimum ranges allowed for these integer types.
 
 >An implementation is free to define these types to hold greater ranges than the ones given here.

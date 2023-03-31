@@ -3,7 +3,7 @@ We have at least three files that contain:
 2. Definition of function(s) ([[functions]])
 3. Source code (main file that contains the program)
 
-To [[compiler]] we usually compile the definition of the function then compile the actual program.  But if we had many files it'd take long time (and we don't want to do that every time we made some changes to either file); so, we use `Makefile`. 
+To [[compilation]] we usually compile the definition of the function then compile the actual program.  But if we had many files it'd take long time (and we don't want to do that every time we made some changes to either file); so, we use `Makefile`. 
 
 A Makefile consists of a set of _rules_. A rule generally looks like this:
 

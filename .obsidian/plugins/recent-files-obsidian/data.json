@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "compilation",
+      "path": "C/compilation.md"
+    },
+    {
       "basename": "memory",
       "path": "C/memory/memory.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "char",
       "path": "C/data types/char.md"
-    },
-    {
-      "basename": "compiler",
-      "path": "C/compiler.md"
     },
     {
       "basename": "types",

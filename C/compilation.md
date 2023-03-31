@@ -1,5 +1,8 @@
 # compiler process
 
+Compilation is the process of converting source code (human-readable code) into object code (machine-readable code).
+![](https://i.imgur.com/4JsC9GD.png)
+
 0. Source code: `.c` file
 1. Preprocessor: Remove comments and add code from headers
 2. Compiler: Generate assembly code

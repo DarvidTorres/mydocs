@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/memory/memory.md",
+                "file": "C/compilation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "right": {
     "id": "5bb57be36f262ef5",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/memory/memory.md",
+                "file": "C/compilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/memory/memory.md",
+                "file": "C/compilation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/memory/memory.md"
+                "file": "C/compilation.md"
               }
             }
           }
@@ -177,8 +177,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0d9dd5ebd5d1621",
+  "active": "f1f175a74b30b5d1",
   "lastOpenFiles": [
+    "C/memory/memory.md",
     "C/data types/pointers/function pointers.md",
     "C/data types/pointers/pointers.md",
     "C/functions/functions.md",
@@ -194,7 +195,7 @@
     "C/data types/arrays/arrays.md",
     "C/data types/arrays",
     "C/data types/char.md",
-    "C/compiler.md",
+    "C/compilation.md",
     "C/data types/Untitled.md",
     "C/variables",
     "C/data types/types.md",
@@ -204,7 +205,6 @@
     "C/data types/pointers/pointer arithmetic.md",
     "C/data types/pointers",
     "C/recursion.md",
-    "C/memory/memory.md",
     "C/flow control && loops.md",
     "C/comments.md",
     "C/operators.md",

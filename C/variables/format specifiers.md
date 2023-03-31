@@ -1,6 +1,6 @@
 - Format specifiers in C are used to take inputs and print the output of a type.
 - To declare a format specifier use the `%` operator.
-- Format specifiers tell the [[compiler]] about the [[types|type of data]] that must be given or input and the type of data that must be printed on the screen.
+- Format specifiers tell the [[compilation]] about the [[types|type of data]] that must be given or input and the type of data that must be printed on the screen.
 
 The Most commonly used format specifiers are given below:
 | Format Specifiers | Type of Output                      |

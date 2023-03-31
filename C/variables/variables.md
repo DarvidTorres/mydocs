@@ -20,13 +20,11 @@ int main() {
 }
 ```
 
-To assign (or store) a [[types#value range|value]] in a variable, use the `=` operator:
+To assign (or store) a [[types#value range|value]] in a variable, use the `=` operator; we call this operation variable definition or initialization:
 
 ```C
-<type> <varName> = <value>;
+<varName> = <value>;
 ```
-
-We call this operation variable definition or initialization.
 
 Example:
 
@@ -35,9 +33,41 @@ Example:
 
 int main() {
     int myVar; // variable declaration
-    myVar = 3; // variable definition / initialization
+    myVar = 3; // define myVar
     
     return (0);
+}
+```
+
+We can:
+- Declare a variable without assigning the value, and assign the value later.
+- Declare a variable and assign value at once.
+- Declare multiple variables (using comma separators) in either of the above ways.
+
+Example:
+
+```C
+#include <stdio.h>
+
+int main() {
+	// Declare a variable without assigning the value, and assign the value later.
+    int var1; // declare variable var1
+    var1 = 1; // assign a value to var1
+
+	// Declare a variable and assign value at once.
+    int var2 = 2; // define and initialize var2 at once
+
+	// Declare multiple variables without assigning the value, and assign the value later.
+	int var3, var4;
+	var3 = 3;
+	var4 = 4;
+	
+	int x = 5, y = 6, z = 50; // declare multiple variables at once
+	
+	int x, y, z;
+	x = y = z = 50; // declare same value to several variables at once
+	
+    return 0;
 }
 ```
 
@@ -49,21 +79,20 @@ Example:
 #include <stdio.h>
 
 int main() {
-    int myVar; // variable declaration
-    myVar = 3; // variable definition
+    int myVar = 3;
     printf("myVar value is %d", myVar);
     
     return (0);
 }
 ```
 
+```c
+int x = 5, y = 6, z = 50; // declare multiple variables at once
+printf("%d", x + y + z);
 
-You can declare a variable without assigning the value, and assign the value later:
-
-```C
-// Declare a variable
-int myNum; // identifier: myNum
-myNum = 15; // Assign a value to the variable
+int x, y, z;
+x = y = z = 50; // declare same value to several variables at once
+printf("%d", x + y + z);
 ```
 
 # constants

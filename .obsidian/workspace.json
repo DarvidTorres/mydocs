@@ -39,7 +39,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/variables/format specifiers.md",
+                "file": "C/data types/arrays/arrays.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "086b9e3109efd726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/data types/arrays/arrays.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93f0370e9c7b73e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/variables/variables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/variables/format specifiers.md",
+                "file": "C/variables/variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/variables/format specifiers.md",
+                "file": "C/variables/variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/variables/format specifiers.md"
+                "file": "C/variables/variables.md"
               }
             }
           }
@@ -204,15 +230,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56af8b7e9eab9481",
+  "active": "93f0370e9c7b73e4",
   "lastOpenFiles": [
-    "C/variables/variables.md",
     "C/variables/format specifiers.md",
+    "C/data types/floats.md",
+    "C/data types/int.md",
+    "C/data types/arrays/strings.md",
+    "C/data types/arrays/pointers && arrays.md",
+    "C/data types/arrays/arrays.md",
+    "C/data types/arrays",
+    "C/data types/char.md",
+    "C/compiler.md",
+    "C/data types/Untitled.md",
+    "C/variables/variables.md",
     "C/variables",
     "C/data types/types.md",
     "C/Overview.md",
-    "C/compile.md",
-    "C/data types/arrays.md",
     "C/data types/signed vs unsigned.md",
     "C/data types/pointers/dereferencing.md",
     "C/data types/pointers/pointers.md",
@@ -226,15 +259,9 @@
     "C/operators.md",
     "C/headers.md",
     "C/make files.md",
-    "C/data types/int.md",
-    "C/data types/char.md",
     "C/data types/casting.md",
     "C/data types/void.md",
-    "C/data types/floats.md",
-    "C/functions/prototypes.md",
-    "C/functions/function pointers.md",
     "C/memory",
-    "C/functions/functions.md",
     "C/functions",
     "C/data types",
     "Pasted image 20230319193607.png",

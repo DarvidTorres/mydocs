@@ -3,7 +3,7 @@
 	2. function name
 	3. If the function takes arguments:
 		1. Type of parameter(s)
-		2. Parameter(s)
+		2. Parameter(s) (optional)
 - **Definition**: the body of the function (code to be executed).
 
 ```c

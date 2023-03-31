@@ -38,7 +38,6 @@ Take the first of the 256 combinations to represent a 0, and the final combinati
 The range is the difference between the max and min values a data type can hold. For this data type, the range is from 0 to 255. This type is generally called an unsigned byte, as the values it can represent are positive numbers (no sign).
 
 In the same 8-bits, we could define a way to represent a range of numbers from -128 to 127.
-
 | byte            | value |
 | --------------- | ----- |
 | 0 1 1 1 1 1 1 1 | 127   |

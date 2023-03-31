@@ -1,18 +1,22 @@
-Variables are containers for storing data values, like numbers and characters.
+- Variables are names given to [[memory]] locations for storing [[types#value range|data values]].
+- Every time a program is re-executed the address allocation changes.
+- Name variables are called identifiers.
+- Variables have [[types|type]].
 
-Labels for variables are called identifiers.
+To create a variable declare type, give name and add [[types#value range|value]]:
+```C
+<type> <name> = <value>;
+```
 
-In C, there are different types of variables (defined with different keywords).
+Example:
 
-- int - stores integers (whole numbers), without decimals, such as 123 or -123
-- float - stores floating point numbers, with decimals, such as 19.99 or -19.99
-- char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+```C
+int myVar = 15;
+```
 
-To create a variable declare type, give name and add value: `type variableName = value;`
+Create a variable called myVar of type int and store the value 15 in the variable's memory location.
 
-`int myNum = 15;`: Create a variable called myNum of type int and assign the value 15 to it.
-
-You can also declare a variable without assigning the value, and assign the value later:
+You can declare a variable without assigning the value, and assign the value later:
 
 ```C
 // Declare a variable

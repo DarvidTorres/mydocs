@@ -1,6 +1,7 @@
 - [[functions|function definitions]] are stored in [[memory]], so they have an address.
 - A function pointer is a [[pointer]] that stores a [[functions|function's definition]] address.
-- You cannot perform pointer arithmetic on function pointers.
+-  Dereferencing the function pointer yields the referenced function
+- You cannot perform [[pointers#pointer arithmetic|pointer arithmetic]] on function pointers.
 - A function name without parentheses is a pointer to the function's definition, just as the name of an [[arrays|array]] by itself is a pointer to its 0th element
 
 Example:
@@ -18,11 +19,13 @@ int main() {
 }
 ```
 
-A function pointer declaration looks like a function declaration, except that the function name is wrapped in parentheses and preceded by an asterisk.
+Though function names are pointers to function definitions
 
-Example:
+A function pointer declaration looks like a function declaration, except that the pointer's name is wrapped in parentheses and preceded by an asterisk. As with function declarations, the names of the arguments can be omitted.
 
 ```C
-
+<funType> <funName> (int <ptr1> , int <ptr2>); // function declaration
+<funType> (*<ptrName>) (int <ptr1> , int <ptr2>); // function pointer declaration
 ```
+
 

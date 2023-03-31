@@ -6,12 +6,7 @@ A function prototype declares a [[functions|function]] but does not define it.
 <rtrnType> functionName(<type1> <arg1>, <type2> <arg2>, ...);
 ```
 
-In a prototype, parameter names are optional, so `void Sum( int a, int b );` and `void Sum( int, int );` are valid 
-
-
-
-
-You place function prototypes at the beginning or anywhere in a program.
+In a prototype, parameter names are optional, so `void Sum( int a, int b );` and `void Sum( int, int );` are valid prototypes.
 
 Many compilers do not check for parameter matching either in type or count (how many arguments and which types were passed) which could lead to unintended effects. Defining prototypes prior to invoke a function prevents the compiler from running if types and counts of all parameter do not match.
 

@@ -1,11 +1,13 @@
 RAM: Random-access memory.
 
-Memory is a (list) sequence of locations to store data (numbers).
-- Bytes of memory are assigned unique memory addresses.
+# address
+
+- Memory is a (list) sequence of locations (bytes) to store [[types#value range|data values]].
+- Storing locations (bytes) are assigned unique memory addresses.
 
 The Stack and the Heap are two memory areas located in the computer’s RAM.
 
-## stack
+# stack
 
 The stack is the sequence (oredered list) of memory:
 * it is a contiguous (continuous, in a row) block of memory.
@@ -25,7 +27,7 @@ Stack memory allocation happens using some predefined routines in the compiler. 
 
 you can think of the Stack as a pile of boxes, one on top of the other. You cannot directly put a box in the middle of the stack, just like you cannot take a box without crashing the whole pile. Whenever we add a box, we add it at the top end of the pile, and only there, and same when we take a box – we only take them one by one, starting from the top end alone.
 
-## heap
+# heap
 
 The heap is for dynamic allocation of memory.
 
@@ -34,7 +36,7 @@ The heap is for dynamic allocation of memory.
 	- Manual memory management
 - Memory leak occurs when programmers create a memory in heap and forget to delete it.
 
-## stack vs heap
+# stack vs heap
 
 - stack is a sequence (ordered list), while heap is a pile of memory (unordered)
 - Blocks of data on the heap can be different sizes, and are not necessarily in order.

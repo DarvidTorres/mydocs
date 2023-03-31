@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "prototypes",
-      "path": "C/functions/prototypes.md"
-    },
-    {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
-    },
-    {
       "basename": "function pointers",
       "path": "C/functions/function pointers.md"
     },
     {
       "basename": "pointers",
       "path": "C/pointers.md"
+    },
+    {
+      "basename": "variables",
+      "path": "C/variables.md"
+    },
+    {
+      "basename": "memory",
+      "path": "C/memory/memory.md"
+    },
+    {
+      "basename": "prototypes",
+      "path": "C/functions/prototypes.md"
+    },
+    {
+      "basename": "compile",
+      "path": "C/compile.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "C/Overview.md"
     },
     {
       "basename": "types",
@@ -25,12 +37,8 @@
       "path": "C/data types/arrays.md"
     },
     {
-      "basename": "memory",
-      "path": "C/memory.md"
-    },
-    {
-      "basename": "variables",
-      "path": "C/variables.md"
+      "basename": "functions",
+      "path": "C/functions/functions.md"
     },
     {
       "basename": "char",
@@ -55,14 +63,6 @@
     {
       "basename": "floats",
       "path": "C/data types/floats.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "C/Overview.md"
-    },
-    {
-      "basename": "compile",
-      "path": "C/compile.md"
     },
     {
       "basename": "Object model",

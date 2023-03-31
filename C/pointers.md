@@ -1,5 +1,5 @@
-Pointers are variables that store the address of another variable.
-Every time a program is rerunned the address allocation changes.
+- Pointers are variables that store the address of a variable.
+- Since pointers are [[variables]], they have an address.
 
 `p`: address of stored variable
 `*p`: value at address
@@ -113,6 +113,11 @@ printf("Value of a now is %d\n", a);
 printf("Address of a is %ls\n", &a);
 printf("Address of b is %ls\n", &b);
 }
+```
+
+Pointers can store their own address:
+```C
+void *my_self = &my_self; 
 ```
 
 # pointer arithmetic

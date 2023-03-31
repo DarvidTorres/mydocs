@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "function pointers",
+      "path": "C/data types/pointers/function pointers.md"
+    },
+    {
+      "basename": "pointers",
+      "path": "C/data types/pointers/pointers.md"
+    },
+    {
+      "basename": "functions",
+      "path": "C/functions/functions.md"
+    },
+    {
+      "basename": "pointers && arrays",
+      "path": "C/data types/arrays/pointers && arrays.md"
+    },
+    {
+      "basename": "address",
+      "path": "C/memory/address.md"
+    },
+    {
       "basename": "variables",
       "path": "C/variables/variables.md"
     },
     {
+      "basename": "scope",
+      "path": "C/variables/scope.md"
+    },
+    {
       "basename": "format specifiers",
       "path": "C/variables/format specifiers.md"
+    },
+    {
+      "basename": "constants",
+      "path": "C/variables/constants.md"
     },
     {
       "basename": "floats",
@@ -19,10 +47,6 @@
     {
       "basename": "strings",
       "path": "C/data types/arrays/strings.md"
-    },
-    {
-      "basename": "pointers && arrays",
-      "path": "C/data types/arrays/pointers && arrays.md"
     },
     {
       "basename": "arrays",
@@ -53,20 +77,12 @@
       "path": "C/data types/pointers/dereferencing.md"
     },
     {
-      "basename": "pointers",
-      "path": "C/data types/pointers/pointers.md"
-    },
-    {
       "basename": "pointer arithmetic",
       "path": "C/data types/pointers/pointer arithmetic.md"
     },
     {
       "basename": "recursion",
       "path": "C/recursion.md"
-    },
-    {
-      "basename": "address",
-      "path": "C/memory/address.md"
     },
     {
       "basename": "memory",
@@ -103,14 +119,6 @@
     {
       "basename": "prototypes",
       "path": "C/functions/prototypes.md"
-    },
-    {
-      "basename": "function pointers",
-      "path": "C/functions/function pointers.md"
-    },
-    {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
     },
     {
       "basename": "Object model",
@@ -191,14 +199,6 @@
     {
       "basename": "Patterns",
       "path": "Languages/English/Patterns.md"
-    },
-    {
-      "basename": "Speaking roadmap",
-      "path": "Languages/English/Speaking/Speaking roadmap.md"
-    },
-    {
-      "basename": "Grammar",
-      "path": "Languages/English/Grammar.md"
     }
   ],
   "omittedPaths": [],

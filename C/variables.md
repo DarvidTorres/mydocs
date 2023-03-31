@@ -1,5 +1,4 @@
 - Variables are names given to [[memory]] locations for storing [[types#value range|data values]].
-- Every time a program is re-executed the address allocation changes.
 - Name variables are called identifiers.
 - Variables have [[types|type]].
 
@@ -21,9 +20,7 @@ You can declare a variable without assigning the value, and assign the value lat
 ```C
 // Declare a variable
 int myNum; // identifier: myNum
-
-// Assign a value to the variable
-myNum = 15;
+myNum = 15; // Assign a value to the variable
 ```
 
 # format 

@@ -1,24 +1,79 @@
-- Pointers are variables that store the address of a variable.
-- Since pointers are [[variables]], they have an address.
+- Pointers are [[variables]] that store a variable [[address]].
+- Pointers have a [[types|type]].
+- Pointer type must match the variable type it *points* to.
+- In 64-bit data models, pointer size are always 8 bytes (64 bits).
 
-`p`: address of stored variable
-`*p`: value at address
-`&a`: address of `a`
-`&p`: address of `p` (dereferencing)
+Pointer declaration syntax:
+```C
+<varType> <varName>; // variable declaration
+<varType> * <ptrName> = &<varName>; // pointer declaration
+```
 
-In 64-bit data models, pointer sizes are always 64 bits (8 bytes).
+Example:
 
-variables have a [[types|type]], and pointers have a *strong type* 
+```C
+#include <stdio.h>
+
+int main() {
+    int myVar = 3;
+    int * myPtr = &myVar;
+    printf("Address stored in myPtr is %p", myPtr); 
+    
+    return (0);
+}
+```
+
+As pointers are variables, we can declare a pointer without assigning the value, and assign the value later.
+
+Example:
+
+```C
+#include <stdio.h>
+
+int main() {
+    int myVar; // declare variable
+    int * myPtr; // declare pointer
+    myPtr = &myVar; // define pointer
+    printf("Address stored in myPtr is %p", myPtr);
+    
+    return (0);
+}
+```
+
+Note that we don't need to define the variable the pointer *points to*, since the pointer itself only stores the variable's address (not its value).
+
+- Since pointers are variables, they (themselves) have an address.
+- Since pointers have an address, they can store their own address.
+
+Example:
+
+```C
+#include <stdio.h>
+
+int main() {
+    void * my_self; // pointer declaration
+    my_self = &my_self; // pointer definition
+    printf("Address stored in my_self is %p", my_self);
+    
+    return (0);
+}
+```
+
+> Though pointers can point to themselves, only narcissistic pointers do so and other pointers have often enough big problems working with one that does nothing else but look into the mirror all day. So, most people find such pointers not at all useful.
+
+
+
+d
 
 ```c
 int a; // declare variable
-int *p; // declare pointer
+int * p; // declare pointer
 
 p = &a; // Assing the address of `a` to `p` (define pointer)
 a = 5; // define variable
 
 printf("%ls", p) // returns stored address
-printf("%ls", &a) // returns address
+printf("%ls", &a) // returns variable address
 printf("%ls", &p) // returns pointer address
 printf("%ls", *p) // returns value at address
 
@@ -26,37 +81,14 @@ printf("%ls", *p) // returns value at address
 printf(a) // returns 8 (as value at address was redefined)
 ```
 
-To **print the address of a variable**, we use "%p" specifier. There are two ways to get the address of the variable:
-1.  By using "address of" (&) operator
+
+
 ```c
 #include <stdio.h>
 
 int main(void)
 {
-	// declare variables 
 	int a;
-	float b;
-	char c;
-
-	printf("Address of a: %p\n", &a);
-	printf("Address of b: %p\n", &b);
-	printf("Address of c: %p\n", &c);
-
-	return 0;
-}
-```
-2.  By using pointer variable
-```c
-#include <stdio.h>
-
-int main(void)
-{
-	// declare variables 
-	int a;
-	float b;
-	char c;
-	
-	//Declare and Initialize pointers 
 	int *ptr_a = &a;
 	float *ptr_b = &b;
 	char *ptr_c = &c;
@@ -70,7 +102,6 @@ int main(void)
 }
 ```
 
-pointers and variables must match type.
 
 `char c;`: define a c variable of type `char`
 `char *po`: define a pointer of type pointer
@@ -78,8 +109,12 @@ pointers and variables must match type.
 ```c
 #include <stdio.h>
 int main() {
-int a = 10, *p = &a;
+
+int a = 10;
+*p = &a;
 printf("Address stored in p is %ls", p); // for address of pointer use `%ls` type
+
+return (0);
 }
 ```
 

@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "function pointers",
-      "path": "C/functions/function pointers.md"
-    },
-    {
       "basename": "pointers",
       "path": "C/pointers.md"
     },
@@ -13,12 +9,28 @@
       "path": "C/variables.md"
     },
     {
+      "basename": "recursion",
+      "path": "C/recursion.md"
+    },
+    {
+      "basename": "address",
+      "path": "C/memory/address.md"
+    },
+    {
       "basename": "memory",
       "path": "C/memory/memory.md"
     },
     {
-      "basename": "prototypes",
-      "path": "C/functions/prototypes.md"
+      "basename": "flow control && loops",
+      "path": "C/flow control && loops.md"
+    },
+    {
+      "basename": "comments",
+      "path": "C/comments.md"
+    },
+    {
+      "basename": "operators",
+      "path": "C/operators.md"
     },
     {
       "basename": "compile",
@@ -27,6 +39,46 @@
     {
       "basename": "Overview",
       "path": "C/Overview.md"
+    },
+    {
+      "basename": "headers",
+      "path": "C/headers.md"
+    },
+    {
+      "basename": "make files",
+      "path": "C/make files.md"
+    },
+    {
+      "basename": "int",
+      "path": "C/data types/int.md"
+    },
+    {
+      "basename": "char",
+      "path": "C/data types/char.md"
+    },
+    {
+      "basename": "signed vs unsigned",
+      "path": "C/data types/signed vs unsigned.md"
+    },
+    {
+      "basename": "casting",
+      "path": "C/data types/casting.md"
+    },
+    {
+      "basename": "void",
+      "path": "C/data types/void.md"
+    },
+    {
+      "basename": "floats",
+      "path": "C/data types/floats.md"
+    },
+    {
+      "basename": "prototypes",
+      "path": "C/functions/prototypes.md"
+    },
+    {
+      "basename": "function pointers",
+      "path": "C/functions/function pointers.md"
     },
     {
       "basename": "types",
@@ -39,30 +91,6 @@
     {
       "basename": "functions",
       "path": "C/functions/functions.md"
-    },
-    {
-      "basename": "char",
-      "path": "C/data types/char.md"
-    },
-    {
-      "basename": "signed vs unsigned",
-      "path": "C/data types/signed vs unsigned.md"
-    },
-    {
-      "basename": "int",
-      "path": "C/data types/int.md"
-    },
-    {
-      "basename": "void",
-      "path": "C/data types/void.md"
-    },
-    {
-      "basename": "casting",
-      "path": "C/data types/casting.md"
-    },
-    {
-      "basename": "floats",
-      "path": "C/data types/floats.md"
     },
     {
       "basename": "Object model",
@@ -87,26 +115,6 @@
     {
       "basename": "R",
       "path": "R/R.md"
-    },
-    {
-      "basename": "recursion",
-      "path": "C/recursion.md"
-    },
-    {
-      "basename": "make files",
-      "path": "C/make files.md"
-    },
-    {
-      "basename": "flow control && loops",
-      "path": "C/flow control && loops.md"
-    },
-    {
-      "basename": "operators",
-      "path": "C/operators.md"
-    },
-    {
-      "basename": "headers",
-      "path": "C/headers.md"
     },
     {
       "basename": "mv",
@@ -191,10 +199,6 @@
     {
       "basename": "Consciouss economics",
       "path": "Business ideas/Consciouss economics.md"
-    },
-    {
-      "basename": "Languages",
-      "path": "Contemplation/Languages.md"
     }
   ],
   "omittedPaths": [],

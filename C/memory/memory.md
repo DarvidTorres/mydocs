@@ -70,7 +70,7 @@ The `malloc` function allocates a specific number of bytes in memory and retur
 
 Prototype: `<type> *p = void *malloc(size_t <bytes>);`
 - `void *` means it is a pointer to the type of your choice
-- `size_t` is a speciall type that is simillar to `unsigned int` but only allows for positive values
+- `size_t` is a special type that is simillar to `unsigned int` but only allows for positive values
 - `<bytes>`: a number that indicates how much memory in bytes we need
 * `malloc(size_t <bytes>)`: is the memory allocated in heap
 * `p` is the pointer that stores the memory allocated

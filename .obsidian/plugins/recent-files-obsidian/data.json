@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "memory",
+      "path": "C/memory/memory.md"
+    },
+    {
       "basename": "function pointers",
       "path": "C/data types/pointers/function pointers.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "recursion",
       "path": "C/recursion.md"
-    },
-    {
-      "basename": "memory",
-      "path": "C/memory/memory.md"
     },
     {
       "basename": "flow control && loops",

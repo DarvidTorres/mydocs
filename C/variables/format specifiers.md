@@ -1,29 +1,6 @@
-- Variables are names given to [[memory]] locations for storing [[types#value range|data values]].
-- Name variables are called identifiers.
-- Variables have [[types|type]].
-
-To create a variable declare type, give name and add [[types#value range|value]]:
-```C
-<type> <name> = <value>;
-```
-
-Example:
-
-```C
-int myVar = 15;
-```
-
-Create a variable called myVar of type int and store the value 15 in the variable's memory location.
-
-You can declare a variable without assigning the value, and assign the value later:
-
-```C
-// Declare a variable
-int myNum; // identifier: myNum
-myNum = 15; // Assign a value to the variable
-```
-
-# format 
+- Format specifiers in C are used to take inputs and print the output of a type.
+- To declare a format specifier use the `%` operator.
+- Format specifiers tell the compiler about the type of data that must be given or input and the type of data that must be printed on the screen.
 
 In C variables don't work as Python's (we can't print the value by calling the variable):
 
@@ -122,73 +99,3 @@ printf("%f", sum); // 2.500000
     printf("%s\n", "5");    // Print narrow string of characters with a narrow function
     printf("%ls\n",L"6");   // Print wide string of characters with a narrow function
 ```
-
-# constants
-
-the `const` keyword prevents changes to defined variables.
-
-```c
-const int myNum = 15;  // myNum will always be 15
-myNum = 10;  // error: assignment of read-only variable 'myNum'
-```
-
-Constants must be defined with value:
-
-```c
-const int minutesPerHour;
-minutesPerHour = 60; // error
-```
-
-it is considered good practice to declare them with uppercase. It is not required, but useful for code readability and common for C programmers:
-
-```c
-const int BIRTHYEAR = 1980;
-```
-
-# scope
-
-## local scope
-
-The scope of a variable is the block of code in the entire program where the variable is declared, used, and can be modified.
-
-```c
-{
-	/*BLOCK 1*/
-    // contents of BLOCK 2 cannot be accessed here
-}
-
-{
-	/*BLOCK 2*/
-    // contents of BLOCK 1 cannot be accessed here
-}
-```
-
-```c
-{
-	/*OUTER BLOCK*/
-    
-	{    /*INNER BLOCK*/
-        //contents of the outer block just before the start of this block
-        //CAN be accessed here
-      }
-    
-       //contents of the inner block are NOT accessible here
- }
-```
-
-## global scope
-
-```c
-/*all global variables are declared here */
-
-function1()
-	{
-    // all global variables can be accessed inside function1
-    }
-    
-function2()
-	{
-    // all global variables can be accessed inside function2
-    }
-```
-

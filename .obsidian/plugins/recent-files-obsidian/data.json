@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "pointers",
-      "path": "C/pointers.md"
+      "basename": "format specifiers",
+      "path": "C/variables/format specifiers.md"
     },
     {
       "basename": "variables",
-      "path": "C/variables.md"
+      "path": "C/variables/variables.md"
+    },
+    {
+      "basename": "types",
+      "path": "C/data types/types.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "C/Overview.md"
+    },
+    {
+      "basename": "compile",
+      "path": "C/compile.md"
+    },
+    {
+      "basename": "arrays",
+      "path": "C/data types/arrays.md"
+    },
+    {
+      "basename": "signed vs unsigned",
+      "path": "C/data types/signed vs unsigned.md"
+    },
+    {
+      "basename": "dereferencing",
+      "path": "C/data types/pointers/dereferencing.md"
+    },
+    {
+      "basename": "pointers",
+      "path": "C/data types/pointers/pointers.md"
+    },
+    {
+      "basename": "pointer arithmetic",
+      "path": "C/data types/pointers/pointer arithmetic.md"
     },
     {
       "basename": "recursion",
@@ -33,14 +65,6 @@
       "path": "C/operators.md"
     },
     {
-      "basename": "compile",
-      "path": "C/compile.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "C/Overview.md"
-    },
-    {
       "basename": "headers",
       "path": "C/headers.md"
     },
@@ -55,10 +79,6 @@
     {
       "basename": "char",
       "path": "C/data types/char.md"
-    },
-    {
-      "basename": "signed vs unsigned",
-      "path": "C/data types/signed vs unsigned.md"
     },
     {
       "basename": "casting",
@@ -79,14 +99,6 @@
     {
       "basename": "function pointers",
       "path": "C/functions/function pointers.md"
-    },
-    {
-      "basename": "types",
-      "path": "C/data types/types.md"
-    },
-    {
-      "basename": "arrays",
-      "path": "C/data types/arrays.md"
     },
     {
       "basename": "functions",
@@ -187,18 +199,6 @@
     {
       "basename": "Teaching",
       "path": "Languages/English/Teaching/Teaching.md"
-    },
-    {
-      "basename": "Other",
-      "path": "Business ideas/Other.md"
-    },
-    {
-      "basename": "Mathematics",
-      "path": "Contemplation/Mathematics.md"
-    },
-    {
-      "basename": "Consciouss economics",
-      "path": "Business ideas/Consciouss economics.md"
     }
   ],
   "omittedPaths": [],

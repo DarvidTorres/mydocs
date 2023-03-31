@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "macros",
+      "path": "C/compilation/macros.md"
+    },
+    {
       "basename": "compilation",
-      "path": "C/compilation.md"
+      "path": "C/compilation/compilation.md"
+    },
+    {
+      "basename": "preprocessor",
+      "path": "C/compilation/preprocessor.md"
+    },
+    {
+      "basename": "format specifiers",
+      "path": "C/variables/format specifiers.md"
     },
     {
       "basename": "memory",
@@ -35,10 +47,6 @@
     {
       "basename": "scope",
       "path": "C/variables/scope.md"
-    },
-    {
-      "basename": "format specifiers",
-      "path": "C/variables/format specifiers.md"
     },
     {
       "basename": "constants",
@@ -191,14 +199,6 @@
     {
       "basename": "2021",
       "path": "Jorunal/2021.md"
-    },
-    {
-      "basename": "Important concepts",
-      "path": "Contemplation/Important concepts.md"
-    },
-    {
-      "basename": "Patterns",
-      "path": "Languages/English/Patterns.md"
     }
   ],
   "omittedPaths": [],

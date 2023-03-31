@@ -20,7 +20,8 @@ The Most commonly used format specifiers are given below:
 
 Examples:
 
-`%d` (Decimal [[int|Integer]]) Format Specifier:
+- `%d` (Decimal [[int|Integer]]):
+
 ```C
 #include <stdio.h>
 
@@ -32,7 +33,8 @@ int main() {
 }
 ```
 
-`%c` ([[char|Character]]) Format Specifier:
+- `%c` ([[char|Character]]):
+
 ```C
 #include <stdio.h>
 
@@ -44,7 +46,8 @@ int main() {
 }
 ```
 
-`%f` ([[floats|Floating Point]]) Format Specifier:
+- `%f` ([[floats|Floating Point]]):
+
 ```C
 #include <stdio.h>
 
@@ -56,7 +59,8 @@ int main() {
 }
 ```
 
-`%e` ([[floats|Floating Pointer Number]]) Format Specifier:
+- `%e` ([[floats|Floating Pointer Number]]):
+
 ```C
 #include <stdio.h>
 
@@ -68,7 +72,7 @@ int main() {
 }
 ```
 
-%s ([[strings|String]]) Format Specifier:
+- `%s` ([[strings|String]]):
 
 ```C
 #include <stdio.h>
@@ -81,7 +85,7 @@ int main() {
 }
 ```
 
-`%lf` (Double) Format Specifier:
+- `%lf` (Double):
 
 ```C
 #include <stdio.h>
@@ -94,7 +98,7 @@ int main() {
 }
 ```
 
-`%o` (octal integer) Format Specifier:
+- `%o` (octal integer):
 
 ```C
 #include <stdio.h>
@@ -107,7 +111,7 @@ int main() {
 }
 ```
 
-`%x` (Hexadecimal Integer) Format Specifier:
+- `%x` (Hexadecimal Integer):
 
 ```C
 #include <stdio.h>
@@ -120,7 +124,7 @@ int main() {
 }
 ```
 
-`%p` (Prints Memory Address) Format Specifier:
+- `%p` (Prints Memory Address):
 
 ```C
 #include <stdio.h>

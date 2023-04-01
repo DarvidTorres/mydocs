@@ -1,5 +1,3 @@
-
-
 A header file is a file with extension `.h` which contains C function declarations and [[macros|macro]] definitions to be shared between several source files.
 
 Statements like `#include <stdio.h>` and `#include <string.h>` include prototypes without implementation, in that way the compiler can make the proper assumptions.
@@ -14,7 +12,7 @@ Basically headers act as placeholders for prototypes.
 
 Example:
 
-Let's say we have a file named header.h in our directory, which contains the following prototype: 
+Let's say we have a file named `header.h` in our directory, which contains the following prototype: 
 
 `char *test (void);`
 

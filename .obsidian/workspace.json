@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Overview.md",
+                "file": "C/compilation/preprocessor/preprocessor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "247ff2b8aa4c29f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/compilation/preprocessor/preprocessor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Overview.md",
+                "file": "C/compilation/preprocessor/preprocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Overview.md",
+                "file": "C/compilation/preprocessor/preprocessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Overview.md"
+                "file": "C/compilation/preprocessor/preprocessor.md"
               }
             }
           }
@@ -177,17 +191,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37466529f6eb2d6f",
+  "active": "247ff2b8aa4c29f4",
   "lastOpenFiles": [
+    "C/compilation/preprocessor/conditional compilation.md",
+    "C/compilation/preprocessor/preprocessor.md",
     "C/compilation/compilation.md",
+    "C/compilation/preprocessor",
+    "C/compilation/preprocessor/header files.md",
+    "C/compilation/preprocessor/macros.md",
     "C/Overview.md",
     "C/variables/variables.md",
     "C/data types/type qualifiers.md",
     "C/variables/constants.md",
-    "C/compilation/header files.md",
     "C/data types/Untitled",
-    "C/compilation/preprocessor.md",
-    "C/compilation/macros.md",
     "C/variables/format specifiers.md",
     "C/compilation",
     "C/memory/memory.md",
@@ -213,7 +229,6 @@
     "C/functions",
     "C/data types",
     "Pasted image 20230319193607.png",
-    "VBA",
-    "example"
+    "VBA"
   ]
 }

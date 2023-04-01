@@ -87,3 +87,7 @@ There are a number of those standards, and a certain C implementation that abide
 # C declarations
 
 A declaration introduces one or more identifiers into the program and specifies their meaning and properties.
+
+A declaration establishes an association between a particular variable, function, or type and its attributes.
+
+A definition is a declaration that provides all information about the identifiers it declares.

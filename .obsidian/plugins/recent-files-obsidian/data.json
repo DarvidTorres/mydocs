@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Overview",
-      "path": "C/Overview.md"
+      "basename": "type qualifiers",
+      "path": "C/data types/type qualifiers.md"
     },
     {
       "basename": "header files",
       "path": "C/compilation/header files.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "C/Overview.md"
     },
     {
       "basename": "preprocessor",
@@ -55,10 +59,6 @@
     {
       "basename": "scope",
       "path": "C/variables/scope.md"
-    },
-    {
-      "basename": "constants",
-      "path": "C/variables/constants.md"
     },
     {
       "basename": "floats",
@@ -117,8 +117,8 @@
       "path": "C/make files.md"
     },
     {
-      "basename": "casting",
-      "path": "C/data types/casting.md"
+      "basename": "type casting",
+      "path": "C/data types/type casting.md"
     },
     {
       "basename": "void",
@@ -195,10 +195,6 @@
     {
       "basename": "Recipes",
       "path": "Personal/Recipes.md"
-    },
-    {
-      "basename": "2021",
-      "path": "Jorunal/2021.md"
     }
   ],
   "omittedPaths": [],

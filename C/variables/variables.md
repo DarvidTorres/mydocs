@@ -2,7 +2,7 @@
 - Name variables are called identifiers.
 - Variables have [[types|type]].
 
-To create a variable declare type and name:
+To declare a variable assign type and name:
 
 ```C
 <type> <varName>;

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Overview",
+      "path": "C/Overview.md"
+    },
+    {
+      "basename": "variables",
+      "path": "C/variables/variables.md"
+    },
+    {
       "basename": "type qualifiers",
       "path": "C/data types/type qualifiers.md"
     },
     {
       "basename": "header files",
       "path": "C/compilation/header files.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "C/Overview.md"
     },
     {
       "basename": "preprocessor",
@@ -51,10 +55,6 @@
     {
       "basename": "address",
       "path": "C/memory/address.md"
-    },
-    {
-      "basename": "variables",
-      "path": "C/variables/variables.md"
     },
     {
       "basename": "scope",

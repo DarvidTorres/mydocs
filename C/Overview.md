@@ -7,9 +7,7 @@ executable file.
 
 C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
 
-`#include <stdio.h>`: is a header file library that lets us work with input and output functions, such as printf(). Header files add functionality to C programs.
-
-Header files add functionality to C programs.
+`#include <stdio.h>`: is a header file library that lets us work with input and output functions, such as `printf()`. Header files add functionality to C programs.
 
 thing that always appear in a C program, is `main()`. This is called a function. Any code inside its curly brackets {} will be executed.
 
@@ -84,8 +82,11 @@ There are a number of those standards, and a certain C implementation that abide
 - C99: Improvements added to C95 like C++-style single line comments, inline functions, plus addition of more headers.
 - C11: published in 2011. Added some keywords (like _Generic) and a multi-threading API. Improved Unicode support.
 
-# C declarations
+# definition && declarations
 
+- An identifier is a label (name) for a [[types|type]], [[variables|variable]] or [[functions|function]].
+- A declaration introduces an identifier and describes its type.
+- 
 A declaration introduces one or more identifiers into the program and specifies their meaning and properties.
 
 A declaration establishes an association between a particular variable, function, or type and its attributes.

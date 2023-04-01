@@ -8,7 +8,7 @@ C supports:
 
 # const
 
-- `const` declares a [[variables|variable]] to be nonmodifiable.
+- `const` declares a [[variables|variable]] to be unmodifiable.
 - Prevents changes to defined variables.
 - If we try to modify a `const` variable, the compiler will terminate with an error.
 
@@ -19,20 +19,26 @@ Example:
 void main()
 {
     const int i = 5;
-    i = 10;
     i++;
 }
 ```
 
-Constants must be defined with value:
+Since `const` variables can't be modified, we must assign value at declaration.
+
+Example:
 
 ```c
-const int minutesPerHour;
-minutesPerHour = 60; // error
+#include <stdio.h>
+void main() {
+    const int a;
+    a = 3;
+}
 ```
 
-it is considered good practice to declare them with uppercase. It is not required, but useful for code readability and common for C programmers:
+It is considered good practice uppercase `const` variables. It is not required, but useful for code readability and common for C programmers:
 
 ```c
 const int BIRTHYEAR = 1980;
 ```
+
+# volatile

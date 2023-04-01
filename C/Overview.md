@@ -84,11 +84,9 @@ There are a number of those standards, and a certain C implementation that abide
 
 # definition && declarations
 
-- An identifier is a label (name) for a [[types|type]], [[variables|variable]] or [[functions|function]].
+- An identifier is a label (name) for a [[variables|variable]] or a [[functions|function]].
 - A declaration introduces an identifier and describes its type.
-- 
-A declaration introduces one or more identifiers into the program and specifies their meaning and properties.
+- A declaration is what the [[compilation|compiler]] needs to accept references to that identifier.
 
-A declaration establishes an association between a particular variable, function, or type and its attributes.
-
-A definition is a declaration that provides all information about the identifiers it declares.
+- A definition is a declaration that provides all information about the identifiers it declares.
+- A definition is what the linker needs in order to link references to those entities.

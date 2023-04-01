@@ -5,6 +5,10 @@
       "path": "C/Overview.md"
     },
     {
+      "basename": "compilation",
+      "path": "C/compilation/compilation.md"
+    },
+    {
       "basename": "variables",
       "path": "C/variables/variables.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "macros",
       "path": "C/compilation/macros.md"
-    },
-    {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
     },
     {
       "basename": "format specifiers",

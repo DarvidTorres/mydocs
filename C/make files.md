@@ -1,5 +1,5 @@
 We have at least three files that contain:
-1. Declaration of function(s) ([[headers]])
+1. Declaration of function(s) ([[header files]])
 2. Definition of function(s) ([[functions]])
 3. Source code (main file that contains the program)
 

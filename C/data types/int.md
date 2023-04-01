@@ -19,7 +19,7 @@ C provides several standard integer types:. This table defines the minimum range
 | signed long long   | -9223372036854775807 | 9223372036854775807  |
 | unsigned long long | 0                    | 18446744073709551615 |
 
-If you want to know the actual minimum and maximum values an implementation uses they are defined in the `limits.h` [[headers|header file]]. It defines various constants like SCHAR_MIN, SCHAR_MAX, etc. that give the values for this implementation of C. The following example shows the limits of this implementation:
+If you want to know the actual minimum and maximum values an implementation uses they are defined in the `limits.h` [[header files|header file]]. It defines various constants like SCHAR_MIN, SCHAR_MAX, etc. that give the values for this implementation of C. The following example shows the limits of this implementation:
 
 ```C
 #include <stdio.h>

@@ -4,7 +4,7 @@ You may define any valid identifier as a macro, even if it is a [[Overview#keywo
 
 By convention, macro names are written in uppercase.
 
-# Object-like
+# object-like
 
 An object-like macro is an identifier which will be replaced by a code fragment.
 
@@ -90,7 +90,7 @@ As the preprocessor changes the code: `SQRT(3 + 1)` into `3+1*3+1`, and thus, no
 
 The above, is an example of [macro pitfalls](https://gcc.gnu.org/onlinedocs/cpp/Macro-Pitfalls.html#Macro-Pitfalls).
 
-# chain-like macros
+# chain-like
 
 We can use macros inside macro definitions.
 
@@ -109,7 +109,7 @@ void main()
 }
 ```
 
-# Predefined Macros
+# Predefined macros
 
 - Some object-like macros are [predefined](https://gcc.gnu.org/onlinedocs/cpp/Predefined-Macros.html#Predefined-Macros); use them without supplying their definitions.
 - Predefined macros aren't modifiable.

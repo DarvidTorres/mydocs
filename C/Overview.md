@@ -83,3 +83,7 @@ There are a number of those standards, and a certain C implementation that abide
 - C95: Extension to C90, published in 1995. Added some features like digraphs and multibyte support. It also defined the __STDC_VERSION__ macro that can be tested to determine the version of ISO C a certain compiler supports.
 - C99: Improvements added to C95 like C++-style single line comments, inline functions, plus addition of more headers.
 - C11: published in 2011. Added some keywords (like _Generic) and a multi-threading API. Improved Unicode support.
+
+# C declarations
+
+A declaration introduces one or more identifiers into the program and specifies their meaning and properties.

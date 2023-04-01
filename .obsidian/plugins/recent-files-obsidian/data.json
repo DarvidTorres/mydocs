@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Overview",
+      "path": "C/Overview.md"
+    },
+    {
+      "basename": "header files",
+      "path": "C/compilation/header files.md"
+    },
+    {
+      "basename": "preprocessor",
+      "path": "C/compilation/preprocessor.md"
+    },
+    {
       "basename": "macros",
       "path": "C/compilation/macros.md"
     },
     {
       "basename": "compilation",
       "path": "C/compilation/compilation.md"
-    },
-    {
-      "basename": "preprocessor",
-      "path": "C/compilation/preprocessor.md"
     },
     {
       "basename": "format specifiers",
@@ -77,10 +85,6 @@
       "path": "C/data types/types.md"
     },
     {
-      "basename": "Overview",
-      "path": "C/Overview.md"
-    },
-    {
       "basename": "signed vs unsigned",
       "path": "C/data types/signed vs unsigned.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "operators",
       "path": "C/operators.md"
-    },
-    {
-      "basename": "headers",
-      "path": "C/headers.md"
     },
     {
       "basename": "make files",

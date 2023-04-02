@@ -2,12 +2,19 @@
 - Directives control the selective/conditional compilation of portions of the program code.
 - Six directives are available to control conditional compilation.
 
-# \#if
+# \#if,   \#else and   \#elif
+
+The `#if` directive, with the `#elif`, `#else`, and `#endif` directives, controls compilation of portions of a source file.
+
+- `#if` checks whether the constant-expression is true (nonzero).
+- Each `#if` directive in a source file must be matched by a closing `#endif` directive.
+- Any number of `#elif` directives can appear between the `#if` and `#endif` directives, but at most one `#else` directive is allowed.
+- The `#else` directive, if present, must be the last directive before `#endif`.
 
 Syntax:
 
 ```C
-#if constant-expression newline
+#if <constant-expression>
 ```
 
 

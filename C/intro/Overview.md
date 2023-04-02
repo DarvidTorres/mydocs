@@ -70,7 +70,7 @@ The following are C keywords:
 
 `auto`, `double`, `int`, `struct`, `break`, `else`, `long`, `switch`, `case`, `enum`, `register`, `typedef`, `char`, `extern`, `return`, `union`, `const`, `float`, `short`, `unsigned`, `continue`, `for`, `signed`, `void`, `default`, `goto`, `sizeof`, `volatile`, `do`, `if`, `static`, `while`, `const`, `signed`, `void` and `volatile`
 
-# definition && declarations
+# definition and declarations
 
 - An identifier is a label (name) for a [[variables|variable]] or a [[functions|function]].
 - A declaration introduces an identifier and describes its type.

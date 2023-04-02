@@ -1,4 +1,4 @@
-# compiler process
+# compilation
 
 Compilation is the process of converting source code (human-readable code) into object code (machine-readable code). It is done with the help of the compiler.
 
@@ -13,7 +13,6 @@ The compilation process in C involves four steps:
 
 ![](https://i.imgur.com/rdoqxDn.png)
 
-# compiling
 
 `gcc file.c`: compile file.c, it creates an a.out file in the same location.
 

@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "showLineNumber": false,
   "spellcheck": true,
   "spellcheckLanguages": [
@@ -12,5 +12,7 @@
   "fileSortOrder": "byModifiedTime",
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
-  "livePreview": true
+  "livePreview": true,
+  "rightToLeft": false,
+  "newFileLocation": "current"
 }

@@ -8,14 +8,38 @@ By convention, macro names are written in uppercase.
 
 The `#define` [[directives|directive]] allows the definition of macros. These macro definitions allow constant values to be declared for use throughout your code.
 
-Macro definitions are not variables and cannot be changed by your program code like variables. You generally use this syntax when creating constants that represent numbers, strings or expressions.
+Syntax:
+
+```C
+#define <MACRO_NAME> <value>
+#define <MACRO_NAME> (<expression>)
+// The expression must be enclosed in parentheses if it contains operators.
+// Do NOT put a semicolon character at the end of #define statements.
+```
+
+Example:
+
+```C
+#include <stdio.h>
+
+#define A "Foo"
+#define B 3
+
+int main()
+{
+   printf("%s %d", A, B);
+   return 0;
+}
+```
+
+Macro definitions are not variables and cannot be changed by program code like variables.
+
+## defined
 
 A way to verify that a macro is defined is to use the `defined` unary operator. The `defined` operator has one of the following forms:
 - `defined <MACRO_NAME>`
 - `defined (<MACRO_NAME>)`
-An expression of this form evaluates to 1 if `<MACRO_NAME>` is defined and to 0 if it is not.
-
-The defined operator is especially useful for checking many macros with just a single use of the `#if` directive.
+An expression of this form evaluates to 1 if `<MACRO_NAME>` is defined and to 0 if it is not. The defined operator is especially useful for checking many macros with just a single use of the [[conditional compilation#if, else and elif|#if directive]].
 
 # object-like
 

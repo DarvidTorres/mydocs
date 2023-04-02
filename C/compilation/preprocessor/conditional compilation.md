@@ -5,9 +5,10 @@
 # \#if,  \#else and   \#elif
 
 - `#if` is a preprocessor directive in C to define conditional compilation.
-- `#if` can be used just like an [[if else|if condition statement]]; it impacts the compilation process and the executable that is created.
+- `#if` impacts the compilation process and the executable that is created.
+- `#if` can be used just like an [[if else|if condition statement]].
 - `#if` checks whether the given condition is true (nonzero).
-- Each `#if` directive in a source file must be matched by a closing `#endif` directive.
+- The `#if` directive must be matched by a closing `#endif` directive.
 
 Syntax:
 
@@ -33,22 +34,27 @@ Syntax:
 #endif
 ```
 
-Example (using a [[macros|macro]] definition):
+Example (using a [[macros#define definition|macro]] definition):
 
 ```C
 #include <stdio.h>
 
-#define myMacro 1
+#define myMacro -1
 
-int main()
+int main() 
 {
-   #if myMacro != 0
-       printf("myMacro is defined to a non-zero value.");
-   #endif
+	#if myMacro % 2 == 0
+	    printf("even");
+	#elif myMacro % 2 == 1 
+	    printf("odd");
+	#else
+	    printf("none");
+	#endif
+	return 0;
 }
 ```
 
-Example (using ):
+Example (using the [[macros#defined|defined operator]]):
 
 ```C
 #include <stdio.h>
@@ -64,9 +70,47 @@ int main()
 }
 ```
 
+If an identifier used in the expression is not currently defined, the compiler treats the identifier as though it were the constant zero.
 
+Example:
 
+```C
+#include <stdio.h>
 
+int main() 
+{
+	#if defined A
+	    printf("Defined");
+	#else
+	    printf("Not defined");
+	#endif
+	return 0;
+}
+```
+
+All conditions involving variables or other expressions that cannot be resolved in [[Overview#compile vs run time|compile time]] will evaluate to false.
+
+```C
+#include <stdio.h>
+
+int main() 
+{
+    int i = 1;
+    
+	#if i == 1  
+	    printf("No output");
+	#endif
+	return 0;
+}
+```
+
+As [[directives]] can be nested, the condition in an `#if` directive is subject to text replacement and can contain references to [[Overview#definition and declarations|identifiers]] defined in previous `#define` directives. The replacement occurs before the expression is evaluated.
+
+# \#ifdef
+
+- The `#ifdef` directive checks for the existence of [[macros|macro]] definitions.
+- If the identifier specified is defined as a macro, the lines of code that immediately follow the condition are passed on to the compiler.
+- The `#ifdef` directive must be matched by a closing `#endif` directive.
 
  
 This construct is called wrapper `#ifndef`.

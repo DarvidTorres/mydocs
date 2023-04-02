@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "07118acee1e59da5",
+        "id": "c15f979fa780881b",
         "type": "tabs",
         "children": [
           {
-            "id": "37466529f6eb2d6f",
+            "id": "7fc6faefbf8ead3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/compilation/preprocessor/preprocessor.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "247ff2b8aa4c29f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/compilation/compilation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a115b3d8f27894b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/intro/Overview.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff93a70a5a0e32ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/compilation/preprocessor/preprocessor.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1457377afed49f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/compilation/preprocessor/conditional compilation.md",
+                "file": "C/compilation/preprocessor/macros.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/compilation/preprocessor/conditional compilation.md",
+                "file": "C/compilation/preprocessor/macros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/compilation/preprocessor/conditional compilation.md",
+                "file": "C/compilation/preprocessor/macros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/compilation/preprocessor/conditional compilation.md"
+                "file": "C/compilation/preprocessor/macros.md"
               }
             }
           }
@@ -230,23 +177,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1457377afed49f34",
+  "active": "7fc6faefbf8ead3b",
   "lastOpenFiles": [
+    "C/compilation/preprocessor/conditional compilation.md",
+    "C/flow control/if else.md",
+    "C/data types/type qualifiers.md",
+    "C/flow control/flow control && loops.md",
+    "C/flow control",
     "C/compilation/preprocessor/preprocessor.md",
+    "C/compilation/preprocessor/directives.md",
+    "C/compilation/compilation.md",
+    "C/intro/Overview.md",
     "C/compilation/preprocessor/header files.md",
     "C/compilation/preprocessor/macros.md",
-    "C/compilation/preprocessor/directives.md",
     "C/compilation/preprocessor/Untitled",
-    "C/compilation/preprocessor/conditional compilation.md",
     "C/intro/standards.md",
-    "C/intro/Overview.md",
     "C/intro",
     "C/compilation/compiler/compiler.md",
-    "C/compilation/compilation.md",
     "C/compilation/compiler",
     "C/compilation/preprocessor",
     "C/variables/variables.md",
-    "C/data types/type qualifiers.md",
     "C/variables/constants.md",
     "C/data types/Untitled",
     "C/variables/format specifiers.md",
@@ -263,11 +213,8 @@
     "C/data types/arrays/strings.md",
     "C/data types/arrays/arrays.md",
     "C/data types/arrays",
-    "C/data types/char.md",
     "C/variables",
-    "C/data types/types.md",
     "C/data types/pointers",
-    "C/memory",
     "Pasted image 20230319193607.png"
   ]
 }

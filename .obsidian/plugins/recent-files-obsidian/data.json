@@ -1,48 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "macros",
+      "path": "C/compilation/preprocessor/macros.md"
+    },
+    {
       "basename": "conditional compilation",
       "path": "C/compilation/preprocessor/conditional compilation.md"
+    },
+    {
+      "basename": "if else",
+      "path": "C/flow control/if else.md"
+    },
+    {
+      "basename": "type qualifiers",
+      "path": "C/data types/type qualifiers.md"
+    },
+    {
+      "basename": "flow control && loops",
+      "path": "C/flow control/flow control && loops.md"
     },
     {
       "basename": "preprocessor",
       "path": "C/compilation/preprocessor/preprocessor.md"
     },
     {
-      "basename": "header files",
-      "path": "C/compilation/preprocessor/header files.md"
-    },
-    {
-      "basename": "macros",
-      "path": "C/compilation/preprocessor/macros.md"
-    },
-    {
       "basename": "directives",
       "path": "C/compilation/preprocessor/directives.md"
-    },
-    {
-      "basename": "standards",
-      "path": "C/intro/standards.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "C/intro/Overview.md"
-    },
-    {
-      "basename": "compiler",
-      "path": "C/compilation/compiler/compiler.md"
     },
     {
       "basename": "compilation",
       "path": "C/compilation/compilation.md"
     },
     {
-      "basename": "variables",
-      "path": "C/variables/variables.md"
+      "basename": "Overview",
+      "path": "C/intro/Overview.md"
     },
     {
-      "basename": "type qualifiers",
-      "path": "C/data types/type qualifiers.md"
+      "basename": "header files",
+      "path": "C/compilation/preprocessor/header files.md"
+    },
+    {
+      "basename": "standards",
+      "path": "C/intro/standards.md"
+    },
+    {
+      "basename": "compiler",
+      "path": "C/compilation/compiler/compiler.md"
+    },
+    {
+      "basename": "variables",
+      "path": "C/variables/variables.md"
     },
     {
       "basename": "format specifiers",
@@ -115,10 +123,6 @@
     {
       "basename": "recursion",
       "path": "C/recursion.md"
-    },
-    {
-      "basename": "flow control && loops",
-      "path": "C/flow control && loops.md"
     },
     {
       "basename": "comments",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Personal/Untitled.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Languages/Japanese/Resources.md"
     }
   ],
   "omittedPaths": [],

@@ -10,6 +10,13 @@ In the C Programming Language, the `#define` [[directives|directive]] allows the
 
 Macro definitions are not variables and cannot be changed by your program code like variables. You generally use this syntax when creating constants that represent numbers, strings or expressions.
 
+A way to verify that a macro is defined is to use the `defined` unary operator. The `defined` operator has one of the following forms:
+- `defined <MACRO_NAME>`
+- `defined (<MACRO_NAME>)`
+An expression of this form evaluates to 1 if `<MACRO_NAME>` is defined and to 0 if it is not.
+
+The defined operator is especially useful for checking many macros with just a single use of the `#if` directive.
+
 # object-like
 
 An object-like macro is an identifier which will be replaced by a code fragment.

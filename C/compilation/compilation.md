@@ -11,7 +11,7 @@ The compilation process in C involves four steps:
 3. Assembler: Generate object code (binary) `.o` file
 4. Linker: Link code from file(s) and libraries to generate an executable.
 
-![](https://i.imgur.com/fz8h8lN.png)
+![](https://i.imgur.com/rdoqxDn.png)
 
 # compiling
 

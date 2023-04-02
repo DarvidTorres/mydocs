@@ -1,14 +1,6 @@
-A header file is a file with extension `.h` which contains C function declarations and [[macros|macro]] definitions to be shared between several source files.
+A header file is a file that contains C function declarations, [[macros|macro]] definitions, and global variables, to be shared between several source files.
 
-Statements like `#include <stdio.h>` and `#include <string.h>` include prototypes without implementation, in that way the compiler can make the proper assumptions.
-
-There are two types of header files: the files that the programmer writes and the files that comes with your compiler.
-
-- The `#include` directive works by directing the C preprocessor to scan the specified file as input before continuing with the rest of the current source file.
-- `#include <file>` searches for a file named 'file' in a standard list of system directories.
-- `#include "file"` searches for a file named 'file' in the directory containing the current file.
-
-Basically headers act as placeholders for prototypes.
+By convention, header files are named with either a `.h` extension. However, there is no requirement that this is observed.
 
 Example:
 
@@ -16,13 +8,12 @@ Let's say we have a file named `header.h` in our directory, which contains the f
 
 `char *test (void);`
 
-another program might use that header as:
+another program (a `.c` file) might use that header as:
 
 ```c
-int x;
 #include "header.h"
 
-int main (void) {
+int main () {
    puts (test ());
 }
 ```
@@ -30,7 +21,6 @@ int main (void) {
 Which will then be read by the compiler as:
 
 ```c
-int x;
 char *test (void);
 
 int main (void) {
@@ -38,17 +28,38 @@ int main (void) {
 }
 ```
 
- When a header file is included twice within a program, the compiler processes the contents of that header file twice which leads to an error in the program. To eliminate this error, **conditional preprocessor directives** are used.
- 
-This construct is called wrapper `#ifndef`.
+ When a header file is included twice within a program, the compiler processes the contents of that header file twice which leads to an error in the program. To eliminate this error, [[conditional compilation|conditional preprocessor directives]] are used.
 
-```c
-#ifndef HEADER_FILE_NAME
-#define HEADER_FILE_NAME
+# \#include
 
-   /* the entire header file */
+C has some features as part of the language and some others as part of a [[standards#standard library|standard library]]. 
 
-#endif
+The `#include` directive works by directing the C preprocessor to scan the specified file as input before continuing with the rest of the current source file.
+
+It includes another C file into the current file at the location of the `#include` statement prior to compiling the source code.
+
+Example:
+
+```C
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Hello, World!\n");
+    return 0;
+}
 ```
 
-When the header is included again, the conditional will become false, because `HEADER_FILE_NAME` is defined. The preprocessor will skip over the entire contents of the file and the compiler will not see it twice.
+The preprocessor replaces the line `#include <stdio.h>` with the textual content of the file `stdio.h`, which declares the `printf()` function (among other things).
+
+There are two types of header files:
+- Standard / Pre-existing header files
+- Non-Standard / User-defined header files
+
+For this reason, header files can be invoked by the `#include` [[directives|directive]] using angle brackets or by using quotation marks.
+- If the filename is enclosed within angle brackets (`< >`), the file is searched for in the standard compiler include paths.
+	- `#include <file>` searches for a file named 'file' in a standard list of system directories.
+- If the filename is enclosed within double quotes (`" "`), the search path is expanded to include the current source file directory.
+	- `#include "file"` searches for a file named 'file' in the directory containing the current file.
+
+C compilers and programming environments all have a facility that allows the programmer to define where include files can be found. 

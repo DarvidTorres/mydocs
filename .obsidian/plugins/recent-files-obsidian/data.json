@@ -5,6 +5,22 @@
       "path": "C/compilation/preprocessor/conditional compilation.md"
     },
     {
+      "basename": "preprocessor",
+      "path": "C/compilation/preprocessor/preprocessor.md"
+    },
+    {
+      "basename": "header files",
+      "path": "C/compilation/preprocessor/header files.md"
+    },
+    {
+      "basename": "macros",
+      "path": "C/compilation/preprocessor/macros.md"
+    },
+    {
+      "basename": "directives",
+      "path": "C/compilation/preprocessor/directives.md"
+    },
+    {
       "basename": "standards",
       "path": "C/intro/standards.md"
     },
@@ -13,24 +29,12 @@
       "path": "C/intro/Overview.md"
     },
     {
-      "basename": "header files",
-      "path": "C/compilation/preprocessor/header files.md"
-    },
-    {
-      "basename": "preprocessor",
-      "path": "C/compilation/preprocessor/preprocessor.md"
-    },
-    {
       "basename": "compiler",
       "path": "C/compilation/compiler/compiler.md"
     },
     {
       "basename": "compilation",
       "path": "C/compilation/compilation.md"
-    },
-    {
-      "basename": "macros",
-      "path": "C/compilation/preprocessor/macros.md"
     },
     {
       "basename": "variables",
@@ -195,10 +199,6 @@
     {
       "basename": "Resources",
       "path": "Languages/Japanese/Resources.md"
-    },
-    {
-      "basename": "Other",
-      "path": "Languages/English/Other.md"
     }
   ],
   "omittedPaths": [],

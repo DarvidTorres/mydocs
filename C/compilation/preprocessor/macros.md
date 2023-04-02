@@ -1,8 +1,14 @@
 A macro is a fragment of code which has been given a name. Whenever the name is used, it is replaced by the contents of the macro.
 
-You may define any valid identifier as a macro, even if it is a [[Overview#keywords|C keyword]]. The [[preprocessor|preprocessor]] does not know anything about keywords.
+You may define any valid identifier as a macro, even if it is a [[Overview#keywords|C keyword]], since the [[preprocessor|preprocessor]] does not know anything about keywords.
 
 By convention, macro names are written in uppercase.
+
+# \#define
+
+In the C Programming Language, the `#define` [[directives|directive]] allows the definition of macros. These macro definitions allow constant values to be declared for use throughout your code.
+
+Macro definitions are not variables and cannot be changed by your program code like variables. You generally use this syntax when creating constants that represent numbers, strings or expressions.
 
 # object-like
 

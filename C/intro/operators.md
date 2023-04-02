@@ -162,8 +162,39 @@ int main() {
 
 # Bitwise Operators
 
+In the C programming language, operations can be performed on a bit level using bitwise operators.
 
+| p   | q   | p & q | p \| q | p ^ q |
+| --- | --- | ----- | ------ | ----- |
+| 0   | 0   | 0     | 0      | 0     |
+| 0   | 1   | 0     | 1      | 1     |
+| 1   | 1   | 1     | 1      | 0     |
+| 1   | 0   | 0     | 1      | 1     |
 
+[Bitwise operations in C - Wikipedia](https://en.wikipedia.org/wiki/Bitwise_operations_in_C)
 
-- Assignment Operators
-- Misc Operator
+# Assignment Operators
+
+| Operator | Description                                                                                                                        |  
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------- | 
+| =        | Simple assignment operator. Assigns values from right side operands to left side operand                                           | 
+| +=       | Add AND assignment operator. It adds the right operand to the left operand and assign the result to the left operand               | 
+| -=       | Subtract AND assignment operator. It subtracts the right operand from the left operand and assigns the result to the left operand  | 
+| \*=       | Multiply AND assignment operator. It multiplies the right operand with the left operand and assigns the result to the left operand|
+| \/=      | Divide AND assignment operator. It divides the left operand with the right operand and assigns the result to the left operand      | 
+| \%=      | Modulus AND assignment operator. It takes modulus using two operands and assigns the result to the left operand                    | 
+| <<=      | Bitwise left shift assignment                                                                                                 | 
+| >>=      | Bitwise right shift assignment                                                                                                | 
+| &=       | Bitwise AND assignment operator                                                                                                    | 
+| ^=       | Bitwise exclusive OR and assignment operator                                                                                       | 
+| \|=      | Bitwise inclusive OR and assignment operator.                                                                                      | 
+
+# Misc Operator
+
+| Operator | Description                       | 
+| -------- | --------------------------------- |
+| sizeof() | Returns the [[types#storage size\|size]] of a variable    |
+| &        | Returns the [[address]] of a variable |
+| *        | [[pointers\|Pointer]] to a variable             |
+| ? :      | [[if else#Ternary or Conditional operator\|Ternary or Conditional operator]].           |
+

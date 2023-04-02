@@ -70,5 +70,25 @@ We can declare a constant using:
 
 # Special characters
 
+In C programming language, generally, the special symbols have some special meaning and they cannot be used for other purposes.
 
+Examples:
 
+```C
+[] () {} , ; * = #
+```
+
+| Brackets            | `[]` | Opening and closing of brackets are used for array element reference, which indicate single and multidimensional subscripts.                                      |
+| ------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parentheses         | `()` | These special symbols are used for function calls and function parameters.                                                                                        |
+| Braces              | `{}` | Opening and closing of curly braces indicates the start and end of a block of code which contains more than one executable statement.                             |
+| Comma               | `, ` | It is used to separate more than one statements like separating parameters in function calls.                                                                     |
+| Colon               | `: ` | It is an operator which essentially invokes something called as an initialization list.                                                                           |
+| Semicolon           | `; ` | It is called as a statement terminator that indicates the end of one logical entity. That is the reason each individual statement must be ended with a semicolon. |
+| Asterisk            | `* ` | It is used to create a pointer variable.                                                                                                                          |
+| Assignment operator | `= ` | It is used for assigning values.                                                                                                                                  |
+| Pre-processor       | `# ` | The pre-processor called as a macro processor is used by the compiler to transform your program before the actual compilation starts.                             |
+
+# Strings
+
+In C, a [[strings|string]] is a sequence of characters concluded with a NULL character `\0`.

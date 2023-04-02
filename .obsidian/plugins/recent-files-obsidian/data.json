@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "operators",
-      "path": "C/intro/operators.md"
+      "basename": "declaration and definition",
+      "path": "C/intro/declaration and definition.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "C/intro/Overview.md"
     },
     {
       "basename": "tokens",
       "path": "C/intro/tokens.md"
     },
     {
-      "basename": "type qualifiers",
-      "path": "C/data types/type qualifiers.md"
+      "basename": "operators",
+      "path": "C/intro/operators.md"
     },
     {
-      "basename": "macros",
-      "path": "C/compilation/preprocessor/macros.md"
+      "basename": "if else",
+      "path": "C/flow control/if else.md"
+    },
+    {
+      "basename": "types",
+      "path": "C/data types/types.md"
     },
     {
       "basename": "conditional compilation",
       "path": "C/compilation/preprocessor/conditional compilation.md"
     },
     {
-      "basename": "Overview",
-      "path": "C/intro/Overview.md"
+      "basename": "macros",
+      "path": "C/compilation/preprocessor/macros.md"
+    },
+    {
+      "basename": "type qualifiers",
+      "path": "C/data types/type qualifiers.md"
     },
     {
       "basename": "variables",
@@ -57,10 +69,6 @@
       "path": "C/recursion.md"
     },
     {
-      "basename": "types",
-      "path": "C/data types/types.md"
-    },
-    {
       "basename": "prototypes",
       "path": "C/functions/prototypes.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "compiler",
       "path": "C/compilation/compiler/compiler.md"
-    },
-    {
-      "basename": "if else",
-      "path": "C/flow control/if else.md"
     },
     {
       "basename": "preprocessor",
@@ -195,10 +199,6 @@
     {
       "basename": "Key bindings hot keys",
       "path": "Utilities/Key bindings hot keys.md"
-    },
-    {
-      "basename": "Words",
-      "path": "Utilities/Words.md"
     }
   ],
   "omittedPaths": [],

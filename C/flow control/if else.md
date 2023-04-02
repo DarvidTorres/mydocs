@@ -66,24 +66,36 @@ if (time < 10) {
 // Outputs "Good evening."
 ```
 
-## Short hand if else
+# Ternary or Conditional operator
 
 - 3-ary if else statement
 
-`(condition) ? expression_true : expression_false;`
+Syntax:
+
+```C
+<condition> ? <value_if_true> : <value_if_false>
+```
+
+The statement evaluates to `<value_if_true>` if condition is met, and `<value_if_false>` otherwise.
 
 Example:
 
 ```c
-int time = 20;
-if (time < 18) {
-  printf("Good day.");
-} else {
-  printf("Good evening.");
+#include <stdio.h>
+
+int main() {
+
+    int a = 2;
+    if (a < 3) {
+      printf("True if else.\n");
+    } else {
+      printf("False if else.\n");
+    }
+    
+    /* Does the same as: */
+    
+    (a < 3) ? printf("True conditional op.\n") : printf("False conditional op.\n");
+   
+   return (0);
 }
-
-/* Does the same as: */
-
-int time = 20;
-(time < 18) ? printf("Good day.") : printf("Good evening.");
 ```

@@ -8,8 +8,37 @@ C supports:
 
 # const
 
-- `const` declares a [[variables|variable]] to be unmodifiable.
+- `const` declares a [[variables|variable]] to be a [[tokens#constants|constant]] (unmodifiable variable).
 - Prevents changes to defined variables.
+- variables declared with `const` will default to $0$.
+
+Example:
+
+```C
+#include <stdio.h>
+
+int main() 
+{
+	const int a;
+	printf("%d", a);
+	
+	return 0;
+}
+```
+
+* Since `const` variables can't be modified, we must assign value at declaration or we'll get unmodifiable default value.
+
+Example:
+
+```c
+#include <stdio.h>
+int main() {
+    const int a = 3;
+
+	return (0);
+}
+```
+
 - If we try to modify a `const` variable, the compiler will terminate with an error.
 
 Example:
@@ -20,20 +49,6 @@ int main()
 {
     const int i = 5;
     i++;
-
-	return (0);
-}
-```
-
-Since `const` variables can't be modified, we must assign value at declaration.
-
-Example:
-
-```c
-#include <stdio.h>
-int main() {
-    const int a;
-    a = 3;
 
 	return (0);
 }

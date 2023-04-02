@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "5e78210f595e703e",
+            "id": "98e44c6f3f0bfcbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "37b6b5814498d8de",
+            "id": "5615f77d93d8a17e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/flow control/logical operators.md",
+                "file": "C/intro/operators.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e78210f595e703e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/data types/type qualifiers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IDENTIFIER",
+                "query": "const",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,25 +217,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e78210f595e703e",
+  "active": "98e44c6f3f0bfcbd",
   "lastOpenFiles": [
-    "C/compilation/preprocessor/conditional compilation.md",
+    "C/intro/operators.md",
     "C/intro/tokens.md",
+    "C/data types/type qualifiers.md",
+    "C/compilation/preprocessor/macros.md",
+    "C/compilation/preprocessor/conditional compilation.md",
+    "C/intro/Overview.md",
+    "C/variables/variables.md",
     "C/compilation/preprocessor/directives.md",
     "C/compilation/preprocessor/header files.md",
-    "C/compilation/preprocessor/macros.md",
     "C/flow control/logical operators.md",
     "C/compilation/compilation.md",
-    "C/operators.md",
     "C/flow control/flow control && loops.md",
     "C/data types/pointers/pointers.md",
     "C/recursion.md",
     "C/data types/types.md",
-    "C/data types/type qualifiers.md",
     "C/functions/prototypes.md",
     "C/functions/functions.md",
     "C/data types/pointers/function pointers.md",
-    "C/intro/Overview.md",
     "C/compilation/compiler/compiler.md",
     "C/flow control/if else.md",
     "C/flow control",
@@ -232,7 +246,6 @@
     "C/intro",
     "C/compilation/compiler",
     "C/compilation/preprocessor",
-    "C/variables/variables.md",
     "C/variables/constants.md",
     "C/data types/Untitled",
     "C/variables/format specifiers.md",

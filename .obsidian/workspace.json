@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/intro/Overview.md",
+                "file": "C/compilation/preprocessor/conditional compilation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "b2a80735204fd747",
+            "id": "37b6b5814498d8de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/intro/Overview.md",
+                "file": "C/flow control/logical operators.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "size_t",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/intro/Overview.md",
+                "file": "C/compilation/preprocessor/conditional compilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,8 +143,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/intro/Overview.md"
+                "file": "C/compilation/preprocessor/conditional compilation.md"
               }
+            }
+          },
+          {
+            "id": "f53747a487385847",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -160,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/intro/Overview.md",
+                "file": "C/compilation/preprocessor/conditional compilation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,17 +190,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2a80735204fd747",
+  "active": "7fc6faefbf8ead3b",
   "lastOpenFiles": [
-    "C/compilation/preprocessor/conditional compilation.md",
-    "C/intro/Overview.md",
     "C/compilation/compilation.md",
-    "C/compilation/compiler/compiler.md",
-    "C/compilation/preprocessor/directives.md",
-    "C/compilation/preprocessor/macros.md",
-    "C/flow control/if else.md",
-    "C/data types/type qualifiers.md",
+    "C/flow control/logical operators.md",
+    "C/operators.md",
     "C/flow control/flow control && loops.md",
+    "C/compilation/preprocessor/conditional compilation.md",
+    "C/compilation/preprocessor/macros.md",
+    "C/compilation/preprocessor/directives.md",
+    "C/data types/pointers/pointers.md",
+    "C/recursion.md",
+    "C/data types/types.md",
+    "C/data types/type qualifiers.md",
+    "C/functions/prototypes.md",
+    "C/functions/functions.md",
+    "C/data types/pointers/function pointers.md",
+    "C/intro/Overview.md",
+    "C/compilation/compiler/compiler.md",
+    "C/flow control/if else.md",
     "C/flow control",
     "C/compilation/preprocessor/preprocessor.md",
     "C/compilation/preprocessor/header files.md",
@@ -208,16 +223,8 @@
     "C/variables/format specifiers.md",
     "C/compilation",
     "C/memory/memory.md",
-    "C/data types/pointers/function pointers.md",
-    "C/data types/pointers/pointers.md",
-    "C/functions/functions.md",
     "C/data types/arrays/pointers && arrays.md",
     "C/memory/address.md",
-    "C/variables/scope.md",
-    "C/data types/floats.md",
-    "C/data types/int.md",
-    "C/data types/arrays/strings.md",
-    "C/data types/arrays/arrays.md",
     "C/data types/arrays",
     "C/variables",
     "C/data types/pointers",

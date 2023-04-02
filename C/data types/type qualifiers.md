@@ -16,10 +16,12 @@ Example:
 
 ```C
 #include <stdio.h>
-void main()
+int main()
 {
     const int i = 5;
     i++;
+
+	return (0);
 }
 ```
 
@@ -29,9 +31,11 @@ Example:
 
 ```c
 #include <stdio.h>
-void main() {
+int main() {
     const int a;
     a = 3;
+
+	return (0);
 }
 ```
 

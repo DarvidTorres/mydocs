@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Overview",
-      "path": "C/intro/Overview.md"
-    },
-    {
       "basename": "conditional compilation",
       "path": "C/compilation/preprocessor/conditional compilation.md"
     },
@@ -13,28 +9,64 @@
       "path": "C/compilation/compilation.md"
     },
     {
-      "basename": "compiler",
-      "path": "C/compilation/compiler/compiler.md"
+      "basename": "logical operators",
+      "path": "C/flow control/logical operators.md"
     },
     {
-      "basename": "directives",
-      "path": "C/compilation/preprocessor/directives.md"
+      "basename": "operators",
+      "path": "C/operators.md"
+    },
+    {
+      "basename": "flow control && loops",
+      "path": "C/flow control/flow control && loops.md"
     },
     {
       "basename": "macros",
       "path": "C/compilation/preprocessor/macros.md"
     },
     {
-      "basename": "if else",
-      "path": "C/flow control/if else.md"
+      "basename": "directives",
+      "path": "C/compilation/preprocessor/directives.md"
+    },
+    {
+      "basename": "pointers",
+      "path": "C/data types/pointers/pointers.md"
+    },
+    {
+      "basename": "recursion",
+      "path": "C/recursion.md"
+    },
+    {
+      "basename": "types",
+      "path": "C/data types/types.md"
     },
     {
       "basename": "type qualifiers",
       "path": "C/data types/type qualifiers.md"
     },
     {
-      "basename": "flow control && loops",
-      "path": "C/flow control/flow control && loops.md"
+      "basename": "prototypes",
+      "path": "C/functions/prototypes.md"
+    },
+    {
+      "basename": "functions",
+      "path": "C/functions/functions.md"
+    },
+    {
+      "basename": "function pointers",
+      "path": "C/data types/pointers/function pointers.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "C/intro/Overview.md"
+    },
+    {
+      "basename": "compiler",
+      "path": "C/compilation/compiler/compiler.md"
+    },
+    {
+      "basename": "if else",
+      "path": "C/flow control/if else.md"
     },
     {
       "basename": "preprocessor",
@@ -59,18 +91,6 @@
     {
       "basename": "memory",
       "path": "C/memory/memory.md"
-    },
-    {
-      "basename": "function pointers",
-      "path": "C/data types/pointers/function pointers.md"
-    },
-    {
-      "basename": "pointers",
-      "path": "C/data types/pointers/pointers.md"
-    },
-    {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
     },
     {
       "basename": "pointers && arrays",
@@ -105,10 +125,6 @@
       "path": "C/data types/char.md"
     },
     {
-      "basename": "types",
-      "path": "C/data types/types.md"
-    },
-    {
       "basename": "signed vs unsigned",
       "path": "C/data types/signed vs unsigned.md"
     },
@@ -121,16 +137,8 @@
       "path": "C/data types/pointers/pointer arithmetic.md"
     },
     {
-      "basename": "recursion",
-      "path": "C/recursion.md"
-    },
-    {
       "basename": "comments",
       "path": "C/comments.md"
-    },
-    {
-      "basename": "operators",
-      "path": "C/operators.md"
     },
     {
       "basename": "make files",
@@ -143,10 +151,6 @@
     {
       "basename": "void",
       "path": "C/data types/void.md"
-    },
-    {
-      "basename": "prototypes",
-      "path": "C/functions/prototypes.md"
     },
     {
       "basename": "Object model",
@@ -195,10 +199,6 @@
     {
       "basename": "Other",
       "path": "Utilities/Other.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Personal/Untitled.md"
     }
   ],
   "omittedPaths": [],

@@ -14,9 +14,11 @@ Many compilers do not check for parameter matching either in type or count (how 
 #include <stdio.h>
 int add (int,int); /* function prototype for add */
 
-void main()
+int main()
 {
     printf("%d\n",add(3));
+
+	return (0);
 }
 
 int add(int i, int j)

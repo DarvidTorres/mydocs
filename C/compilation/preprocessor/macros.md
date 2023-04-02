@@ -11,8 +11,8 @@ The `#define` [[directives|directive]] allows the definition of macros. These ma
 Syntax:
 
 ```C
-#define <MACRO_NAME> <value>
-#define <MACRO_NAME> (<expression>)
+#define <IDENTIFIER> <value>
+#define <IDENTIFIER> (<expression>)
 // The expression must be enclosed in parentheses if it contains operators.
 // Do NOT put a semicolon character at the end of #define statements.
 ```
@@ -37,9 +37,9 @@ Macro definitions are not variables and cannot be changed by program code like v
 ## defined
 
 A way to verify that a macro is defined is to use the `defined` unary operator. The `defined` operator has one of the following forms:
-- `defined <MACRO_NAME>`
-- `defined (<MACRO_NAME>)`
-An expression of this form evaluates to 1 if `<MACRO_NAME>` is defined and to 0 if it is not. The defined operator is especially useful for checking many macros with just a single use of the [[conditional compilation#if, else and elif|#if directive]].
+- `defined <IDENTIFIER>`
+- `defined (<IDENTIFIER>)`
+An expression of this form evaluates to 1 if `<IDENTIFIER>` is defined and to 0 if it is not. The defined operator is especially useful for checking many macros with just a single use of the [[conditional compilation#if, else and elif|#if directive]].
 
 # object-like
 
@@ -52,7 +52,7 @@ You create macros with the `#define` directive. `#define` is followed by the nam
 Synaxis:
 
 ```C
-#define <MACRO_NAME> <token>
+#define <IDENTIFIER> <value>
 ```
 
 Examples:
@@ -77,9 +77,11 @@ Example:
 
 #define MY_MACRO 3
 
-void main() {
+int main() {
     int a = MY_MACRO;
     printf("%d", a);
+
+	return (0);
 }
 ```
 
@@ -90,7 +92,7 @@ To define a function-like macro, use the same `#define` directive, and put paren
 Syntax:
 
 ```C
-#define <MACRO_NAME>() <token>
+#define <IDENTIFIER>() <value>
 ```
 
 Function-like macros can take arguments, like true functions.
@@ -104,9 +106,11 @@ Example:
 
 #define SQR(c) ((c) * (c))
 
-void main() {
+int main() {
     int a = SQR(3 + 1);
     printf("%d", a);
+
+	return (0);
 }
 ```
 
@@ -117,9 +121,11 @@ A common error would be to write:
 
 #define SQR(c) c*c
 
-void main() {
+int main() {
     int a = SQR(3 + 1);
     printf("%d", a);
+
+	return (0);
 }
 ```
 
@@ -138,11 +144,13 @@ Example:
 #define PI 3.14 //object like macro
 #define Area(r) (PI*(r*r)) // function like macro
 
-void main()
+int main()
 {
     float radius = 2.5; // declaration and initialization of radius
     float area = Area(radius); // declaring and assigning the value to area
     printf("Area of circle is %f\n", area); // Printing the area of circle
+
+	return (0);
 }
 ```
 
@@ -163,13 +171,15 @@ Examples:
 ```C
 #include <stdio.h>
 
-void main()
+int main()
 {
     printf("This is line no.: %d\n", __LINE__);
     printf("Name of this file: %s\n", __FILE__);
     printf("Current Date: %s\n", __DATE__);
     printf("Current Time: %s\n", __TIME__);
     printf("Compilation success: %d\n", __STDC__);
+
+	return (0);
 }
 ```
 

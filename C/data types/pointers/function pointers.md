@@ -9,13 +9,15 @@ Example:
 ```C
 #include <stdio.h>
 
-void my_function() {
+int my_function() {
    printf("Hello World");
 }
 
 int main() {
    printf("The address of my_function is: %p\n", my_function);
    printf("The address of the main function is: %p\n", main);
+
+return (0);
 }
 ```
 

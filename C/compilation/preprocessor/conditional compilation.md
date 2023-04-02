@@ -110,7 +110,7 @@ int main()
 # \#ifdef
 
 - The `#ifdef` directive is equivalent to `#if defined`.
-- While `#if` evaluates a [[logical operators|logical condition]], `ifdef` evaluates whether an identifier has been defined.
+- While `#if` evaluates any (valid) [[logical operators|logical condition]], `#ifdef` evaluates whether an identifier has been defined.
 
 Example:
 
@@ -122,25 +122,88 @@ Example:
 int main() {
     
     #ifdef FOO
-    printf("This will compile\n");
+    printf("This will print\n");
     #endif
+
+	#if defined FOO
+	printf("This will also print\n");
+	#endif
     
     #if FOO
-    printf("This will not compile\n");
+    printf("This won't print\n");
     #endif
     
     return (0);
 }
 ```
 
+Other than evaluate whether an identifier has been defined, we can't evaluate logical conditions with `#ifdef`; if we try to do so, the compiler ends with a warning and we might get an unexpected result.
+
 Example:
 
-While
+```C
+#include <stdio.h>
+
+#define FOO 0
+
+int main() {
+    
+    #ifdef FOO && BAR
+    printf("This will print but we get a warning\n");
+    #endif
+    
+    #if defined(FOO) || defined(BAR)
+    printf("This will print without warnings");
+    #endif
+    
+    return (0);
+}
+```
 
 
+# \#ifndef
 
+- The `#ifdef` directive is equivalent to `#if !defined`.
+- While `#if` evaluates any (valid) [[logical operators|logical condition]], `#ifndef` evaluates whether an identifier has not been defined.
 
+```C
+#include <stdio.h>
 
+int main() {
+    
+    #ifndef FOO
+    printf("This will print\n");
+    #endif
 
+	#if !defined FOO
+	printf("This will also print\n");
+	#endif
+    
+    #if FOO
+    printf("This won't print\n");
+    #endif
+    
+    return (0);
+}
+```
+
+Other than evaluate whether an identifier has not been defined, we can't evaluate logical conditions with `#ifdef`; if we try to do so, the compiler ends with a warning and we might get an unexpected result.
+
+```C
+#include <stdio.h>
+
+int main() {
+    
+    #ifndef FOO || BAR
+    printf("This will print but we get a warning\n");
+    #endif
+    
+    #if !defined(FOO) && !defined(BAR)
+    printf("This will print without warnings");
+    #endif
+    
+    return (0);
+}
+```
 
 

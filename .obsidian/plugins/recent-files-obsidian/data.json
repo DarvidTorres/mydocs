@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "preprocessor",
-      "path": "C/compilation/preprocessor/preprocessor.md"
-    },
-    {
       "basename": "conditional compilation",
       "path": "C/compilation/preprocessor/conditional compilation.md"
     },
     {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
+      "basename": "standards",
+      "path": "C/intro/standards.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "C/intro/Overview.md"
     },
     {
       "basename": "header files",
       "path": "C/compilation/preprocessor/header files.md"
     },
     {
-      "basename": "macros",
-      "path": "C/compilation/preprocessor/macros.md"
+      "basename": "preprocessor",
+      "path": "C/compilation/preprocessor/preprocessor.md"
     },
     {
-      "basename": "Overview",
-      "path": "C/Overview.md"
+      "basename": "compiler",
+      "path": "C/compilation/compiler/compiler.md"
+    },
+    {
+      "basename": "compilation",
+      "path": "C/compilation/compilation.md"
+    },
+    {
+      "basename": "macros",
+      "path": "C/compilation/preprocessor/macros.md"
     },
     {
       "basename": "variables",
@@ -191,14 +199,6 @@
     {
       "basename": "Other",
       "path": "Languages/English/Other.md"
-    },
-    {
-      "basename": "Quotes",
-      "path": "Quotes/Quotes.md"
-    },
-    {
-      "basename": "Recipes",
-      "path": "Personal/Recipes.md"
     }
   ],
   "omittedPaths": [],

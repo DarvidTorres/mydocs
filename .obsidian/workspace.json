@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/compilation/preprocessor/preprocessor.md",
+                "file": "C/compilation/compilation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a115b3d8f27894b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/intro/Overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff93a70a5a0e32ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/compilation/preprocessor/conditional compilation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/compilation/preprocessor/preprocessor.md",
+                "file": "C/compilation/preprocessor/conditional compilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/compilation/preprocessor/preprocessor.md",
+                "file": "C/compilation/preprocessor/conditional compilation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/compilation/preprocessor/preprocessor.md"
+                "file": "C/compilation/preprocessor/conditional compilation.md"
               }
             }
           }
@@ -191,15 +217,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "247ff2b8aa4c29f4",
+  "active": "c0d9dd5ebd5d1621",
   "lastOpenFiles": [
+    "C/intro/standards.md",
     "C/compilation/preprocessor/conditional compilation.md",
-    "C/compilation/preprocessor/preprocessor.md",
-    "C/compilation/compilation.md",
-    "C/compilation/preprocessor",
+    "C/intro/Overview.md",
+    "C/intro",
     "C/compilation/preprocessor/header files.md",
+    "C/compilation/preprocessor/preprocessor.md",
+    "C/compilation/compiler/compiler.md",
+    "C/compilation/compilation.md",
+    "C/compilation/compiler",
+    "C/compilation/preprocessor",
     "C/compilation/preprocessor/macros.md",
-    "C/Overview.md",
     "C/variables/variables.md",
     "C/data types/type qualifiers.md",
     "C/variables/constants.md",
@@ -222,13 +252,9 @@
     "C/variables",
     "C/data types/types.md",
     "C/data types/signed vs unsigned.md",
-    "C/data types/pointers/dereferencing.md",
-    "C/data types/pointers/pointer arithmetic.md",
     "C/data types/pointers",
     "C/memory",
     "C/functions",
-    "C/data types",
-    "Pasted image 20230319193607.png",
-    "VBA"
+    "Pasted image 20230319193607.png"
   ]
 }

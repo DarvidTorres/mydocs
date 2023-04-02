@@ -1,12 +1,11 @@
 # Preprocessor
 
-Before the actual compilation of every C program it is passed through a Preprocessor. The Preprocessor looks through the program trying to find out specific instructions called Preprocessor directives that it can understand. All Preprocessor directives begin with the # (hash) symbol. C++ compilers use the same C preprocessor.
+- Before the [[compilation]], every program is passed through a preprocessor.
+- The preprocessor is not part of the [[compiler]], but is a separate step in the compilation process.
+- The preprocessor performs preliminary operations to source code before the compilation.
+- The transformations executed by the preprocessor are lexical; the output of the preprocessor is still text.
 
-A C Preprocessor is just a text substitution tool and it instructs the [[compilation|compiler]] to do required pre-processing before the actual compilation. 
-
-The C preprocessor, abbreviated `cpp`, is a [[macros|macro]] processor that is used automatically by the C compiler to transform programs before compilation.
-
-All preprocessor commands begin with a hash symbol (#).
+In almost every program we see a few lines at the top of the program preceded by a hash `(#`) sign. These lines are preprocessed by the compiler before actual compilation begins.
 
 The C preprocessor provides four separate facilities:
 - Inclusion of [[header files]].

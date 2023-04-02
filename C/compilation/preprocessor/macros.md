@@ -34,6 +34,8 @@ int main()
 
 Macro definitions are not variables and cannot be changed by program code like variables.
 
+If there is no value indicated, the `#define` directive won't assign a value, which can be verified using the [[conditional compilation#if, else and elif|if directive]].
+
 ## defined
 
 A way to verify that a macro is defined is to use the `defined` unary operator. The `defined` operator has one of the following forms:

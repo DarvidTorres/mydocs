@@ -1,8 +1,7 @@
 - Conditional [[compilation]] implies that source code is compiled if certain condition(s) hold true.
 - Directives control the selective/conditional compilation of portions of the program code.
-- Six directives are available to control conditional compilation.
 
-# \#if,  \#else and   \#elif
+# \#if,  \#else and  \#elif
 
 - `#if` is a preprocessor directive in C to define conditional compilation.
 - `#if` impacts the compilation process and the executable that is created.
@@ -54,23 +53,6 @@ int main()
 }
 ```
 
-Example (using the [[macros#defined|defined operator]]):
-
-```C
-#include <stdio.h>
-
-#define myMacro
-
-int main() 
-{
-	#if defined myMacro
-	    printf("%d", myMacro);
-	#endif
-	
-	return 0;
-}
-```
-
 If an identifier used in the expression is not currently defined, the compiler treats the identifier as though it were the constant zero (`FALSE`).
 
 Example:
@@ -82,6 +64,25 @@ int main()
 {
 	#if A
 	    printf("Hello World!");
+	#endif
+	
+	return 0;
+}
+```
+
+In contrast, if an identifier was created using the #[[macros#define|define]] directive but was not assigned a value, the compiler doesn't assigned a value.
+
+Example
+
+```C
+#include <stdio.h>
+
+#define myMacro
+
+int main() 
+{
+	#if defined myMacro
+	    printf("%d", myMacro);
 	#endif
 	
 	return 0;
@@ -160,7 +161,6 @@ int main() {
 }
 ```
 
-
 # \#ifndef
 
 - The `#ifdef` directive is equivalent to `#if !defined`.
@@ -206,4 +206,35 @@ int main() {
 }
 ```
 
+# \#undef
 
+- The `#undef` directive removes the current definition of identifier.
+- `#undef` can take an identifier that has no previous definition. This ensures that the identifier is undefined.
+
+Syntax:
+
+```C
+#undef <IDENTIFIER>
+```
+
+Example:
+
+```C
+#include <stdio.h>
+
+#define FOO 0
+
+int main() {
+    #ifdef FOO
+    printf("This will print\n");
+    #endif
+    
+    #undef FOO
+    
+    #ifndef FOO
+    printf("This will also print\n");
+    #endif
+    
+    return (0);
+}
+```

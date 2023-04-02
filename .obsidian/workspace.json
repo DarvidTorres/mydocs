@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IDENTIFIER",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,12 +192,12 @@
   },
   "active": "7fc6faefbf8ead3b",
   "lastOpenFiles": [
-    "C/compilation/compilation.md",
+    "C/compilation/preprocessor/macros.md",
+    "C/compilation/preprocessor/conditional compilation.md",
     "C/flow control/logical operators.md",
+    "C/compilation/compilation.md",
     "C/operators.md",
     "C/flow control/flow control && loops.md",
-    "C/compilation/preprocessor/conditional compilation.md",
-    "C/compilation/preprocessor/macros.md",
     "C/compilation/preprocessor/directives.md",
     "C/data types/pointers/pointers.md",
     "C/recursion.md",

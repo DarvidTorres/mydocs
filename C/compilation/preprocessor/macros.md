@@ -1,6 +1,6 @@
 A macro is a fragment of code which has been given a name. Whenever the name is used, it is replaced by the contents of the macro.
 
-You may define any valid identifier as a macro, even if it is a [[Overview#keywords|C keyword]], since the [[preprocessor|preprocessor]] does not know anything about keywords.
+You may define any valid identifier as a macro, even if it is a [[main function#keywords|C keyword]], since the [[preprocessor|preprocessor]] does not know anything about keywords.
 
 By convention, macro names are written in uppercase.
 

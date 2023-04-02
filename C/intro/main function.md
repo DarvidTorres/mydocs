@@ -1,6 +1,19 @@
-All the code has to be inside a function.
+- Usually, a C program starts with the `main` [[functions|function]].
+- The `main()` function is the entry point to a C/C++ program.
+- The `main()` function in C is the starting point of program execution.
+- `main()` is called when the application starts executing.
+- Since C Language is a sequentially executed [procedural language](https://en.wikipedia.org/wiki/Procedural_programming), the statement or instructions written in the main function in C are executed sequentially in the order it is written.
 
-The `main()` function is the entry point to a C/C++ program and is called when the application starts executing. 
+Syntax:
+
+```C
+int main()
+{
+    // function body
+
+    return 0;
+}
+```
 
 You have to compile C files with a compiler (for instance gcc) to create an
 executable file.

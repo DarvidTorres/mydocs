@@ -66,7 +66,7 @@ Similarly, this can be extended to other types of different size as well. For 
 
 The type of a [[variables|variable]] determines how much space it occupies in storage and how the bit pattern stored is interpreted (value range).
 
-The [[Overview#C standards|C standard]] usually does not specify exact sizes for the native types, preferring to set a basic minimum that all conforming implementations of C must meet. Implementations are free to go above these minimum requirements.
+The [[main function#C standards|C standard]] usually does not specify exact sizes for the native types, preferring to set a basic minimum that all conforming implementations of C must meet. Implementations are free to go above these minimum requirements.
 
 This means that different implementations can have different sizes for the same type.
 

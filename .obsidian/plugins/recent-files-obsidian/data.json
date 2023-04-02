@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "declaration and definition",
-      "path": "C/intro/declaration and definition.md"
+      "basename": "conditional compilation",
+      "path": "C/compilation/preprocessor/conditional compilation.md"
     },
     {
-      "basename": "Overview",
-      "path": "C/intro/Overview.md"
+      "basename": "main function",
+      "path": "C/intro/main function.md"
+    },
+    {
+      "basename": "declaration and definition",
+      "path": "C/intro/declaration and definition.md"
     },
     {
       "basename": "tokens",
@@ -23,10 +27,6 @@
     {
       "basename": "types",
       "path": "C/data types/types.md"
-    },
-    {
-      "basename": "conditional compilation",
-      "path": "C/compilation/preprocessor/conditional compilation.md"
     },
     {
       "basename": "macros",

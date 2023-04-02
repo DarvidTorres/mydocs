@@ -6,7 +6,7 @@ By convention, macro names are written in uppercase.
 
 # \#define
 
-In the C Programming Language, the `#define` [[directives|directive]] allows the definition of macros. These macro definitions allow constant values to be declared for use throughout your code.
+The `#define` [[directives|directive]] allows the definition of macros. These macro definitions allow constant values to be declared for use throughout your code.
 
 Macro definitions are not variables and cannot be changed by your program code like variables. You generally use this syntax when creating constants that represent numbers, strings or expressions.
 

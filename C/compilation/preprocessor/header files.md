@@ -1,5 +1,7 @@
 A header file is a file that contains C function declarations, [[macros|macro]] definitions, and global variables, to be shared between several source files.
 
+Including a header file produces the same results in C compilation as copying the header file into each source file that needs it. The header file eliminates the labor of finding and changing all the copies as well as the risk that a failure to find one copy will result in inconsistencies within a program.
+
 By convention, header files are named with either a `.h` extension. However, there is no requirement that this is observed.
 
 Example:

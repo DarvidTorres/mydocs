@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "tokens",
+      "path": "C/intro/tokens.md"
+    },
+    {
       "basename": "conditional compilation",
       "path": "C/compilation/preprocessor/conditional compilation.md"
+    },
+    {
+      "basename": "directives",
+      "path": "C/compilation/preprocessor/directives.md"
+    },
+    {
+      "basename": "header files",
+      "path": "C/compilation/preprocessor/header files.md"
     },
     {
       "basename": "macros",
@@ -23,10 +35,6 @@
     {
       "basename": "flow control && loops",
       "path": "C/flow control/flow control && loops.md"
-    },
-    {
-      "basename": "directives",
-      "path": "C/compilation/preprocessor/directives.md"
     },
     {
       "basename": "pointers",
@@ -71,10 +79,6 @@
     {
       "basename": "preprocessor",
       "path": "C/compilation/preprocessor/preprocessor.md"
-    },
-    {
-      "basename": "header files",
-      "path": "C/compilation/preprocessor/header files.md"
     },
     {
       "basename": "standards",
@@ -195,10 +199,6 @@
     {
       "basename": "Words",
       "path": "Utilities/Words.md"
-    },
-    {
-      "basename": "Other",
-      "path": "Utilities/Other.md"
     }
   ],
   "omittedPaths": [],

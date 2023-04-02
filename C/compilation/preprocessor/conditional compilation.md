@@ -38,13 +38,13 @@ Example (using a [[macros#define definition|macro]] definition):
 ```C
 #include <stdio.h>
 
-#define myMacro -1
+#define FOO -1
 
 int main() 
 {
-	#if myMacro % 2 == 0
+	#if FOO % 2 == 0
 	    printf("even");
-	#elif myMacro % 2 == 1 
+	#elif FOO % 2 == 1 
 	    printf("odd");
 	#else
 	    printf("none");
@@ -62,7 +62,7 @@ Example:
 
 int main() 
 {
-	#if A
+	#if FOO
 	    printf("Hello World!");
 	#endif
 	
@@ -77,12 +77,12 @@ Example
 ```C
 #include <stdio.h>
 
-#define myMacro
+#define FOO
 
 int main() 
 {
-	#if defined myMacro
-	    printf("%d", myMacro);
+	#if defined FOO
+	    printf("%d", FOO);
 	#endif
 	
 	return 0;
@@ -238,3 +238,7 @@ int main() {
     return (0);
 }
 ```
+
+# \#error
+
+The `#error` directive emits a user-specified error message at compile time, and then terminates the compilation.

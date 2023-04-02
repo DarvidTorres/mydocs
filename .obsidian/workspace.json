@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/intro/tokens.md",
+                "file": "C/intro/operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,16 +161,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "b546043ba531341b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "C/intro/tokens.md"
               }
             }
           },
@@ -194,9 +184,25 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/intro/tokens.md",
+                "file": "C/intro/operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "56b9eb0cf54a8fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b546043ba531341b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C/intro/operators.md"
               }
             }
           }
@@ -217,10 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98e44c6f3f0bfcbd",
+  "active": "5615f77d93d8a17e",
   "lastOpenFiles": [
-    "C/intro/operators.md",
     "C/intro/tokens.md",
+    "C/intro/operators.md",
     "C/data types/type qualifiers.md",
     "C/compilation/preprocessor/macros.md",
     "C/compilation/preprocessor/conditional compilation.md",

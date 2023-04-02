@@ -9,7 +9,7 @@ In the C language, the following types of tokens are available:
 - Special Characters
 - Strings
 
-# keywords
+# Keywords
 
 - Keywords are tokens pre-defined in the C compiler.
 - Each Keyword is meant to perform a specific function in a C program.
@@ -19,7 +19,7 @@ Examples:
 
 `auto`, `double`, `int`, `struct`, `break`, `else`, `long`, `switch`, `case`, `enum`, `register`, `typedef`, `char`, `extern`, `return`, `union`, `const`, `float`, `short`, `unsigned`, `continue`, `for`, `signed`, `void`, `default`, `goto`, `sizeof`, `volatile`, `do`, `if`, `static`, `while`, `const`, `signed`, `void` and `volatile`
 
-# identifiers
+# Identifiers
 
 - Identifiers are labels/names that uniquely identify variables or functions.
 - Identifiers are user-defined words.
@@ -54,7 +54,7 @@ int        //keyword
 Foo(100)   //circular brackets can't be used
 ```
 
-# constants
+# Constants
 
 - A constant is a fixed value that cannot be altered during the execution of a program.
 - Constant values cannot be changed.
@@ -63,4 +63,12 @@ We can declare a constant using:
 - the [[type qualifiers#const|const]] keyword
 - the [[macros#define|define directive]].
 
-![[operators]]
+# Operators
+
+- [[operators|Operators]] in C are special symbols used to perform specific functions
+- Variables on which the operators are applied are known as operands.
+
+# Special characters
+
+
+

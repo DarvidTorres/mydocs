@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "tokens",
-      "path": "C/intro/tokens.md"
-    },
-    {
       "basename": "operators",
       "path": "C/intro/operators.md"
+    },
+    {
+      "basename": "tokens",
+      "path": "C/intro/tokens.md"
     },
     {
       "basename": "type qualifiers",

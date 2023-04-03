@@ -242,3 +242,69 @@ int main() {
 # \#error
 
 The `#error` directive emits a user-specified error message at compile time, and then terminates the compilation.
+
+This directive is most useful during preprocessing, to notify the developer of a program inconsistency, or the violation of a constraint. 
+
+Usually, the error message is associated with preprocessor conditional statements like `#if`, `#ifdef` and others.
+
+Syntax:
+
+```C
+#error <error message
+```
+
+Example:
+
+```C
+#include<stdio.h>
+
+#define FOO 1
+
+#if !defined FOO || FOO < 2
+#error FOO is not defined or is less than 2
+#endif
+
+int main()
+{
+    return 0;
+}
+```
+
+Example:
+
+```C
+#include<stdio.h>
+
+#ifndef _MATH_H
+#error You need to include math.h
+#else
+
+int main()
+{
+    float a = sqrt(5);
+    printf("%f", a);
+    return 0;
+}
+
+#endif
+```
+
+If we include the required header, the program with compile:
+
+```C
+#include<stdio.h>
+#include<math.h>
+
+#ifndef _MATH_H
+#error You need to include math.h
+#else
+
+int main()
+{
+    float a = sqrt(5);
+    printf("%f", a);
+    return 0;
+}
+
+#endif
+```

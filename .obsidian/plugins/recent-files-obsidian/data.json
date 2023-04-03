@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "macros",
+      "path": "C/compilation/preprocessor/macros.md"
+    },
+    {
+      "basename": "directives",
+      "path": "C/compilation/preprocessor/directives.md"
+    },
+    {
       "basename": "conditional compilation",
       "path": "C/compilation/preprocessor/conditional compilation.md"
     },
@@ -29,20 +37,12 @@
       "path": "C/data types/types.md"
     },
     {
-      "basename": "macros",
-      "path": "C/compilation/preprocessor/macros.md"
-    },
-    {
       "basename": "type qualifiers",
       "path": "C/data types/type qualifiers.md"
     },
     {
       "basename": "variables",
       "path": "C/variables/variables.md"
-    },
-    {
-      "basename": "directives",
-      "path": "C/compilation/preprocessor/directives.md"
     },
     {
       "basename": "header files",

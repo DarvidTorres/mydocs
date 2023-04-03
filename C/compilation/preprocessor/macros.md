@@ -135,6 +135,36 @@ As the preprocessor changes the code: `SQRT(3 + 1)` into `3+1*3+1`, and thus, no
 
 The above, is an example of [macro pitfalls](https://gcc.gnu.org/onlinedocs/cpp/Macro-Pitfalls.html#Macro-Pitfalls).
 
+## Stringizing
+
+The stringizing operator (`#`) converts function-like macro parameters to string literals.
+
+It is only used in conjunction with function-like macros (macros that take arguments).
+
+Syntax:
+
+```C
+#define <MACRO_NAME>(<parameter>) #<parameter>
+```
+
+Example:
+
+```C
+#include <stdio.h>
+#define FOO(a) #a
+
+int main() {
+    
+    printf(FOO(Foo));
+    printf("\n" FOO(Bar));
+    
+    return 0;
+}
+```
+
+`#<parameter>` converts the macro parameter to a string. The preprocessor turns the line `printf(FOO(Foo));` into `printf("Foo");`
+
+
 # chain-like
 
 We can use macros inside macro definitions.
@@ -184,7 +214,4 @@ int main()
 	return (0);
 }
 ```
-
-
-
 

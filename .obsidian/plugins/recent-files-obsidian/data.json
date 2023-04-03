@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "type qualifiers",
+      "path": "C/data types/type qualifiers.md"
+    },
+    {
+      "basename": "compilation",
+      "path": "C/compilation/compilation.md"
+    },
+    {
+      "basename": "conditional compilation",
+      "path": "C/compilation/preprocessor/conditional compilation.md"
+    },
+    {
       "basename": "macros",
       "path": "C/compilation/preprocessor/macros.md"
     },
     {
       "basename": "directives",
       "path": "C/compilation/preprocessor/directives.md"
-    },
-    {
-      "basename": "conditional compilation",
-      "path": "C/compilation/preprocessor/conditional compilation.md"
     },
     {
       "basename": "main function",
@@ -37,10 +45,6 @@
       "path": "C/data types/types.md"
     },
     {
-      "basename": "type qualifiers",
-      "path": "C/data types/type qualifiers.md"
-    },
-    {
       "basename": "variables",
       "path": "C/variables/variables.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "logical operators",
       "path": "C/flow control/logical operators.md"
-    },
-    {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
     },
     {
       "basename": "flow control && loops",

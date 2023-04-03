@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/compilation/preprocessor/conditional compilation.md",
+                "file": "C/compilation/compilation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/compilation/preprocessor/macros.md",
+                "file": "C/data types/type qualifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/compilation/preprocessor/macros.md",
+                "file": "C/data types/type qualifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/compilation/preprocessor/macros.md"
+                "file": "C/data types/type qualifiers.md"
               }
             }
           }
@@ -236,22 +236,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9cf1b70e6f2b5d20",
+  "active": "5e78210f595e703e",
   "lastOpenFiles": [
-    "C/compilation/preprocessor/directives.md",
-    "C/compilation/preprocessor/macros.md",
+    "C/compilation/compilation.md",
     "C/compilation/preprocessor/conditional compilation.md",
+    "C/compilation/preprocessor/macros.md",
+    "C/data types/type qualifiers.md",
+    "C/compilation/preprocessor/directives.md",
     "C/intro/main function.md",
     "C/intro/declaration and definition.md",
     "C/intro/tokens.md",
     "C/intro/operators.md",
     "C/flow control/if else.md",
     "C/data types/types.md",
-    "C/data types/type qualifiers.md",
     "C/variables/variables.md",
     "C/compilation/preprocessor/header files.md",
     "C/flow control/logical operators.md",
-    "C/compilation/compilation.md",
     "C/flow control/flow control && loops.md",
     "C/data types/pointers/pointers.md",
     "C/recursion.md",

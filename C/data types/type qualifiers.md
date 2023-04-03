@@ -1,4 +1,9 @@
-A type qualifier is a keyword that is applied to a type, resulting in a qualified type.
+A type qualifier is a [[tokens#Keywords|keyword]] that is applied to a type, resulting in a qualified type.
+
+A type qualifier is used to refine the declaration of a variable, a function, and parameters, by specifying whether:
+- The value of an object can be changed.
+- The value of an object must always be read from memory rather than from a register.
+- More than one pointer can access a modifiable memory address.
 
 C supports:
 - `const`
@@ -61,3 +66,8 @@ const int BIRTHYEAR = 1980;
 ```
 
 # volatile
+
+A volatile qualifier is used to declare a variable that can be changed at any point of time and explicitly, i.e., it always tells the compiler that the variable’s value may change at any time.
+It will be useful for embedding programming in order to keep the updated value that can be changed from various interrupts.
+To declare a volatile variable, the keyword ‘volatile’ is used.
+In order to declare a volatile variable, include the keyword volatile before or after the data type.

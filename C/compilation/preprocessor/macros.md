@@ -155,15 +155,13 @@ Example:
 
 int main() {
     
-    printf(FOO(Foo));
-    printf("\n" FOO(Bar));
+    printf(FOO(Bar));
     
     return 0;
 }
 ```
 
-`#<parameter>` converts the macro parameter to a string. The preprocessor turns the line `printf(FOO(Foo));` into `printf("Foo");`
-
+`#<parameter>` converts the macro parameter to a string. The preprocessor turns the line `printf(FOO(Bar));` into `printf("Bar");`.
 
 # chain-like
 
@@ -215,3 +213,30 @@ int main()
 }
 ```
 
+# Token-Pasting Operator
+
+- `##` is used in both object-like and function-like macros.
+- This operator is used in the macro definition.
+- It permits separate tokens to be joined into a single token.
+- Can't be the first or last token in the macro definition
+- `##` is sometimes called the merging or combining operator.
+
+Syntax:
+
+```C
+#define <MACRO>(<<param1>, <param2>) <param1>##<param2>
+```
+
+Example:
+
+```C
+#include <stdio.h>
+#define FOO(a, b) a##b
+
+int main() {
+    
+    printf("The concatenated result is: %d", FOO(3,1));
+    
+    return 0;
+}
+```

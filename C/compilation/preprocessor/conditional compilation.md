@@ -250,7 +250,7 @@ Usually, the error message is associated with preprocessor conditional statement
 Syntax:
 
 ```C
-#error <error message
+#error <error message>
 ```
 
 Example:
@@ -307,4 +307,32 @@ int main()
 }
 
 #endif
+```
+
+# \#warning
+
+In the C Programming Language, the `#warning` directive is similar to an `#error` directive, but does not result in the cancellation of preprocessing.
+
+Syntax:
+
+```C
+#warning <warning message>
+```
+
+Example:
+
+```C
+#include <stdio.h>
+
+int main() {
+   int a;
+
+   #warning The variable a may exceed the size of a 32 bit integer
+
+   a = 12 * 365 * 24 * 60 * 60;
+
+   printf("a is %d\n", a);
+
+   return 0;
+}
 ```

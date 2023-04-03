@@ -71,3 +71,5 @@ A volatile qualifier is used to declare a variable that can be changed at any po
 It will be useful for embedding programming in order to keep the updated value that can be changed from various interrupts.
 To declare a volatile variable, the keyword ‘volatile’ is used.
 In order to declare a volatile variable, include the keyword volatile before or after the data type.
+
+https://www.tutorialandexample.com/type-qualifiers-in-c

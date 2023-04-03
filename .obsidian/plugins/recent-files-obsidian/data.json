@@ -5,6 +5,10 @@
       "path": "C/data types/type qualifiers.md"
     },
     {
+      "basename": "scope",
+      "path": "C/variables/scope.md"
+    },
+    {
       "basename": "compilation",
       "path": "C/compilation/compilation.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "address",
       "path": "C/memory/address.md"
-    },
-    {
-      "basename": "scope",
-      "path": "C/variables/scope.md"
     },
     {
       "basename": "floats",

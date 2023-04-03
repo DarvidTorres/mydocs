@@ -71,6 +71,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "155f251a1a6b956c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/variables/scope.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -238,10 +251,11 @@
   },
   "active": "5e78210f595e703e",
   "lastOpenFiles": [
+    "C/variables/scope.md",
+    "C/data types/type qualifiers.md",
     "C/compilation/compilation.md",
     "C/compilation/preprocessor/conditional compilation.md",
     "C/compilation/preprocessor/macros.md",
-    "C/data types/type qualifiers.md",
     "C/compilation/preprocessor/directives.md",
     "C/intro/main function.md",
     "C/intro/declaration and definition.md",
@@ -270,7 +284,6 @@
     "C/data types/Untitled",
     "C/variables/format specifiers.md",
     "C/compilation",
-    "C/memory/memory.md",
     "C/data types/arrays",
     "C/variables",
     "C/data types/pointers",

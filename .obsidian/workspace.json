@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcec8f7d994ecf55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/intro/operators.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98e44c6f3f0bfcbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/intro/main function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7fc6faefbf8ead3b",
             "type": "leaf",
             "state": {
@@ -47,38 +21,12 @@
             }
           },
           {
-            "id": "9cf1b70e6f2b5d20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/compilation/preprocessor/macros.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5e78210f595e703e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/data types/type qualifiers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "155f251a1a6b956c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/variables/scope.md",
+                "file": "Bash/Bash commands.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 200
   },
   "right": {
     "id": "5bb57be36f262ef5",
@@ -168,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/data types/type qualifiers.md",
+                "file": "Bash/Bash commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/data types/type qualifiers.md",
+                "file": "Bash/Bash commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/data types/type qualifiers.md"
+                "file": "Bash/Bash commands.md"
               }
             }
           }
@@ -251,9 +199,10 @@
   },
   "active": "5e78210f595e703e",
   "lastOpenFiles": [
-    "C/variables/scope.md",
-    "C/data types/type qualifiers.md",
+    "C/compilation/compiler/GCC Linux.md",
     "C/compilation/compilation.md",
+    "C/data types/type qualifiers.md",
+    "C/variables/scope.md",
     "C/compilation/preprocessor/conditional compilation.md",
     "C/compilation/preprocessor/macros.md",
     "C/compilation/preprocessor/directives.md",
@@ -272,7 +221,6 @@
     "C/functions/prototypes.md",
     "C/functions/functions.md",
     "C/data types/pointers/function pointers.md",
-    "C/compilation/compiler/compiler.md",
     "C/flow control",
     "C/compilation/preprocessor/preprocessor.md",
     "C/compilation/preprocessor/Untitled",

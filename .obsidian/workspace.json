@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a206e18605ce3ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/functions/write.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/functions/printf.md",
+                "file": "C/functions/write.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/functions/printf.md",
+                "file": "C/functions/write.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/functions/printf.md"
+                "file": "C/functions/write.md"
               }
             }
           }
@@ -197,11 +210,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "351b9f2281804654",
+  "active": "a206e18605ce3ca8",
   "lastOpenFiles": [
+    "C/functions/printf.md",
+    "C/functions/write.md",
     "C/compilation/compilation.md",
     "Bash/Bash commands.md",
-    "C/functions/printf.md",
     "C/compilation/compiler/GCC Linux.md",
     "github/git_github.md",
     "C/data types/type qualifiers.md",
@@ -225,7 +239,6 @@
     "C/functions/functions.md",
     "C/data types/pointers/function pointers.md",
     "C/flow control",
-    "C/compilation/preprocessor/preprocessor.md",
     "C/compilation/preprocessor/Untitled",
     "C/intro",
     "C/compilation/compiler",

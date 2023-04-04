@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "write",
+      "path": "C/functions/write.md"
+    },
+    {
       "basename": "printf",
       "path": "C/functions/printf.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vocab",
       "path": "Languages/French/Vocab.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Languages/French/Resources.md"
     }
   ],
   "omittedPaths": [],

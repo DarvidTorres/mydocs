@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Bash commands.md",
+                "file": "github/git_github.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/Bash commands.md",
+                "file": "github/git_github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/Bash commands.md",
+                "file": "github/git_github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/Bash commands.md"
+                "file": "github/git_github.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   },
   "active": "5e78210f595e703e",
   "lastOpenFiles": [
+    "Bash/Bash commands.md",
     "C/compilation/compiler/GCC Linux.md",
     "C/compilation/compilation.md",
     "C/data types/type qualifiers.md",
@@ -230,7 +231,6 @@
     "C/compilation/preprocessor",
     "C/variables/constants.md",
     "C/data types/Untitled",
-    "C/variables/format specifiers.md",
     "C/compilation",
     "C/data types/arrays",
     "C/variables",

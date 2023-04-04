@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "git_github",
-      "path": "github/git_github.md"
+      "basename": "printf",
+      "path": "C/functions/printf.md"
+    },
+    {
+      "basename": "compilation",
+      "path": "C/compilation/compilation.md"
     },
     {
       "basename": "Bash commands",
@@ -13,8 +17,8 @@
       "path": "C/compilation/compiler/GCC Linux.md"
     },
     {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
+      "basename": "git_github",
+      "path": "github/git_github.md"
     },
     {
       "basename": "type qualifiers",
@@ -195,10 +199,6 @@
     {
       "basename": "Resources",
       "path": "Languages/French/Resources.md"
-    },
-    {
-      "basename": "Key bindings hot keys",
-      "path": "Utilities/Key bindings hot keys.md"
     }
   ],
   "omittedPaths": [],

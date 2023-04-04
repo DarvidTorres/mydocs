@@ -11,7 +11,7 @@ The GNU preprocessor (cpp.exe) creates an intermediate file having the source co
 
 `gcc hello.c -o given_name`: compile hello.c and create an executable given_name.
 
-`gcc -E $CFILE > c`: runs a C file through the preprocessor and save the result into another file
+`gcc -E $CFILE -o c`: runs a C file through the preprocessor and save the result into another file
 
 `gcc -E main.c > main.i`: The output of preprocessing stage can be produced using the -E option.
 

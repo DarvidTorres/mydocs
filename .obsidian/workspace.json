@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/intro/standards.md",
+                "file": "C/functions/printf.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "af55bc0fe283fce4",
@@ -156,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/data types/type casting.md",
+                "file": "C/functions/printf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/data types/type casting.md",
+                "file": "C/functions/printf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/data types/type casting.md"
+                "file": "C/functions/printf.md"
               }
             }
           }
@@ -247,10 +245,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d94c6d9b53bb735f",
+  "active": "f7290efb98291816",
   "lastOpenFiles": [
-    "C/functions/prototypes.md",
     "C/functions/functions.md",
+    "C/intro/standards.md",
+    "C/data types/type casting.md",
+    "C/functions/prototypes.md",
     "Bash/Bash commands.md",
     "C/compilation/preprocessor/conditional compilation.md",
     "C/functions/printf.md",
@@ -258,7 +258,6 @@
     "C/compilation/compilation.md",
     "C/compilation/compiler/compiler.md",
     "C/compilation/linker.md",
-    "C/intro/standards.md",
     "C/intro/comments.md",
     "Bash/input and output.md",
     "C/compilation/preprocessor/preprocessor.md",
@@ -274,7 +273,6 @@
     "C/compilation/preprocessor/directives.md",
     "C/intro/main function.md",
     "C/intro/declaration and definition.md",
-    "C/intro/tokens.md",
     "C/flow control",
     "C/compilation/preprocessor/Untitled",
     "C/intro",

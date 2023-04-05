@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "printf",
+      "path": "C/functions/printf.md"
+    },
+    {
+      "basename": "functions",
+      "path": "C/functions/functions.md"
+    },
+    {
+      "basename": "standards",
+      "path": "C/intro/standards.md"
+    },
+    {
       "basename": "type casting",
       "path": "C/data types/type casting.md"
     },
@@ -9,20 +21,12 @@
       "path": "C/functions/prototypes.md"
     },
     {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
-    },
-    {
       "basename": "Bash commands",
       "path": "Bash/Bash commands.md"
     },
     {
       "basename": "conditional compilation",
       "path": "C/compilation/preprocessor/conditional compilation.md"
-    },
-    {
-      "basename": "printf",
-      "path": "C/functions/printf.md"
     },
     {
       "basename": "GCC",
@@ -39,10 +43,6 @@
     {
       "basename": "linker",
       "path": "C/compilation/linker.md"
-    },
-    {
-      "basename": "standards",
-      "path": "C/intro/standards.md"
     },
     {
       "basename": "comments",

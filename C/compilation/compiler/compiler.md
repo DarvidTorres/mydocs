@@ -9,12 +9,11 @@
 - The usual way to run GCC is to run the executable called `gcc`.
 - The `gcc` program accepts [options](https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html) and file names as operands. 
 - The most important option required while compiling a source code file is the name of the source program.
-- The different options of `gcc` command allow the user to stop the compilation process at different stages.
 
 Syntax:
 
 ```C
-gcc <file.c> [-c|-S|-E] [-std=standard]
+gcc <file.c> [-c|-S|-E] [-std=standard] ...
 ```
 
 When you invoke GCC, it normally does preprocessing, compilation, assembly and linking.
@@ -27,15 +26,50 @@ Given a file named `source.c`, we can create an executable by running:
 gcc source.c
 ```
 
-This will compile `file.c` and give the output file as `a.out` file which is the default name of output file given by `gcc` compiler, which can be executed using `./a.out`.
+This will compile `file.c` and give an output file in the same directory as `file.c`, the output file default name is `a.out`, which can be executed using `./a.out`.
 
-![](https://i.imgur.com/F4mwCfa.png)
+![](https://i.imgur.com/gFEHipy.png)
 
+Note:
+- `$?` is a Bash [[special variables|built-in variable]] that stores the exit status of a command, function, or the script itself. 
+- `$?` reads the exit status of the last command executed.
+- After a function returns, `$?` gives the exit status of the last command executed in the function.
 
+The different options of `gcc` command allow the user to stop the compilation process at different stages.
 
-`gcc file.c`: compile file.c, it creates an a.out file in the same location.
+# output file
 
-`gcc hello.c -o given_name`: compile hello.c and create an executable given_name.
+- Change the default output file name.
+
+Syntax:
+
+```C
+-o <file>
+```
+
+- Place output in `<file>`. This applies regardless to whatever sort of [output](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html#Overall-Options) is being produced, whether it be an executable file, an object file, an assembler file or preprocessed C code.
+	- If `-o` is not specified, the default is to put an executable file in `a.out`.
+
+![](https://i.imgur.com/XSIioWd.png)
+
+# preprocessing
+
+To stop the compiler at the preprocessing stage (before compilation) use `-E` option.
+
+![](https://i.imgur.com/vEekSpI.png)
+
+Using the `-E` option, we get C code as [[input and output|standard output]], but there's no new file, as the [[preprocessor]] doesn't create executables.
+
+We can create a new file that contains the preprocessed source code using `-o` option.
+
+![](https://i.imgur.com/XtemrPe.png)
+
+Though not required, preprocessed files (files that have been run through the preprocessor) are indicated with the `.i` extension. It is usually this extension which is characteristic of files created as the preprocessor output.
+
+So, an `file.i` indicates C source code that should not be preprocessed (as it has been preprocessed already).
+
+![](https://i.imgur.com/cibftll.png)
+
 
 `gcc -E $CFILE -o c`: runs a C file through the preprocessor and save the result into another file
 

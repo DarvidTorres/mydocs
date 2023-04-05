@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "special variables",
-      "path": "Bash/special variables.md"
-    },
-    {
       "basename": "compiler",
       "path": "C/compilation/compiler/compiler.md"
     },
     {
       "basename": "compilation",
       "path": "C/compilation/compilation.md"
+    },
+    {
+      "basename": "input and output",
+      "path": "Bash/input and output.md"
+    },
+    {
+      "basename": "Bash commands",
+      "path": "Bash/Bash commands.md"
+    },
+    {
+      "basename": "special variables",
+      "path": "Bash/special variables.md"
     },
     {
       "basename": "memory",
@@ -43,10 +51,6 @@
     {
       "basename": "printf",
       "path": "C/functions/printf.md"
-    },
-    {
-      "basename": "Bash commands",
-      "path": "Bash/Bash commands.md"
     },
     {
       "basename": "git_github",
@@ -195,10 +199,6 @@
     {
       "basename": "Intro",
       "path": "VBA/Intro.md"
-    },
-    {
-      "basename": "Visual Basic Editor",
-      "path": "VBA/Visual Basic Editor.md"
     }
   ],
   "omittedPaths": [],

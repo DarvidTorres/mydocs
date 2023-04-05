@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/compilation/compiler/compiler.md",
+                "file": "C/intro/comments.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,6 +52,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "C/compilation/compiler/compiler.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "428a5b97ea64ac51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "C/compilation/compilation.md",
                 "mode": "source",
                 "backlinks": true,
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "output",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "2c6675d20a6807f8",
@@ -224,16 +237,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eeba79a845d86df0",
+  "active": "52e2a4f79c39215b",
   "lastOpenFiles": [
     "C/compilation/compilation.md",
-    "Bash/input and output.md",
-    "Bash/Bash commands.md",
     "C/compilation/compiler/compiler.md",
+    "Bash/input and output.md",
+    "C/intro/comments.md",
+    "C/intro/comments.md",
+    "C/compilation/preprocessor/preprocessor.md",
+    "Bash/Bash commands.md",
     "Bash/special variables.md",
     "C/memory/memory.md",
     "C/compilation/linker.md",
-    "C/compilation/preprocessor/preprocessor.md",
     "C/compilation/assembler.md",
     "C/compilation/preprocessor/header files.md",
     "C/variables/scope.md",
@@ -250,8 +265,6 @@
     "C/intro/operators.md",
     "C/flow control/if else.md",
     "C/data types/types.md",
-    "C/variables/variables.md",
-    "C/flow control/logical operators.md",
     "C/flow control",
     "C/compilation/preprocessor/Untitled",
     "C/intro",

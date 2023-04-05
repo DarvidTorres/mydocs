@@ -13,6 +13,14 @@
       "path": "Bash/input and output.md"
     },
     {
+      "basename": "comments",
+      "path": "C/intro/comments.md"
+    },
+    {
+      "basename": "preprocessor",
+      "path": "C/compilation/preprocessor/preprocessor.md"
+    },
+    {
       "basename": "Bash commands",
       "path": "Bash/Bash commands.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "linker",
       "path": "C/compilation/linker.md"
-    },
-    {
-      "basename": "preprocessor",
-      "path": "C/compilation/preprocessor/preprocessor.md"
     },
     {
       "basename": "assembler",
@@ -177,10 +181,6 @@
       "path": "C/data types/pointers/pointer arithmetic.md"
     },
     {
-      "basename": "comments",
-      "path": "C/comments.md"
-    },
-    {
       "basename": "make files",
       "path": "C/make files.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Object model",
       "path": "VBA/Object model.md"
-    },
-    {
-      "basename": "Intro",
-      "path": "VBA/Intro.md"
     }
   ],
   "omittedPaths": [],

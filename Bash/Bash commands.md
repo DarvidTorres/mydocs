@@ -92,8 +92,8 @@ All followed by the file or folder name.
 
 Here are some examples:
 
-`chmod a+r filename` #everyone can now read
-`chmod a+rw filename` #everyone can now read and write
+`chmod a+r filename` `#everyone` can now read
+`chmod a+rw filename` `#everyone` can now read and write
 `chmod o-rwx filename`
 
 For directories we do:

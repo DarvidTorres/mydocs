@@ -1,11 +1,17 @@
 - A compiler is a computer program that translates computer code written in one programming language (the source language) into another language (the target language).
 - Compile-time is the time period when a program code is translated into a low-level code or machine code, either by a compiler or an interpreter. Compile-time is the period of time from the beginning to the end of the process.
 - Runtime refers to the time when the converted code, which is now in low level or machine code, is executed. In other words, runtime refers to the time when the code does what it was written to do.
+
+# GCC
+
 - GCC stands for [GNU](https://gcc.gnu.org/) Compiler Collection.
-- GCC is a [[compilation|compiler]] system.
-
-# gcc
-
+- GCC comprises a number of compilers for different programming languages.
+- GCC is a driver program that invokes the appropriate [[compilation]] programs:
+	- C Preprocessor (cpp)
+	- Compiler: `cc1`
+		- Program `cc1` includes both the cpp and C compiler.
+	- Assembler: `as`
+	- Linker: `collect2`
 - The usual way to run GCC is to run the executable called `gcc`.
 - The `gcc` program accepts [options](https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html) and file names as operands. 
 - The most important option required while compiling a source code file is the name of the source program.
@@ -16,7 +22,7 @@ Syntax:
 gcc <file.c> [-c|-S|-E] [-std=standard] ...
 ```
 
-When you invoke GCC, it normally does preprocessing, compilation, assembly and linking.
+When you invoke GCC, by default it performs preprocessing, compilation, assembly and linking.
 
 Example:
 
@@ -66,14 +72,22 @@ We can create a new file that contains the preprocessed source code using `-o` o
 
 Though not required, preprocessed files (files that have been run through the preprocessor) are indicated with the `.i` extension. It is usually this extension which is characteristic of files created as the preprocessor output.
 
-So, an `file.i` indicates C source code that should not be preprocessed (as it has been preprocessed already).
+So, a `.i` file is preprocessed source code, so it has already been preprocessed. Therefore, it already contains:
+- all [[header files]] included
+- [[macros]] replaced
+- [[comments]] removed
 
 ![](https://i.imgur.com/cibftll.png)
 
+# compilation proper
 
-`gcc -E $CFILE -o c`: runs a C file through the preprocessor and save the result into another file
+Since many people refer to the entire build process as [[compilation]], this stage is often referred to as compilation proper.
 
-`gcc -E main.c > main.i`: The output of preprocessing stage can be produced using the -E option.
+to stop after the stage of compilation proper; do not assemble.
+
+To generate [assembly language](https://en.wikipedia.org/wiki/Assembly_language) 
+
+
 
 `gcc -S main.c > main.s`: The assembly level output can be produced using the -S option.
 

@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/compilation/compiler/compiler.md",
+                "file": "C/compilation/compilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,9 +184,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "1b5e54e17257efae",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "2c6675d20a6807f8",
@@ -198,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/compilation/compiler/compiler.md",
+                "file": "C/compilation/compilation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/compilation/compiler/compiler.md"
+                "file": "C/compilation/compilation.md"
               }
             }
           }
@@ -234,14 +242,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "52e2a4f79c39215b",
+  "active": "428a5b97ea64ac51",
   "lastOpenFiles": [
-    "C/compilation/compilation.md",
-    "C/compilation/compiler/compiler.md",
     "Bash/input and output.md",
+    "C/compilation/compiler/compiler.md",
+    "C/compilation/compilation.md",
     "C/intro/comments.md",
     "C/intro/comments.md",
     "C/compilation/preprocessor/preprocessor.md",

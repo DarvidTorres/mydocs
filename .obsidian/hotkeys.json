@@ -69,5 +69,14 @@
       ],
       "key": "P"
     }
+  ],
+  "mermaid-tools:open-toolbar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }

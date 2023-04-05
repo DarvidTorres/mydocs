@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "compiler",
-      "path": "C/compilation/compiler/compiler.md"
-    },
-    {
       "basename": "compilation",
       "path": "C/compilation/compilation.md"
     },
     {
       "basename": "input and output",
       "path": "Bash/input and output.md"
+    },
+    {
+      "basename": "compiler",
+      "path": "C/compilation/compiler/compiler.md"
     },
     {
       "basename": "comments",

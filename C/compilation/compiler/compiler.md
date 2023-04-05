@@ -83,9 +83,7 @@ So, a `.i` file is preprocessed source code, so it has already been preprocessed
 
 Since many people refer to the entire build process as [[compilation]], this stage is often referred to as compilation proper.
 
-to stop after the stage of compilation proper; do not assemble.
-
-To generate [assembly language](https://en.wikipedia.org/wiki/Assembly_language) 
+To stop after the stage of compilation (generate [assembly code](https://en.wikipedia.org/wiki/Assembly_language) ) proper but do not assemble (don't generate [machine code](https://en.wikipedia.org/wiki/Machine_code))
 
 
 

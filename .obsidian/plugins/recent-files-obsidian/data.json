@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "assembler",
+      "path": "C/compilation/assembler.md"
+    },
+    {
       "basename": "compilation",
       "path": "C/compilation/compilation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "mv",
       "path": "Bash/mv.md"
-    },
-    {
-      "basename": "Vocab",
-      "path": "Languages/French/Vocab.md"
     }
   ],
   "omittedPaths": [],

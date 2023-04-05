@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "f1ae17910608a066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/compilation/assembler.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2e92b25c089fff11",
             "type": "leaf",
             "state": {
@@ -72,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/compilation/compilation.md",
+                "file": "C/compilation/assembler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/compilation/compilation.md",
+                "file": "C/compilation/assembler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/compilation/compilation.md"
+                "file": "C/compilation/assembler.md"
               }
             }
           }
@@ -235,10 +249,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fc6faefbf8ead3b",
+  "active": "f1ae17910608a066",
   "lastOpenFiles": [
-    "C/compilation/compiler/GCC Linux.md",
     "C/compilation/compilation.md",
+    "C/compilation/assembler.md",
+    "C/compilation/compiler/GCC Linux.md",
     "C/compilation/preprocessor/preprocessor.md",
     "C/compilation/preprocessor/header files.md",
     "C/variables/scope.md",
@@ -262,7 +277,6 @@
     "C/data types/pointers/pointers.md",
     "C/recursion.md",
     "C/functions/prototypes.md",
-    "C/functions/functions.md",
     "C/flow control",
     "C/compilation/preprocessor/Untitled",
     "C/intro",

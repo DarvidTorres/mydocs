@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "assembler",
-      "path": "C/compilation/assembler.md"
+      "basename": "compiler",
+      "path": "C/compilation/compiler/compiler.md"
     },
     {
       "basename": "compilation",
       "path": "C/compilation/compilation.md"
     },
     {
-      "basename": "GCC Linux",
-      "path": "C/compilation/compiler/GCC Linux.md"
+      "basename": "memory",
+      "path": "C/memory/memory.md"
+    },
+    {
+      "basename": "linker",
+      "path": "C/compilation/linker.md"
     },
     {
       "basename": "preprocessor",
       "path": "C/compilation/preprocessor/preprocessor.md"
+    },
+    {
+      "basename": "assembler",
+      "path": "C/compilation/assembler.md"
     },
     {
       "basename": "header files",
@@ -121,10 +129,6 @@
       "path": "C/variables/format specifiers.md"
     },
     {
-      "basename": "memory",
-      "path": "C/memory/memory.md"
-    },
-    {
       "basename": "pointers && arrays",
       "path": "C/data types/arrays/pointers && arrays.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "R",
       "path": "R/R.md"
-    },
-    {
-      "basename": "mv",
-      "path": "Bash/mv.md"
     }
   ],
   "omittedPaths": [],

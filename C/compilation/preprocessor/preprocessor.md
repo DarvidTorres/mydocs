@@ -1,5 +1,5 @@
 - Before the [[compilation]], every program is passed through a preprocessor.
-- The preprocessor is not part of the [[GCC Linux]], but is a separate step in the compilation process.
+- The preprocessor is not part of the [[compiler]], but is a separate step in the compilation process.
 - The preprocessor performs preliminary operations to source code before the compilation.
 - The transformations executed by the preprocessor are lexical; the output of the preprocessor is still text.
 

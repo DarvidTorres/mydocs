@@ -1,3 +1,6 @@
+- A compiler is a computer program that translates computer code written in one programming language (the source language) into another language (the target language).
+- Compile-time is the time period when a program code is translated into a low-level code or machine code, either by a compiler or an interpreter. Compile-time is the period of time from the beginning to the end of the process.
+- Runtime refers to the time when the converted code, which is now in low level or machine code, is executed. In other words, runtime refers to the time when the code does what it was written to do.
 - GCC stands for GNU Compiler Collection.
 - GCC is a [[compilation|compiler]] system.
 - The GCC compiles and makes executable a program in the following steps:

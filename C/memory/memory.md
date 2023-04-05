@@ -44,8 +44,6 @@ The heap is for dynamic allocation of memory.
 - Memory allocation and de-allocation are faster as compared to Heap-memory allocation.
 - Stack memory has less storage space as compared to Heap-memory.
 
-![stack vs heap | 300](https://i.imgur.com/8KoJ9JE.png)
-
 # dynamic memory allocation
 
 ## dynamic memory allocation

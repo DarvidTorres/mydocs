@@ -103,7 +103,15 @@ To produce an executable, we have to call the linker.
 
 # linking
 
-It is possible to invoke the [[linker]] directly, but this is seldom advisable, and is typically very platform-specific. That is, options that work on Linux won't necessarily work on Solaris, AIX, macOS, Windows, and similarly for any other platform. If you work with GCC, you can use gcc -v to see what is executed on your behalf.
+It is possible to invoke the [[linker]] directly, but this is seldom advisable, and is typically very platform-specific. That is, options that work on Linux won't necessarily work on Solaris, AIX, macOS, Windows, and similarly for any other platform.
+
+The linker is implicitly invoked by `gcc`:
+
+![](https://i.imgur.com/MpQfLHc.png)
+
+we can also produce object files for each file that we want to link, and then take the object files and actually link them:
+
+![](https://i.imgur.com/FkwPYpp.png)
 
 # other options
 

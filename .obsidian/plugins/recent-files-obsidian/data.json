@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "type casting",
+      "path": "C/data types/type casting.md"
+    },
+    {
+      "basename": "prototypes",
+      "path": "C/functions/prototypes.md"
+    },
+    {
+      "basename": "functions",
+      "path": "C/functions/functions.md"
+    },
+    {
+      "basename": "Bash commands",
+      "path": "Bash/Bash commands.md"
+    },
+    {
+      "basename": "conditional compilation",
+      "path": "C/compilation/preprocessor/conditional compilation.md"
+    },
+    {
+      "basename": "printf",
+      "path": "C/functions/printf.md"
+    },
+    {
       "basename": "GCC",
       "path": "C/compilation/compiler/GCC.md"
     },
     {
-      "basename": "linker",
-      "path": "C/compilation/linker.md"
+      "basename": "compilation",
+      "path": "C/compilation/compilation.md"
     },
     {
       "basename": "compiler",
       "path": "C/compilation/compiler/compiler.md"
     },
     {
-      "basename": "standards",
-      "path": "C/intro/standards.md"
+      "basename": "linker",
+      "path": "C/compilation/linker.md"
     },
     {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
+      "basename": "standards",
+      "path": "C/intro/standards.md"
     },
     {
       "basename": "comments",
@@ -31,10 +55,6 @@
     {
       "basename": "preprocessor",
       "path": "C/compilation/preprocessor/preprocessor.md"
-    },
-    {
-      "basename": "Bash commands",
-      "path": "Bash/Bash commands.md"
     },
     {
       "basename": "special variables",
@@ -61,20 +81,12 @@
       "path": "C/functions/write.md"
     },
     {
-      "basename": "printf",
-      "path": "C/functions/printf.md"
-    },
-    {
       "basename": "git_github",
       "path": "github/git_github.md"
     },
     {
       "basename": "type qualifiers",
       "path": "C/data types/type qualifiers.md"
-    },
-    {
-      "basename": "conditional compilation",
-      "path": "C/compilation/preprocessor/conditional compilation.md"
     },
     {
       "basename": "macros",
@@ -129,14 +141,6 @@
       "path": "C/recursion.md"
     },
     {
-      "basename": "prototypes",
-      "path": "C/functions/prototypes.md"
-    },
-    {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
-    },
-    {
       "basename": "function pointers",
       "path": "C/data types/pointers/function pointers.md"
     },
@@ -187,10 +191,6 @@
     {
       "basename": "make files",
       "path": "C/make files.md"
-    },
-    {
-      "basename": "type casting",
-      "path": "C/data types/type casting.md"
     },
     {
       "basename": "void",

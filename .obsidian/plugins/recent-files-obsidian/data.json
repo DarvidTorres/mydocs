@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "compilation",
+      "path": "C/compilation/compilation.md"
+    },
+    {
+      "basename": "GCC Linux",
+      "path": "C/compilation/compiler/GCC Linux.md"
+    },
+    {
+      "basename": "preprocessor",
+      "path": "C/compilation/preprocessor/preprocessor.md"
+    },
+    {
+      "basename": "header files",
+      "path": "C/compilation/preprocessor/header files.md"
+    },
+    {
+      "basename": "scope",
+      "path": "C/variables/scope.md"
+    },
+    {
       "basename": "write",
       "path": "C/functions/write.md"
     },
@@ -9,16 +29,8 @@
       "path": "C/functions/printf.md"
     },
     {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
-    },
-    {
       "basename": "Bash commands",
       "path": "Bash/Bash commands.md"
-    },
-    {
-      "basename": "GCC Linux",
-      "path": "C/compilation/compiler/GCC Linux.md"
     },
     {
       "basename": "git_github",
@@ -27,10 +39,6 @@
     {
       "basename": "type qualifiers",
       "path": "C/data types/type qualifiers.md"
-    },
-    {
-      "basename": "scope",
-      "path": "C/variables/scope.md"
     },
     {
       "basename": "conditional compilation",
@@ -73,10 +81,6 @@
       "path": "C/variables/variables.md"
     },
     {
-      "basename": "header files",
-      "path": "C/compilation/preprocessor/header files.md"
-    },
-    {
       "basename": "logical operators",
       "path": "C/flow control/logical operators.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "function pointers",
       "path": "C/data types/pointers/function pointers.md"
-    },
-    {
-      "basename": "preprocessor",
-      "path": "C/compilation/preprocessor/preprocessor.md"
     },
     {
       "basename": "standards",

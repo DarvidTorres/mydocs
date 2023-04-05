@@ -8,7 +8,9 @@ Compilation is the process of converting source code (human-readable code) into 
 
 The compilation process in C involves four steps:
 
-1. Preprocessor: Remove comments and add code from headers
-2. Compiler: Generate assembly code
+1. [[preprocessor|Preprocessor]]: Remove comments and add code from headers
+2. [[GCC Linux|Compiler]]: Generate assembly code
 3. Assembler: Generate object code (binary) `.o` file
 4. Linker: Link code from file(s) and libraries to generate an executable.
+
+![](https://i.imgur.com/rdoqxDn.png)

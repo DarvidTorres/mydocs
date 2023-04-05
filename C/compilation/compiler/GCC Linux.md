@@ -2,7 +2,7 @@
 - GCC is a [[compilation|compiler]] system.
 - The GCC compiles and makes executable a program in the following steps:
 
-![](https://i.imgur.com/rdoqxDn.png)
+
 
 
 The GNU preprocessor (cpp.exe) creates an intermediate file having the source code.

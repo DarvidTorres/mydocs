@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
+      "basename": "GCC",
+      "path": "C/compilation/compiler/GCC.md"
     },
     {
-      "basename": "input and output",
-      "path": "Bash/input and output.md"
+      "basename": "linker",
+      "path": "C/compilation/linker.md"
     },
     {
       "basename": "compiler",
       "path": "C/compilation/compiler/compiler.md"
     },
     {
+      "basename": "standards",
+      "path": "C/intro/standards.md"
+    },
+    {
+      "basename": "compilation",
+      "path": "C/compilation/compilation.md"
+    },
+    {
       "basename": "comments",
       "path": "C/intro/comments.md"
+    },
+    {
+      "basename": "input and output",
+      "path": "Bash/input and output.md"
     },
     {
       "basename": "preprocessor",
@@ -31,10 +43,6 @@
     {
       "basename": "memory",
       "path": "C/memory/memory.md"
-    },
-    {
-      "basename": "linker",
-      "path": "C/compilation/linker.md"
     },
     {
       "basename": "assembler",
@@ -131,10 +139,6 @@
     {
       "basename": "function pointers",
       "path": "C/data types/pointers/function pointers.md"
-    },
-    {
-      "basename": "standards",
-      "path": "C/intro/standards.md"
     },
     {
       "basename": "format specifiers",

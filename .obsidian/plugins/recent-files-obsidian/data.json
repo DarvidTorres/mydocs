@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "special variables",
+      "path": "Bash/special variables.md"
+    },
+    {
       "basename": "compiler",
       "path": "C/compilation/compiler/compiler.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Visual Basic Editor",
       "path": "VBA/Visual Basic Editor.md"
-    },
-    {
-      "basename": "R",
-      "path": "R/R.md"
     }
   ],
   "omittedPaths": [],

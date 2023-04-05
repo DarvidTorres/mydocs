@@ -1,14 +1,37 @@
 - A compiler is a computer program that translates computer code written in one programming language (the source language) into another language (the target language).
 - Compile-time is the time period when a program code is translated into a low-level code or machine code, either by a compiler or an interpreter. Compile-time is the period of time from the beginning to the end of the process.
 - Runtime refers to the time when the converted code, which is now in low level or machine code, is executed. In other words, runtime refers to the time when the code does what it was written to do.
-- GCC stands for GNU Compiler Collection.
+- GCC stands for [GNU](https://gcc.gnu.org/) Compiler Collection.
 - GCC is a [[compilation|compiler]] system.
-- The GCC compiles and makes executable a program in the following steps:
+
+# gcc
+
+- The usual way to run GCC is to run the executable called `gcc`.
+- The `gcc` program accepts [options](https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html) and file names as operands. 
+- The most important option required while compiling a source code file is the name of the source program.
+- The different options of `gcc` command allow the user to stop the compilation process at different stages.
+
+Syntax:
+
+```C
+gcc <file.c> [-c|-S|-E] [-std=standard]
+```
+
+When you invoke GCC, it normally does preprocessing, compilation, assembly and linking.
+
+Example:
+
+Given a file named `source.c`, we can create an executable by running:
+
+```C
+gcc source.c
+```
+
+This will compile `file.c` and give the output file as `a.out` file which is the default name of output file given by `gcc` compiler, which can be executed using `./a.out`.
+
+![](https://i.imgur.com/F4mwCfa.png)
 
 
-
-
-The GNU preprocessor (cpp.exe) creates an intermediate file having the source code.
 
 `gcc file.c`: compile file.c, it creates an a.out file in the same location.
 

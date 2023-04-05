@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7fc6faefbf8ead3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/compilation/compilation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "154542801512543f",
             "type": "leaf",
             "state": {
@@ -34,51 +21,12 @@
             }
           },
           {
-            "id": "191c8d8a1acb06c1",
+            "id": "ec49d1fbaec88a02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/memory/memory.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8f402f27544c932",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/compilation/linker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f874e0442a2bc9ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/compilation/compiler/compiler.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "889fcdf9efe749dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/compilation/preprocessor/preprocessor.md",
+                "file": "Bash/special variables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/compilation/compiler/compiler.md",
+                "file": "Bash/special variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/compilation/compiler/compiler.md",
+                "file": "Bash/special variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/compilation/compiler/compiler.md"
+                "file": "Bash/special variables.md"
               }
             }
           }
@@ -249,13 +197,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "154542801512543f",
+  "active": "ec49d1fbaec88a02",
   "lastOpenFiles": [
+    "C/compilation/compiler/compiler.md",
+    "Bash/special variables.md",
     "C/compilation/compilation.md",
     "C/memory/memory.md",
     "C/compilation/linker.md",
     "C/compilation/preprocessor/preprocessor.md",
-    "C/compilation/compiler/compiler.md",
     "C/compilation/assembler.md",
     "C/compilation/preprocessor/header files.md",
     "C/variables/scope.md",
@@ -276,7 +225,6 @@
     "C/variables/variables.md",
     "C/flow control/logical operators.md",
     "C/flow control/flow control && loops.md",
-    "C/data types/pointers/pointers.md",
     "C/flow control",
     "C/compilation/preprocessor/Untitled",
     "C/intro",

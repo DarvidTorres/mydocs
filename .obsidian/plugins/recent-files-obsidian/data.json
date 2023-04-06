@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "functions",
+      "path": "C/functions/functions.md"
+    },
+    {
       "basename": "tokens",
       "path": "C/main/tokens.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Bash commands",
       "path": "Bash/Bash commands.md"
-    },
-    {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
     },
     {
       "basename": "function pointers",

@@ -27,7 +27,7 @@ void empty(void)
 }
 ```
 
-We use the identifier to invoke / call a function:
+Use the identifier to invoke / call a function and pass parameters (if were declared):
 
 Example:
 

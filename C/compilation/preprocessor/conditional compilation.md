@@ -111,7 +111,7 @@ int main()
 # \#ifdef
 
 - The `#ifdef` directive is equivalent to `#if defined`.
-- While `#if` evaluates any (valid) [[logical operators|logical condition]], `#ifdef` evaluates whether an identifier has been defined.
+- While `#if` evaluates any (valid) [[C/flow control/logical operators|logical condition]], `#ifdef` evaluates whether an identifier has been defined.
 
 Example:
 
@@ -164,7 +164,7 @@ int main() {
 # \#ifndef
 
 - The `#ifdef` directive is equivalent to `#if !defined`.
-- While `#if` evaluates any (valid) [[logical operators|logical condition]], `#ifndef` evaluates whether an identifier has not been defined.
+- While `#if` evaluates any (valid) [[C/flow control/logical operators|logical condition]], `#ifndef` evaluates whether an identifier has not been defined.
 
 ```C
 #include <stdio.h>

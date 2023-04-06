@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "logical operators",
-      "path": "C/flow control/logical operators.md"
-    },
-    {
       "basename": "ASCII",
-      "path": "C/intro/ASCII.md"
+      "path": "C/main/ASCII.md"
     },
     {
       "basename": "char",
@@ -17,8 +13,24 @@
       "path": "C/data types/integers/signed vs unsigned.md"
     },
     {
+      "basename": "logical operators",
+      "path": "C/main/operators/logical operators.md"
+    },
+    {
+      "basename": "comments",
+      "path": "C/main/comments.md"
+    },
+    {
+      "basename": "operators",
+      "path": "C/main/operators/operators.md"
+    },
+    {
+      "basename": "logical operators",
+      "path": "C/flow control/logical operators.md"
+    },
+    {
       "basename": "standards",
-      "path": "C/intro/standards.md"
+      "path": "C/main/standards.md"
     },
     {
       "basename": "Bash commands",
@@ -89,10 +101,6 @@
       "path": "C/compilation/linker.md"
     },
     {
-      "basename": "comments",
-      "path": "C/intro/comments.md"
-    },
-    {
       "basename": "preprocessor",
       "path": "C/compilation/preprocessor/preprocessor.md"
     },
@@ -134,19 +142,15 @@
     },
     {
       "basename": "main function",
-      "path": "C/intro/main function.md"
+      "path": "C/main/main function.md"
     },
     {
       "basename": "declaration and definition",
-      "path": "C/intro/declaration and definition.md"
+      "path": "C/main/declaration and definition.md"
     },
     {
       "basename": "tokens",
-      "path": "C/intro/tokens.md"
-    },
-    {
-      "basename": "operators",
-      "path": "C/intro/operators.md"
+      "path": "C/main/tokens.md"
     },
     {
       "basename": "variables",
@@ -195,10 +199,6 @@
     {
       "basename": "pointer arithmetic",
       "path": "C/data types/pointers/pointer arithmetic.md"
-    },
-    {
-      "basename": "make files",
-      "path": "C/make files.md"
     }
   ],
   "omittedPaths": [],

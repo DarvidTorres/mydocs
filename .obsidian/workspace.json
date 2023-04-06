@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "ac54dc4af5efff82",
+            "id": "e9099b842d51e5f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/intro/ASCII.md",
+                "file": "C/main/ASCII.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,25 @@
             }
           },
           {
-            "id": "8b3a6ff3385425f4",
+            "id": "ac54dc4af5efff82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/flow control/logical operators.md",
+                "file": "C/main/comments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4640e2eeb7c8d305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/main/operators/logical operators.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/flow control/logical operators.md",
+                "file": "C/main/ASCII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/flow control/logical operators.md",
+                "file": "C/main/ASCII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/flow control/logical operators.md"
+                "file": "C/main/ASCII.md"
               }
             }
           }
@@ -260,12 +273,18 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "8b3a6ff3385425f4",
+  "active": "e9099b842d51e5f4",
   "lastOpenFiles": [
-    "C/intro/ASCII.md",
     "C/data types/integers/char.md",
     "C/data types/integers/signed vs unsigned.md",
-    "C/intro/standards.md",
+    "C/main/operators/logical operators.md",
+    "C/main/comments.md",
+    "C/intro/Untitled.md",
+    "C/main/operators",
+    "C/main/operators/operators.md",
+    "C/main/ASCII.md",
+    "C/flow control/logical operators.md",
+    "C/main/standards.md",
     "Bash/Bash commands.md",
     "C/compilation/assembler.md",
     "Bash/input and output.md",
@@ -284,20 +303,14 @@
     "C/compilation/compilation.md",
     "C/compilation/compiler/compiler.md",
     "C/compilation/linker.md",
-    "C/intro/comments.md",
-    "C/compilation/preprocessor/preprocessor.md",
-    "Bash/special variables.md",
-    "C/memory/memory.md",
-    "C/compilation/preprocessor/header files.md",
     "C/flow control",
     "C/compilation/preprocessor/Untitled",
-    "C/intro",
+    "C/main",
     "C/compilation/compiler",
     "C/compilation/preprocessor",
     "C/compilation",
     "C/data types/arrays",
     "C/variables",
-    "C/data types/pointers",
     "Pasted image 20230319193607.png"
   ]
 }

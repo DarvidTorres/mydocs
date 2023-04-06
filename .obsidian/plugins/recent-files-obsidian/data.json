@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "logical operators",
+      "path": "C/flow control/logical operators.md"
+    },
+    {
       "basename": "ASCII",
       "path": "C/intro/ASCII.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "variables",
       "path": "C/variables/variables.md"
-    },
-    {
-      "basename": "logical operators",
-      "path": "C/flow control/logical operators.md"
     },
     {
       "basename": "flow control && loops",

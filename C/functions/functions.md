@@ -1,3 +1,6 @@
+- Declarations are used to introduce the name of a function, its return type and the type (if any) of its arguments.
+- A function definition is a declaration with the body of the function given too.
+
 - **Declaration**:
 	1. return type
 	2. function name
@@ -6,10 +9,18 @@
 		2. Parameter(s) (optional)
 - **Definition**: the body of the function (code to be executed).
 
+Syntax:
+
 ```c
 <rtrnType> <funName>(<prmtrType> <prmtr1>, <prmtrType> <prmtr2>) {
   // Body of the function  
 }
+```
+
+The simplest function of all is the empty function, which does nothing at all:
+
+```C
+void empty(void){}
 ```
 
 Example:

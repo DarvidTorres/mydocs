@@ -60,3 +60,7 @@ int main() {
 The GNU C Library, also known as `glibc`, is the [GNU Project's](https://www.gnu.org/software/libc/) implementation of the C Standard Library. Not all standard C functions are found in `glibc`: most mathematical functions are actually implemented in `libm`, a separate library.
 
 As of today `glibc` is the most widely used C library on Linux.
+
+# objects
+
+In C programs there are two distinct types of things: things used to hold values and things that are functions. Instead of having to refer to them jointly with a clumsy phrase that maintains the distinction, we think that it's useful to call them both loosely ‘objects’. We do quite a lot of that later, because it's often the case that they follow more or less the same rules. Beware though, that this isn't quite what the Standard uses the term to mean. In the Standard, an ‘object’ is explicitly a region of allocated storage that is used to represent a value and a function is something different; this leads to the Standard often having to say ‘… functions and objects …’. Because we don't think that it leads to too much confusion and does improve the readability of the text in most cases, we will continue to use our looser interpretation of object to include functions and we will explicitly use the terms ‘data objects’ and ‘functions’ when the distinction is appropriate.

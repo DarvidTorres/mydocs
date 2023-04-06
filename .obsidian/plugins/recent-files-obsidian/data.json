@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "printf",
-      "path": "C/functions/printf.md"
+      "basename": "int",
+      "path": "C/data types/integers/int.md"
+    },
+    {
+      "basename": "char",
+      "path": "C/data types/integers/char.md"
+    },
+    {
+      "basename": "types",
+      "path": "C/data types/types.md"
+    },
+    {
+      "basename": "standards",
+      "path": "C/intro/standards.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "VBA/Intro.md"
     },
     {
       "basename": "functions",
       "path": "C/functions/functions.md"
     },
     {
-      "basename": "standards",
-      "path": "C/intro/standards.md"
+      "basename": "printf",
+      "path": "C/functions/printf.md"
     },
     {
       "basename": "type casting",
@@ -117,10 +133,6 @@
       "path": "C/flow control/if else.md"
     },
     {
-      "basename": "types",
-      "path": "C/data types/types.md"
-    },
-    {
       "basename": "variables",
       "path": "C/variables/variables.md"
     },
@@ -161,20 +173,12 @@
       "path": "C/data types/floats.md"
     },
     {
-      "basename": "int",
-      "path": "C/data types/int.md"
-    },
-    {
       "basename": "strings",
       "path": "C/data types/arrays/strings.md"
     },
     {
       "basename": "arrays",
       "path": "C/data types/arrays/arrays.md"
-    },
-    {
-      "basename": "char",
-      "path": "C/data types/char.md"
     },
     {
       "basename": "signed vs unsigned",
@@ -195,10 +199,6 @@
     {
       "basename": "void",
       "path": "C/data types/void.md"
-    },
-    {
-      "basename": "Object model",
-      "path": "VBA/Object model.md"
     }
   ],
   "omittedPaths": [],

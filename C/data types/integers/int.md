@@ -1,10 +1,16 @@
-- An `int` type in C, C++, and C# is `signed` by default.
-- If negative numbers are involved, the `int` must be `signed`
-- An `unsigned int` cannot represent a negative number.
+- There are two types (often called ‘flavors’) of integer variables:
+	- `int`
+	- [[char]]
+- integers can be:
+	- `signed int`s: can hold positive or negative values.
+		- An `int` type in C, C++, and C# is `signed` by default.
+		- If negative numbers are involved, the `int` must be `signed`.
+	- `unsigned int`s: can hold positive values only.
+		- An `unsigned int` cannot represent a negative number.
 
-C provides several standard integer types:. This table defines the minimum ranges allowed for these integer types.
+C provides several standard integer types. There isn't any guarantee about the number of bits that an `int` can hold, except that it will always be 16 or more. The [[standards|standard]] [[header files|header file]] `<limits.h>` details the actual number of bits available in a given implementation.
 
->An implementation is free to define these types to hold greater ranges than the ones given here.
+The table below defines the minimum ranges allowed for these integer types. An implementation is free to define these types to hold greater ranges than the ones given here.
 
 | Type               | Minimum Value        | Maximum Value        |
 | ------------------ | -------------------- | -------------------- |

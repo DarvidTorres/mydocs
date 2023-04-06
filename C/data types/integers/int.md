@@ -1,12 +1,7 @@
-- There are two types (often called ‘flavors’) of integer variables:
+- There are two [[types]] (often called ‘flavors’) of integer [[variables]]:
 	- `int`
 	- [[char]]
-- integers can be:
-	- `signed int`s: can hold positive or negative values.
-		- An `int` type in C, C++, and C# is `signed` by default.
-		- If negative numbers are involved, the `int` must be `signed`.
-	- `unsigned int`s: can hold positive values only.
-		- An `unsigned int` cannot represent a negative number.
+- integers can be [[signed vs unsigned|signed or unsigned]].
 
 C provides several standard integer types. There isn't any guarantee about the number of bits that an `int` can hold, except that it will always be 16 or more. The [[standards|standard]] [[header files|header file]] `<limits.h>` details the actual number of bits available in a given implementation.
 
@@ -58,11 +53,10 @@ If you want to know the actual minimum and maximum values an implementation uses
   }
 ```
 
-- The short int is a signed small integer. C allows abbreviated or longer names for the same type: short, signed short, signed short int. For the unsigned version use one of these: unsigned short, unsigned short int.
-- A signed integer may be declared as: int, signed, signed int. An unsigned integer may be declared as: unsigned, unsigned int.
-- A signed long int may be declared using one of these names: long, signed long, ,long int, signed long int. An unsigned version may be declared as: unsigned long, unsigned long int.
-- A signed long long can be declared like this: long long, singed long long, long long int, signed long long int. An unsigned can be declared as: unsigned long long, unsigned long long int.
-
+- The `short int` is a `signed` small integer. C allows abbreviated or longer names for the same type: short, signed short, signed short int. For the unsigned version use one of these: unsigned short, unsigned short int.
+- A `signed integer` may be declared as: int, signed, signed int. An unsigned integer may be declared as: unsigned, unsigned int.
+- A `signed long int` may be declared using one of these names: long, signed long, ,long int, signed long int. An unsigned version may be declared as: unsigned long, unsigned long int.
+- A `signed long long` can be declared like this: long long, singed long long, long long int, signed long long int. An unsigned can be declared as: unsigned long long, unsigned long long int.
 
 
 

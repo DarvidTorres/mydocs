@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "int",
-      "path": "C/data types/integers/int.md"
-    },
-    {
-      "basename": "char",
-      "path": "C/data types/integers/char.md"
+      "basename": "if else",
+      "path": "C/flow control/if else.md"
     },
     {
       "basename": "types",
       "path": "C/data types/types.md"
+    },
+    {
+      "basename": "int",
+      "path": "C/data types/integers/int.md"
+    },
+    {
+      "basename": "signed vs unsigned",
+      "path": "C/data types/integers/signed vs unsigned.md"
+    },
+    {
+      "basename": "format specifiers",
+      "path": "C/variables/format specifiers.md"
+    },
+    {
+      "basename": "char",
+      "path": "C/data types/integers/char.md"
     },
     {
       "basename": "standards",
@@ -129,10 +141,6 @@
       "path": "C/intro/operators.md"
     },
     {
-      "basename": "if else",
-      "path": "C/flow control/if else.md"
-    },
-    {
       "basename": "variables",
       "path": "C/variables/variables.md"
     },
@@ -157,10 +165,6 @@
       "path": "C/data types/pointers/function pointers.md"
     },
     {
-      "basename": "format specifiers",
-      "path": "C/variables/format specifiers.md"
-    },
-    {
       "basename": "pointers && arrays",
       "path": "C/data types/arrays/pointers && arrays.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "arrays",
       "path": "C/data types/arrays/arrays.md"
-    },
-    {
-      "basename": "signed vs unsigned",
-      "path": "C/data types/signed vs unsigned.md"
     },
     {
       "basename": "dereferencing",

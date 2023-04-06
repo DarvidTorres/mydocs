@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "ASCII",
+      "path": "C/intro/ASCII.md"
+    },
+    {
+      "basename": "char",
+      "path": "C/data types/integers/char.md"
+    },
+    {
+      "basename": "signed vs unsigned",
+      "path": "C/data types/integers/signed vs unsigned.md"
+    },
+    {
+      "basename": "standards",
+      "path": "C/intro/standards.md"
+    },
+    {
+      "basename": "Bash commands",
+      "path": "Bash/Bash commands.md"
+    },
+    {
+      "basename": "assembler",
+      "path": "C/compilation/assembler.md"
+    },
+    {
+      "basename": "input and output",
+      "path": "Bash/input and output.md"
+    },
+    {
       "basename": "if else",
       "path": "C/flow control/if else.md"
     },
@@ -13,20 +41,8 @@
       "path": "C/data types/integers/int.md"
     },
     {
-      "basename": "signed vs unsigned",
-      "path": "C/data types/integers/signed vs unsigned.md"
-    },
-    {
       "basename": "format specifiers",
       "path": "C/variables/format specifiers.md"
-    },
-    {
-      "basename": "char",
-      "path": "C/data types/integers/char.md"
-    },
-    {
-      "basename": "standards",
-      "path": "C/intro/standards.md"
     },
     {
       "basename": "Intro",
@@ -47,10 +63,6 @@
     {
       "basename": "prototypes",
       "path": "C/functions/prototypes.md"
-    },
-    {
-      "basename": "Bash commands",
-      "path": "Bash/Bash commands.md"
     },
     {
       "basename": "conditional compilation",
@@ -77,10 +89,6 @@
       "path": "C/intro/comments.md"
     },
     {
-      "basename": "input and output",
-      "path": "Bash/input and output.md"
-    },
-    {
       "basename": "preprocessor",
       "path": "C/compilation/preprocessor/preprocessor.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "memory",
       "path": "C/memory/memory.md"
-    },
-    {
-      "basename": "assembler",
-      "path": "C/compilation/assembler.md"
     },
     {
       "basename": "header files",
@@ -195,10 +199,6 @@
     {
       "basename": "make files",
       "path": "C/make files.md"
-    },
-    {
-      "basename": "void",
-      "path": "C/data types/void.md"
     }
   ],
   "omittedPaths": [],

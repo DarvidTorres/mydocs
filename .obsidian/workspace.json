@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/flow control/if else.md",
+                "file": "C/data types/integers/signed vs unsigned.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27708c4718eb024b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/data types/integers/char.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac54dc4af5efff82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/intro/ASCII.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,48 +71,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d94c6d9b53bb735f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/data types/type casting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73ae85f43122e71c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/Bash commands.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9c65efb09e8a6f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/compilation/linker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "format specifier",
+                "query": "ascii",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/flow control/if else.md",
+                "file": "C/intro/ASCII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/flow control/if else.md",
+                "file": "C/intro/ASCII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/flow control/if else.md"
+                "file": "C/intro/ASCII.md"
               }
             }
           }
@@ -255,38 +242,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "db6f15f373045705",
+  "active": "ac54dc4af5efff82",
   "lastOpenFiles": [
+    "C/data types/integers/char.md",
+    "C/data types/integers/signed vs unsigned.md",
+    "C/intro/standards.md",
+    "Bash/Bash commands.md",
+    "C/compilation/assembler.md",
+    "C/intro/ASCII.md",
+    "Bash/input and output.md",
+    "C/flow control/if else.md",
     "C/data types/types.md",
     "C/data types/integers/int.md",
-    "C/data types/integers/signed vs unsigned.md",
     "C/variables/format specifiers.md",
-    "C/data types/integers/char.md",
     "C/data types/integers",
-    "C/intro/standards.md",
     "VBA/Intro.md",
     "C/functions/functions.md",
     "C/functions/printf.md",
     "C/data types/type casting.md",
     "C/functions/prototypes.md",
-    "Bash/Bash commands.md",
     "C/compilation/preprocessor/conditional compilation.md",
     "C/compilation/compiler/GCC.md",
     "C/compilation/compilation.md",
     "C/compilation/compiler/compiler.md",
     "C/compilation/linker.md",
     "C/intro/comments.md",
-    "Bash/input and output.md",
     "C/compilation/preprocessor/preprocessor.md",
     "Bash/special variables.md",
     "C/memory/memory.md",
-    "C/compilation/assembler.md",
     "C/compilation/preprocessor/header files.md",
-    "C/variables/scope.md",
-    "C/functions/write.md",
     "C/flow control",
     "C/compilation/preprocessor/Untitled",
     "C/intro",

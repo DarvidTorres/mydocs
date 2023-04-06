@@ -14,7 +14,7 @@ A library in C is a collection of [[header files]], exposed for use by other pro
 
 A standard library is a repository of code that is available alongside every standard-conformant C compiler. When the C compiler compiles your program it usually also links it with the standard C library.
 
-The [ANSI C](https://en.wikibooks.org/wiki/C_Programming/Standard_libraries) standard library consists of 24 C [[header files]] which can be included into a programmer's project with a single [[conditional compilation|directive]]. Each header file contains one or more function declarations, data type definitions and [[macros]].
+The (ANSI) [standard library](https://en.wikibooks.org/wiki/C_Programming/Standard_libraries) of 24 C [[header files]] which can be included into a programmer's project with a single [[conditional compilation|directive]]. Each header file contains one or more function declarations, data type definitions and [[macros]].
 
 Examples:
 | Header file | Description                                                       | 

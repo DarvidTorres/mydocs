@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "functions",
+      "path": "C/functions/functions.md"
+    },
+    {
+      "basename": "header files",
+      "path": "C/compilation/preprocessor/header files.md"
+    },
+    {
       "basename": "ASCII",
       "path": "C/main/ASCII.md"
     },
@@ -65,10 +73,6 @@
       "path": "VBA/Intro.md"
     },
     {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
-    },
-    {
       "basename": "printf",
       "path": "C/functions/printf.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "memory",
       "path": "C/memory/memory.md"
-    },
-    {
-      "basename": "header files",
-      "path": "C/compilation/preprocessor/header files.md"
     },
     {
       "basename": "scope",

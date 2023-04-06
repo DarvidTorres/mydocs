@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/main/ASCII.md",
+                "file": "C/functions/functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/main/ASCII.md",
+                "file": "C/functions/functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/main/ASCII.md",
+                "file": "C/functions/functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/main/ASCII.md"
+                "file": "C/functions/functions.md"
               }
             }
           }
@@ -275,6 +275,8 @@
   },
   "active": "e9099b842d51e5f4",
   "lastOpenFiles": [
+    "C/compilation/preprocessor/header files.md",
+    "C/main/ASCII.md",
     "C/data types/integers/char.md",
     "C/data types/integers/signed vs unsigned.md",
     "C/main/operators/logical operators.md",
@@ -282,7 +284,6 @@
     "C/intro/Untitled.md",
     "C/main/operators",
     "C/main/operators/operators.md",
-    "C/main/ASCII.md",
     "C/flow control/logical operators.md",
     "C/main/standards.md",
     "Bash/Bash commands.md",
@@ -302,7 +303,6 @@
     "C/compilation/compiler/GCC.md",
     "C/compilation/compilation.md",
     "C/compilation/compiler/compiler.md",
-    "C/compilation/linker.md",
     "C/flow control",
     "C/compilation/preprocessor/Untitled",
     "C/main",

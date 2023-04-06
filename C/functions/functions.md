@@ -1,5 +1,5 @@
 - Declarations are used to introduce the name of a function, its return type and the type (if any) of its arguments.
-- A function definition is a declaration with the body of the function given too.
+- Definition is a declaration with the body of the function given too.
 
 - **Declaration**:
 	1. return type

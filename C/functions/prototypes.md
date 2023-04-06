@@ -1,9 +1,7 @@
-## Function prototype / signature
-
 A function prototype declares a [[functions|function]] but does not define it.
 
 ```c
-<rtrnType> functionName(<type1> <arg1>, <type2> <arg2>, ...);
+<type> FUN();
 ```
 
 In a prototype, parameter names are optional, so `void Sum( int a, int b );` and `void Sum( int, int );` are valid prototypes.
@@ -12,7 +10,7 @@ Many compilers do not check for parameter matching either in type or count (how 
 
 ```c
 #include <stdio.h>
-int add (int,int); /* function prototype for add */
+int add (int, int); /* function prototype for add */
 
 int main()
 {

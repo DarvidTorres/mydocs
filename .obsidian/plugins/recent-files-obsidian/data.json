@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
+      "basename": "tokens",
+      "path": "C/main/tokens.md"
+    },
+    {
+      "basename": "conditional compilation",
+      "path": "C/compilation/preprocessor/conditional compilation.md"
+    },
+    {
+      "basename": "directives",
+      "path": "C/compilation/preprocessor/directives.md"
+    },
+    {
+      "basename": "macros",
+      "path": "C/compilation/preprocessor/macros.md"
+    },
+    {
+      "basename": "compilation",
+      "path": "C/compilation/compilation.md"
     },
     {
       "basename": "header files",
       "path": "C/compilation/preprocessor/header files.md"
+    },
+    {
+      "basename": "Bash commands",
+      "path": "Bash/Bash commands.md"
+    },
+    {
+      "basename": "functions",
+      "path": "C/functions/functions.md"
+    },
+    {
+      "basename": "function pointers",
+      "path": "C/data types/pointers/function pointers.md"
+    },
+    {
+      "basename": "prototypes",
+      "path": "C/functions/prototypes.md"
+    },
+    {
+      "basename": "strings",
+      "path": "C/data types/arrays/strings.md"
     },
     {
       "basename": "ASCII",
@@ -39,10 +75,6 @@
     {
       "basename": "standards",
       "path": "C/main/standards.md"
-    },
-    {
-      "basename": "Bash commands",
-      "path": "Bash/Bash commands.md"
     },
     {
       "basename": "assembler",
@@ -81,20 +113,8 @@
       "path": "C/data types/type casting.md"
     },
     {
-      "basename": "prototypes",
-      "path": "C/functions/prototypes.md"
-    },
-    {
-      "basename": "conditional compilation",
-      "path": "C/compilation/preprocessor/conditional compilation.md"
-    },
-    {
       "basename": "GCC",
       "path": "C/compilation/compiler/GCC.md"
-    },
-    {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
     },
     {
       "basename": "compiler",
@@ -133,24 +153,12 @@
       "path": "C/data types/type qualifiers.md"
     },
     {
-      "basename": "macros",
-      "path": "C/compilation/preprocessor/macros.md"
-    },
-    {
-      "basename": "directives",
-      "path": "C/compilation/preprocessor/directives.md"
-    },
-    {
       "basename": "main function",
       "path": "C/main/main function.md"
     },
     {
       "basename": "declaration and definition",
       "path": "C/main/declaration and definition.md"
-    },
-    {
-      "basename": "tokens",
-      "path": "C/main/tokens.md"
     },
     {
       "basename": "variables",
@@ -169,10 +177,6 @@
       "path": "C/recursion.md"
     },
     {
-      "basename": "function pointers",
-      "path": "C/data types/pointers/function pointers.md"
-    },
-    {
       "basename": "pointers && arrays",
       "path": "C/data types/arrays/pointers && arrays.md"
     },
@@ -183,10 +187,6 @@
     {
       "basename": "floats",
       "path": "C/data types/floats.md"
-    },
-    {
-      "basename": "strings",
-      "path": "C/data types/arrays/strings.md"
     },
     {
       "basename": "arrays",

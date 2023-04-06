@@ -8,51 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7290efb98291816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/data types/integers/int.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db6f15f373045705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/data types/integers/signed vs unsigned.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27708c4718eb024b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/data types/integers/char.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e9099b842d51e5f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/functions/functions.md",
+                "file": "Bash/Bash commands.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0919cdbfb5b71676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/compilation/preprocessor/conditional compilation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "275257c7ecb164dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/main/tokens.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2be1e950815e23c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/functions/prototypes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ca59730a3d24e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/data types/pointers/function pointers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd5ae5feeefcd95d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/data types/arrays/strings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,35 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4640e2eeb7c8d305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/main/operators/logical operators.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "954e36112953607c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/compilation/compilation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ascii",
+                "query": "macro definitions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "af55bc0fe283fce4",
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/functions/functions.md",
+                "file": "C/main/tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/functions/functions.md",
+                "file": "C/main/tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/functions/functions.md"
+                "file": "C/main/tokens.md"
               }
             }
           }
@@ -273,9 +274,19 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "e9099b842d51e5f4",
+  "active": "275257c7ecb164dd",
   "lastOpenFiles": [
+    "C/compilation/preprocessor/conditional compilation.md",
+    "C/compilation/preprocessor/directives.md",
+    "C/compilation/preprocessor/macros.md",
+    "C/compilation/compilation.md",
     "C/compilation/preprocessor/header files.md",
+    "Bash/Bash commands.md",
+    "C/functions/functions.md",
+    "C/data types/pointers/function pointers.md",
+    "C/functions/prototypes.md",
+    "C/main/tokens.md",
+    "C/data types/arrays/strings.md",
     "C/main/ASCII.md",
     "C/data types/integers/char.md",
     "C/data types/integers/signed vs unsigned.md",
@@ -286,7 +297,6 @@
     "C/main/operators/operators.md",
     "C/flow control/logical operators.md",
     "C/main/standards.md",
-    "Bash/Bash commands.md",
     "C/compilation/assembler.md",
     "Bash/input and output.md",
     "C/flow control/if else.md",
@@ -294,15 +304,6 @@
     "C/data types/integers/int.md",
     "C/variables/format specifiers.md",
     "C/data types/integers",
-    "VBA/Intro.md",
-    "C/functions/functions.md",
-    "C/functions/printf.md",
-    "C/data types/type casting.md",
-    "C/functions/prototypes.md",
-    "C/compilation/preprocessor/conditional compilation.md",
-    "C/compilation/compiler/GCC.md",
-    "C/compilation/compilation.md",
-    "C/compilation/compiler/compiler.md",
     "C/flow control",
     "C/compilation/preprocessor/Untitled",
     "C/main",

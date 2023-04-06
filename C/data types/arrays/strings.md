@@ -60,9 +60,6 @@ p = &a; // Assing the address of `a` to `p` (define pointer)
 
 Or we can also create a pointer and define it at once:
 
-
-
-
 Given that strings are arrays and that the name of arrays are pointers to the starting element of the array.
 
 Pointers to strings in C can point to the starting address of the array that is the first character in the array.

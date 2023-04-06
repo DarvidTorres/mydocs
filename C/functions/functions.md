@@ -1,69 +1,126 @@
-- Declarations are used to introduce the name of a function, its return type and the type (if any) of its arguments.
+- Declarations are used to introduce the name of a function ([[tokens#Identifiers|identifier]]), its return type and the type (if any) of its arguments.
+	- A declaration is equivalent to the function [[prototypes|prototype]].
 - Definition is a declaration with the body of the function given too.
 
-- **Declaration**:
-	1. return type
-	2. function name
-	3. If the function takes arguments:
-		1. Type of parameter(s)
-		2. Parameter(s) (optional)
-- **Definition**: the body of the function (code to be executed).
-
-Syntax:
+Function definition syntax:
 
 ```c
-<rtrnType> <funName>(<prmtrType> <prmtr1>, <prmtrType> <prmtr2>) {
+<type> <funName>() {
   // Body of the function  
+}
+```
+
+We can pass arguments to a function, but we need to define the parameters. Parameters and return values must have a type. `void` indicates no return type.
+
+```c
+<type> <funName>(<type1> <par1>, <type2> <par2>) {  
+  // code to be executed  
 }
 ```
 
 The simplest function of all is the empty function, which does nothing at all:
 
 ```C
-void empty(void){}
-```
-
-Example:
-
-```c
-// Create a function  
-void myFunction() {  
-  printf("I just got executed!");  
-}  
-  
-int main() {  
-  myFunction(); // call the function  
-  return 0;  
-}  
-  
-// Outputs "I just got executed!"
-```
-
-Parameters and return values must have a type. `void` indicates no return type.
-
-We can pass arguments to a function, but we need to define the parameters:
-
-```c
-rtrnType functionName(type holder1, type holder3) {  
-  // code to be executed  
+void empty(void)
+{
+// do nothing
 }
 ```
 
+We use the identifier to invoke / call a function:
+
 Example:
 
-```c
-/* function returning the max between two numbers */
-int max(int num1, int num2) {
+```C
+void empty(void) // define a function
+{
+// do nothing
+}
 
-   /* local variable declaration */
-   int result;
- 
-   if (num1 > num2)
-      result = num1;
-   else
-      result = num2;
- 
-   return result; 
+int main()
+{
+    empty(); // call the function
+    
+    return (0);
+}
+```
+
+Another example:
+
+```c
+#include <stdio.h>
+int printchar(char a) // define function
+{
+    printf("%c", a);
+}
+
+int main()
+{
+    printchar('b'); // call function
+    
+    return (0);
+}
+```
+
+We can declare a function (include the prototype), and later define it:
+
+```C
+#include <stdio.h>
+int printchar(char a); // declare printchar
+
+int printchar(char a) // define printchar
+{
+    printf("%c", a);
+}
+
+int main()
+{
+    printchar('b'); // call printchar
+    
+    return (0);
+}
+```
+
+We can declare a function as many times in a source file:
+
+```C
+#include <stdio.h>
+int printchar(char a); // declare function
+
+int printchar(char a) // define function
+{
+    printf("%c", a);
+}
+
+int printchar(char a); // declare function again
+
+int main()
+{
+    printchar('b');
+    
+    return (0);
+}
+```
+
+But we cannot define a function more than once in a source file ([see why](https://www.linuxquestions.org/questions/programming-9/what-is-function-overriding-in-c-300383/)):
+
+```C
+#include <stdio.h>
+int printchar(char a)
+{
+    printf("%c", a);
+}
+
+int printchar(char a)
+{
+    printf("%c", a);
+}
+
+int main()
+{
+    printchar('b');
+    
+    return (0);
 }
 ```
 

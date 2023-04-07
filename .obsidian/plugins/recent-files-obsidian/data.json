@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
+      "basename": "operators",
+      "path": "C/main/operators/operators.md"
+    },
+    {
+      "basename": "logical operators",
+      "path": "C/main/operators/logical operators.md"
     },
     {
       "basename": "prototypes",
       "path": "C/functions/prototypes.md"
+    },
+    {
+      "basename": "functions",
+      "path": "C/functions/functions.md"
     },
     {
       "basename": "main function",
@@ -65,20 +73,8 @@
       "path": "C/data types/integers/signed vs unsigned.md"
     },
     {
-      "basename": "logical operators",
-      "path": "C/main/operators/logical operators.md"
-    },
-    {
       "basename": "comments",
       "path": "C/main/comments.md"
-    },
-    {
-      "basename": "operators",
-      "path": "C/main/operators/operators.md"
-    },
-    {
-      "basename": "logical operators",
-      "path": "C/flow control/logical operators.md"
     },
     {
       "basename": "standards",

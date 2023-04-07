@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "666fc3005840c540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/functions/functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c85d05b2cc6457ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/functions/prototypes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c332230feda6e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/main/main function.md",
+                "file": "C/main/operators/operators.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/functions/functions.md",
+                "file": "C/main/operators/operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/functions/functions.md",
+                "file": "C/main/operators/operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/functions/functions.md"
+                "file": "C/main/operators/operators.md"
               }
             }
           }
@@ -246,8 +220,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "666fc3005840c540",
+  "active": "2c332230feda6e4f",
   "lastOpenFiles": [
+    "C/main/operators/logical operators.md",
+    "C/flow control/logical operators.md",
     "C/functions/prototypes.md",
     "C/functions/functions.md",
     "C/main/main function.md",
@@ -264,12 +240,10 @@
     "C/data types/arrays/strings.md",
     "C/data types/integers/char.md",
     "C/data types/integers/signed vs unsigned.md",
-    "C/main/operators/logical operators.md",
     "C/main/comments.md",
     "C/intro/Untitled.md",
     "C/main/operators",
     "C/main/operators/operators.md",
-    "C/flow control/logical operators.md",
     "C/main/standards.md",
     "C/compilation/assembler.md",
     "Bash/input and output.md",

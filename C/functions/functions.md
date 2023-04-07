@@ -1,16 +1,40 @@
 - A function is a group of statements that together perform a task.
 - Every C program has at least one function, which is [[main function|main()]].
 - A function can also be referred as a method, a sub-routine or a procedure.
+
+# declaration
+
 - A function declaration states the name of a function ([[tokens#Identifiers|identifier]]), its return type and the type of its arguments (if any).
 	- A declaration is equivalent to the function [[prototypes|prototype]].
 
-Function definition syntax:
+Function declaration syntax:
 
 ```c
 <type> <funName>([parameter list]);
 ```
 
+Parameter names are not important in function declaration only their type is required. 
+
+Example:
+
+```C
+int max(int, int);
+```
+
+Function declaration is required when you define a function in one source file and you call that function in another file.
+
+# definition
+
 - A function definition is a declaration with the body of the function given too.
+- A function definition in C programming consists of a function header and a function body.
+
+Return Type − A function may return a value. The return_type is the data type of the value the function returns. Some functions perform the desired operations without returning a value. In this case, the return_type is the keyword void.
+
+Function Name − This is the actual name of the function. The function name and the parameter list together constitute the function signature.
+
+Parameters − A parameter is like a placeholder. When a function is invoked, you pass a value to the parameter. This value is referred to as actual parameter or argument. The parameter list refers to the type, order, and number of the parameters of a function. Parameters are optional; that is, a function may contain no parameters.
+
+Function Body − The function body contains a collection of statements that define what the function does.
 
 We can pass arguments to a function, but we need to define the parameters. Parameters and return values must have a type. `void` indicates no return type.
 
@@ -28,6 +52,10 @@ void empty(void)
 // do nothing
 }
 ```
+
+# function call
+
+While creating a C function, you give a definition of what the function has to do. To use a function, you will have to call that function to perform the defined task.
 
 Use the identifier to invoke / call a function and pass parameters (if were declared):
 

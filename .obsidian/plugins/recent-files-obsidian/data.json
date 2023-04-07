@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "make files",
+      "path": "C/make files.md"
+    },
+    {
+      "basename": "ASCII",
+      "path": "C/main/ASCII.md"
+    },
+    {
       "basename": "operators",
       "path": "C/main/operators/operators.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "printf",
       "path": "C/functions/printf.md"
-    },
-    {
-      "basename": "ASCII",
-      "path": "C/main/ASCII.md"
     },
     {
       "basename": "tokens",

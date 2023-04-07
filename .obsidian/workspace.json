@@ -45,8 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ca2f8275260ca4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/make files.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/main/operators/operators.md",
+                "file": "C/make files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/main/operators/operators.md",
+                "file": "C/make files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/main/operators/operators.md"
+                "file": "C/make files.md"
               }
             }
           }
@@ -220,15 +234,16 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "2c332230feda6e4f",
+  "active": "6ca2f8275260ca4c",
   "lastOpenFiles": [
+    "C/main/ASCII.md",
+    "C/main/operators/operators.md",
     "C/main/operators/logical operators.md",
     "C/flow control/logical operators.md",
     "C/functions/prototypes.md",
     "C/functions/functions.md",
     "C/main/main function.md",
     "C/functions/printf.md",
-    "C/main/ASCII.md",
     "C/main/tokens.md",
     "C/compilation/preprocessor/conditional compilation.md",
     "C/compilation/preprocessor/directives.md",
@@ -243,7 +258,6 @@
     "C/main/comments.md",
     "C/intro/Untitled.md",
     "C/main/operators",
-    "C/main/operators/operators.md",
     "C/main/standards.md",
     "C/compilation/assembler.md",
     "Bash/input and output.md",

@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "7528c009d0043e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/main/ASCII.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f2be1e950815e23c",
             "type": "leaf",
             "state": {
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/functions/functions.md",
+                "file": "C/main/ASCII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/functions/functions.md",
+                "file": "C/main/ASCII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/functions/functions.md"
+                "file": "C/main/ASCII.md"
               }
             }
           }
@@ -286,8 +299,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "666fc3005840c540",
+  "active": "7528c009d0043e5b",
   "lastOpenFiles": [
+    "C/functions/functions.md",
     "C/main/tokens.md",
     "C/compilation/preprocessor/conditional compilation.md",
     "C/compilation/preprocessor/directives.md",
@@ -295,7 +309,6 @@
     "C/compilation/compilation.md",
     "C/compilation/preprocessor/header files.md",
     "Bash/Bash commands.md",
-    "C/functions/functions.md",
     "C/data types/pointers/function pointers.md",
     "C/functions/prototypes.md",
     "C/data types/arrays/strings.md",

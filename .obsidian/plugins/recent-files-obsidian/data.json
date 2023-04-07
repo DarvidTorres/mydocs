@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ASCII",
+      "path": "C/main/ASCII.md"
+    },
+    {
       "basename": "functions",
       "path": "C/functions/functions.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "strings",
       "path": "C/data types/arrays/strings.md"
-    },
-    {
-      "basename": "ASCII",
-      "path": "C/main/ASCII.md"
     },
     {
       "basename": "char",

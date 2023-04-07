@@ -1,14 +1,16 @@
-- Declarations are used to introduce the name of a function ([[tokens#Identifiers|identifier]]), its return type and the type (if any) of its arguments.
+- A function is a group of statements that together perform a task.
+- Every C program has at least one function, which is [[main function|main()]].
+- A function can also be referred as a method, a sub-routine or a procedure.
+- A function declaration states the name of a function ([[tokens#Identifiers|identifier]]), its return type and the type of its arguments (if any).
 	- A declaration is equivalent to the function [[prototypes|prototype]].
-- Definition is a declaration with the body of the function given too.
 
 Function definition syntax:
 
 ```c
-<type> <funName>() {
-  // Body of the function  
-}
+<type> <funName>([parameter list]);
 ```
+
+- A function definition is a declaration with the body of the function given too.
 
 We can pass arguments to a function, but we need to define the parameters. Parameters and return values must have a type. `void` indicates no return type.
 
@@ -66,7 +68,7 @@ We can declare a function (include the prototype), and later define it:
 
 ```C
 #include <stdio.h>
-int printchar(char a); // declare printchar
+int printchar(char); // declare printchar
 
 int printchar(char a) // define printchar
 {

@@ -9,12 +9,6 @@
 	- Suffix (or implicit rules)
 - Makefiles **must** be indented using TAB characters.
 
-Example
-
-![](https://i.imgur.com/RAtNL2I.png)
-
-# make rules
-
 A simple Makefile consists of rules with the following syntax:
 
 ```Bash
@@ -29,49 +23,27 @@ Note: Every `<recipe>` must begin with a TAB character.
 	- A target often depends on several files.
 - A `<recipe>` is an action that make carries out. A recipe may have more than one command, either on the same line or each on its own line.
 
+Example
 
+![](https://i.imgur.com/RAtNL2I.png)
 
-We have at least three files that contain:
-1. Declaration of function(s) ([[header files]])
-2. Definition of function(s) ([[functions]])
-3. Source code (main file that contains the program)
+Another example:
 
-A rule explains how and when to remake certain files which are the targets of the particular rule. `make` carries out the recipe on the prerequisites to create or update the target. A rule can also explain how and when to carry out an action.
+Given three files in out directory:
 
-To [[compilation]] we usually compile the definition of the function then compile the actual program.  But if we had many files it'd take long time (and we don't want to do that every time we made some changes to either file); so, we use `Makefile`. 
+![](https://i.imgur.com/7hNMUsW.png)
 
-A Makefile consists of a set of _rules_. A rule generally looks like this:
+We could compile this collection of code by executing the `gcc` command:
 
-```
-targets: dependencies
-	command // Tab indentation matters
-	command // Tab indentation matters
-	command // Tab indentation matters
-```
+![](https://i.imgur.com/CbffSMc.png)
 
--   The _targets_ are file names, separated by spaces. Typically, there is only one per rule.
--   The _commands_ are a series of steps typically used to make the target(s). These _need to start with a tab character_, not spaces.
--   The _dependencies_ are also file names, separated by spaces. These files need to exist before the commands for the target are run.
+Among other reasons, this approach is inefficient specially if we have many files to include in the compilation, as we would have to compile all the files (individually or at once) every time we change source code from one of the files. But we can create a makefile to compile only those files that were changed.
 
-```
-blah:
-	cc blah.c -o blah
-```
+![](https://i.imgur.com/6EEo4o4.png)
 
-This time, try simply running `make`. Since there's no target supplied as an argument to the `make` command, the first target is run. In this case, there's only one target (`blah`). The first time you run this, `blah` will be created. The second time, you'll see `make: 'blah' is up to date`. That's because the `blah` file already exists. But there's a problem: if we modify `blah.c` and then run `make`, nothing gets recompiled.
+In the example above, we use the `-f` option to read the file name `Makefile1` as a makefile (default name should be Makefile).
 
-We solve this by adding a prerequisite:
-
-```
-blah: blah.c
-	cc blah.c -o blah
-```
-
-When we run `make` again, the following set of steps happens:
-
--   The first target is selected, because the first target is the default target
--   This has a prerequisite of `blah.c`
--   Make decides if it should run the `blah` target. It will only run if `blah` doesn't exist, or `blah.c` is _newer than_ `blah`
+[More examples](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/).
 
 # options
 

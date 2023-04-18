@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "conditional compilation",
+      "path": "C/compilation/preprocessor/conditional compilation.md"
+    },
+    {
+      "basename": "header files",
+      "path": "C/compilation/preprocessor/header files.md"
+    },
+    {
+      "basename": "compilation",
+      "path": "C/compilation/compilation.md"
+    },
+    {
       "basename": "make files",
       "path": "C/make files.md"
     },
@@ -37,24 +49,12 @@
       "path": "C/main/tokens.md"
     },
     {
-      "basename": "conditional compilation",
-      "path": "C/compilation/preprocessor/conditional compilation.md"
-    },
-    {
       "basename": "directives",
       "path": "C/compilation/preprocessor/directives.md"
     },
     {
       "basename": "macros",
       "path": "C/compilation/preprocessor/macros.md"
-    },
-    {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
-    },
-    {
-      "basename": "header files",
-      "path": "C/compilation/preprocessor/header files.md"
     },
     {
       "basename": "Bash commands",

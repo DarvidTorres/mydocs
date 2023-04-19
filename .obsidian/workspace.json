@@ -8,51 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c332230feda6e4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/main/operators/operators.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2deba2d44bbb4ef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/functions/printf.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7528c009d0043e5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/main/ASCII.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6ca2f8275260ca4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "C/compilation/preprocessor/header files.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e6b6aee268765f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/make files.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dee7ac3efb041897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/functions/functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/compilation/preprocessor/conditional compilation.md",
+                "file": "C/functions/functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/compilation/preprocessor/conditional compilation.md",
+                "file": "C/functions/functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/compilation/preprocessor/conditional compilation.md"
+                "file": "C/functions/functions.md"
               }
             }
           }
@@ -247,18 +234,18 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "f271a131db6ecdee",
+  "active": "dee7ac3efb041897",
   "lastOpenFiles": [
     "C/compilation/preprocessor/header files.md",
+    "C/functions/functions.md",
+    "C/make files.md",
     "C/compilation/preprocessor/conditional compilation.md",
     "C/compilation/compilation.md",
-    "C/make files.md",
     "C/main/ASCII.md",
     "C/main/operators/operators.md",
     "C/main/operators/logical operators.md",
     "C/flow control/logical operators.md",
     "C/functions/prototypes.md",
-    "C/functions/functions.md",
     "C/main/main function.md",
     "C/functions/printf.md",
     "C/main/tokens.md",

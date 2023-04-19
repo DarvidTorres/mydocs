@@ -52,7 +52,7 @@ int main(void)
 }
 ```
 
-The preprocessor replaces the line `#include <stdio.h>` with the textual content of the file `stdio.h`, which declares the `printf()` function (among other things).
+The [[preprocessor]] replaces the line `#include <stdio.h>` with the textual content of the file `stdio.h`, which declares the `printf()` function (among other things).
 
 There are two types of header files:
 - Standard / Pre-existing header files

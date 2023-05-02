@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/functions/functions.md",
+                "file": "C/make files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/functions/functions.md",
+                "file": "C/make files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/functions/functions.md"
+                "file": "C/make files.md"
               }
             }
           }
@@ -234,12 +234,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "dee7ac3efb041897",
+  "active": "6e6b6aee268765f2",
   "lastOpenFiles": [
-    "C/compilation/preprocessor/header files.md",
-    "C/functions/functions.md",
-    "C/make files.md",
     "C/compilation/preprocessor/conditional compilation.md",
+    "C/functions/functions.md",
+    "C/compilation/preprocessor/header files.md",
+    "C/make files.md",
     "C/compilation/compilation.md",
     "C/main/ASCII.md",
     "C/main/operators/operators.md",

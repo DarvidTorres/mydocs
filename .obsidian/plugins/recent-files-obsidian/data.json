@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
-    },
-    {
-      "basename": "header files",
-      "path": "C/compilation/preprocessor/header files.md"
-    },
-    {
       "basename": "make files",
       "path": "C/make files.md"
     },
     {
       "basename": "conditional compilation",
       "path": "C/compilation/preprocessor/conditional compilation.md"
+    },
+    {
+      "basename": "functions",
+      "path": "C/functions/functions.md"
+    },
+    {
+      "basename": "header files",
+      "path": "C/compilation/preprocessor/header files.md"
     },
     {
       "basename": "compilation",

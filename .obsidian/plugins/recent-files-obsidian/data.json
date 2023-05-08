@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Bash commands",
+      "path": "Bash/Bash commands.md"
+    },
+    {
+      "basename": "git_github",
+      "path": "github/git_github.md"
+    },
+    {
+      "basename": "R",
+      "path": "R/R.md"
+    },
+    {
+      "basename": "Visual Basic Editor",
+      "path": "VBA/Visual Basic Editor.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "VBA/Intro.md"
+    },
+    {
+      "basename": "Object model",
+      "path": "VBA/Object model.md"
+    },
+    {
+      "basename": "header files",
+      "path": "C/compilation/preprocessor/header files.md"
+    },
+    {
       "basename": "make files",
       "path": "C/make files.md"
     },
@@ -11,10 +39,6 @@
     {
       "basename": "functions",
       "path": "C/functions/functions.md"
-    },
-    {
-      "basename": "header files",
-      "path": "C/compilation/preprocessor/header files.md"
     },
     {
       "basename": "compilation",
@@ -55,10 +79,6 @@
     {
       "basename": "macros",
       "path": "C/compilation/preprocessor/macros.md"
-    },
-    {
-      "basename": "Bash commands",
-      "path": "Bash/Bash commands.md"
     },
     {
       "basename": "function pointers",
@@ -109,10 +129,6 @@
       "path": "C/variables/format specifiers.md"
     },
     {
-      "basename": "Intro",
-      "path": "VBA/Intro.md"
-    },
-    {
       "basename": "type casting",
       "path": "C/data types/type casting.md"
     },
@@ -149,10 +165,6 @@
       "path": "C/functions/write.md"
     },
     {
-      "basename": "git_github",
-      "path": "github/git_github.md"
-    },
-    {
       "basename": "type qualifiers",
       "path": "C/data types/type qualifiers.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "floats",
       "path": "C/data types/floats.md"
-    },
-    {
-      "basename": "arrays",
-      "path": "C/data types/arrays/arrays.md"
-    },
-    {
-      "basename": "dereferencing",
-      "path": "C/data types/pointers/dereferencing.md"
-    },
-    {
-      "basename": "pointer arithmetic",
-      "path": "C/data types/pointers/pointer arithmetic.md"
     }
   ],
   "omittedPaths": [],

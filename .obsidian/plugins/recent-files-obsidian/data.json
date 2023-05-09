@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "memory",
+      "path": "C/memory/memory.md"
+    },
+    {
+      "basename": "dynamic memory allocation",
+      "path": "C/memory/dynamic memory allocation.md"
+    },
+    {
+      "basename": "stack vs heap",
+      "path": "C/memory/stack vs heap.md"
+    },
+    {
+      "basename": "memory hierarchy",
+      "path": "C/memory/memory hierarchy.md"
+    },
+    {
       "basename": "Bash commands",
       "path": "Bash/Bash commands.md"
     },
@@ -153,10 +169,6 @@
       "path": "Bash/special variables.md"
     },
     {
-      "basename": "memory",
-      "path": "C/memory/memory.md"
-    },
-    {
       "basename": "scope",
       "path": "C/variables/scope.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "recursion",
       "path": "C/recursion.md"
-    },
-    {
-      "basename": "pointers && arrays",
-      "path": "C/data types/arrays/pointers && arrays.md"
-    },
-    {
-      "basename": "address",
-      "path": "C/memory/address.md"
-    },
-    {
-      "basename": "floats",
-      "path": "C/data types/floats.md"
     }
   ],
   "omittedPaths": [],

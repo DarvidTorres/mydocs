@@ -11,7 +11,9 @@ flowchart TB
     B<-->C[RAM]
     C <--> D[Disk Drive]
 ```
-
+- The Central Processing Unit (CPU) is basically a huge network of logic gates.
+	- It is also known as a processor or microprocessor.
+	- Inside a CPU there are thousands of microscopic transistors.
 - The CPU chip contains two separate modules: registers and a memory cache.
 - Data transfer occurs between adjacent memory levels.
 - The CPU process data from its registers.

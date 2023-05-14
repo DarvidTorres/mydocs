@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "memory",
-      "path": "C/memory/memory.md"
+      "basename": "memory hierarchy",
+      "path": "C/memory/memory hierarchy.md"
     },
     {
       "basename": "dynamic memory allocation",
       "path": "C/memory/dynamic memory allocation.md"
     },
     {
-      "basename": "stack vs heap",
-      "path": "C/memory/stack vs heap.md"
+      "basename": "memory",
+      "path": "C/memory/memory.md"
     },
     {
-      "basename": "memory hierarchy",
-      "path": "C/memory/memory hierarchy.md"
+      "basename": "stack vs heap",
+      "path": "C/memory/stack vs heap.md"
     },
     {
       "basename": "Bash commands",

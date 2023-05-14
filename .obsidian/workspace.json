@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/memory/memory.md",
+                "file": "C/memory/memory hierarchy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/memory/memory.md",
+                "file": "C/memory/memory hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/memory/memory.md",
+                "file": "C/memory/memory hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/memory/memory.md"
+                "file": "C/memory/memory hierarchy.md"
               }
             }
           }
@@ -229,7 +229,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "6ca2f8275260ca4c",
+  "active": "0b58ece58924e30c",
   "lastOpenFiles": [
     "C/memory/dynamic memory allocation.md",
     "C/memory/memory.md",

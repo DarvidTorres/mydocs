@@ -5,12 +5,12 @@
       "path": "C/memory/memory hierarchy.md"
     },
     {
-      "basename": "dynamic memory allocation",
-      "path": "C/memory/dynamic memory allocation.md"
-    },
-    {
       "basename": "memory",
       "path": "C/memory/memory.md"
+    },
+    {
+      "basename": "dynamic memory allocation",
+      "path": "C/memory/dynamic memory allocation.md"
     },
     {
       "basename": "stack vs heap",

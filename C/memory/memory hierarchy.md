@@ -18,12 +18,6 @@ flowchart TB
 - Data transfer occurs between adjacent memory levels.
 - The CPU process data from its registers.
 	- This is the only place where the processor can take data for calculations.
-If the CPU needs data from the disk drive, the following data transfers happen:
 
-```mermaid
-flowchart TD
-A[Disk drive] --> B[RAM]
-B --> C[Processor cache]
-C --> D[Processor registers]
-```
+- The motherboard is the printed circuit board that connects computer components.
 

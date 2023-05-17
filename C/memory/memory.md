@@ -1,8 +1,8 @@
 The first step of launching a program is to load it into Random-access memory (RAM).
 
 - The single unit of the computer memory is a byte.
-- A bit is the smallest amount of information you cannot divide.
 - A byte is a memory block of eight bits.
+- A bit is the smallest amount of information you cannot divide.
 - CPU cannot refer to a single bit.
 	- The reasons are historical.
 		- The primary task of the first computers was arithmetic calculations and a single bit is not enough to store a number in memory.

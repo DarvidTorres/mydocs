@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "OS",
-      "path": "Bash/OS.md"
-    },
-    {
       "basename": "Bash interpreter",
       "path": "Bash/Bash interpreter.md"
+    },
+    {
+      "basename": "OS",
+      "path": "Bash/OS.md"
     },
     {
       "basename": "memory hierarchy",

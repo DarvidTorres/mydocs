@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "arrays",
+      "path": "C/structures/arrays/arrays.md"
+    },
+    {
+      "basename": "memory",
+      "path": "C/memory/memory.md"
+    },
+    {
+      "basename": "structures",
+      "path": "C/structures/structures.md"
+    },
+    {
+      "basename": "types",
+      "path": "C/data types/types.md"
+    },
+    {
       "basename": "Bash interpreter",
       "path": "Bash/Bash interpreter.md"
     },
@@ -35,10 +51,6 @@
     {
       "basename": "Hexadecimal",
       "path": "Number representation systems/Hexadecimal.md"
-    },
-    {
-      "basename": "memory",
-      "path": "C/memory/memory.md"
     },
     {
       "basename": "dynamic memory allocation",
@@ -126,7 +138,7 @@
     },
     {
       "basename": "strings",
-      "path": "C/data types/arrays/strings.md"
+      "path": "C/structures/arrays/strings.md"
     },
     {
       "basename": "char",
@@ -151,10 +163,6 @@
     {
       "basename": "if else",
       "path": "C/flow control/if else.md"
-    },
-    {
-      "basename": "types",
-      "path": "C/data types/types.md"
     },
     {
       "basename": "int",
@@ -191,14 +199,6 @@
     {
       "basename": "write",
       "path": "C/functions/write.md"
-    },
-    {
-      "basename": "type qualifiers",
-      "path": "C/data types/type qualifiers.md"
-    },
-    {
-      "basename": "declaration and definition",
-      "path": "C/main/declaration and definition.md"
     }
   ],
   "omittedPaths": [],

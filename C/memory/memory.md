@@ -1,4 +1,5 @@
-The first step of launching a program is to load it into Random-access memory (RAM).
+- The first step of launching a program is to load it into Random-access memory (RAM).
+	- It is called "random" because a program can call to a value stored in some memory address "randomly", that is, without having to access in a specific order (e.g. from top to bottom)
 
 - The single unit of the computer memory is a byte.
 - A byte is a memory block of eight bits.

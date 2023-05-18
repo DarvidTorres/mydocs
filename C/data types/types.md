@@ -1,6 +1,14 @@
-A data type is a set of *data values* associated to a set of allowed operations on these values.
+Do not confuse with data [[structures]].
 
-The type of a [[variables|variable]] determines how much space it occupies in [[memory|storage]] and how the *bit pattern* stored is interpreted.
+A data type is a set of *data values* associated to a set of allowed operations on these values.
+- The data type is basically a classification of data.
+- In computer programming, the data type helps the compiler to select a proper machine representation of data.
+	- Different programming languages provide the definition of a data type in different ways.
+
+- The data type does not store any value, but it defines that which type of value can be stored in a variable.
+- The type of a [[variables|variable]] determines how much space it occupies in [[memory|storage]] and how the *bit pattern* stored is interpreted.
+
+Data type is a type of information transmitted between the programmer and the compiler where the programmer informs the compiler about what type of data is to be stored and also tells how much space it requires in the memory
 
 - Basic Types: Arithmetic types and are further classified into:
 	- integer types

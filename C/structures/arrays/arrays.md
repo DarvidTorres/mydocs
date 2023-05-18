@@ -1,4 +1,4 @@
-An array is a collection of items stored at contiguous memory locations.
+An array is a collection of items stored at contiguous [[memory]] locations.
 
 ![](https://i.imgur.com/Zdtx6Ug.png)
 

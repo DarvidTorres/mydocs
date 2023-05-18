@@ -5,12 +5,12 @@
       "path": "C/structures/arrays/arrays.md"
     },
     {
-      "basename": "memory",
-      "path": "C/memory/memory.md"
-    },
-    {
       "basename": "structures",
       "path": "C/structures/structures.md"
+    },
+    {
+      "basename": "memory",
+      "path": "C/memory/memory.md"
     },
     {
       "basename": "types",

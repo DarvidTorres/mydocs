@@ -272,9 +272,9 @@
   },
   "active": "5ce19707178c3c48",
   "lastOpenFiles": [
-    "C/memory/memory.md",
-    "C/structures/arrays/arrays.md",
     "C/structures/structures.md",
+    "C/structures/arrays/arrays.md",
+    "C/memory/memory.md",
     "C/data types/types.md",
     "C/structures",
     "Bash/Bash interpreter.md",

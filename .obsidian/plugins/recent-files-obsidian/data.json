@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "OS",
+      "path": "Bash/OS.md"
+    },
+    {
+      "basename": "Bash interpreter",
+      "path": "Bash/Bash interpreter.md"
+    },
+    {
+      "basename": "memory hierarchy",
+      "path": "C/memory/memory hierarchy.md"
+    },
+    {
+      "basename": "mv",
+      "path": "Bash/mv.md"
+    },
+    {
+      "basename": "special variables",
+      "path": "Bash/special variables.md"
+    },
+    {
+      "basename": "input and output",
+      "path": "Bash/input and output.md"
+    },
+    {
+      "basename": "Bash commands",
+      "path": "Bash/Bash commands.md"
+    },
+    {
       "basename": "compilation",
       "path": "C/compilation/compilation.md"
     },
@@ -13,20 +41,12 @@
       "path": "C/memory/memory.md"
     },
     {
-      "basename": "memory hierarchy",
-      "path": "C/memory/memory hierarchy.md"
-    },
-    {
       "basename": "dynamic memory allocation",
       "path": "C/memory/dynamic memory allocation.md"
     },
     {
       "basename": "stack vs heap",
       "path": "C/memory/stack vs heap.md"
-    },
-    {
-      "basename": "Bash commands",
-      "path": "Bash/Bash commands.md"
     },
     {
       "basename": "git_github",
@@ -129,10 +149,6 @@
       "path": "C/compilation/assembler.md"
     },
     {
-      "basename": "input and output",
-      "path": "Bash/input and output.md"
-    },
-    {
       "basename": "if else",
       "path": "C/flow control/if else.md"
     },
@@ -169,10 +185,6 @@
       "path": "C/compilation/preprocessor/preprocessor.md"
     },
     {
-      "basename": "special variables",
-      "path": "Bash/special variables.md"
-    },
-    {
       "basename": "scope",
       "path": "C/variables/scope.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "declaration and definition",
       "path": "C/main/declaration and definition.md"
-    },
-    {
-      "basename": "variables",
-      "path": "C/variables/variables.md"
-    },
-    {
-      "basename": "flow control && loops",
-      "path": "C/flow control/flow control && loops.md"
     }
   ],
   "omittedPaths": [],

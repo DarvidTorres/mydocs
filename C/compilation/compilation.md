@@ -1,5 +1,3 @@
-# compilation
-
 Compilation is the process of converting source code (human-readable code) into object code (machine-readable code). The actual program that runs in a [CPU](https://en.wikipedia.org/wiki/Central_processing_unit) consists of instructions in machine code: patterns of 0 and 1 stored in 14 bit chunks at different addresses.
 
 The compilation process in C involves four steps:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/memory/memory hierarchy.md",
+                "file": "C/compilation/compilation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/memory/memory hierarchy.md",
+                "file": "C/compilation/compilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/memory/memory hierarchy.md",
+                "file": "C/compilation/compilation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/memory/memory hierarchy.md"
+                "file": "C/compilation/compilation.md"
               }
             }
           }
@@ -232,7 +232,10 @@
   },
   "active": "6ca2f8275260ca4c",
   "lastOpenFiles": [
+    "Number representation systems/Hexadecimal.md",
     "C/memory/memory.md",
+    "C/memory/Untitled.md",
+    "Number representation systems",
     "C/memory/memory hierarchy.md",
     "C/memory/dynamic memory allocation.md",
     "C/memory/stack vs heap.md",
@@ -256,8 +259,6 @@
     "C/functions/printf.md",
     "C/main/tokens.md",
     "C/compilation/preprocessor/directives.md",
-    "C/compilation/preprocessor/macros.md",
-    "C/data types/pointers/function pointers.md",
     "C/main/operators",
     "C/data types/integers",
     "C/flow control",
@@ -267,7 +268,6 @@
     "C/compilation/preprocessor",
     "C/compilation",
     "C/data types/arrays",
-    "C/variables",
     "Pasted image 20230319193607.png"
   ]
 }

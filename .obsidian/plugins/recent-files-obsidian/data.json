@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "memory hierarchy",
-      "path": "C/memory/memory hierarchy.md"
+      "basename": "compilation",
+      "path": "C/compilation/compilation.md"
+    },
+    {
+      "basename": "Hexadecimal",
+      "path": "Number representation systems/Hexadecimal.md"
     },
     {
       "basename": "memory",
       "path": "C/memory/memory.md"
+    },
+    {
+      "basename": "memory hierarchy",
+      "path": "C/memory/memory hierarchy.md"
     },
     {
       "basename": "dynamic memory allocation",
@@ -55,10 +63,6 @@
     {
       "basename": "functions",
       "path": "C/functions/functions.md"
-    },
-    {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
     },
     {
       "basename": "ASCII",
@@ -191,14 +195,6 @@
     {
       "basename": "flow control && loops",
       "path": "C/flow control/flow control && loops.md"
-    },
-    {
-      "basename": "pointers",
-      "path": "C/data types/pointers/pointers.md"
-    },
-    {
-      "basename": "recursion",
-      "path": "C/recursion.md"
     }
   ],
   "omittedPaths": [],

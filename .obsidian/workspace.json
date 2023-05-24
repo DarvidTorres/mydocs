@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/structures/arrays/arrays.md",
+                "file": "Bash/Bash commands.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/structures/arrays/arrays.md",
+                "file": "Bash/Bash commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/structures/arrays/arrays.md",
+                "file": "Bash/Bash commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/structures/arrays/arrays.md"
+                "file": "Bash/Bash commands.md"
               }
             }
           }
@@ -272,12 +272,12 @@
   },
   "active": "5ce19707178c3c48",
   "lastOpenFiles": [
-    "C/structures/structures.md",
+    "Bash/Bash interpreter.md",
     "C/structures/arrays/arrays.md",
+    "C/structures/structures.md",
     "C/memory/memory.md",
     "C/data types/types.md",
     "C/structures",
-    "Bash/Bash interpreter.md",
     "Bash/OS.md",
     "C/memory/memory hierarchy.md",
     "Bash/mv.md",

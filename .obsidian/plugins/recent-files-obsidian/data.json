@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Bash commands",
+      "path": "Bash/Bash commands.md"
+    },
+    {
+      "basename": "Bash interpreter",
+      "path": "Bash/Bash interpreter.md"
+    },
+    {
       "basename": "arrays",
       "path": "C/structures/arrays/arrays.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "types",
       "path": "C/data types/types.md"
-    },
-    {
-      "basename": "Bash interpreter",
-      "path": "Bash/Bash interpreter.md"
     },
     {
       "basename": "OS",
@@ -39,10 +43,6 @@
     {
       "basename": "input and output",
       "path": "Bash/input and output.md"
-    },
-    {
-      "basename": "Bash commands",
-      "path": "Bash/Bash commands.md"
     },
     {
       "basename": "compilation",

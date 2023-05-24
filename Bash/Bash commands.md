@@ -1,3 +1,50 @@
+
+Command Structure:
+
+```bash
+<command> -<options> <arguments>
+```
+
+- arguments: operands of command
+	- Do something with arguments
+- options: affect the behavior
+	- Change the default 'doing' with arguments
+
+We can combine options for commands in a single 'dash'.
+
+Example:
+
+```Bash
+ncal -h -3
+ncal -h3
+```
+
+Some options accept additional parameters.
+
+Example:
+
+```Bash
+ncal -A 2
+ncal -A2
+```
+
+If adding multiple options, including some that require additional arguments, we need to separate other options from argument options:
+
+Example:
+
+```Bash
+ncal july 1969 -B1M
+ncal july 1969 -B1 -M
+```
+
+`export LC_ALL=C` is enough. All subsequent command output will be in English.
+
+If you want to revert to the native language, unset the `LC_ALL` variable:
+
+```
+unset LC_ALL
+```
+
 # pwd
 
 pwd: print working directory

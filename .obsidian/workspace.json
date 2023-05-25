@@ -60,6 +60,16 @@
             }
           },
           {
+            "id": "799d56dbd7650194",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
+          },
+          {
             "id": "ede3d09c18b0e9f8",
             "type": "leaf",
             "state": {
@@ -86,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -270,7 +280,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "5ce19707178c3c48",
+  "active": "799d56dbd7650194",
   "lastOpenFiles": [
     "Bash/Bash interpreter.md",
     "C/structures/arrays/arrays.md",

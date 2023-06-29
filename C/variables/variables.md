@@ -1,6 +1,6 @@
-- Variables are names given to [[memory]] locations for storing [[types#value range|data values]].
+- Variables are names given to [[memory]] locations for storing [[C/data types/types#value range|data values]].
 - Name variables are called identifiers.
-- Variables have [[types|type]].
+- Variables have [[C/data types/types|type]].
 
 To declare a variable assign type and name:
 
@@ -20,7 +20,7 @@ int main() {
 }
 ```
 
-To assign (or store) a [[types#value range|value]] in a variable, use the `=` operator; we call this operation variable definition or initialization:
+To assign (or store) a [[C/data types/types#value range|value]] in a variable, use the `=` operator; we call this operation variable definition or initialization:
 
 ```C
 <varName> = <value>;
@@ -50,7 +50,7 @@ int main() {
 ```
 
 - To declare multiple variables at once use comma separators.
-	- To declare multiple variables at once they must match [[types|type]].
+	- To declare multiple variables at once they must match [[C/data types/types|type]].
 	- We can:
 		- Declare multiple variables, and assign the value later.
 		- Declare multiple variables and assign value at once.

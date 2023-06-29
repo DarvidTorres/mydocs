@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Types",
+      "path": "R/Types.md"
+    },
+    {
+      "basename": "R",
+      "path": "R/R.md"
+    },
+    {
       "basename": "Bash commands",
       "path": "Bash/Bash commands.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "git_github",
       "path": "github/git_github.md"
-    },
-    {
-      "basename": "R",
-      "path": "R/R.md"
     },
     {
       "basename": "Visual Basic Editor",
@@ -195,10 +199,6 @@
     {
       "basename": "scope",
       "path": "C/variables/scope.md"
-    },
-    {
-      "basename": "write",
-      "path": "C/functions/write.md"
     }
   ],
   "omittedPaths": [],

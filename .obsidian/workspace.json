@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Bash commands.md",
+                "file": "R/Types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/Bash commands.md",
+                "file": "R/Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/Bash commands.md",
+                "file": "R/Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/Bash commands.md"
+                "file": "R/Types.md"
               }
             }
           }
@@ -272,6 +272,9 @@
   },
   "active": "5ce19707178c3c48",
   "lastOpenFiles": [
+    "R/R.md",
+    "R/Types.md",
+    "Bash/Bash commands.md",
     "Bash/Bash interpreter.md",
     "C/structures/arrays/arrays.md",
     "C/structures/structures.md",
@@ -283,7 +286,6 @@
     "Bash/mv.md",
     "Bash/special variables.md",
     "Bash/input and output.md",
-    "Bash/Bash commands.md",
     "Bash/Operating systems",
     "C/compilation/compilation.md",
     "Number representation systems/Hexadecimal.md",
@@ -292,7 +294,6 @@
     "C/memory/dynamic memory allocation.md",
     "C/memory/stack vs heap.md",
     "github/git_github.md",
-    "R/R.md",
     "VBA/Visual Basic Editor.md",
     "VBA/Intro.md",
     "VBA/Object model.md",
@@ -300,7 +301,6 @@
     "C/make files.md",
     "C/compilation/preprocessor/conditional compilation.md",
     "C/functions/functions.md",
-    "C/main/ASCII.md",
     "C/main/operators",
     "C/data types/integers",
     "C/flow control",

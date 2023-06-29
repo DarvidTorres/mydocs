@@ -1,4 +1,4 @@
-Do not confuse with data [[types]].
+Do not confuse with data [[C/data types/types]].
 
 - A data structure is a set of data types and a set of specific operations that can be performed.
 - Data structures have the ability to hold different types of data within a single object.

@@ -1,3 +1,5 @@
+
+
 # Packages
 
 * ``print(.packages())`` # List loaded packages
@@ -100,9 +102,15 @@ colnames(<df>)[c(<int1>, <int2>)] <- c("<col1>", "<col2>") # change the name of 
 
 # Subseting
 
+## Matrix
+
+```R
+rbind() 
+```
+
 ## Using brackets
 
-It's not recommended to use bracket syntax if we subset some but not all the columns, because the object-type changes from data frame to a vector
+It's not recommended to use bracket syntax if we subset a single row or a single column, because the object-type changes from data frame to a vector
 
 * `<data_frame>[<rows>, <columns>] #Left empty to get all rows/columns`
 * `<data_frame>[c(<row_x>, <row_y>), c(<column_x>, <column_y>)]`

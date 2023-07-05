@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Types",
-      "path": "R/Types.md"
-    },
-    {
       "basename": "R",
       "path": "R/R.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "R/Settings.md"
+    },
+    {
+      "basename": "Types",
+      "path": "R/Types.md"
     },
     {
       "basename": "Bash commands",
@@ -195,10 +199,6 @@
     {
       "basename": "preprocessor",
       "path": "C/compilation/preprocessor/preprocessor.md"
-    },
-    {
-      "basename": "scope",
-      "path": "C/variables/scope.md"
     }
   ],
   "omittedPaths": [],

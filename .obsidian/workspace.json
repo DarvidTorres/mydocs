@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Types.md",
+                "file": "R/R.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R/Types.md",
+                "file": "R/R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Types.md",
+                "file": "R/R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R/Types.md"
+                "file": "R/R.md"
               }
             }
           }
@@ -272,6 +272,7 @@
   },
   "active": "5ce19707178c3c48",
   "lastOpenFiles": [
+    "R/Settings.md",
     "R/R.md",
     "R/Types.md",
     "Bash/Bash commands.md",
@@ -300,7 +301,6 @@
     "C/compilation/preprocessor/header files.md",
     "C/make files.md",
     "C/compilation/preprocessor/conditional compilation.md",
-    "C/functions/functions.md",
     "C/main/operators",
     "C/data types/integers",
     "C/flow control",

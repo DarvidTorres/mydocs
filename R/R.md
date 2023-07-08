@@ -1,78 +1,3 @@
-
-
-# Packages
-
-* ``print(.packages())`` # List loaded packages
-* ``detach("package:<package_name>")`` # Unload packages
-* load packages if not loaded already
-
-```R
-if(! "<package_name>" %in% (.packages())){
-  library("<package_name>")
-  (.packages())
-}
-```
-
-* ``require`` The required package will load if not loaded already
-
-# Files
-
-## Working directory
-
-* `getwd()` # Get working directory
-* `setwd("PATH")` # Set working directory to `PATH`
-  * Example `(Windows): "C:\\Programming\\R\\R Programming A-Z"`
-* ``setwd(choose.dir())`` manually set working directory
-* `dir()` # See files within directory
-* `here` library that allows you to use the `here()` function to create a string with the information you need to point R to a particular file.
-```R 
-library(here) # Library to point working directory
-here() # Shows working directory exactly as getwd()
-here("<cd>") # Path to subfolder cd
-```
-
-## Read files
-
-* Path: Windows: use "\\\\" or "/".
-
-```R
-<var> <- read.csv("PATH", stringsAsFactors = T) # String as factors to see how many unique values per column
-<var> <- read.csv(file.choose()) # Choose file manually
-library(readxl) # libary to read .xlsx files
-<var> <- read_excel("PATH", stringsAsFactors = T) # Reading a .xlsx file
-library(haven) # library to read SAS (.sas7bdat), SPSS (.sav), or Stata (.dta) files
-<var> <- read_dta("PATH", stringsAsFactors = T) # Reading a Stata file
-<var> <- read_sav("PATH", stringsAsFactors = T) # Reading a SPSS file
-<var> <- read_sas("PATH", stringsAsFactors = T) # Reading a SAS file
-```
-
-```R
-here("<file_name>") # File path in working directory
-here("<cd>", "<file_name>") # File path in subfolder cd
-<var> <- read<extension>(here("<cd>", "<file_name>")) # Import using here()
-```
-
-## Export files
-
-```R 
-write.csv(<df>, here("df.csv"), row.names=FALSE)
-```
-
-## R objects
-
-Makes it faster to import/export data
-```R
-save.image("PATH\\name_of_file.RDATA") # Create image file
-load("PATH\\name_of_file.RDATA") # Read image file
-```
-
-## Tables manually
-
-```R
-mydata <- data.frame(age=numeric(0), gender=character(0), weight=numeric(0))
-mydata <- edit(mydata)
-```
-
 # Data frame structure
 
 ```R
@@ -110,7 +35,7 @@ rbind()
 
 ## Using brackets
 
-It's not recommended to use bracket syntax if we subset a single row or a single column, because the object-type changes from data frame to a vector
+It's not recommended to use bracket syntax if we subset a single column, because the object-type changes from data frame to a vector
 
 * `<data_frame>[<rows>, <columns>] #Left empty to get all rows/columns`
 * `<data_frame>[c(<row_x>, <row_y>), c(<column_x>, <column_y>)]`

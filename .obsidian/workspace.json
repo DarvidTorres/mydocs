@@ -8,85 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef06c60110a39ef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bash/OS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ca2f8275260ca4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/data types/types.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fb8fa47c52c743c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/structures/structures.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ce19707178c3c48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/R.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ede3d09c18b0e9f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/memory/memory.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ead473585f50f9a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/memory/memory hierarchy.md",
+                "file": "R/Settings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R/R.md",
+                "file": "R/Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/R.md",
+                "file": "R/Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R/R.md"
+                "file": "R/Settings.md"
               }
             }
           }
@@ -272,8 +206,11 @@
   },
   "active": "5ce19707178c3c48",
   "lastOpenFiles": [
-    "R/Settings.md",
+    "R/Packages.md",
     "R/R.md",
+    "R/Files.md",
+    "R/Factors.md",
+    "R/Settings.md",
     "R/Types.md",
     "Bash/Bash commands.md",
     "Bash/Bash interpreter.md",
@@ -298,9 +235,6 @@
     "VBA/Visual Basic Editor.md",
     "VBA/Intro.md",
     "VBA/Object model.md",
-    "C/compilation/preprocessor/header files.md",
-    "C/make files.md",
-    "C/compilation/preprocessor/conditional compilation.md",
     "C/main/operators",
     "C/data types/integers",
     "C/flow control",

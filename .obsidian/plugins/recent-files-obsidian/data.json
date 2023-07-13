@@ -5,24 +5,28 @@
       "path": "R/R.md"
     },
     {
-      "basename": "Factors",
-      "path": "R/Factors.md"
-    },
-    {
       "basename": "Files",
       "path": "R/Files.md"
+    },
+    {
+      "basename": "Packages",
+      "path": "R/Packages.md"
     },
     {
       "basename": "Types",
       "path": "R/Types.md"
     },
     {
+      "basename": "Objects",
+      "path": "R/Objects.md"
+    },
+    {
       "basename": "Settings",
       "path": "R/Settings.md"
     },
     {
-      "basename": "Packages",
-      "path": "R/Packages.md"
+      "basename": "Indexing",
+      "path": "R/Indexing.md"
     },
     {
       "basename": "Bash commands",
@@ -187,18 +191,6 @@
     {
       "basename": "int",
       "path": "C/data types/integers/int.md"
-    },
-    {
-      "basename": "format specifiers",
-      "path": "C/variables/format specifiers.md"
-    },
-    {
-      "basename": "type casting",
-      "path": "C/data types/type casting.md"
-    },
-    {
-      "basename": "GCC",
-      "path": "C/compilation/compiler/GCC.md"
     }
   ],
   "omittedPaths": [],

@@ -120,17 +120,7 @@ Add columns
 Remove columns
 * `<data_frame>$<column> <- NULL`
 
-# Variables
 
-* List all variables in environment `ls()`
-* Remove all variables in environment  `rm(list = ls())`
-
-## Classes/types
-
-* **Integers**: Are "forced" into R by adding "L" at the end, for instance, `x <- 2` will be stored as "double", `typeof(x <- 2)`, but if we type `x <- 2L`, the variable will be stored as an integer.
-* **Complex**: are stored as `z <- 3 + 2i`
-* **String**: stored with double quotes, as usual.
-* **Logical**: are stored as usual
 
 ## Graphs
 

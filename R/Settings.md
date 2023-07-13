@@ -4,7 +4,7 @@ By default R shows 80 characters width in terminal:
 Use parameter
 
 ```R
-options(width = 150)
+options(width = 200)
 ```
 
 To change width

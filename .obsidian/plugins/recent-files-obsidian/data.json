@@ -1,28 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Settings",
-      "path": "R/Settings.md"
-    },
-    {
-      "basename": "Packages",
-      "path": "R/Packages.md"
-    },
-    {
       "basename": "R",
       "path": "R/R.md"
-    },
-    {
-      "basename": "Files",
-      "path": "R/Files.md"
     },
     {
       "basename": "Factors",
       "path": "R/Factors.md"
     },
     {
+      "basename": "Files",
+      "path": "R/Files.md"
+    },
+    {
       "basename": "Types",
       "path": "R/Types.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "R/Settings.md"
+    },
+    {
+      "basename": "Packages",
+      "path": "R/Packages.md"
     },
     {
       "basename": "Bash commands",

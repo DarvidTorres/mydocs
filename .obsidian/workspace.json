@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Settings.md",
+                "file": "R/R.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R/Settings.md",
+                "file": "R/R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Settings.md",
+                "file": "R/R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R/Settings.md"
+                "file": "R/R.md"
               }
             }
           }
@@ -206,12 +206,12 @@
   },
   "active": "5ce19707178c3c48",
   "lastOpenFiles": [
+    "R/Factors.md",
+    "R/Files.md",
+    "R/Types.md",
+    "R/Settings.md",
     "R/Packages.md",
     "R/R.md",
-    "R/Files.md",
-    "R/Factors.md",
-    "R/Settings.md",
-    "R/Types.md",
     "Bash/Bash commands.md",
     "Bash/Bash interpreter.md",
     "C/structures/arrays/arrays.md",

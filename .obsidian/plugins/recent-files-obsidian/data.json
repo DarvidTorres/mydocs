@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hexadecimal",
+      "path": "Number representation systems/Hexadecimal.md"
+    },
+    {
       "basename": "R",
       "path": "R/R.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "compilation",
       "path": "C/compilation/compilation.md"
-    },
-    {
-      "basename": "Hexadecimal",
-      "path": "Number representation systems/Hexadecimal.md"
     },
     {
       "basename": "dynamic memory allocation",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "git_github",
+      "path": "github/git_github.md"
+    },
+    {
       "basename": "Hexadecimal",
       "path": "Number representation systems/Hexadecimal.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "stack vs heap",
       "path": "C/memory/stack vs heap.md"
-    },
-    {
-      "basename": "git_github",
-      "path": "github/git_github.md"
     },
     {
       "basename": "Visual Basic Editor",

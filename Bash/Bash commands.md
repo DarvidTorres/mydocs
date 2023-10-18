@@ -1,11 +1,11 @@
-Command Structure:
+Command structure:
 
 ```bash
 <command> -<options> <arguments>
 ```
 
 - arguments: operands of command
-	- Do something with arguments
+	- Command does something with arguments
 - options: affect the behavior
 	- Change the default 'doing' with arguments
 

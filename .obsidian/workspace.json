@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github/git_github.md",
+                "file": "Bash/Bash commands.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github/git_github.md",
+                "file": "Bash/Bash commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github/git_github.md",
+                "file": "Bash/Bash commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github/git_github.md"
+                "file": "Bash/Bash commands.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "5ce19707178c3c48",
   "lastOpenFiles": [
+    "github/git_github.md",
     "Number representation systems/Hexadecimal.md",
     "R/R.md",
     "R/Files.md",
@@ -234,7 +235,6 @@
     "Number representation systems",
     "C/memory/dynamic memory allocation.md",
     "C/memory/stack vs heap.md",
-    "github/git_github.md",
     "C/main/operators",
     "C/data types/integers",
     "C/flow control",

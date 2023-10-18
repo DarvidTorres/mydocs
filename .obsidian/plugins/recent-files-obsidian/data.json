@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bash commands",
+      "path": "Bash/Bash commands.md"
+    },
+    {
       "basename": "git_github",
       "path": "github/git_github.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Indexing",
       "path": "R/Indexing.md"
-    },
-    {
-      "basename": "Bash commands",
-      "path": "Bash/Bash commands.md"
     },
     {
       "basename": "Bash interpreter",

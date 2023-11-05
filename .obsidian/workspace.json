@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash/Bash commands.md",
+                "file": "Number representation systems/Hexadecimal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/Bash commands.md",
+                "file": "Number representation systems/Hexadecimal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/Bash commands.md",
+                "file": "Number representation systems/Hexadecimal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash/Bash commands.md"
+                "file": "Number representation systems/Hexadecimal.md"
               }
             }
           }
@@ -206,6 +206,7 @@
   },
   "active": "5ce19707178c3c48",
   "lastOpenFiles": [
+    "Bash/Bash commands.md",
     "github/git_github.md",
     "Number representation systems/Hexadecimal.md",
     "R/R.md",
@@ -217,7 +218,6 @@
     "R/Indexing.md",
     "R/Factors.md",
     "R/Attributes.md",
-    "Bash/Bash commands.md",
     "Bash/Bash interpreter.md",
     "C/structures/arrays/arrays.md",
     "C/structures/structures.md",

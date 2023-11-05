@@ -1,7 +1,7 @@
 Command structure:
 
 ```bash
-<command> -<options> <arguments>
+<command> <arguments> -<options>
 ```
 
 - arguments: operands of command
@@ -66,7 +66,7 @@ using a dash as an argument of cd will change the current directory to the previ
 
 ls
 
-carpetas son en azul
+folders are shown in blue
 
 - `less` (view text files)
 - `file` (classify a file's contents [file type])

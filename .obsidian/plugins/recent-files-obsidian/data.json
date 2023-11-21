@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "f-strings",
+      "path": "Python/f-strings.md"
+    },
+    {
+      "basename": "memory",
+      "path": "C/memory/memory.md"
+    },
+    {
+      "basename": "Fetch-Execute Cycle",
+      "path": "C/memory/Fetch-Execute Cycle.md"
+    },
+    {
+      "basename": "compilation",
+      "path": "C/compilation/compilation.md"
+    },
+    {
+      "basename": "stack vs heap",
+      "path": "C/memory/stack vs heap.md"
+    },
+    {
+      "basename": "address",
+      "path": "C/memory/address.md"
+    },
+    {
+      "basename": "dynamic memory allocation",
+      "path": "C/memory/dynamic memory allocation.md"
+    },
+    {
       "basename": "Hexadecimal",
       "path": "Number representation systems/Hexadecimal.md"
     },
@@ -53,20 +81,12 @@
       "path": "C/structures/structures.md"
     },
     {
-      "basename": "memory",
-      "path": "C/memory/memory.md"
-    },
-    {
       "basename": "types",
       "path": "C/data types/types.md"
     },
     {
       "basename": "OS",
       "path": "Bash/OS.md"
-    },
-    {
-      "basename": "memory hierarchy",
-      "path": "C/memory/memory hierarchy.md"
     },
     {
       "basename": "mv",
@@ -79,18 +99,6 @@
     {
       "basename": "input and output",
       "path": "Bash/input and output.md"
-    },
-    {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
-    },
-    {
-      "basename": "dynamic memory allocation",
-      "path": "C/memory/dynamic memory allocation.md"
-    },
-    {
-      "basename": "stack vs heap",
-      "path": "C/memory/stack vs heap.md"
     },
     {
       "basename": "Visual Basic Editor",

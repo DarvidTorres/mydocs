@@ -31,7 +31,14 @@ s = 'bar'
 print(f'foo {s}')
 ```
 
-An f-string expression (what's inside the curly brackets) cannot include a backslash, but we can put the backslash into a variable as a workaround:
+An f-string expression (what's inside the curly brackets) cannot include a backslash
+
+```Python
+f"newline: {ord('\n')}"
+# SyntaxError: f-string expression part cannot include a backslash
+```
+
+but we can put the backslash into a variable as a workaround:
 
 ```Python
 newline = ord('\n')
@@ -43,10 +50,16 @@ The interpreter treats the remainder of the f-string—anything not inside curly
 
 ```Python
 s = 'bar'
-print(f'foo\n{s}\nbaz')
+print(f'foo\n{s}')
 ```
 
-Example:
+We can escape curly braces using double curly braces ``{{}}``:
+
+```Python
+print(f'{{}}')
+```
+
+Examples:
 
 ```Python
 quantity = 6
@@ -60,4 +73,13 @@ we can do arithmetic operations inside f-string expressions:
 ```Python
 x = 2
 print(f'{x} cubed is {x**3}')
+```
+
+we can make explicit the definition of variables
+
+```Python
+a = [1, 2 ,3]
+b = {'foo': 1, 'bar': 2}
+print(f'{a}')
+print(f'{b}')
 ```

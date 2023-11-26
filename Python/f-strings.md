@@ -24,6 +24,8 @@ f"bar"
 f'''baz'''
 ```
 
+## f-string expressions
+
 Any portion of an f-string that’s enclosed in curly braces ``{}`` is treated as an "f-string expression". The expression is evaluated and converted to string representation, and the result is interpolated into the original string in that location:
 
 ```Python

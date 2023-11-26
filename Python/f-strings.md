@@ -305,7 +305,9 @@ We use the syntax:
 f'{<value>:[[fill]align][sign][width][grouping_option]}'
 ```
 
-We can ad either `,` or `_` for a thousand separator:
+We can ad either `,` or `_` for a thousand separator.
+
+Example:
 
 ```Python
 x = 12400
@@ -313,7 +315,80 @@ print(f'{x:,}')
 print(f'{x:_}')
 ```
 
+## Types
+
+The type determines how the data should be presented.
+
+Syntax:
+```Python
+f'{<value>:[[fill]align][sign][width][grouping_option][type]}'
+```
+
+The available integer presentation types are:
+
+|Type|Meaning|
+|---|---|
+|`'b'`|Binary format. Outputs the number in base 2.|
+|`'c'`|Character. Converts the integer to the corresponding unicode character before printing.|
+|`'d'`|Decimal Integer. Outputs the number in base 10.|
+|`'o'`|Octal format. Outputs the number in base 8.|
+|`'x'`|Hex format. Outputs the number in base 16, using lower-case letters for the digits above 9.|
+|`'X'`|Hex format. Outputs the number in base 16, using upper-case letters for the digits above 9. In case `'#'` is specified, the prefix `'0x'` will be upper-cased to `'0X'` as well.|
+
+Example:
+
+```Python
+x = 35
+print(f"x is of {type(x)}")
+print(f'{x} in binary is {35:b}')
+print(f'Unicode character {35} is {35:c}')
+print(f'{x} decimal integer is {35:d}')
+print(f'{x} in octal format is {35:o}')
+print(f'{x} in hex format is {35:x}')
+```
+
+In addition to the above presentation types, integers can be formatted with the floating point presentation types listed below (except 'n' and None). When doing so, float() is used to convert the integer to a floating point number before formatting.
+
+The available presentation types for float and Decimal values are
+
+|Type|Meaning|
+|---|---|
+|`'e'`|Scientific notation. For a given precision `p`, formats the number in scientific notation with the letter ‘e’ separating the coefficient from the exponent. The coefficient has one digit before and `p` digits after the decimal point, for a total of `p + 1` significant digits. With no precision given, uses a precision of `6` digits after the decimal point for [`float`](https://docs.python.org/3/library/functions.html#float "float"), and shows all coefficient digits for [`Decimal`](https://docs.python.org/3/library/decimal.html#decimal.Decimal "decimal.Decimal"). If no digits follow the decimal point, the decimal point is also removed unless the `#` option is used.|
+|`'E'`|Scientific notation. Same as `'e'` except it uses an upper case ‘E’ as the separator character.|
+|`'f'`|Fixed-point notation. For a given precision `p`, formats the number as a decimal number with exactly `p` digits following the decimal point. With no precision given, uses a precision of `6` digits after the decimal point for [`float`](https://docs.python.org/3/library/functions.html#float "float"), and uses a precision large enough to show all coefficient digits for [`Decimal`](https://docs.python.org/3/library/decimal.html#decimal.Decimal "decimal.Decimal"). If no digits follow the decimal point, the decimal point is also removed unless the `#` option is used.|
+|`'F'`|Fixed-point notation. Same as `'f'`, but converts `nan` to `NAN` and `inf` to `INF`.|
+|`'g'`|General format. For a given precision `p >= 1`, this rounds the number to `p` significant digits and then formats the result in either fixed-point format or in scientific notation, depending on its magnitude. A precision of `0` is treated as equivalent to a precision of `1`.<br><br>The precise rules are as follows: suppose that the result formatted with presentation type `'e'` and precision `p-1` would have exponent `exp`. Then, if `m <= exp < p`, where `m` is -4 for floats and -6 for [`Decimals`](https://docs.python.org/3/library/decimal.html#decimal.Decimal "decimal.Decimal"), the number is formatted with presentation type `'f'` and precision `p-1-exp`. Otherwise, the number is formatted with presentation type `'e'` and precision `p-1`. In both cases insignificant trailing zeros are removed from the significand, and the decimal point is also removed if there are no remaining digits following it, unless the `'#'` option is used.<br><br>With no precision given, uses a precision of `6` significant digits for [`float`](https://docs.python.org/3/library/functions.html#float "float"). For [`Decimal`](https://docs.python.org/3/library/decimal.html#decimal.Decimal "decimal.Decimal"), the coefficient of the result is formed from the coefficient digits of the value; scientific notation is used for values smaller than `1e-6` in absolute value and values where the place value of the least significant digit is larger than 1, and fixed-point notation is used otherwise.<br><br>Positive and negative infinity, positive and negative zero, and nans, are formatted as `inf`, `-inf`, `0`, `-0` and `nan` respectively, regardless of the precision.|
+|`'G'`|General format. Same as `'g'` except switches to `'E'` if the number gets too large. The representations of infinity and NaN are uppercased, too.|
+|`'%'`|Percentage. Multiplies the number by 100 and displays in fixed (`'f'`) format, followed by a percent sign.|
+
+Example:
+
+```Python
+x = 35.23
+print(f'{x:.3e}')
+print(f'{x:.3f}')
+print(f'{x:.3g}')
+print(f'{x:.3%}')
+```
 ## Precision
 
-The precision is a decimal integer indicating how many digits should be displayed after the decimal point for presentation types 'f' and 'F', or before and after the decimal point for presentation types 'g' or 'G'. For string presentation types the field indicates the maximum field size - in other words, how many characters will be used from the field content. The precision is not allowed for integer presentation types.
+The precision is a decimal integer indicating how many digits should be displayed after the decimal point for presentation floating presentation types.
+
+Syntax:
+```Python
+f'{<value>:[[fill]align][sign][width][grouping_option]["." precision][type]}'
+
+#You need to specify precision only in case of floating point numbers
+```
+
+Example:
+
+```Python
+x = 35.23
+print(f'{x:.3e}')
+print(f'{x:.3f}')
+print(f'{x:.3g}')
+print(f'{x:.3%}')
+```
+
 

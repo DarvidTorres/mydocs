@@ -114,30 +114,32 @@ print(f'{a}')
 print(f'{b}')
 ```
 
-# Formatting
+# Format Specification Mini-Language
 
-To format f-string expressions use the following:
+To format f-string expressions use the following syntax:
 
-Syntax:
 ```Python
-f'{<variable | value>:[width][.precision][type]}'
+f'{<value>:[[fill]align][sign]["z"]["#"]["0"][width][grouping_option]["." precision][type]}'
 
 #You need to specify precision only in case of floating point numbers
 ```
 
-The type can be used with format codes:
+In a more simplistic way:
 
-`d` for integers
-`f` for floating-point numbers
-`b` for binary numbers
-`o` for octal numbers
-`x` for octal hexadecimal numbers
-`s` for string
-`e` for floating-point in an exponent format
+```Python
+f'{<value>:<formatting_options>}'
+```
 
-## Alignment
+Since formatting applies to the f-string expression, everything comes inside the curly brackets, and we use the `:` to separate the value we want to format from the formatting options that follow.
+## Width and alignment
 
-To align text (left or right) we use the `width` element (see syntax above), which can be specified using the following:
+For width and alignment we use the syntax:
+
+```Python
+{<value>:[[fill]align][width]}
+```
+
+Where `align` is one of the following:
 
 | Option | Meaning                                                                                                                                                                                                                                                                            |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -146,15 +148,16 @@ To align text (left or right) we use the `width` element (see syntax above), whi
 |`^`|Forces the field to be centered within the available space.|
 | `=`    | Forces the padding to be placed after the sign (if any) but before the digits. This is used for printing fields in the form ‘+000000120’. This alignment option is only valid for numeric types. It becomes the default for numbers when ‘0’ immediately precedes the field width. |
 
+`width` is input as a number defining the size (number of characters) we want the output string to have.
 
 Example:
 
 ```Python
 a = 3
-print(f'{a:>5}'')
+print(f'{a:>5}')
 ```
 
-In the example above, the option `>` forces the output to be a string of size five, where the value `a` is at the rightmost position, and the rest (four) characters (to the left of `a`) are spaces (by default). We can define which character will pad the string:
+In the example above, the align option `>` forces the output to be a string of size five, where the value `a` is at the rightmost position, and the rest (four) characters (to the left of `a`) are spaces (by default). We can define which character will pad (`fill`) the string:
 
 ```Python
 a = 3
@@ -174,5 +177,98 @@ print(f'{a:#<5}')
 print(f'{a:$<5}')
 print(f'{a:%<5}')
 print(f'{a:_<5}')
+```
+
+The same also applies to `^`, but the center positioning will depend on how long the input value is (how many digits or characters it has) and how large we define the string to be:
+
+```Python
+a = 3
+b = 11
+print(f'{a:^5}')
+print(f'{a:#^5}')
+print(f'{a:$^5}')
+print(f'{a:%^5}')
+print(f'{a:_^5}')
+
+print("\n")
+
+print(f'{b:^5}')
+print(f'{b:#^5}')
+print(f'{b:$^5}')
+print(f'{b:%^5}')
+print(f'{b:_^5}')
+```
+
+Finally we have three options for `=`:
+
+|Option|Meaning|
+|---|---|
+|`'+'`|indicates that a sign should be used for both positive as well as negative numbers.|
+|`'-'`|indicates that a sign should be used only for negative numbers (this is the default behavior).|
+|space|indicates that a leading space should be used on positive numbers, and a minus sign on negative numbers.|
+
+The option `=` has two sign variants (see table above): `=+` and `=-` (as default), both of which align the input value to the right most position and:
+
+* The default option `=-` displays the sign at the left most position only for negative values:
+
+```Python
+a = 3
+c = -2
+
+print(f'{a:=5}')
+print(f'{a:#=5}')
+print(f'{a:$=5}')
+print(f'{a:%=5}')
+print(f'{a:_=5}')
+
+print("\n")
+
+print(f'{c:=5}')
+print(f'{c:#=5}')
+print(f'{c:$=5}')
+print(f'{c:%=5}')
+print(f'{c:_=5}')
+```
+
+* The option `=+` displays the sign at the left most position for both, positive and negative values:
+
+```Python
+a = 3
+c = -2
+
+print(f'{a:=+5}')
+print(f'{a:#=+5}')
+print(f'{a:$=+5}')
+print(f'{a:%=+5}')
+print(f'{a:_=+5}')
+
+print("\n")
+
+print(f'{c:=+5}')
+print(f'{c:#=+5}')
+print(f'{c:$=+5}')
+print(f'{c:%=+5}')
+print(f'{c:_=+5}')
+```
+
+Finally, the `=` option also has a space variant `= ` which will add a space at the leftmost position for positive values, but a negative sign for negative values.
+
+```Python
+a = 3
+c = -2
+
+print(f'{a:= 5}')
+print(f'{a:#= 5}')
+print(f'{a:$= 5}')
+print(f'{a:%= 5}')
+print(f'{a:_= 5}')
+
+print("\n")
+
+print(f'{c:= 5}')
+print(f'{c:#= 5}')
+print(f'{c:$= 5}')
+print(f'{c:%= 5}')
+print(f'{c:_= 5}')
 ```
 

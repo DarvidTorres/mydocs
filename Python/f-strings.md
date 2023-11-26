@@ -78,7 +78,6 @@ print(rf'foo\n')
 print(fr'bar\n')
 ```
 
-
 F-string also makes debugging easier too. Instead of printing the variable name and its value, we only need to write the variable inside the f-string `{variable_name=}`:
 
 ```Python
@@ -115,15 +114,65 @@ print(f'{a}')
 print(f'{b}')
 ```
 
+# Formatting
 
-# 
+To format f-string expressions use the following:
+
+Syntax:
+```Python
+f'{<variable | value>:[width][.precision][type]}'
+
+#You need to specify precision only in case of floating point numbers
+```
 
 The type can be used with format codes:
 
-‘d’ for integers
-‘f’ for floating-point numbers
-‘b’ for binary numbers
-‘o’ for octal numbers
-‘x’ for octal hexadecimal numbers
-‘s’ for string
-‘e’ for floating-point in an exponent format
+`d` for integers
+`f` for floating-point numbers
+`b` for binary numbers
+`o` for octal numbers
+`x` for octal hexadecimal numbers
+`s` for string
+`e` for floating-point in an exponent format
+
+## Alignment
+
+To align text (left or right) we use the `width` element (see syntax above), which can be specified using the following:
+
+| Option | Meaning                                                                                                                                                                                                                                                                            |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `<`    | Forces the field to be left-aligned within the available space (this is the default for most objects).                                                                                                                                                                             |
+| `>`    | Forces the field to be right-aligned within the available space (this is the default for numbers).                                                                                                                                                                                 |
+|`^`|Forces the field to be centered within the available space.|
+| `=`    | Forces the padding to be placed after the sign (if any) but before the digits. This is used for printing fields in the form ‘+000000120’. This alignment option is only valid for numeric types. It becomes the default for numbers when ‘0’ immediately precedes the field width. |
+
+
+Example:
+
+```Python
+a = 3
+print(f'{a:>5}'')
+```
+
+In the example above, the option `>` forces the output to be a string of size five, where the value `a` is at the rightmost position, and the rest (four) characters (to the left of `a`) are spaces (by default). We can define which character will pad the string:
+
+```Python
+a = 3
+print(f'{a:>5}')
+print(f'{a:#>5}')
+print(f'{a:$>5}')
+print(f'{a:%>5}')
+print(f'{a:_>5}')
+```
+
+The same applies for `<`:
+
+```Python
+a = 3
+print(f'{a:<5}')
+print(f'{a:#<5}')
+print(f'{a:$<5}')
+print(f'{a:%<5}')
+print(f'{a:_<5}')
+```
+

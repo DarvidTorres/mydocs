@@ -207,9 +207,9 @@ Finally we have three options for `=`:
 |`'-'`|indicates that a sign should be used only for negative numbers (this is the default behavior).|
 |space|indicates that a leading space should be used on positive numbers, and a minus sign on negative numbers.|
 
-The option `=` has two sign variants (see table above): `=+` and `=-` (as default), both of which align the input value to the right most position and:
+The option `=` has two sign options (see table above): `+` and `-` (as default), both of which align the input value to the right most position and:
 
-* The default option `=-` displays the sign at the left most position only for negative values:
+* The default option `-` displays the sign at the left most position only for negative values:
 
 ```Python
 a = 3
@@ -230,7 +230,7 @@ print(f'{c:%=5}')
 print(f'{c:_=5}')
 ```
 
-* The option `=+` displays the sign at the left most position for both, positive and negative values:
+* The option `+` displays the sign at the left most position for both, positive and negative values:
 
 ```Python
 a = 3
@@ -251,7 +251,7 @@ print(f'{c:%=+5}')
 print(f'{c:_=+5}')
 ```
 
-Finally, the `=` option also has a space variant `= ` which will add a space at the leftmost position for positive values, but a negative sign for negative values.
+The `=` option also has a space variant which will add a space at the leftmost position for positive values, but a negative sign for negative values.
 
 ```Python
 a = 3
@@ -272,3 +272,25 @@ print(f'{c:%= 5}')
 print(f'{c:_= 5}')
 ```
 
+Finally, sign options can be used with all alignment options:
+
+```Python
+a = 3
+c = -2
+
+print(f'{a:=+5}')
+print(f'{a:#<+5}')
+print(f'{a:$>+5}')
+print(f'{a:%^+5}')
+print(f'{a:&>-5}')
+print(f'{a:0> 5}')
+
+print("\n")
+
+print(f'{c:=+5}')
+print(f'{c:#<+5}')
+print(f'{c:$>+5}')
+print(f'{c:%^+5}')
+print(f'{c:&>-5}')
+print(f'{c:0> 5}')
+```

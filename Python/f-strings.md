@@ -41,7 +41,7 @@ SyntaxError: f-string: empty expression not allowed
 An f-string expression (what's inside the curly brackets) cannot include a backslash `\`. Among other things, that means you can’t use a backslash escape sequence in an f-string expression:
 
 ```Python
-f"newline: {ord('\n')}"
+f"newline: {'\n'}"
 # SyntaxError: f-string expression part cannot include a backslash
 ```
 
@@ -119,7 +119,7 @@ print(f'{b}')
 To format f-string expressions use the following syntax:
 
 ```Python
-f'{<value>:[[fill]align][sign]["z"]["#"]["0"][width][grouping_option]["." precision][type]}'
+f'{<value>:[[fill]align][sign][width][grouping_option]["." precision][type]}'
 
 #You need to specify precision only in case of floating point numbers
 ```
@@ -148,7 +148,7 @@ Where `align` is one of the following:
 |`^`|Forces the field to be centered within the available space.|
 | `=`    | Forces the padding to be placed after the sign (if any) but before the digits. This is used for printing fields in the form ‘+000000120’. This alignment option is only valid for numeric types. It becomes the default for numbers when ‘0’ immediately precedes the field width. |
 
-`width` is input as a number defining the size (number of characters) we want the output string to have.
+`width` is input as a number defining the size (number of characters) we want the output string to have. `width` is a decimal integer defining the minimum total field width, including any formatting characters. If not specified, then the field width will be determined by the content.
 
 Example:
 
@@ -294,3 +294,26 @@ print(f'{c:%^+5}')
 print(f'{c:&>-5}')
 print(f'{c:0> 5}')
 ```
+
+The option 
+
+## Grouping option
+
+We use the syntax: 
+
+```Python
+f'{<value>:[[fill]align][sign][width][grouping_option]}'
+```
+
+We can ad either `,` or `_` for a thousand separator:
+
+```Python
+x = 12400
+print(f'{x:,}')
+print(f'{x:_}')
+```
+
+## Precision
+
+The precision is a decimal integer indicating how many digits should be displayed after the decimal point for presentation types 'f' and 'F', or before and after the decimal point for presentation types 'g' or 'G'. For string presentation types the field indicates the maximum field size - in other words, how many characters will be used from the field content. The precision is not allowed for integer presentation types.
+

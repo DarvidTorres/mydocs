@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c15f979fa780881b",
+        "id": "5250f947122486af",
         "type": "tabs",
         "children": [
           {
-            "id": "5ce19707178c3c48",
+            "id": "120f3c989b946c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5bb57be36f262ef5",
@@ -148,9 +147,17 @@
               "type": "mermaid-toolbar-view",
               "state": {}
             }
+          },
+          {
+            "id": "adea8382b602f322",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "2c6675d20a6807f8",
@@ -185,6 +192,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "8b05143678b32ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed631b06ae5f21ad",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,10 +222,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "5ce19707178c3c48",
+  "active": "b546043ba531341b",
   "lastOpenFiles": [
     "Python/f-strings.md",
     "C/memory/memory.md",

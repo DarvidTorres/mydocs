@@ -65,20 +65,45 @@ We can escape curly braces using double curly braces ``{{}}``:
 print(f'{{}}')
 ```
 
-Examples:
+A single quote is escaped with a backslash character.
 
 ```Python
-quantity = 6
-item = 'bananas'
-price = 1.74
-print(f'{quantity} {item} cost ${price}')
+print(f'This was a \'great\' film')
 ```
 
-we can do arithmetic operations inside f-string expressions:
+You may prefix an f-string with 'r' or 'R' to indicate that it is a raw f-string. In that case, backslash sequences are left intact, just like with an ordinary string. You can specify the `'r'` first and then the `'f'`, or vice-versa.
+
+```Python
+print(rf'foo\n')
+print(fr'bar\n')
+```
+
+
+F-string also makes debugging easier too. Instead of printing the variable name and its value, we only need to write the variable inside the f-string `{variable_name=}`:
+
+```Python
+a = 10
+print(f'{a = }')
+```
+
+We can do arithmetic operations inside f-string expressions:
 
 ```Python
 x = 2
 print(f'{x} cubed is {x**3}')
+```
+
+We can also call functions in f-strings.
+
+```Python
+def mymax(x, y):
+
+    return x if x > y else y
+
+a = 3
+b = 4
+
+print(f'Max of {a} and {b} is {mymax(a, b)}')
 ```
 
 we can make explicit the definition of variables
@@ -90,10 +115,15 @@ print(f'{a}')
 print(f'{b}')
 ```
 
-You may prefix an f-string with 'r' or 'R' to indicate that it is a raw f-string. In that case, backslash sequences are left intact, just like with an ordinary string. You can specify the `'r'` first and then the `'f'`, or vice-versa.
 
-```Python
-print(rf'foo\n')
-print(fr'bar\n')
-```
+# 
 
+The type can be used with format codes:
+
+‘d’ for integers
+‘f’ for floating-point numbers
+‘b’ for binary numbers
+‘o’ for octal numbers
+‘x’ for octal hexadecimal numbers
+‘s’ for string
+‘e’ for floating-point in an exponent format

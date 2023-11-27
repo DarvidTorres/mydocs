@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/f-strings.md",
+                "file": "Python/data_types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/f-strings.md",
+                "file": "Python/data_types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/f-strings.md",
+                "file": "Python/data_types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/f-strings.md"
+                "file": "Python/data_types.md"
               }
             }
           }
@@ -229,6 +229,7 @@
   "active": "120f3c989b946c60",
   "lastOpenFiles": [
     "Python/f-strings.md",
+    "Python/data_types.md",
     "C/memory/memory.md",
     "C/memory/Fetch-Execute Cycle.md",
     "C/memory/memory hierarchy.md",
@@ -256,7 +257,6 @@
     "C/structures/structures.md",
     "C/data types/types.md",
     "C/structures",
-    "Bash/OS.md",
     "Bash/Operating systems",
     "Number representation systems",
     "C/main/operators",

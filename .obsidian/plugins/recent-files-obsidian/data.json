@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "data_types",
+      "path": "Python/data_types.md"
+    },
+    {
       "basename": "f-strings",
       "path": "Python/f-strings.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "if else",
       "path": "C/flow control/if else.md"
-    },
-    {
-      "basename": "int",
-      "path": "C/data types/integers/int.md"
     }
   ],
   "omittedPaths": [],

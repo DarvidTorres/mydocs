@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "strings",
+      "path": "Python/strings.md"
+    },
+    {
       "basename": "data_types",
       "path": "Python/data_types.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "standards",
       "path": "C/main/standards.md"
-    },
-    {
-      "basename": "assembler",
-      "path": "C/compilation/assembler.md"
-    },
-    {
-      "basename": "if else",
-      "path": "C/flow control/if else.md"
     }
   ],
   "omittedPaths": [],

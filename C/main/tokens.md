@@ -91,4 +91,4 @@ Examples:
 
 # Strings
 
-In C, a [[strings|string]] is a sequence of characters concluded with a NULL character `\0`.
+In C, a [[C/structures/arrays/strings|string]] is a sequence of characters concluded with a NULL character `\0`.

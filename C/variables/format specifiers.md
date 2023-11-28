@@ -72,7 +72,7 @@ int main() {
 }
 ```
 
-- `%s` ([[strings|String]]):
+- `%s` ([[C/structures/arrays/strings|String]]):
 
 ```C
 #include <stdio.h>

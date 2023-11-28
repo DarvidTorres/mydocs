@@ -107,9 +107,16 @@ print(word[-2:])
 print(word[:-1])
 ```
 
-Note how the start is always included, and the end always excluded. Let `s` be a string, then `s[:i]` + `s[i:]` is always equal to `s`:
+Note how the start is always included, and the end always excluded. Let `s` be a string, then `s[:i]` + `s[i:]` is always equal to `s` for any `i` $\in \mathbb{Z}$:
 
 ```Python
 word = 'Python'
 print(word[:2] + word[2:])
+```
+
+The built-in function `len()` returns the length of a string:
+
+```Python
+s = 'supercalifragilisticexpialidocious'
+len(s)
 ```

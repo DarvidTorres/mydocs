@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/strings.md",
+                "file": "Python/strings/multiline strings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,6 +103,7 @@
       {
         "id": "e179375af5d1c351",
         "type": "tabs",
+        "dimension": 25,
         "children": [
           {
             "id": "43e7c6aa13f39434",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/strings.md",
+                "file": "Python/strings/multiline strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,8 +161,26 @@
         "currentTab": 4
       },
       {
+        "id": "79f7974e93a701e8",
+        "type": "tabs",
+        "dimension": 32.21153846153847,
+        "children": [
+          {
+            "id": "b546043ba531341b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/strings/multiline strings.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "2c6675d20a6807f8",
         "type": "tabs",
+        "dimension": 19.230769230769234,
         "children": [
           {
             "id": "b9ed23e1610fc520",
@@ -169,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/strings.md",
+                "file": "Python/strings/multiline strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,24 +197,9 @@
         ]
       },
       {
-        "id": "56b9eb0cf54a8fca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b546043ba531341b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Python/strings.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "8b05143678b32ec9",
         "type": "tabs",
+        "dimension": 23.557692307692307,
         "children": [
           {
             "id": "ed631b06ae5f21ad",
@@ -228,10 +232,16 @@
   },
   "active": "120f3c989b946c60",
   "lastOpenFiles": [
-    "Python/quotes.md",
-    "Python/strings.md",
+    "Python/strings/slicing.md",
+    "Python/strings/concatenate.md",
+    "Python/strings/f-strings.md",
+    "Python/strings/quotes.md",
+    "Python/strings/string interpolation.md",
+    "Python/strings/multiline strings.md",
+    "Python/strings/strings.md",
+    "Python/strings",
     "Python/data_types.md",
-    "Python/f-strings.md",
+    "Python/quotes.md",
     "C/memory/memory.md",
     "C/memory/Fetch-Execute Cycle.md",
     "C/memory/memory hierarchy.md",
@@ -251,11 +261,6 @@
     "R/Types.md",
     "R/Objects.md",
     "R/Settings.md",
-    "R/Indexing.md",
-    "R/Factors.md",
-    "R/Attributes.md",
-    "Bash/Bash interpreter.md",
-    "C/structures/arrays/arrays.md",
     "C/structures",
     "Bash/Operating systems",
     "Number representation systems",
@@ -263,7 +268,6 @@
     "C/data types/integers",
     "C/flow control",
     "C/compilation/preprocessor/Untitled",
-    "C/main",
     "Pasted image 20230319193607.png"
   ]
 }

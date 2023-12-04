@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "multiline strings",
+      "path": "Python/strings/multiline strings.md"
+    },
+    {
+      "basename": "slicing",
+      "path": "Python/strings/slicing.md"
+    },
+    {
+      "basename": "concatenate",
+      "path": "Python/strings/concatenate.md"
+    },
+    {
+      "basename": "f-strings",
+      "path": "Python/strings/f-strings.md"
+    },
+    {
+      "basename": "quotes",
+      "path": "Python/strings/quotes.md"
+    },
+    {
+      "basename": "string interpolation",
+      "path": "Python/strings/string interpolation.md"
+    },
+    {
       "basename": "strings",
-      "path": "Python/strings.md"
+      "path": "Python/strings/strings.md"
     },
     {
       "basename": "data_types",
       "path": "Python/data_types.md"
-    },
-    {
-      "basename": "f-strings",
-      "path": "Python/f-strings.md"
     },
     {
       "basename": "memory",
@@ -179,22 +199,6 @@
     {
       "basename": "strings",
       "path": "C/structures/arrays/strings.md"
-    },
-    {
-      "basename": "char",
-      "path": "C/data types/integers/char.md"
-    },
-    {
-      "basename": "signed vs unsigned",
-      "path": "C/data types/integers/signed vs unsigned.md"
-    },
-    {
-      "basename": "comments",
-      "path": "C/main/comments.md"
-    },
-    {
-      "basename": "standards",
-      "path": "C/main/standards.md"
     }
   ],
   "omittedPaths": [],

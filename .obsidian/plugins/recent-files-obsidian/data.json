@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "if",
+      "path": "Python/control_flow/if.md"
+    },
+    {
+      "basename": "OS",
+      "path": "Bash/OS.md"
+    },
+    {
+      "basename": "special variables",
+      "path": "Bash/special variables.md"
+    },
+    {
+      "basename": "input and output",
+      "path": "Bash/input and output.md"
+    },
+    {
+      "basename": "mv",
+      "path": "Bash/mv.md"
+    },
+    {
+      "basename": "Bash interpreter",
+      "path": "Bash/Bash interpreter.md"
+    },
+    {
+      "basename": "Bash commands",
+      "path": "Bash/Bash commands.md"
+    },
+    {
+      "basename": "control_structures",
+      "path": "Python/control_flow/control_structures.md"
+    },
+    {
+      "basename": "boolean",
+      "path": "Python/control_flow/boolean.md"
+    },
+    {
+      "basename": "types",
+      "path": "C/data types/types.md"
+    },
+    {
       "basename": "multiline strings",
       "path": "Python/strings/multiline strings.md"
     },
@@ -61,10 +101,6 @@
       "path": "Number representation systems/Hexadecimal.md"
     },
     {
-      "basename": "Bash commands",
-      "path": "Bash/Bash commands.md"
-    },
-    {
       "basename": "git_github",
       "path": "github/git_github.md"
     },
@@ -97,36 +133,12 @@
       "path": "R/Indexing.md"
     },
     {
-      "basename": "Bash interpreter",
-      "path": "Bash/Bash interpreter.md"
-    },
-    {
       "basename": "arrays",
       "path": "C/structures/arrays/arrays.md"
     },
     {
       "basename": "structures",
       "path": "C/structures/structures.md"
-    },
-    {
-      "basename": "types",
-      "path": "C/data types/types.md"
-    },
-    {
-      "basename": "OS",
-      "path": "Bash/OS.md"
-    },
-    {
-      "basename": "mv",
-      "path": "Bash/mv.md"
-    },
-    {
-      "basename": "special variables",
-      "path": "Bash/special variables.md"
-    },
-    {
-      "basename": "input and output",
-      "path": "Bash/input and output.md"
     },
     {
       "basename": "Visual Basic Editor",
@@ -187,18 +199,6 @@
     {
       "basename": "directives",
       "path": "C/compilation/preprocessor/directives.md"
-    },
-    {
-      "basename": "macros",
-      "path": "C/compilation/preprocessor/macros.md"
-    },
-    {
-      "basename": "function pointers",
-      "path": "C/data types/pointers/function pointers.md"
-    },
-    {
-      "basename": "strings",
-      "path": "C/structures/arrays/strings.md"
     }
   ],
   "omittedPaths": [],

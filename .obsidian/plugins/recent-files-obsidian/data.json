@@ -5,6 +5,10 @@
       "path": "Python/control_flow/if.md"
     },
     {
+      "basename": "assignment",
+      "path": "Python/assignment.md"
+    },
+    {
       "basename": "OS",
       "path": "Bash/OS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tokens",
       "path": "C/main/tokens.md"
-    },
-    {
-      "basename": "directives",
-      "path": "C/compilation/preprocessor/directives.md"
     }
   ],
   "omittedPaths": [],

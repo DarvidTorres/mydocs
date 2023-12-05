@@ -7,7 +7,6 @@
   "symbolListCommand": "@",
   "workspaceListCommand": "+",
   "headingsListCommand": "#",
-  "starredListCommand": "'",
   "commandListCommand": ">",
   "relatedItemsListCommand": "~",
   "strictHeadingsOnly": false,
@@ -61,15 +60,37 @@
   "fileExtAllowList": [
     "canvas"
   ],
-  "enableMatchPriorityAdjustments": false,
   "matchPriorityAdjustments": {
-    "isOpenInEditor": 0,
-    "isStarred": 0,
-    "isRecent": 0,
-    "file": 0,
-    "alias": 0,
-    "h1": 0
+    "isEnabled": false,
+    "adjustments": {
+      "isOpenInEditor": {
+        "value": 0,
+        "label": "Open items"
+      },
+      "isRecent": {
+        "value": 0,
+        "label": "Recent items"
+      },
+      "file": {
+        "value": 0,
+        "label": "Filenames"
+      },
+      "alias": {
+        "value": 0,
+        "label": "Aliases"
+      },
+      "h1": {
+        "value": 0,
+        "label": "H₁ headings"
+      },
+      "isBookmarked": {
+        "value": 0,
+        "label": "Bookmarked items"
+      }
+    }
   },
   "preserveCommandPaletteLastInput": false,
-  "preserveQuickSwitcherLastInput": false
+  "preserveQuickSwitcherLastInput": false,
+  "bookmarksListCommand": "'",
+  "version": "2.0.0"
 }

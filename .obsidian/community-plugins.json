@@ -17,8 +17,10 @@
   "obsidian-editor-shortcuts",
   "obsidian-git",
   "table-editor-obsidian",
-  "obsidian-code-block-enhancer",
   "mermaid-tools",
   "darlal-switcher-plus",
-  "map-of-content"
+  "map-of-content",
+  "obsidian-better-codeblock",
+  "obsidian-code-block-enhancer",
+  "obsidian-markdown-formatting-assistant-plugin"
 ]

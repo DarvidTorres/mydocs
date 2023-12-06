@@ -30,3 +30,25 @@ print(type(c + b))
 # Explicit casting
 There may be times when you want to specify a type on to a variable. This can be done with casting.
 - Python is an object-orientated language, and as such it uses classes to define data types, including its primitive types.
+
+| Sr.No.                | Function & Description                                                  |
+| --------------------- | ----------------------------------------------------------------------- |
+| `int(x [,base])`        | Converts x to an integer. base specifies the base if x is a string.     |
+| `long(x [,base] )`      | Converts x to a long integer. base specifies the base if x is a string. |
+| `float(x)`              | Converts x to a floating-point number.                                  |
+| `complex(real [,imag])` | Creates a complex number.                                               |
+| `str(x)`                | Converts object x to a string representation.                           |
+| `repr(x)`               | Converts object x to an expression string.                              |
+| `eval(str)`             | Evaluates a string and returns an object.                               |
+| `tuple(s)`              | Converts s to a tuple.                                                  |
+| `list(s)`               | Converts s to a list.                                                   |
+| `set(s)`                | Converts s to a set.                                                    |
+| `dict(d)`               | Creates a dictionary. d must be a sequence of (key,value) tuples.       |
+| `frozenset(s)`          | Converts s to a frozen set.                                             |
+| `chr(x)`                | Converts an integer to a character.                                     |
+| `unichr(x)`             | Converts an integer to a Unicode character.                             |
+| `ord(x)`                | Converts a single character to its integer value.                       |
+| `hex(x)`                | Converts an integer to a hexadecimal string.                            |
+| `oct(x)`                | Converts an integer to an octal string.                                 |
+
+d

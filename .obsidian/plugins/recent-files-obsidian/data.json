@@ -5,20 +5,60 @@
       "path": "Python/control_flow/if.md"
     },
     {
-      "basename": "boolean",
-      "path": "Python/control_flow/boolean.md"
+      "basename": "suite",
+      "path": "Python/suite.md"
+    },
+    {
+      "basename": "boloean",
+      "path": "Python/control_flow/boloean.md"
     },
     {
       "basename": "control_structures",
       "path": "Python/control_flow/control_structures.md"
     },
     {
+      "basename": "types",
+      "path": "C/data types/types.md"
+    },
+    {
       "basename": "comparison operators",
       "path": "Python/comparison operators.md"
     },
     {
+      "basename": "string interpolation",
+      "path": "Python/strings/string interpolation.md"
+    },
+    {
+      "basename": "f-strings",
+      "path": "Python/strings/f-strings.md"
+    },
+    {
+      "basename": "quotes",
+      "path": "Python/strings/quotes.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/strings/strings.md"
+    },
+    {
+      "basename": "concatenate",
+      "path": "Python/strings/concatenate.md"
+    },
+    {
+      "basename": "slicing",
+      "path": "Python/strings/slicing.md"
+    },
+    {
+      "basename": "multiline strings",
+      "path": "Python/strings/multiline strings.md"
+    },
+    {
       "basename": "assignment",
       "path": "Python/assignment.md"
+    },
+    {
+      "basename": "data_types",
+      "path": "Python/data_types.md"
     },
     {
       "basename": "OS",
@@ -43,42 +83,6 @@
     {
       "basename": "Bash commands",
       "path": "Bash/Bash commands.md"
-    },
-    {
-      "basename": "types",
-      "path": "C/data types/types.md"
-    },
-    {
-      "basename": "multiline strings",
-      "path": "Python/strings/multiline strings.md"
-    },
-    {
-      "basename": "slicing",
-      "path": "Python/strings/slicing.md"
-    },
-    {
-      "basename": "concatenate",
-      "path": "Python/strings/concatenate.md"
-    },
-    {
-      "basename": "f-strings",
-      "path": "Python/strings/f-strings.md"
-    },
-    {
-      "basename": "quotes",
-      "path": "Python/strings/quotes.md"
-    },
-    {
-      "basename": "string interpolation",
-      "path": "Python/strings/string interpolation.md"
-    },
-    {
-      "basename": "strings",
-      "path": "Python/strings/strings.md"
-    },
-    {
-      "basename": "data_types",
-      "path": "Python/data_types.md"
     },
     {
       "basename": "memory",
@@ -191,14 +195,6 @@
     {
       "basename": "prototypes",
       "path": "C/functions/prototypes.md"
-    },
-    {
-      "basename": "main function",
-      "path": "C/main/main function.md"
-    },
-    {
-      "basename": "printf",
-      "path": "C/functions/printf.md"
     }
   ],
   "omittedPaths": [],

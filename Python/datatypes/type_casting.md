@@ -51,7 +51,12 @@ There may be times when you want to specify a type on to a variable. This can be
 | `hex(x)`                | Converts an integer to a hexadecimal string.                            |
 | `oct(x)`                | Converts an integer to an octal string.                                 |
 
-Examples:
+## int()
+
+syntax:
+```python
+int ([<number>, [<base>]])
+```
 
 - `float` to `int`:
 ```Python
@@ -59,7 +64,7 @@ print(type(a := 10.5))
 print(type(int(a))) #converts a float object to int
 ```
 
-- `string` to `int`
+- `string` to `int`:
 ```Python
 print(type(b := "100"))
 print(type(int(b))) #converts a string object to int
@@ -71,7 +76,9 @@ print(type(a := "10.5"))
 print(type(int(a)))
 ```
 
-- binary string to `int`
+- binary, hex and octal `string` to `int`:
 ```Python
-print(int("10001", 2))
+print(int("10001", 2)) # binary base 2
+print(int("0o21", 8)) # octal base 8
+print(int("0x11", 16)) # hexadecimal base 16
 ```

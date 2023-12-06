@@ -3,7 +3,7 @@ When any language compiler/interpreter automatically converts object of one type
 
 Note that memory requirement of each data type is different. For example, an integer object in Python occupies 4 bytes of memory, while a float object needs 8 bytes because of its fractional part. Hence, Python interpreter doesn't automatically convert a float to `int`, because it will result in loss of data. On the other hand, `int` can be easily converted into float by setting its fractional part to 0.
 
-- Implicit casting is limited to `int` to `float` conversion.
+- Implicit casting is limited to convert from `int` to `float` conversion.
 
 Example:
 ```Python
@@ -51,4 +51,27 @@ There may be times when you want to specify a type on to a variable. This can be
 | `hex(x)`                | Converts an integer to a hexadecimal string.                            |
 | `oct(x)`                | Converts an integer to an octal string.                                 |
 
-d
+Examples:
+
+- `float` to `int`:
+```Python
+print(type(a := 10.5))
+print(type(int(a))) #converts a float object to int
+```
+
+- `string` to `int`
+```Python
+print(type(b := "100"))
+print(type(int(b))) #converts a string object to int
+```
+
+- if the `string` contains a non-integer representation, Python raises ValueError.
+```Python
+print(type(a := "10.5"))
+print(type(int(a)))
+```
+
+- binary string to `int`
+```Python
+print(int("10001", 2))
+```

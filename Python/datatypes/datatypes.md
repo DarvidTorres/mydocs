@@ -1,3 +1,4 @@
+
 ```mermaid
 ---
 title: Python datatypes

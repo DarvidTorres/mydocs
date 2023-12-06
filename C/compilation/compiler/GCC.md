@@ -72,7 +72,7 @@ Though not required, preprocessed files (files that have been run through the pr
 So, a `.i` file is preprocessed source code, so it has already been preprocessed. Therefore, it already contains:
 - all [[header files]] included
 - [[macros]] replaced
-- [[comments]] removed
+- [[C/main/comments]] removed
 
 ![](https://i.imgur.com/cibftll.png)
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data_types/lists.md",
+                "file": "Python/datatypes/datatypes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
       {
         "id": "e179375af5d1c351",
         "type": "tabs",
-        "dimension": 25,
+        "dimension": 31.442307692307693,
         "children": [
           {
             "id": "43e7c6aa13f39434",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/data_types/lists.md",
+                "file": "Python/datatypes/datatypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,14 +148,22 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "ab1205812afde896",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "79f7974e93a701e8",
         "type": "tabs",
-        "dimension": 32.21153846153847,
+        "dimension": 25.769230769230766,
         "children": [
           {
             "id": "b546043ba531341b",
@@ -163,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/data_types/lists.md"
+                "file": "Python/datatypes/datatypes.md"
               }
             }
           }
@@ -180,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/data_types/lists.md",
+                "file": "Python/datatypes/datatypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,13 +231,15 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "b1c0521bb2c5315e",
+  "active": "ab1205812afde896",
   "lastOpenFiles": [
-    "Python/control_flow/if.md",
-    "Python/data_types/lists.md",
-    "Python/data_types",
-    "Python/suite.md",
     "Python/control_flow/boloean.md",
+    "Python/datatypes/datatypes.md",
+    "Python/comments.md",
+    "Python/datatypes/lists.md",
+    "Python/control_flow/if.md",
+    "Python/datatypes",
+    "Python/suite.md",
     "Python/control_flow/control_structures.md",
     "C/data types/types.md",
     "Python/comparison operators.md",
@@ -242,7 +252,6 @@
     "Python/strings/slicing.md",
     "Python/strings/multiline strings.md",
     "Python/assignment.md",
-    "Python/data_types/data_types.md",
     "Bash/OS.md",
     "Bash/special variables.md",
     "Bash/input and output.md",
@@ -253,7 +262,6 @@
     "Python/strings",
     "Python/quotes.md",
     "C/memory/memory.md",
-    "C/memory/Fetch-Execute Cycle.md",
     "C/Fetch Execute Cycle",
     "Python",
     "C/structures",

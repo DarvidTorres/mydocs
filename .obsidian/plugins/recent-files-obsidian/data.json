@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "datatypes",
+      "path": "Python/datatypes/datatypes.md"
+    },
+    {
+      "basename": "boloean",
+      "path": "Python/control_flow/boloean.md"
+    },
+    {
+      "basename": "comments",
+      "path": "Python/comments.md"
+    },
+    {
       "basename": "lists",
-      "path": "Python/data_types/lists.md"
+      "path": "Python/datatypes/lists.md"
     },
     {
       "basename": "if",
@@ -11,10 +23,6 @@
     {
       "basename": "suite",
       "path": "Python/suite.md"
-    },
-    {
-      "basename": "boloean",
-      "path": "Python/control_flow/boloean.md"
     },
     {
       "basename": "control_structures",
@@ -59,10 +67,6 @@
     {
       "basename": "assignment",
       "path": "Python/assignment.md"
-    },
-    {
-      "basename": "data_types",
-      "path": "Python/data_types/data_types.md"
     },
     {
       "basename": "OS",
@@ -195,10 +199,6 @@
     {
       "basename": "logical operators",
       "path": "C/main/operators/logical operators.md"
-    },
-    {
-      "basename": "prototypes",
-      "path": "C/functions/prototypes.md"
     }
   ],
   "omittedPaths": [],

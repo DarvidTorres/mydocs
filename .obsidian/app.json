@@ -9,7 +9,7 @@
   "showFrontmatter": true,
   "fileSortOrder": "byModifiedTime",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "livePreview": true,
   "rightToLeft": false,
   "newFileLocation": "current"

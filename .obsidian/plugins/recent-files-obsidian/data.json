@@ -5,6 +5,18 @@
       "path": "Python/control_flow/if.md"
     },
     {
+      "basename": "boolean",
+      "path": "Python/control_flow/boolean.md"
+    },
+    {
+      "basename": "control_structures",
+      "path": "Python/control_flow/control_structures.md"
+    },
+    {
+      "basename": "comparison operators",
+      "path": "Python/comparison operators.md"
+    },
+    {
       "basename": "assignment",
       "path": "Python/assignment.md"
     },
@@ -31,14 +43,6 @@
     {
       "basename": "Bash commands",
       "path": "Bash/Bash commands.md"
-    },
-    {
-      "basename": "control_structures",
-      "path": "Python/control_flow/control_structures.md"
-    },
-    {
-      "basename": "boolean",
-      "path": "Python/control_flow/boolean.md"
     },
     {
       "basename": "types",
@@ -195,10 +199,6 @@
     {
       "basename": "printf",
       "path": "C/functions/printf.md"
-    },
-    {
-      "basename": "tokens",
-      "path": "C/main/tokens.md"
     }
   ],
   "omittedPaths": [],

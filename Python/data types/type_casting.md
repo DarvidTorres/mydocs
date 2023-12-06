@@ -10,6 +10,8 @@ Example:
 print(type(a := 10))
 print(type(b := 10.5))
 print(type(a + b))
+print(type(a - b))
+print(type(a * b))
 ```
 
 - Any other conversion won't be performed automatically.
@@ -109,7 +111,7 @@ print(float("1.00E3"))
 ```
 
 ## str
-The `str()` function returns the [[Python/strings/strings|strings]] representation of **any** Python object.
+The `str()` function returns the [[Python/data types/strings/strings|strings]] representation of **any** Python object.
 
 syntax:
 ```Python
@@ -132,7 +134,7 @@ print(str(10E4))
 ```
 
 # list
-[[lists]], Tuple and [[Python/strings/strings|string]] are Python's sequence types. They are ordered or indexed collection of items.
+[[lists]], Tuple and [[Python/data types/strings/strings|string]] are Python's sequence types. They are ordered or indexed collection of items.
 
 A string and tuple can be converted into a list object by using the `list()` function. Similarly, the `tuple()` function converts a string or list to a tuple.
 

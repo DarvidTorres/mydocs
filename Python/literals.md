@@ -1,0 +1,2 @@
+Python literals or constants are the notation for representing a fixed value in source code.
+Literals (`123`, `4.3`, `"Hello"`) are static values or constants which do not change throughout the operation of the program or application.

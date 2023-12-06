@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Arithmetic operators",
+      "path": "Python/operators/Arithmetic operators.md"
+    },
+    {
+      "basename": "type_casting",
+      "path": "Python/data types/type_casting.md"
+    },
+    {
       "basename": "operators",
       "path": "Python/operators/operators.md"
+    },
+    {
+      "basename": "literals",
+      "path": "Python/literals.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
+    },
+    {
+      "basename": "comments",
+      "path": "Python/comments.md"
+    },
+    {
+      "basename": "multiline strings",
+      "path": "Python/data types/strings/multiline strings.md"
+    },
+    {
+      "basename": "Comparison operators",
+      "path": "Python/operators/Comparison operators.md"
     },
     {
       "basename": "lists",
@@ -13,48 +41,32 @@
       "path": "Python/data types/data types.md"
     },
     {
-      "basename": "type_casting",
-      "path": "Python/data types/type_casting.md"
-    },
-    {
       "basename": "string methods",
-      "path": "Python/strings/string methods.md"
-    },
-    {
-      "basename": "strings",
-      "path": "Python/strings/strings.md"
-    },
-    {
-      "basename": "comments",
-      "path": "Python/comments.md"
+      "path": "Python/data types/strings/string methods.md"
     },
     {
       "basename": "f-strings",
-      "path": "Python/strings/f-strings.md"
+      "path": "Python/data types/strings/f-strings.md"
     },
     {
       "basename": "string interpolation",
-      "path": "Python/strings/string interpolation.md"
-    },
-    {
-      "basename": "multiline strings",
-      "path": "Python/strings/multiline strings.md"
+      "path": "Python/data types/strings/string interpolation.md"
     },
     {
       "basename": "quotes",
-      "path": "Python/strings/quotes.md"
+      "path": "Python/data types/strings/quotes.md"
     },
     {
       "basename": "slicing",
-      "path": "Python/strings/slicing.md"
+      "path": "Python/data types/strings/slicing.md"
     },
     {
       "basename": "concatenate",
-      "path": "Python/strings/concatenate.md"
+      "path": "Python/data types/strings/concatenate.md"
     },
     {
       "basename": "raw strings",
-      "path": "Python/strings/raw strings.md"
+      "path": "Python/data types/strings/raw strings.md"
     },
     {
       "basename": "assignment",
@@ -79,10 +91,6 @@
     {
       "basename": "types",
       "path": "C/data types/types.md"
-    },
-    {
-      "basename": "comparison operators",
-      "path": "Python/comparison operators.md"
     },
     {
       "basename": "OS",
@@ -191,14 +199,6 @@
     {
       "basename": "header files",
       "path": "C/compilation/preprocessor/header files.md"
-    },
-    {
-      "basename": "make files",
-      "path": "C/make files.md"
-    },
-    {
-      "basename": "conditional compilation",
-      "path": "C/compilation/preprocessor/conditional compilation.md"
     }
   ],
   "omittedPaths": [],

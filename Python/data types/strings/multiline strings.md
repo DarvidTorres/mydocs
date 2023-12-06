@@ -1,6 +1,6 @@
 # multiline strings
 
-String literals can span multiple lines using triple-quotes:
+String [[literals]] can span multiple lines using triple-quotes:
 
 ```Python
 print("""a\

@@ -1,3 +1,26 @@
+# multiple assignment
+- Python allows you to assign values to multiple variables in one line:
+```Python
+a, b, c = 'Foo', 'Bar', 'Baz'
+print(a, b, c)
+```
+Note: The number of variables must match the number of values.
+
+- Assign the same value to multiple variables in one line:
+```Python
+x = y = z = "Orange"
+print(x, y, z)
+```
+
+## Unpack a collection
+
+If you have a collection of values in a [[lists|list]], tuple, etc. Python allows you to extract the values into variables. This is called unpacking.
+
+```Python
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
+print(x, y, z)
+```
 # walrus
 
 * Assignment expressions are written using the walrus operator: `:=`.

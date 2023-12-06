@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/operators/Arithmetic operators.md",
+                "file": "Python/assignment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/operators/Arithmetic operators.md",
+                "file": "Python/assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/operators/Arithmetic operators.md"
+                "file": "Python/assignment.md"
               }
             }
           }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/operators/Arithmetic operators.md",
+                "file": "Python/assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,18 +270,18 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "3c198f3e9bdff606",
+  "active": "c0d9dd5ebd5d1621",
   "lastOpenFiles": [
-    "Python/data types/type_casting.md",
+    "Python/data types/lists.md",
     "Python/operators/Arithmetic operators.md",
+    "Python/data types/strings/strings.md",
+    "Python/data types/type_casting.md",
     "Python/operators/operators.md",
     "Python/literals.md",
-    "Python/data types/strings/strings.md",
     "Python/comments.md",
     "Python/data types/strings/multiline strings.md",
     "Python/operators/Comparison operators.md",
     "Python/literals",
-    "Python/data types/lists.md",
     "Python/operators",
     "Python/data types/data types.md",
     "Python/data types/strings/string methods.md",

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "assignment",
+      "path": "Python/assignment.md"
+    },
+    {
+      "basename": "lists",
+      "path": "Python/data types/lists.md"
+    },
+    {
       "basename": "Arithmetic operators",
       "path": "Python/operators/Arithmetic operators.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
     },
     {
       "basename": "type_casting",
@@ -17,10 +29,6 @@
       "path": "Python/literals.md"
     },
     {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
-    },
-    {
       "basename": "comments",
       "path": "Python/comments.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Comparison operators",
       "path": "Python/operators/Comparison operators.md"
-    },
-    {
-      "basename": "lists",
-      "path": "Python/data types/lists.md"
     },
     {
       "basename": "data types",
@@ -67,10 +71,6 @@
     {
       "basename": "raw strings",
       "path": "Python/data types/strings/raw strings.md"
-    },
-    {
-      "basename": "assignment",
-      "path": "Python/assignment.md"
     },
     {
       "basename": "boloean",

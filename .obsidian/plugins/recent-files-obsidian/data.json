@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "strings",
+      "path": "Python/strings/strings.md"
+    },
+    {
+      "basename": "comments",
+      "path": "Python/comments.md"
+    },
+    {
+      "basename": "f-strings",
+      "path": "Python/strings/f-strings.md"
+    },
+    {
+      "basename": "string interpolation",
+      "path": "Python/strings/string interpolation.md"
+    },
+    {
+      "basename": "multiline strings",
+      "path": "Python/strings/multiline strings.md"
+    },
+    {
+      "basename": "quotes",
+      "path": "Python/strings/quotes.md"
+    },
+    {
+      "basename": "slicing",
+      "path": "Python/strings/slicing.md"
+    },
+    {
+      "basename": "concatenate",
+      "path": "Python/strings/concatenate.md"
+    },
+    {
       "basename": "type_casting",
       "path": "Python/datatypes/type_casting.md"
+    },
+    {
+      "basename": "raw_strings",
+      "path": "Python/strings/raw_strings.md"
     },
     {
       "basename": "datatypes",
@@ -15,10 +51,6 @@
     {
       "basename": "boloean",
       "path": "Python/control_flow/boloean.md"
-    },
-    {
-      "basename": "comments",
-      "path": "Python/comments.md"
     },
     {
       "basename": "lists",
@@ -43,34 +75,6 @@
     {
       "basename": "comparison operators",
       "path": "Python/comparison operators.md"
-    },
-    {
-      "basename": "string interpolation",
-      "path": "Python/strings/string interpolation.md"
-    },
-    {
-      "basename": "f-strings",
-      "path": "Python/strings/f-strings.md"
-    },
-    {
-      "basename": "quotes",
-      "path": "Python/strings/quotes.md"
-    },
-    {
-      "basename": "strings",
-      "path": "Python/strings/strings.md"
-    },
-    {
-      "basename": "concatenate",
-      "path": "Python/strings/concatenate.md"
-    },
-    {
-      "basename": "slicing",
-      "path": "Python/strings/slicing.md"
-    },
-    {
-      "basename": "multiline strings",
-      "path": "Python/strings/multiline strings.md"
     },
     {
       "basename": "OS",
@@ -195,10 +199,6 @@
     {
       "basename": "ASCII",
       "path": "C/main/ASCII.md"
-    },
-    {
-      "basename": "operators",
-      "path": "C/main/operators/operators.md"
     }
   ],
   "omittedPaths": [],

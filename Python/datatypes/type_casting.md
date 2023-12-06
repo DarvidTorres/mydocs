@@ -51,12 +51,14 @@ There may be times when you want to specify a type on to a variable. This can be
 | `hex(x)`                | Converts an integer to a hexadecimal string.                            |
 | `oct(x)`                | Converts an integer to an octal string.                                 |
 
-## int()
+## int
 
 syntax:
 ```python
 int ([<number>, [<base>]])
 ```
+
+Python's built-in `int()` function converts an integer literal to an integer object, a float to integer, and a string to integer if the string itself has a valid integer literal representation.
 
 - `float` to `int`:
 ```Python
@@ -76,9 +78,59 @@ print(type(a := "10.5"))
 print(type(int(a)))
 ```
 
+The `int()` function also returns integer from binary, octal and hexa-decimal string. For this, the function needs a base parameter which must be 2, 8 or 16 respectively. The string should have a valid binary/octal/Hexa-decimal representation.
+
 - binary, hex and octal `string` to `int`:
 ```Python
 print(int("10001", 2)) # binary base 2
 print(int("0o21", 8)) # octal base 8
 print(int("0x11", 16)) # hexadecimal base 16
 ```
+
+## float
+`float(<arg>)` returns a float object if the argument is a float literal, integer or a string with valid floating point representation.
+
+If the argument to `float()` function is an integer, the returned value is a floating point with fractional part set to 0.
+
+```Python
+print(float(1000))
+```
+
+The `float()` function returns float object from a string, if the string contains a valid floating point number, otherwise ValueError is raised.
+
+```Python
+print(float("1,000"))
+# ValueError: could not convert string to float: '1,000'
+```
+
+- Scientific notation is valid: 
+```Python
+print(float("1.00E3"))
+```
+
+## str
+The `str()` function returns the [[raw_strings|string]] representation of **any** Python object.
+
+syntax:
+```Python
+str(<object>, [encoding=encoding], [errors=errors])
+```
+
+> `object`:	Any object.
+> `encoding`:	The encoding of the object. Default is UTF-8
+> `errors`:	Specifies what to do if the decoding fails
+
+Example:
+```Python
+print(str(2/5))
+```
+Note: that the expression is evaluated first and then result is converted to string.
+
+```Python
+print(str(1.23e-4))
+print(str(10E4))
+```
+
+
+
+

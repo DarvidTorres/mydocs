@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/control_flow/if.md",
+                "file": "Python/data_types/lists.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/control_flow/if.md",
+                "file": "Python/data_types/lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/control_flow/if.md"
+                "file": "Python/data_types/lists.md"
               }
             }
           }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/control_flow/if.md",
+                "file": "Python/data_types/lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,8 +225,10 @@
   },
   "active": "b1c0521bb2c5315e",
   "lastOpenFiles": [
-    "Python/suite.md",
     "Python/control_flow/if.md",
+    "Python/data_types/lists.md",
+    "Python/data_types",
+    "Python/suite.md",
     "Python/control_flow/boloean.md",
     "Python/control_flow/control_structures.md",
     "C/data types/types.md",
@@ -240,7 +242,7 @@
     "Python/strings/slicing.md",
     "Python/strings/multiline strings.md",
     "Python/assignment.md",
-    "Python/data_types.md",
+    "Python/data_types/data_types.md",
     "Bash/OS.md",
     "Bash/special variables.md",
     "Bash/input and output.md",
@@ -252,7 +254,6 @@
     "Python/quotes.md",
     "C/memory/memory.md",
     "C/memory/Fetch-Execute Cycle.md",
-    "C/memory/memory hierarchy.md",
     "C/Fetch Execute Cycle",
     "Python",
     "C/structures",
@@ -260,7 +261,6 @@
     "Number representation systems",
     "C/main/operators",
     "C/data types/integers",
-    "C/flow control",
     "Pasted image 20230319193607.png"
   ]
 }

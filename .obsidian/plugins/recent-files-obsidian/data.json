@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "lists",
+      "path": "Python/data_types/lists.md"
+    },
+    {
       "basename": "if",
       "path": "Python/control_flow/if.md"
     },
@@ -58,7 +62,7 @@
     },
     {
       "basename": "data_types",
-      "path": "Python/data_types.md"
+      "path": "Python/data_types/data_types.md"
     },
     {
       "basename": "OS",

@@ -1,14 +1,21 @@
 ```mermaid
-flowchart TD
+---
+title: Python datatypes
+---
+flowchart LR
 A(Python - Data types)
 A --> B(Numeric)
+	B --> Integer
+	B --> Float
+	B --> Z(Complex Number)
 A --> C(Dictionary)
 A --> D(Boolean)
 A --> E(Set)
 A --> F(Sequence type)
-
+F --> String
+F --> List
+F --> Tuple
 ```
-
 
 | Description     | Type                               |
 | --------------- | ---------------------------------- |

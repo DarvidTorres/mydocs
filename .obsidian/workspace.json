@@ -8,12 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1c0521bb2c5315e",
+            "id": "3c198f3e9bdff606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/datatypes/type_casting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bc0d603d085ad73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Python/datatypes/datatypes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1c0521bb2c5315e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/assignment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/datatypes/datatypes.md",
+                "file": "Python/datatypes/type_casting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/datatypes/datatypes.md"
+                "file": "Python/datatypes/type_casting.md"
               }
             }
           }
@@ -188,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/datatypes/datatypes.md",
+                "file": "Python/datatypes/type_casting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,10 +257,12 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ab1205812afde896",
+  "active": "3c198f3e9bdff606",
   "lastOpenFiles": [
-    "Python/control_flow/boloean.md",
     "Python/datatypes/datatypes.md",
+    "Python/assignment.md",
+    "Python/datatypes/type_casting.md",
+    "Python/control_flow/boloean.md",
     "Python/comments.md",
     "Python/datatypes/lists.md",
     "Python/control_flow/if.md",
@@ -251,7 +279,6 @@
     "Python/strings/concatenate.md",
     "Python/strings/slicing.md",
     "Python/strings/multiline strings.md",
-    "Python/assignment.md",
     "Bash/OS.md",
     "Bash/special variables.md",
     "Bash/input and output.md",
@@ -261,7 +288,6 @@
     "Python/control_flow",
     "Python/strings",
     "Python/quotes.md",
-    "C/memory/memory.md",
     "C/Fetch Execute Cycle",
     "Python",
     "C/structures",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "type_casting",
+      "path": "Python/datatypes/type_casting.md"
+    },
+    {
       "basename": "datatypes",
       "path": "Python/datatypes/datatypes.md"
+    },
+    {
+      "basename": "assignment",
+      "path": "Python/assignment.md"
     },
     {
       "basename": "boloean",
@@ -63,10 +71,6 @@
     {
       "basename": "multiline strings",
       "path": "Python/strings/multiline strings.md"
-    },
-    {
-      "basename": "assignment",
-      "path": "Python/assignment.md"
     },
     {
       "basename": "OS",
@@ -195,10 +199,6 @@
     {
       "basename": "operators",
       "path": "C/main/operators/operators.md"
-    },
-    {
-      "basename": "logical operators",
-      "path": "C/main/operators/logical operators.md"
     }
   ],
   "omittedPaths": [],

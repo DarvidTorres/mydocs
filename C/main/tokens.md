@@ -65,7 +65,7 @@ We can declare a constant using:
 
 # Operators
 
-- [[operators|Operators]] in C are special symbols used to perform specific functions
+- [[C/main/operators/operators|Operators]] in C are special symbols used to perform specific functions
 - Variables on which the operators are applied are known as operands.
 
 # Special characters

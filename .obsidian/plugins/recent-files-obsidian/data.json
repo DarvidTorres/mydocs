@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "operators",
+      "path": "Python/operators/operators.md"
+    },
+    {
       "basename": "lists",
-      "path": "Python/datatypes/lists.md"
+      "path": "Python/data types/lists.md"
+    },
+    {
+      "basename": "data types",
+      "path": "Python/data types/data types.md"
     },
     {
       "basename": "type_casting",
-      "path": "Python/datatypes/type_casting.md"
+      "path": "Python/data types/type_casting.md"
     },
     {
       "basename": "string methods",
@@ -47,10 +55,6 @@
     {
       "basename": "raw strings",
       "path": "Python/strings/raw strings.md"
-    },
-    {
-      "basename": "datatypes",
-      "path": "Python/datatypes/datatypes.md"
     },
     {
       "basename": "assignment",
@@ -195,10 +199,6 @@
     {
       "basename": "conditional compilation",
       "path": "C/compilation/preprocessor/conditional compilation.md"
-    },
-    {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
     }
   ],
   "omittedPaths": [],

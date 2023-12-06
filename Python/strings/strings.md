@@ -1,2 +1,2 @@
 - Strings in Python are arrays of bytes representing unicode characters.
-- 
+- Python does not have a character data type, a single character is simply a string with a length of 1.

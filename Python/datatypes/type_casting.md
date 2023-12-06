@@ -109,7 +109,7 @@ print(float("1.00E3"))
 ```
 
 ## str
-The `str()` function returns the [[raw_strings|string]] representation of **any** Python object.
+The `str()` function returns the [[Python/strings/strings|strings]] representation of **any** Python object.
 
 syntax:
 ```Python
@@ -131,6 +131,36 @@ print(str(1.23e-4))
 print(str(10E4))
 ```
 
+# list
+[[lists]], Tuple and [[Python/strings/strings|string]] are Python's sequence types. They are ordered or indexed collection of items.
 
+A string and tuple can be converted into a list object by using the `list()` function. Similarly, the `tuple()` function converts a string or list to a tuple.
 
+```Python
+a=[1,2,3,4,5]   # List Object
+b=(1,2,3,4,5)   # Tupple Object
+c="Hello"       # String Object
 
+### list() separates each character in the string and builds the list
+obj=list(c)
+print(obj)
+
+### The parentheses of tuple are replaced by square brackets
+obj=list(b)
+print(obj)
+
+### tuple() separates each character from string and builds a tuple of characters
+obj=tuple(c)
+print(obj)
+
+### square brackets of list are replaced by parentheses.
+obj=tuple(a)
+print(obj)
+
+### str() function puts the list and tuple inside the quote symbols.
+obj=str(a)
+print(obj)
+
+obj=str(b)
+print(obj)
+```

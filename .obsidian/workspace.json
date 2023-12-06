@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/strings/strings.md",
+                "file": "Python/datatypes/lists.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/strings/strings.md",
+                "file": "Python/datatypes/lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "79f7974e93a701e8",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/strings/strings.md"
+                "file": "Python/datatypes/lists.md"
               }
             }
           }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/strings/strings.md",
+                "file": "Python/datatypes/lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,20 +259,21 @@
   },
   "active": "3c198f3e9bdff606",
   "lastOpenFiles": [
-    "Python/comments.md",
+    "Python/datatypes/type_casting.md",
+    "Python/datatypes/lists.md",
+    "Python/strings/string methods.md",
     "Python/strings/strings.md",
+    "Python/comments.md",
     "Python/strings/f-strings.md",
     "Python/strings/string interpolation.md",
     "Python/strings/multiline strings.md",
     "Python/strings/quotes.md",
     "Python/strings/slicing.md",
     "Python/strings/concatenate.md",
-    "Python/datatypes/type_casting.md",
-    "Python/strings/raw_strings.md",
+    "Python/strings/raw strings.md",
     "Python/datatypes/datatypes.md",
     "Python/assignment.md",
     "Python/control_flow/boloean.md",
-    "Python/datatypes/lists.md",
     "Python/control_flow/if.md",
     "Python/datatypes",
     "Python/suite.md",
@@ -285,7 +286,6 @@
     "Bash/input and output.md",
     "Bash/mv.md",
     "Bash/Bash interpreter.md",
-    "Bash/Bash commands.md",
     "Python/control_flow",
     "Python/strings",
     "C/Fetch Execute Cycle",

@@ -1,16 +1,19 @@
 - A Python list is a sequence of comma separated items, enclosed in square brackets `[]`.
 - Python lists may have objects of **different** [[data types]].
 - It is an **ordered** collection of items.
+- Allow **duplicate** members.
 
 Example
 ```Python
 myString = "string"
 myFloat = 2.32
-myInt = 3
+myIntA = 3
+myIntB = 3
 myComplex = 1+2j
 myBool = True
-myList = [myString, myFloat, myInt, myComplex, myBool]
+myList = [myString, myFloat, myIntA, myIntB, myComplex, myBool]
 print(myList)
+print(type(myList))
 ```
 
 - Each item in a list has a unique position **index**, starting from 0.
@@ -58,3 +61,4 @@ print(['Hi!'] * 4)
 ```Python
 3 in [1, 2, 3]
 ```
+

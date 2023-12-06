@@ -1,44 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "assignment",
-      "path": "Python/assignment.md"
+      "basename": "tuples",
+      "path": "Python/data types/collections/tuples.md"
     },
     {
       "basename": "lists",
-      "path": "Python/data types/lists.md"
+      "path": "Python/data types/collections/lists.md"
     },
     {
-      "basename": "Arithmetic operators",
-      "path": "Python/operators/Arithmetic operators.md"
-    },
-    {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
-    },
-    {
-      "basename": "type_casting",
-      "path": "Python/data types/type_casting.md"
-    },
-    {
-      "basename": "operators",
-      "path": "Python/operators/operators.md"
-    },
-    {
-      "basename": "literals",
-      "path": "Python/literals.md"
+      "basename": "collections",
+      "path": "Python/data types/collections/collections.md"
     },
     {
       "basename": "comments",
       "path": "Python/comments.md"
     },
     {
-      "basename": "multiline strings",
-      "path": "Python/data types/strings/multiline strings.md"
+      "basename": "literals",
+      "path": "Python/literals.md"
+    },
+    {
+      "basename": "dictionaries",
+      "path": "Python/data types/collections/dictionaries.md"
+    },
+    {
+      "basename": "sets",
+      "path": "Python/data types/collections/sets.md"
+    },
+    {
+      "basename": "type_casting",
+      "path": "Python/data types/type_casting.md"
+    },
+    {
+      "basename": "assignment",
+      "path": "Python/assignment.md"
+    },
+    {
+      "basename": "operators",
+      "path": "Python/operators/operators.md"
+    },
+    {
+      "basename": "Arithmetic operators",
+      "path": "Python/operators/Arithmetic operators.md"
     },
     {
       "basename": "Comparison operators",
       "path": "Python/operators/Comparison operators.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
+    },
+    {
+      "basename": "multiline strings",
+      "path": "Python/data types/strings/multiline strings.md"
     },
     {
       "basename": "data types",
@@ -183,22 +199,6 @@
     {
       "basename": "structures",
       "path": "C/structures/structures.md"
-    },
-    {
-      "basename": "Visual Basic Editor",
-      "path": "VBA/Visual Basic Editor.md"
-    },
-    {
-      "basename": "Intro",
-      "path": "VBA/Intro.md"
-    },
-    {
-      "basename": "Object model",
-      "path": "VBA/Object model.md"
-    },
-    {
-      "basename": "header files",
-      "path": "C/compilation/preprocessor/header files.md"
     }
   ],
   "omittedPaths": [],

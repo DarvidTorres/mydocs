@@ -13,46 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/assignment.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2217c15e86691263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/type_casting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bc0d603d085ad73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/data types.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1c0521bb2c5315e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/assignment.md",
+                "file": "Python/data types/collections/tuples.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/assignment.md",
+                "file": "Python/data types/collections/tuples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/assignment.md"
+                "file": "Python/data types/collections/tuples.md"
               }
             }
           }
@@ -227,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/assignment.md",
+                "file": "Python/data types/collections/tuples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,15 +233,21 @@
   },
   "active": "c0d9dd5ebd5d1621",
   "lastOpenFiles": [
-    "Python/data types/lists.md",
-    "Python/operators/Arithmetic operators.md",
-    "Python/data types/strings/strings.md",
-    "Python/data types/type_casting.md",
-    "Python/operators/operators.md",
-    "Python/literals.md",
+    "Python/data types/collections/lists.md",
+    "Python/data types/collections/tuples.md",
+    "Python/data types/collections/collections.md",
     "Python/comments.md",
-    "Python/data types/strings/multiline strings.md",
+    "Python/literals.md",
+    "Python/data types/collections/dictionaries.md",
+    "Python/data types/collections/sets.md",
+    "Python/data types/collections",
+    "Python/data types/type_casting.md",
+    "Python/assignment.md",
+    "Python/operators/operators.md",
+    "Python/operators/Arithmetic operators.md",
     "Python/operators/Comparison operators.md",
+    "Python/data types/strings/strings.md",
+    "Python/data types/strings/multiline strings.md",
     "Python/literals",
     "Python/operators",
     "Python/data types/data types.md",
@@ -291,23 +258,17 @@
     "Python/data types/strings/slicing.md",
     "Python/data types/strings/concatenate.md",
     "Python/data types/strings/raw strings.md",
-    "Python/assignment.md",
     "Python/control_flow/boloean.md",
     "Python/control_flow/if.md",
     "Python/data types",
     "Python/suite.md",
     "Python/control_flow/control_structures.md",
-    "C/data types/types.md",
-    "Python/control_flow/().md",
-    "Bash/OS.md",
-    "Bash/special variables.md",
     "Python/control_flow",
     "Python/data types/strings",
     "C/Fetch Execute Cycle",
     "Python",
     "C/structures",
     "Bash/Operating systems",
-    "Number representation systems",
     "Pasted image 20230319193607.png"
   ]
 }

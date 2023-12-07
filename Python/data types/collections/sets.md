@@ -49,12 +49,39 @@ print(mySet)
 ```
 
 - Union of sets using the `union()` method:
+```Python
+print(mySet0 := {'Foo'})
+print(mySet1 := {'Bar'})
+print(mySet2 := mySet0.union(mySet1))
+```
 
-
+- To add items from another set into the current set, use the `update()` method:
 ```Python
 print(mySet0 := {'Foo'})
 print(mySet1 := {'Bar'})
 mySet0.update(mySet1)
 print(mySet0)
 ```
+The object in the `update()` method does not have to be a set, it can be any iterable object (tuples, lists, dictionaries etc.):
+```Python
+print(mySet0 := {'Foo'})
+print(mySet1 := ['Bar'])
+mySet0.update(mySet1)
+print(mySet0)
+```
 
+- To remove an item in a set, use the `remove()`, or the `discard()` method.
+```Python
+print(mySet := {'Foo', 'Bar', 'Baz'})
+mySet.remove('Baz')
+mySet.discard('Bar')
+print(mySet)
+```
+
+- You can also use the `pop()` method to remove an item, but this method will remove a random item, so you cannot be sure what item that gets removed.
+```Python
+print(mySet := {'Foo', 'Bar', 'Baz'})
+print(mySet.pop())
+print(mySet)
+```
+Note: The return value of the pop() method is the removed item.

@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "sets",
-      "path": "Python/data types/collections/sets.md"
-    },
-    {
       "basename": "while",
       "path": "Python/control_flow/while.md"
     },
     {
-      "basename": "collections",
-      "path": "Python/data types/collections/collections.md"
-    },
-    {
       "basename": "for",
       "path": "Python/control_flow/for.md"
+    },
+    {
+      "basename": "dictionaries",
+      "path": "Python/data types/collections/dictionaries.md"
+    },
+    {
+      "basename": "sets",
+      "path": "Python/data types/collections/sets.md"
+    },
+    {
+      "basename": "collections",
+      "path": "Python/data types/collections/collections.md"
     },
     {
       "basename": "lists",
@@ -31,10 +35,6 @@
     {
       "basename": "literals",
       "path": "Python/literals.md"
-    },
-    {
-      "basename": "dictionaries",
-      "path": "Python/data types/collections/dictionaries.md"
     },
     {
       "basename": "type_casting",

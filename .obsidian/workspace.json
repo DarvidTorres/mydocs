@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data types/collections/sets.md",
+                "file": "Python/control_flow/while.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/data types/collections/sets.md",
+                "file": "Python/control_flow/while.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/data types/collections/sets.md"
+                "file": "Python/control_flow/while.md"
               }
             }
           }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/data types/collections/sets.md",
+                "file": "Python/control_flow/while.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,15 +233,15 @@
   },
   "active": "3c198f3e9bdff606",
   "lastOpenFiles": [
-    "Python/control_flow/while.md",
-    "Python/data types/collections/sets.md",
-    "Python/data types/collections/collections.md",
     "Python/control_flow/for.md",
+    "Python/data types/collections/dictionaries.md",
+    "Python/data types/collections/sets.md",
+    "Python/control_flow/while.md",
+    "Python/data types/collections/collections.md",
     "Python/data types/collections/lists.md",
     "Python/data types/collections/tuples.md",
     "Python/comments.md",
     "Python/literals.md",
-    "Python/data types/collections/dictionaries.md",
     "Python/data types/collections",
     "Python/data types/type_casting.md",
     "Python/assignment.md",

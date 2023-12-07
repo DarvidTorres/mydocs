@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "for",
+      "path": "Python/control_flow/for.md"
+    },
+    {
+      "basename": "structures",
+      "path": "C/structures/structures.md"
+    },
+    {
+      "basename": "Sequence methods",
+      "path": "Python/data types/Functions/Sequence methods.md"
+    },
+    {
+      "basename": "string methods",
+      "path": "Python/data types/strings/string methods.md"
+    },
+    {
+      "basename": "slicing",
+      "path": "Python/data types/strings/slicing.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
+    },
+    {
       "basename": "Match-Case",
       "path": "Python/control_flow/Match-Case.md"
     },
@@ -38,7 +62,7 @@
     },
     {
       "basename": "collections",
-      "path": "Python/data types/collections/collections.md"
+      "path": "Python/data types/Collections/collections.md"
     },
     {
       "basename": "while",
@@ -49,24 +73,20 @@
       "path": "Python/control_flow/if.md"
     },
     {
-      "basename": "for",
-      "path": "Python/control_flow/for.md"
-    },
-    {
       "basename": "dictionaries",
-      "path": "Python/data types/collections/dictionaries.md"
+      "path": "Python/data types/Collections/dictionaries.md"
     },
     {
       "basename": "sets",
-      "path": "Python/data types/collections/sets.md"
+      "path": "Python/data types/Collections/sets.md"
     },
     {
       "basename": "lists",
-      "path": "Python/data types/collections/lists.md"
+      "path": "Python/data types/Collections/lists.md"
     },
     {
       "basename": "tuples",
-      "path": "Python/data types/collections/tuples.md"
+      "path": "Python/data types/Collections/tuples.md"
     },
     {
       "basename": "comments",
@@ -85,20 +105,12 @@
       "path": "Python/Operators/Comparison operators.md"
     },
     {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
-    },
-    {
       "basename": "multiline strings",
       "path": "Python/data types/strings/multiline strings.md"
     },
     {
       "basename": "data types",
       "path": "Python/data types/data types.md"
-    },
-    {
-      "basename": "string methods",
-      "path": "Python/data types/strings/string methods.md"
     },
     {
       "basename": "f-strings",
@@ -111,10 +123,6 @@
     {
       "basename": "quotes",
       "path": "Python/data types/strings/quotes.md"
-    },
-    {
-      "basename": "slicing",
-      "path": "Python/data types/strings/slicing.md"
     },
     {
       "basename": "concatenate",
@@ -191,14 +199,6 @@
     {
       "basename": "R",
       "path": "R/R.md"
-    },
-    {
-      "basename": "Files",
-      "path": "R/Files.md"
-    },
-    {
-      "basename": "Packages",
-      "path": "R/Packages.md"
     }
   ],
   "omittedPaths": [],

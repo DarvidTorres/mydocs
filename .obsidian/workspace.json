@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3f889a0f183e85b7",
+        "id": "a5831090e4316721",
         "type": "tabs",
         "children": [
           {
@@ -14,6 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "Python/operators/Assignment operators.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "796eaf4e96973cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/collections/collections.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -211,19 +224,19 @@
   },
   "active": "3c198f3e9bdff606",
   "lastOpenFiles": [
+    "Python/data types/collections/collections.md",
+    "Python/operators/Assignment operators.md",
     "Python/control_flow/while.md",
     "Python/control_flow/if.md",
     "Python/control_flow/for.md",
     "Python/data types/collections/dictionaries.md",
     "Python/data types/collections/sets.md",
-    "Python/data types/collections/collections.md",
     "Python/data types/collections/lists.md",
     "Python/data types/collections/tuples.md",
     "Python/comments.md",
     "Python/literals.md",
     "Python/data types/collections",
     "Python/data types/type_casting.md",
-    "Python/operators/Assignment operators.md",
     "Python/operators/operators.md",
     "Python/operators/Arithmetic operators.md",
     "Python/operators/Comparison operators.md",

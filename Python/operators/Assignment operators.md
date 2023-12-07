@@ -22,7 +22,7 @@ Note: The number of variables must match the number of values.
 x = y = z = "Orange"
 print(x, y, z)
 ```
-## walrus
+## Walrus
 - Assignment expressions allow you to assign and return a value in the same expression.
 
 syntax:
@@ -45,19 +45,25 @@ while (current := input("Write something: ")) != "quit":
 Use your best judgement about when the walrus operator helps make your code more readable.
 ## Add and Assign
 
-Consider the following:
+- Use the `+` operator to add values, and then assign result.
+syntax:
 ```Python
-Foo, Bar = 2, 3
-print(Foo, Bar)
-Foo = Foo + Bar
-print(Foo)
+x = x + y
 ```
 
+Example:
+```Python
+a, b = 2, 3
+print(a, b)
+a = a + b
+print(a)
+```
+
+- Add right side operand with left side operand and then assign to left operand
 syntax
 ```Python
-<var0> += <value | var1>
+x += y
 ```
-Add right side operand with left side operand and then assign to left operand
 
 Example:
 ```Python
@@ -68,15 +74,92 @@ a += b
 print(a)
 ```
 
-## Unpack a collection
-
-If you have a collection of values in a [[lists|list]], tuple, etc. Python allows you to extract the values into variables. This is called unpacking.
-
+## Subtract and Assign
+- Use the `-` operator to substract values, and then assign result.
+syntax:
 ```Python
-fruits = ["apple", "banana", "cherry"]
-x, y, z = fruits
-print(x, y, z)
+x = x - y
 ```
 
+Example:
+```Python
+a, b = 2, 3
+print(a, b)
+a = a - b
+print(a)
+```
 
+- Subtract the right operand from the left operand and then assign the result to the left operand.
+syntax
+```Python
+x -= y
+```
 
+Example:
+```Python
+a, b = 2, 3
+print(a, b)
+# a = a - b
+a -= b
+print(a)
+```
+
+## Multiply and Assign
+- Use the `*` operator to multiply values, and then assign result.
+syntax:
+```Python
+x = x * y
+```
+
+Example:
+```Python
+a, b = 2, 3
+print(a, b)
+a = a * b
+print(a)
+```
+
+* Multiply the right operand with the left operand and then assign the result to the left operand.
+syntax
+```Python
+x *= y
+```
+
+Example:
+```Python
+a, b = 2, 3
+print(a, b)
+# a = a * b
+a *= b
+print(a)
+```
+
+## Divide and Assign
+- Use the `/` operator to divide values, and then assign result.
+syntax:
+```Python
+x = x / y
+```
+
+Example:
+```Python
+a, b = 2, 3
+print(a, b)
+a = a / b
+print(a)
+```
+
+- Divide the left operand with the right operand and then assig the result to the left operand.
+syntax
+```Python
+x /= y
+```
+
+Example:
+```Python
+a, b = 2, 3
+print(a, b)
+# a = a / b
+a /= b
+print(a)
+```

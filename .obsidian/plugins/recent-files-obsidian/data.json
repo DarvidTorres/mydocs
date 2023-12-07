@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "collections",
+      "path": "Python/data types/Sequences and Collections/collections.md"
+    },
+    {
+      "basename": "Sequences",
+      "path": "Python/data types/Sequences and Collections/Sequences.md"
+    },
+    {
       "basename": "for",
       "path": "Python/control_flow/for.md"
     },
@@ -10,7 +18,7 @@
     },
     {
       "basename": "Sequence methods",
-      "path": "Python/data types/Functions/Sequence methods.md"
+      "path": "Python/data types/Sequences and Collections/Sequence methods.md"
     },
     {
       "basename": "string methods",
@@ -61,10 +69,6 @@
       "path": "Python/Operators/Arithmetic operators.md"
     },
     {
-      "basename": "collections",
-      "path": "Python/data types/Collections/collections.md"
-    },
-    {
       "basename": "while",
       "path": "Python/control_flow/while.md"
     },
@@ -74,19 +78,19 @@
     },
     {
       "basename": "dictionaries",
-      "path": "Python/data types/Collections/dictionaries.md"
+      "path": "Python/data types/Sequences and Collections/dictionaries.md"
     },
     {
       "basename": "sets",
-      "path": "Python/data types/Collections/sets.md"
+      "path": "Python/data types/Sequences and Collections/sets.md"
     },
     {
       "basename": "lists",
-      "path": "Python/data types/Collections/lists.md"
+      "path": "Python/data types/Sequences and Collections/lists.md"
     },
     {
       "basename": "tuples",
-      "path": "Python/data types/Collections/tuples.md"
+      "path": "Python/data types/Sequences and Collections/tuples.md"
     },
     {
       "basename": "comments",
@@ -195,10 +199,6 @@
     {
       "basename": "git_github",
       "path": "github/git_github.md"
-    },
-    {
-      "basename": "R",
-      "path": "R/R.md"
     }
   ],
   "omittedPaths": [],

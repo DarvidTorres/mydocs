@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Assignment operators",
+      "path": "Python/operators/Assignment operators.md"
+    },
+    {
       "basename": "while",
       "path": "Python/control_flow/while.md"
+    },
+    {
+      "basename": "if",
+      "path": "Python/control_flow/if.md"
     },
     {
       "basename": "for",
@@ -39,10 +47,6 @@
     {
       "basename": "type_casting",
       "path": "Python/data types/type_casting.md"
-    },
-    {
-      "basename": "assignment",
-      "path": "Python/assignment.md"
     },
     {
       "basename": "operators",
@@ -99,10 +103,6 @@
     {
       "basename": "boloean",
       "path": "Python/control_flow/boloean.md"
-    },
-    {
-      "basename": "if",
-      "path": "Python/control_flow/if.md"
     },
     {
       "basename": "suite",

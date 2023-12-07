@@ -31,3 +31,26 @@ print(type(a * b))
 print(type(a * c))
 ```
 
+## Modulus and Floor division
+The quotient $q$ and the remainder $r$ of $a$ divided by $n$ satisfy the following:
+
+$$
+q \in \mathbb{Z}, \quad a = nq+r, \quad |r|<|n|
+$$
+Example:
+$$
+\frac{7}{3} \Longrightarrow 7 = (3) \underbrace{(2)}_{\text{quotient}} + \underbrace{1}_{\text{reminder}}
+$$
+In Python, to obtain:
+- the quotient, use the **Floor division**: `//`
+- the remainder, use the **Modulus**: `%`
+
+Example:
+```Python
+Numerator = 7
+Denominator = 3
+quotient = Numerator // Denominator # Floor division
+print(quotient)
+remainder = Numerator % Denominator # Modulo
+print(remainder)
+```

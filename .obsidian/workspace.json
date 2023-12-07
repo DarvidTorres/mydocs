@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/operators/Assignment operators.md",
+                "file": "Python/Operators/Logical operators.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c26bb51f476932f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Operators/Logical operators.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3818644beb8e0df2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/control_flow/Match-Case.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/operators/Assignment operators.md",
+                "file": "Python/control_flow/Match-Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/operators/Assignment operators.md"
+                "file": "Python/control_flow/Match-Case.md"
               }
             }
           },
@@ -194,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/operators/Assignment operators.md",
+                "file": "Python/control_flow/Match-Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,10 +249,19 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "3c198f3e9bdff606",
+  "active": "3818644beb8e0df2",
   "lastOpenFiles": [
+    "Python/Operators/Operators.md",
+    "Python/control_flow/Match-Case.md",
+    "Python/Operators/Membership operators.md",
+    "Python/Operators/Identity operators.md",
+    "Python/Operators/Logical operators.md",
+    "Python/data types/boloean.md",
+    "Python/control_flow/Control structures.md",
+    "Python/operators/Operators.md",
+    "Python/Operators/Assignment operators.md",
+    "Python/Operators/Arithmetic operators.md",
     "Python/data types/collections/collections.md",
-    "Python/operators/Assignment operators.md",
     "Python/control_flow/while.md",
     "Python/control_flow/if.md",
     "Python/control_flow/for.md",
@@ -237,22 +273,13 @@
     "Python/literals.md",
     "Python/data types/collections",
     "Python/data types/type_casting.md",
-    "Python/operators/operators.md",
-    "Python/operators/Arithmetic operators.md",
-    "Python/operators/Comparison operators.md",
+    "Python/Operators/Comparison operators.md",
     "Python/data types/strings/strings.md",
     "Python/data types/strings/multiline strings.md",
     "Python/literals",
-    "Python/operators",
+    "Python/Operators",
     "Python/data types/data types.md",
     "Python/data types/strings/string methods.md",
-    "Python/data types/strings/f-strings.md",
-    "Python/data types/strings/string interpolation.md",
-    "Python/data types/strings/quotes.md",
-    "Python/data types/strings/slicing.md",
-    "Python/data types/strings/concatenate.md",
-    "Python/data types/strings/raw strings.md",
-    "Python/control_flow/boloean.md",
     "Python/data types",
     "Python/control_flow",
     "Python/data types/strings",

@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Match-Case",
+      "path": "Python/control_flow/Match-Case.md"
+    },
+    {
+      "basename": "Operators",
+      "path": "Python/Operators/Operators.md"
+    },
+    {
+      "basename": "Membership operators",
+      "path": "Python/Operators/Membership operators.md"
+    },
+    {
+      "basename": "Identity operators",
+      "path": "Python/Operators/Identity operators.md"
+    },
+    {
+      "basename": "Logical operators",
+      "path": "Python/Operators/Logical operators.md"
+    },
+    {
+      "basename": "boloean",
+      "path": "Python/data types/boloean.md"
+    },
+    {
+      "basename": "Control structures",
+      "path": "Python/control_flow/Control structures.md"
+    },
+    {
       "basename": "Assignment operators",
-      "path": "Python/operators/Assignment operators.md"
+      "path": "Python/Operators/Assignment operators.md"
+    },
+    {
+      "basename": "Arithmetic operators",
+      "path": "Python/Operators/Arithmetic operators.md"
     },
     {
       "basename": "collections",
@@ -49,16 +81,8 @@
       "path": "Python/data types/type_casting.md"
     },
     {
-      "basename": "operators",
-      "path": "Python/operators/operators.md"
-    },
-    {
-      "basename": "Arithmetic operators",
-      "path": "Python/operators/Arithmetic operators.md"
-    },
-    {
       "basename": "Comparison operators",
-      "path": "Python/operators/Comparison operators.md"
+      "path": "Python/Operators/Comparison operators.md"
     },
     {
       "basename": "strings",
@@ -101,16 +125,8 @@
       "path": "Python/data types/strings/raw strings.md"
     },
     {
-      "basename": "boloean",
-      "path": "Python/control_flow/boloean.md"
-    },
-    {
       "basename": "suite",
       "path": "Python/suite.md"
-    },
-    {
-      "basename": "control_structures",
-      "path": "Python/control_flow/control_structures.md"
     },
     {
       "basename": "types",
@@ -183,22 +199,6 @@
     {
       "basename": "Packages",
       "path": "R/Packages.md"
-    },
-    {
-      "basename": "Types",
-      "path": "R/Types.md"
-    },
-    {
-      "basename": "Objects",
-      "path": "R/Objects.md"
-    },
-    {
-      "basename": "Settings",
-      "path": "R/Settings.md"
-    },
-    {
-      "basename": "Indexing",
-      "path": "R/Indexing.md"
     }
   ],
   "omittedPaths": [],

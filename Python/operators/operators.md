@@ -2,9 +2,9 @@ Operators are used to perform operations on variables and values.
 
 Python divides the operators in the following groups:
 - [[Arithmetic operators]]
-- Assignment operators
+- [[Assignment operators]]
 - [[Comparison operators]]
-- Logical operators
-- Identity operators
-- Membership operators
-- Bitwise operators
+- [[Logical operators]]
+- [[Identity operators]]
+- [[Membership operators]]
+- [Bitwise operators](https://en.wikipedia.org/wiki/Bitwise_operation)

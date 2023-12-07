@@ -47,7 +47,7 @@ mylist.append(2.0**3)
 print(mylist)
 ```
 
-- Concatenate two lists with `+` [[Python/operators/operators|operator]]:
+- Concatenate two lists with `+` [[Python/Operators/Operators|operator]]:
 ```Python
 print([1, 2, 3] + [4, 5, 6])
 ```

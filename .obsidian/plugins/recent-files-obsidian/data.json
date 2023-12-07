@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "collections",
-      "path": "Python/data types/Sequences and Collections/collections.md"
+      "basename": "Iterables",
+      "path": "Python/data types/Iterables/Iterables.md"
     },
     {
-      "basename": "Sequences",
-      "path": "Python/data types/Sequences and Collections/Sequences.md"
+      "basename": "dictionaries",
+      "path": "Python/data types/Iterables/dictionaries.md"
+    },
+    {
+      "basename": "data types",
+      "path": "Python/data types/data types.md"
+    },
+    {
+      "basename": "memory",
+      "path": "C/memory/memory.md"
+    },
+    {
+      "basename": "types",
+      "path": "C/data types/types.md"
+    },
+    {
+      "basename": "char",
+      "path": "C/data types/integers/char.md"
+    },
+    {
+      "basename": "stack vs heap",
+      "path": "C/memory/stack vs heap.md"
+    },
+    {
+      "basename": "address",
+      "path": "C/memory/address.md"
+    },
+    {
+      "basename": "dereferencing",
+      "path": "C/data types/pointers/dereferencing.md"
+    },
+    {
+      "basename": "function pointers",
+      "path": "C/data types/pointers/function pointers.md"
+    },
+    {
+      "basename": "int",
+      "path": "C/data types/integers/int.md"
+    },
+    {
+      "basename": "type qualifiers",
+      "path": "C/data types/type qualifiers.md"
+    },
+    {
+      "basename": "pointers",
+      "path": "C/data types/pointers/pointers.md"
+    },
+    {
+      "basename": "pointer arithmetic",
+      "path": "C/data types/pointers/pointer arithmetic.md"
+    },
+    {
+      "basename": "sets",
+      "path": "Python/data types/Iterables/sets.md"
     },
     {
       "basename": "for",
@@ -18,7 +70,7 @@
     },
     {
       "basename": "Sequence methods",
-      "path": "Python/data types/Sequences and Collections/Sequence methods.md"
+      "path": "Python/data types/Iterables/Sequence methods.md"
     },
     {
       "basename": "string methods",
@@ -77,20 +129,12 @@
       "path": "Python/control_flow/if.md"
     },
     {
-      "basename": "dictionaries",
-      "path": "Python/data types/Sequences and Collections/dictionaries.md"
-    },
-    {
-      "basename": "sets",
-      "path": "Python/data types/Sequences and Collections/sets.md"
-    },
-    {
       "basename": "lists",
-      "path": "Python/data types/Sequences and Collections/lists.md"
+      "path": "Python/data types/Iterables/lists.md"
     },
     {
       "basename": "tuples",
-      "path": "Python/data types/Sequences and Collections/tuples.md"
+      "path": "Python/data types/Iterables/tuples.md"
     },
     {
       "basename": "comments",
@@ -111,10 +155,6 @@
     {
       "basename": "multiline strings",
       "path": "Python/data types/strings/multiline strings.md"
-    },
-    {
-      "basename": "data types",
-      "path": "Python/data types/data types.md"
     },
     {
       "basename": "f-strings",
@@ -141,10 +181,6 @@
       "path": "Python/suite.md"
     },
     {
-      "basename": "types",
-      "path": "C/data types/types.md"
-    },
-    {
       "basename": "OS",
       "path": "Bash/OS.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Bash interpreter",
       "path": "Bash/Bash interpreter.md"
-    },
-    {
-      "basename": "Bash commands",
-      "path": "Bash/Bash commands.md"
-    },
-    {
-      "basename": "memory",
-      "path": "C/memory/memory.md"
-    },
-    {
-      "basename": "Fetch-Execute Cycle",
-      "path": "C/memory/Fetch-Execute Cycle.md"
-    },
-    {
-      "basename": "compilation",
-      "path": "C/compilation/compilation.md"
-    },
-    {
-      "basename": "stack vs heap",
-      "path": "C/memory/stack vs heap.md"
-    },
-    {
-      "basename": "address",
-      "path": "C/memory/address.md"
-    },
-    {
-      "basename": "dynamic memory allocation",
-      "path": "C/memory/dynamic memory allocation.md"
-    },
-    {
-      "basename": "Hexadecimal",
-      "path": "Number representation systems/Hexadecimal.md"
-    },
-    {
-      "basename": "git_github",
-      "path": "github/git_github.md"
     }
   ],
   "omittedPaths": [],

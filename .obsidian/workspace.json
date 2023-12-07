@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c198f3e9bdff606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Operators/Logical operators.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c26bb51f476932f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Operators/Logical operators.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3818644beb8e0df2",
             "type": "leaf",
             "state": {
@@ -47,25 +21,12 @@
             }
           },
           {
-            "id": "386017fc65db354f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/Sequences and Collections/Sequences.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "60d534e89555db85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data types/Sequences and Collections/collections.md",
+                "file": "Python/data types/Iterables/Iterables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +34,38 @@
             }
           },
           {
-            "id": "7f800031cf5e7a1d",
+            "id": "e7f0d475935c4b81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data types/Sequences and Collections/Sequence methods.md",
+                "file": "Python/data types/Iterables/dictionaries.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09e45b3e271190bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/memory/memory.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dbe70eda960dd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/data types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/data types/Sequences and Collections/collections.md",
+                "file": "Python/data types/Iterables/Iterables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/data types/Sequences and Collections/collections.md"
+                "file": "Python/data types/Iterables/Iterables.md"
               }
             }
           },
@@ -234,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "2c6675d20a6807f8",
@@ -247,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/data types/Sequences and Collections/collections.md",
+                "file": "Python/data types/Iterables/Iterables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,36 +262,36 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "c0d9dd5ebd5d1621",
+  "active": "60d534e89555db85",
   "lastOpenFiles": [
+    "Python/data types/Iterables/dictionaries.md",
+    "Python/data types/Iterables/Iterables.md",
+    "Python/data types/data types.md",
+    "C/memory/memory.md",
+    "C/data types/types.md",
+    "C/data types/integers/char.md",
+    "C/memory/stack vs heap.md",
+    "C/memory/address.md",
+    "C/data types/pointers/dereferencing.md",
+    "C/data types/pointers/function pointers.md",
+    "C/data types/integers/int.md",
+    "C/data types/type qualifiers.md",
+    "C/data types/pointers/pointers.md",
+    "C/data types/pointers/pointer arithmetic.md",
+    "Python/data types/Iterables/sets.md",
     "Python/data types/Sequences and Collections/Sequences.md",
     "Python/control_flow/for.md",
     "C/structures/structures.md",
-    "Python/data types/Sequences and Collections",
-    "Python/data types/Sequences and Collections/Sequence methods.md",
+    "Python/data types/Iterables",
+    "Python/data types/Iterables/Sequence methods.md",
     "Python/data types/strings/string methods.md",
     "Python/data types/strings/slicing.md",
-    "Python/data types/Functions",
+    "Python/Functions",
     "Python/data types/strings/strings.md",
     "Python/control_flow/Match-Case.md",
     "Python/Operators/Operators.md",
     "Python/Operators/Membership operators.md",
     "Python/Operators/Identity operators.md",
-    "Python/Operators/Logical operators.md",
-    "Python/data types/boloean.md",
-    "Python/control_flow/Control structures.md",
-    "Python/operators/Operators.md",
-    "Python/Operators/Assignment operators.md",
-    "Python/Operators/Arithmetic operators.md",
-    "Python/data types/Sequences and Collections/collections.md",
-    "Python/control_flow/while.md",
-    "Python/control_flow/if.md",
-    "Python/data types/Sequences and Collections/dictionaries.md",
-    "Python/data types/Sequences and Collections/sets.md",
-    "Python/data types/Sequences and Collections/lists.md",
-    "Python/data types/Sequences and Collections/tuples.md",
-    "Python/comments.md",
-    "Python/literals.md",
     "Python/data types/Collections",
     "Python/literals",
     "Python/Operators",

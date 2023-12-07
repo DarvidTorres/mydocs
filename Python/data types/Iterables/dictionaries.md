@@ -37,7 +37,7 @@ print(myDict.keys())
 print(myDict.values())
 print(myDict.items())
 ```
-Note: `dict_keys`, `dict_values` and `dict_items` classes are iterable.
+Note: `dict_keys`, `dict_values` and `dict_items` classes are [[Iterables|iterable]].
 
 - Duplicate values will overwrite existing values:
 ```Python

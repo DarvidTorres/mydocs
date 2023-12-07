@@ -1,2 +1,0 @@
-- A sequence is a positionally ordered collection of items.
-- 

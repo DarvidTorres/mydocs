@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data types/collections/tuples.md",
+                "file": "Python/data types/collections/sets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/data types/collections/tuples.md",
+                "file": "Python/data types/collections/sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/data types/collections/tuples.md"
+                "file": "Python/data types/collections/sets.md"
               }
             }
           }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/data types/collections/tuples.md",
+                "file": "Python/data types/collections/sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,15 +231,17 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "c0d9dd5ebd5d1621",
+  "active": "3c198f3e9bdff606",
   "lastOpenFiles": [
+    "Python/control_flow/while.md",
+    "Python/data types/collections/sets.md",
+    "Python/data types/collections/collections.md",
+    "Python/control_flow/for.md",
     "Python/data types/collections/lists.md",
     "Python/data types/collections/tuples.md",
-    "Python/data types/collections/collections.md",
     "Python/comments.md",
     "Python/literals.md",
     "Python/data types/collections/dictionaries.md",
-    "Python/data types/collections/sets.md",
     "Python/data types/collections",
     "Python/data types/type_casting.md",
     "Python/assignment.md",
@@ -261,8 +263,6 @@
     "Python/control_flow/boloean.md",
     "Python/control_flow/if.md",
     "Python/data types",
-    "Python/suite.md",
-    "Python/control_flow/control_structures.md",
     "Python/control_flow",
     "Python/data types/strings",
     "C/Fetch Execute Cycle",

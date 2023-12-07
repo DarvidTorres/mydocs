@@ -7,7 +7,7 @@
 - Tuples allow **duplicate** values.
 
 Example:
-````Python
+```Python
 myString = "string"
 myFloat = 2.32
 myIntA = 3
@@ -18,3 +18,16 @@ myTuple = (myString, myFloat, myIntA, myIntB, myComplex, myBool)
 print(myTuple)
 print(type(myTuple))
 ```
+
+## singleton
+When creating a tuple with only one item, remember to include a comma after the item, otherwise it will not be identified as a tuple:
+
+```Python
+print(type(FalseTuple := ("a"))) # string
+print(type(TrueTuple := ("a",))) # tuple
+```
+
+## modify a tuple
+
+- Tuples are **unchangeable**, or **immutable** as it also is called.
+	- But there is a workaround. Convert the tuple into a list, change the list, and convert the list back into a tuple.

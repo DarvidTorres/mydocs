@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "tuples",
-      "path": "Python/data types/collections/tuples.md"
+      "basename": "sets",
+      "path": "Python/data types/collections/sets.md"
+    },
+    {
+      "basename": "while",
+      "path": "Python/control_flow/while.md"
+    },
+    {
+      "basename": "collections",
+      "path": "Python/data types/collections/collections.md"
+    },
+    {
+      "basename": "for",
+      "path": "Python/control_flow/for.md"
     },
     {
       "basename": "lists",
       "path": "Python/data types/collections/lists.md"
     },
     {
-      "basename": "collections",
-      "path": "Python/data types/collections/collections.md"
+      "basename": "tuples",
+      "path": "Python/data types/collections/tuples.md"
     },
     {
       "basename": "comments",
@@ -23,10 +35,6 @@
     {
       "basename": "dictionaries",
       "path": "Python/data types/collections/dictionaries.md"
-    },
-    {
-      "basename": "sets",
-      "path": "Python/data types/collections/sets.md"
     },
     {
       "basename": "type_casting",
@@ -191,14 +199,6 @@
     {
       "basename": "Indexing",
       "path": "R/Indexing.md"
-    },
-    {
-      "basename": "arrays",
-      "path": "C/structures/arrays/arrays.md"
-    },
-    {
-      "basename": "structures",
-      "path": "C/structures/structures.md"
     }
   ],
   "omittedPaths": [],

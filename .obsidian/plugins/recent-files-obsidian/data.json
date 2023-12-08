@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "while",
-      "path": "Python/control_flow/while.md"
+      "basename": "for",
+      "path": "Python/control_flow/for.md"
+    },
+    {
+      "basename": "dictionaries",
+      "path": "Python/data types/Iterables/dictionaries.md"
+    },
+    {
+      "basename": "Sequences",
+      "path": "Python/data types/Iterables/Sequences.md"
+    },
+    {
+      "basename": "Collections",
+      "path": "Python/data types/Iterables/Collections.md"
     },
     {
       "basename": "Iterables",
       "path": "Python/data types/Iterables/Iterables.md"
+    },
+    {
+      "basename": "while",
+      "path": "Python/control_flow/while.md"
+    },
+    {
+      "basename": "boloean",
+      "path": "Python/data types/boloean.md"
     },
     {
       "basename": "Sequence methods",
@@ -15,10 +35,6 @@
     {
       "basename": "strings",
       "path": "Python/data types/strings/strings.md"
-    },
-    {
-      "basename": "dictionaries",
-      "path": "Python/data types/Iterables/dictionaries.md"
     },
     {
       "basename": "sets",
@@ -73,10 +89,6 @@
       "path": "C/data types/pointers/pointer arithmetic.md"
     },
     {
-      "basename": "for",
-      "path": "Python/control_flow/for.md"
-    },
-    {
       "basename": "structures",
       "path": "C/structures/structures.md"
     },
@@ -107,10 +119,6 @@
     {
       "basename": "Logical operators",
       "path": "Python/Operators/Logical operators.md"
-    },
-    {
-      "basename": "boloean",
-      "path": "Python/data types/boloean.md"
     },
     {
       "basename": "Control structures",
@@ -191,14 +199,6 @@
     {
       "basename": "input and output",
       "path": "Bash/input and output.md"
-    },
-    {
-      "basename": "mv",
-      "path": "Bash/mv.md"
-    },
-    {
-      "basename": "Bash interpreter",
-      "path": "Bash/Bash interpreter.md"
     }
   ],
   "omittedPaths": [],

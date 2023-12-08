@@ -16,29 +16,6 @@ print(myDict := {"Key": "Value"})
 print(type(myDict))
 ```
 
-- Dictionary items can be referred to by using the key name:
-```Python
-myDict = {
-  "a": "Foo",
-  "b": "Bar",
-}
-print(myDict["a"])
-```
-
-- The `keys()` method will return a list of all the keys in the dictionary.
-- The `values()` method will return a list of all the values in the dictionary.
-- The `items()` method will return a list of all the `key:value` pairs in the dictionary.
-```Python
-myDict = {
-  "a": "Foo",
-  "b": "Bar",
-}
-print(myDict.keys())
-print(myDict.values())
-print(myDict.items())
-```
-Note: `dict_keys`, `dict_values` and `dict_items` classes are [[Iterables|iterable]].
-
 - Duplicate values will overwrite existing values:
 ```Python
 myDict = {
@@ -59,3 +36,29 @@ print(myDict)
 myDict["b"] = "Baz"
 print(myDict)
 ```
+
+- Dictionary items can be referred to by using the key name:
+```Python
+myDict = {
+  "a": "Foo",
+  "b": "Bar",
+}
+print(myDict["a"])
+```
+
+- [[Iterables|Iteration]] on a dictionary runs over the `key` part of pairs.
+
+- The `keys()` method will return a list of all the keys in the dictionary.
+- The `values()` method will return a list of all the values in the dictionary.
+- The `items()` method will return a list of all the `key:value` pairs in the dictionary.
+```Python
+myDict = {
+  "a": "Foo",
+  "b": "Bar",
+}
+print(myDict.keys())
+print(myDict.values())
+print(myDict.items())
+```
+
+- `dict_keys`, `dict_values` and `dict_items` classes are [[Iterables|iterable]].

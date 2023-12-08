@@ -1,4 +1,4 @@
-Iterate over the items of a sequence, such as a [[lists|list]], [[tuples|tuple]] or a [[Python/data types/strings/strings|string]].
+Iterate over the items of an [[Iterables|iterable]].
 
 syntax:
 ```Python
@@ -19,4 +19,12 @@ myList = ['Foo', 'Bar']
 for i in myList:
 	print(i)
 ```
+
+- The `for` loop does not require an indexing variable to set beforehand, like the [[while#while vs for|while]] loop does.
+
+## for-else
+
+
+
+## break
 

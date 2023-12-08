@@ -17,24 +17,54 @@ while i < 6:
   print(i)
   i += 1
 ```
+## while-else
+- With the else statement we can run a [[suite]] once, when the [[boloean|boolean expression]] no longer is `True`:
 
-## break
-- With the break statement we can stop the loop even if the while condition is `True`.
-- The break statement can be used in both while and [[for]] loops.
-
-Example: 
 ```Python
 i = 1
 while i < 6:
   print(i)
-  if i == 3:
-    break
   i += 1
+else:
+  print("i is no longer less than 6")
 ```
 
-## continue
-- With the continue statement we can stop the current iteration, and continue with the next:
+## break
+- With the break statement we can stop the loop even if the while condition is `True`.
+- `break` may only occur syntactically nested in a `for` or `while` loop, but not nested in a function or class definition within that loop.
+- It **terminates** the nearest enclosing loop, skipping the optional `else` clause if the loop has one.
+Example: 
+```Python
+i = 1
+while i < 6:
+    print(i)
+    if i == 3:
+        break
+    i += 1
+```
 
+Another example:
+```Python
+i = 1
+while i < 6:
+    if i == 3:
+        break
+    print(i)
+    i += 1
+```
+## continue
+- With the continue statement we can stop the current iteration, and continue with the next.
+- When encountered, the loop starts next iteration without executing the remaining statements in the current iteration.
+
+Example:
+```Python
+i = 0
+while i < 6:
+  i += 1
+  if i == 3:
+    continue
+  print(i)
+```
 ## while vs for
 > If you can iterate, do `for`, otherwise do `while
 

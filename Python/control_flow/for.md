@@ -66,3 +66,13 @@ Example:
 for i in range(2):
 	pass
 ```
+
+### Ellipses
+
+We can use `...` in place of the `pass` statement
+
+Example:
+```Python
+for i in range(2):
+	...
+```

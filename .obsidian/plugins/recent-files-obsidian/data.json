@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "while",
+      "path": "Python/control_flow/while.md"
+    },
+    {
       "basename": "Iterables",
       "path": "Python/data types/Iterables/Iterables.md"
     },
     {
+      "basename": "Sequence methods",
+      "path": "Python/data types/Iterables/Sequence methods.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
+    },
+    {
       "basename": "dictionaries",
       "path": "Python/data types/Iterables/dictionaries.md"
+    },
+    {
+      "basename": "sets",
+      "path": "Python/data types/Iterables/sets.md"
     },
     {
       "basename": "data types",
@@ -57,10 +73,6 @@
       "path": "C/data types/pointers/pointer arithmetic.md"
     },
     {
-      "basename": "sets",
-      "path": "Python/data types/Iterables/sets.md"
-    },
-    {
       "basename": "for",
       "path": "Python/control_flow/for.md"
     },
@@ -69,20 +81,12 @@
       "path": "C/structures/structures.md"
     },
     {
-      "basename": "Sequence methods",
-      "path": "Python/data types/Iterables/Sequence methods.md"
-    },
-    {
       "basename": "string methods",
       "path": "Python/data types/strings/string methods.md"
     },
     {
       "basename": "slicing",
       "path": "Python/data types/strings/slicing.md"
-    },
-    {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
     },
     {
       "basename": "Match-Case",
@@ -119,10 +123,6 @@
     {
       "basename": "Arithmetic operators",
       "path": "Python/Operators/Arithmetic operators.md"
-    },
-    {
-      "basename": "while",
-      "path": "Python/control_flow/while.md"
     },
     {
       "basename": "if",

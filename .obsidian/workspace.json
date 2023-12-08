@@ -8,72 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3818644beb8e0df2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/control_flow/for.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "60d534e89555db85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data types/Iterables/Iterables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7f0d475935c4b81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/Iterables/dictionaries.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09e45b3e271190bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/memory/memory.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dbe70eda960dd77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/data types.md",
+                "file": "Python/control_flow/while.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/data types/Iterables/Iterables.md",
+                "file": "Python/control_flow/while.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/data types/Iterables/Iterables.md"
+                "file": "Python/control_flow/while.md"
               }
             }
           },
@@ -234,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/data types/Iterables/Iterables.md",
+                "file": "Python/control_flow/while.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,8 +211,12 @@
   },
   "active": "60d534e89555db85",
   "lastOpenFiles": [
-    "Python/data types/Iterables/dictionaries.md",
     "Python/data types/Iterables/Iterables.md",
+    "Python/control_flow/while.md",
+    "Python/data types/Iterables/Sequence methods.md",
+    "Python/data types/strings/strings.md",
+    "Python/data types/Iterables/dictionaries.md",
+    "Python/data types/Iterables/sets.md",
     "Python/data types/data types.md",
     "C/memory/memory.md",
     "C/data types/types.md",
@@ -278,20 +229,16 @@
     "C/data types/type qualifiers.md",
     "C/data types/pointers/pointers.md",
     "C/data types/pointers/pointer arithmetic.md",
-    "Python/data types/Iterables/sets.md",
     "Python/data types/Sequences and Collections/Sequences.md",
     "Python/control_flow/for.md",
     "C/structures/structures.md",
     "Python/data types/Iterables",
-    "Python/data types/Iterables/Sequence methods.md",
     "Python/data types/strings/string methods.md",
     "Python/data types/strings/slicing.md",
     "Python/Functions",
-    "Python/data types/strings/strings.md",
     "Python/control_flow/Match-Case.md",
     "Python/Operators/Operators.md",
     "Python/Operators/Membership operators.md",
-    "Python/Operators/Identity operators.md",
     "Python/data types/Collections",
     "Python/literals",
     "Python/Operators",

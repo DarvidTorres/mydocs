@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60d534e89555db85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/Iterables/Sequences.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7bc95ae7eaff1e5",
+            "id": "1e63915c1e85b624",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,20 +21,58 @@
             }
           },
           {
-            "id": "76ca0e51952f4ef7",
+            "id": "1f921e03e2e3a5c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data types/Iterables/dictionaries.md",
+                "file": "Python/data types/Iterables/Range.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0aa33ee12ecaec3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/Iterables/Sequences.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bda296b2a660c18a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/Iterables/Collections.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "174ee3ed57df0a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/Iterables/Dictionaries.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +155,6 @@
       {
         "id": "e179375af5d1c351",
         "type": "tabs",
-        "dimension": 62.04933586337761,
         "children": [
           {
             "id": "43e7c6aa13f39434",
@@ -200,7 +224,6 @@
       {
         "id": "2c6675d20a6807f8",
         "type": "tabs",
-        "dimension": 37.95066413662239,
         "children": [
           {
             "id": "b9ed23e1610fc520",
@@ -212,6 +235,20 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "93877453c3615bcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c652d806acd4877",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
             }
           }
         ]
@@ -236,18 +273,19 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "e7bc95ae7eaff1e5",
+  "active": "1e63915c1e85b624",
   "lastOpenFiles": [
-    "Python/data types/Iterables/dictionaries.md",
-    "Python/control_flow/for.md",
+    "Python/data types/Iterables/Range.md",
     "Python/data types/Iterables/Sequences.md",
+    "Python/data types/Iterables/Dictionaries.md",
     "Python/data types/Iterables/Collections.md",
-    "Python/data types/Iterables/Iterables.md",
+    "Python/data types/Iterables/sets.md",
     "Python/control_flow/while.md",
+    "Python/control_flow/for.md",
+    "Python/data types/Iterables/Iterables.md",
     "Python/data types/boloean.md",
     "Python/data types/Iterables/Sequence methods.md",
     "Python/data types/strings/strings.md",
-    "Python/data types/Iterables/sets.md",
     "Python/data types/data types.md",
     "C/memory/memory.md",
     "C/data types/types.md",
@@ -264,7 +302,6 @@
     "C/structures/structures.md",
     "Python/data types/Iterables",
     "Python/data types/strings/string methods.md",
-    "Python/data types/strings/slicing.md",
     "Python/Functions",
     "Python/data types/Collections",
     "Python/literals",

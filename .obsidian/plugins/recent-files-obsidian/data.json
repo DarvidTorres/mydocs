@@ -5,24 +5,32 @@
       "path": "Python/control_flow/for.md"
     },
     {
-      "basename": "dictionaries",
-      "path": "Python/data types/Iterables/dictionaries.md"
+      "basename": "Range",
+      "path": "Python/data types/Iterables/Range.md"
     },
     {
       "basename": "Sequences",
       "path": "Python/data types/Iterables/Sequences.md"
     },
     {
+      "basename": "Dictionaries",
+      "path": "Python/data types/Iterables/Dictionaries.md"
+    },
+    {
       "basename": "Collections",
       "path": "Python/data types/Iterables/Collections.md"
     },
     {
-      "basename": "Iterables",
-      "path": "Python/data types/Iterables/Iterables.md"
+      "basename": "sets",
+      "path": "Python/data types/Iterables/sets.md"
     },
     {
       "basename": "while",
       "path": "Python/control_flow/while.md"
+    },
+    {
+      "basename": "Iterables",
+      "path": "Python/data types/Iterables/Iterables.md"
     },
     {
       "basename": "boloean",
@@ -35,10 +43,6 @@
     {
       "basename": "strings",
       "path": "Python/data types/strings/strings.md"
-    },
-    {
-      "basename": "sets",
-      "path": "Python/data types/Iterables/sets.md"
     },
     {
       "basename": "data types",
@@ -195,10 +199,6 @@
     {
       "basename": "special variables",
       "path": "Bash/special variables.md"
-    },
-    {
-      "basename": "input and output",
-      "path": "Bash/input and output.md"
     }
   ],
   "omittedPaths": [],

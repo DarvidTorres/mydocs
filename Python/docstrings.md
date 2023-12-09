@@ -1,0 +1,2 @@
+Python docstrings are the string literals that appear right after the definition of a function, method, class, or module.
+- For triple-quoted strings, always use double quote characters to be consistent with the docstring convention in [PEP 257](https://peps.python.org/pep-0257/)

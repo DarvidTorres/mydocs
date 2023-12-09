@@ -23,11 +23,6 @@ print("Hello World")
 Since Python will ignore string literals that are not assigned to a variable, you can add a multiline string (triple quotes) in your code, and place your comment inside it:
 
 ```Python
-'''
-I am a
-multi-line comment!
-'''
-
 """
 This is a comment
 written in
@@ -37,6 +32,4 @@ more than just one line
 print("Hello, World!")
 ```
 
-# docstrings
 
-Python docstrings are the string literals that appear right after the definition of a function, method, class, or module.

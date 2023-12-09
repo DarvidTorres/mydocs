@@ -5,6 +5,22 @@
       "path": "Python/Functions/Functions.md"
     },
     {
+      "basename": "Modules",
+      "path": "Python/Modules.md"
+    },
+    {
+      "basename": "docstrings",
+      "path": "Python/docstrings.md"
+    },
+    {
+      "basename": "comments",
+      "path": "Python/comments.md"
+    },
+    {
+      "basename": "literals",
+      "path": "Python/literals.md"
+    },
+    {
       "basename": "for",
       "path": "Python/control_flow/for.md"
     },
@@ -153,14 +169,6 @@
       "path": "Python/data types/Iterables/tuples.md"
     },
     {
-      "basename": "comments",
-      "path": "Python/comments.md"
-    },
-    {
-      "basename": "literals",
-      "path": "Python/literals.md"
-    },
-    {
       "basename": "type_casting",
       "path": "Python/data types/type_casting.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "raw strings",
       "path": "Python/data types/strings/raw strings.md"
-    },
-    {
-      "basename": "suite",
-      "path": "Python/suite.md"
-    },
-    {
-      "basename": "OS",
-      "path": "Bash/OS.md"
     }
   ],
   "omittedPaths": [],

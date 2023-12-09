@@ -13,6 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Python/docstrings.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c17692765965191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/comments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fa9f1d1b255fe32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Python/Functions/Functions.md",
                 "mode": "source",
                 "backlinks": true,
@@ -21,12 +47,12 @@
             }
           },
           {
-            "id": "1f921e03e2e3a5c3",
+            "id": "07ffb70a285f4f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data types/Iterables/Range.md",
+                "file": "Python/Modules.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,45 +60,20 @@
             }
           },
           {
-            "id": "0aa33ee12ecaec3d",
+            "id": "6ff0eabf61d255e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data types/Iterables/Sequences.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bda296b2a660c18a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/Iterables/Collections.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "174ee3ed57df0a71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/Iterables/Dictionaries.md",
+                "file": "Python/literals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,10 +274,14 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "1e63915c1e85b624",
+  "active": "2fa9f1d1b255fe32",
   "lastOpenFiles": [
-    "Python/control_flow/for.md",
+    "Python/Modules.md",
     "Python/Functions/Functions.md",
+    "Python/docstrings.md",
+    "Python/comments.md",
+    "Python/literals.md",
+    "Python/control_flow/for.md",
     "Python/data types/Iterables/Range.md",
     "Python/data types/Iterables/Sequences.md",
     "Python/data types/Iterables/Dictionaries.md",
@@ -297,10 +302,6 @@
     "C/data types/pointers/function pointers.md",
     "C/data types/integers/int.md",
     "C/data types/type qualifiers.md",
-    "C/data types/pointers/pointers.md",
-    "C/data types/pointers/pointer arithmetic.md",
-    "Python/data types/Sequences and Collections/Sequences.md",
-    "C/structures/structures.md",
     "Python/data types/Iterables",
     "Python/Functions",
     "Python/data types/Collections",

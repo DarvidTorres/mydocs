@@ -1,5 +1,5 @@
-- [[functions|function definitions]] are stored in [[memory]], so they have an address.
-- A function pointer is a [[pointers|pointer]] that stores a [[functions|function's definition]] address.
+- [[C/functions/functions|function definitions]] are stored in [[memory]], so they have an address.
+- A function pointer is a [[pointers|pointer]] that stores a [[C/functions/functions|function's definition]] address.
 - You cannot perform [[pointers#pointer arithmetic|pointer arithmetic]] on function pointers.
 - A function name without parentheses is a pointer to the function's definition, just as the name of an [[arrays|array]] by itself is a pointer to its 0th element.
 - Dereferencing the function pointer yields the referenced function.

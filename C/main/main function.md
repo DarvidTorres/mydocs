@@ -1,4 +1,4 @@
-- Usually, a C program starts with the `main` [[functions|function]].
+- Usually, a C program starts with the `main` [[C/functions/functions|function]].
 - The `main()` function is the entry point to a C/C++ program.
 - The `main()` function in C is the starting point of program execution.
 - `main()` is called when the application starts executing.

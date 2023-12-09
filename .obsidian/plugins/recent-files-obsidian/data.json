@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Functions",
+      "path": "Python/Functions/Functions.md"
+    },
+    {
       "basename": "for",
       "path": "Python/control_flow/for.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "OS",
       "path": "Bash/OS.md"
-    },
-    {
-      "basename": "special variables",
-      "path": "Bash/special variables.md"
     }
   ],
   "omittedPaths": [],

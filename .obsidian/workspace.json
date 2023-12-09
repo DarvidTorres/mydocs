@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/control_flow/for.md",
+                "file": "Python/Functions/Functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/control_flow/for.md",
+                "file": "Python/Functions/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/control_flow/for.md"
+                "file": "Python/Functions/Functions.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/control_flow/for.md",
+                "file": "Python/Functions/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,13 +275,14 @@
   },
   "active": "1e63915c1e85b624",
   "lastOpenFiles": [
+    "Python/control_flow/for.md",
+    "Python/Functions/Functions.md",
     "Python/data types/Iterables/Range.md",
     "Python/data types/Iterables/Sequences.md",
     "Python/data types/Iterables/Dictionaries.md",
     "Python/data types/Iterables/Collections.md",
     "Python/data types/Iterables/sets.md",
     "Python/control_flow/while.md",
-    "Python/control_flow/for.md",
     "Python/data types/Iterables/Iterables.md",
     "Python/data types/boloean.md",
     "Python/data types/Iterables/Sequence methods.md",
@@ -301,7 +302,6 @@
     "Python/data types/Sequences and Collections/Sequences.md",
     "C/structures/structures.md",
     "Python/data types/Iterables",
-    "Python/data types/strings/string methods.md",
     "Python/Functions",
     "Python/data types/Collections",
     "Python/literals",

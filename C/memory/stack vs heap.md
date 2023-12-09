@@ -8,8 +8,8 @@ The stack is the sequence (oredered list) of memory:
 
 - Variables are stored in memory at some memory address.
 	- The size of memory to be allocated is known to the compiler
-	- When a [[functions|function]] is called, it's local variables are placed on the stack
-	- When the [[functions|function]] is returned (the function call is over), the variables are removed (the memory for the variables is de-allocated).
+	- When a [[C/functions/functions|function]] is called, it's local variables are placed on the stack
+	- When the [[C/functions/functions|function]] is returned (the function call is over), the variables are removed (the memory for the variables is de-allocated).
 
 Stack memory allocation happens using some predefined routines in the compiler. A programmer does not have to worry about memory allocation and de-allocation of stack variables.
 

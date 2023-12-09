@@ -1,4 +1,4 @@
-A function prototype declares a [[functions|function]] but does not define it.
+A function prototype declares a [[C/functions/functions|function]] but does not define it.
 
 ```c
 <type> FUN();

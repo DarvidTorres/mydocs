@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e63915c1e85b624",
+            "id": "bafd77a14373f044",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/docstrings.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c17692765965191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/comments.md",
+                "file": "Python/Functions/Functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,38 +34,12 @@
             }
           },
           {
-            "id": "bafd77a14373f044",
+            "id": "cfb9641ef49b9dbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Functions/Functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07ffb70a285f4f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Modules.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ff0eabf61d255e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/literals.md",
+                "file": "Python/Operators/Arithmetic operators.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,6 +252,9 @@
   "lastOpenFiles": [
     "Python/Functions/Functions.md",
     "Python/Functions/Arguments.md",
+    "Python/Operators/Arithmetic operators.md",
+    "Python/data types/Boolean.md",
+    "Python/Operators/Assignment operators.md",
     "Python/Modules.md",
     "Python/docstrings.md",
     "Python/comments.md",
@@ -303,7 +267,6 @@
     "Python/data types/Iterables/sets.md",
     "Python/control_flow/while.md",
     "Python/data types/Iterables/Iterables.md",
-    "Python/data types/boloean.md",
     "Python/data types/Iterables/Sequence methods.md",
     "Python/data types/strings/strings.md",
     "Python/data types/data types.md",
@@ -313,8 +276,6 @@
     "C/memory/stack vs heap.md",
     "C/memory/address.md",
     "C/data types/pointers/dereferencing.md",
-    "C/data types/pointers/function pointers.md",
-    "C/data types/integers/int.md",
     "Python/data types/Iterables",
     "Python/Functions",
     "Python/data types/Collections",

@@ -5,7 +5,7 @@ if <boolean_expression>:
 	<suite>
 ```
 
-if the [[boloean|boolean expression]] is `False`, the [[suite]] will not be executed.
+if the [[Boolean|boolean expression]] is `False`, the [[suite]] will not be executed.
 
 Example: 
 ```Python
@@ -27,8 +27,8 @@ else:
 	<else_suite>
 ```
 
-- If the [[boloean|boolean expression]] is `True`, then `if_suite` will execute.
-- If the [[boloean|boolean expression]] is `False`, then `else_suite` will execute.
+- If the [[Boolean|boolean expression]] is `True`, then `if_suite` will execute.
+- If the [[Boolean|boolean expression]] is `False`, then `else_suite` will execute.
 
 Example:
 ```Python

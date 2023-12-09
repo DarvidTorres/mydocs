@@ -18,7 +18,7 @@ while i < 6:
   i += 1
 ```
 ## while-else
-- With the else statement we can run a [[suite]] once, when the [[boloean|boolean expression]] no longer is `True`:
+- With the else statement we can run a [[suite]] once, when the [[Boolean|boolean expression]] no longer is `True`:
 
 ```Python
 i = 1

@@ -18,8 +18,9 @@ def <function_identifier>([parameter(s)])
 - The keyword `def` introduces a function definition.
 - Follow the naming convention `lowercase_with_underscores` for function identifiers.
 - You can pass data, known as parameters, into a function.
-	- Optionally, pass multiple parameters with comma separation.
-		- By default, parameters have a positional behavior and you need to inform them in the same order that they were defined.
+	- Optionally, pass **multiple parameters** with comma separation.
+		- By default, parameters have a positional behavior and the function expects them in the same order that defined.
+		- By default, a function must be called with the correct number of arguments.
 	- A **parameter** is a variable in a function definition.
 		- It is a placeholder and hence does not have a concrete value.
 		- Also called **formal arguments**.
@@ -43,7 +44,7 @@ def subtract(x, y):
 	return r
 
 print(subtract(2, 3))
-print(subtract(3, 1))
+print(subtract(3, 2))
 ```
 
 

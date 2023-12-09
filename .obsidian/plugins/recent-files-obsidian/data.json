@@ -9,6 +9,18 @@
       "path": "Python/Functions/Functions.md"
     },
     {
+      "basename": "Arithmetic operators",
+      "path": "Python/Operators/Arithmetic operators.md"
+    },
+    {
+      "basename": "Boolean",
+      "path": "Python/data types/Boolean.md"
+    },
+    {
+      "basename": "Assignment operators",
+      "path": "Python/Operators/Assignment operators.md"
+    },
+    {
       "basename": "Modules",
       "path": "Python/Modules.md"
     },
@@ -55,10 +67,6 @@
     {
       "basename": "Iterables",
       "path": "Python/data types/Iterables/Iterables.md"
-    },
-    {
-      "basename": "boloean",
-      "path": "Python/data types/boloean.md"
     },
     {
       "basename": "Sequence methods",
@@ -151,14 +159,6 @@
     {
       "basename": "Control structures",
       "path": "Python/control_flow/Control structures.md"
-    },
-    {
-      "basename": "Assignment operators",
-      "path": "Python/Operators/Assignment operators.md"
-    },
-    {
-      "basename": "Arithmetic operators",
-      "path": "Python/Operators/Arithmetic operators.md"
     },
     {
       "basename": "if",

@@ -1,6 +1,7 @@
 ## Default arguments
 
 - Python allows to define a function with default value assigned to one or more formal arguments.
+- A default argument is a parameter that assumes a default value if a value is not provided in the function call for that argument.
 - The function uses the default value for such an argument if no value is passed to it.
 - If any value is passed, the default value is overridden with the actual value passed.
 
@@ -27,6 +28,7 @@ keyword_args(x = 'Foo', y = 'Bar')
 
 - By default, function arguments are positional and must be called in the defined order.
 - When using keyword arguments, it is not necessary to follow the order of formal arguments in function definition.
+- The idea is to allow the caller to specify the argument name with values so that the caller does not need to remember the order of parameters.
 
 If we call arguments using the defined identifiers (names or keywords), we can change the order:
 ```Python
@@ -70,3 +72,4 @@ def subtract(x, y):
 
 print(subtract(2, x = 3))
 ```
+

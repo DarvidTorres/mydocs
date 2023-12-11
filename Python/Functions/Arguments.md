@@ -89,3 +89,15 @@ print(subtract(x = 2, y = 3)) # keyword arguments yields error
 
 ## keyword-only arguments
 
+- We can use `*` in the function definition to force that all arguments after it must be specified using a keyword
+
+Example:
+```Python
+def subtract(*, x, y):
+	"""Return the subtraction of passed args"""
+	r = x - y
+	return r
+
+print(subtract(2, 3)) # positional arguments yields error
+```
+

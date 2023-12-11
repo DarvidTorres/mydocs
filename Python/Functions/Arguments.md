@@ -73,3 +73,19 @@ def subtract(x, y):
 print(subtract(2, x = 3))
 ```
 
+## Positional-only arguments
+
+- We can use `/` in the function definition to force that all arguments before it must be specified by position (and not by keyword argument).
+
+Example:
+```Python
+def subtract(x, y, /):
+	"""Return the subtraction of passed args"""
+	r = x - y
+	return r
+
+print(subtract(x = 2, y = 3)) # keyword arguments yields error
+```
+
+## keyword-only arguments
+

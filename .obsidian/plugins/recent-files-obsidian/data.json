@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Arguments",
-      "path": "Python/Functions/Arguments.md"
+      "basename": "Arbitrary arguments",
+      "path": "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md"
+    },
+    {
+      "basename": "keyword arguments",
+      "path": "Python/Functions/Positional-only or keyword-only/keyword arguments.md"
+    },
+    {
+      "basename": "Positional-only or keyword-only",
+      "path": "Python/Functions/Positional-only or keyword-only/Positional-only or keyword-only.md"
     },
     {
       "basename": "Functions",
       "path": "Python/Functions/Functions.md"
+    },
+    {
+      "basename": "Default arguments",
+      "path": "Python/Functions/Positional-only or keyword-only/Default arguments.md"
     },
     {
       "basename": "Arithmetic operators",
@@ -187,18 +199,6 @@
     {
       "basename": "f-strings",
       "path": "Python/data types/strings/f-strings.md"
-    },
-    {
-      "basename": "string interpolation",
-      "path": "Python/data types/strings/string interpolation.md"
-    },
-    {
-      "basename": "quotes",
-      "path": "Python/data types/strings/quotes.md"
-    },
-    {
-      "basename": "concatenate",
-      "path": "Python/data types/strings/concatenate.md"
     }
   ],
   "omittedPaths": [],

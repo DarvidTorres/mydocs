@@ -1,20 +1,3 @@
-## Default arguments
-
-- Python allows to define a function with default value assigned to one or more formal arguments.
-- A default argument is a parameter that assumes a default value if a value is not provided in the function call for that argument.
-- The function uses the default value for such an argument if no value is passed to it.
-- If any value is passed, the default value is overridden with the actual value passed.
-
-Example:
-```Python
-def default_args(x = 'Foo'):
-    print(x)
-    
-default_args()
-default_args('Bar')
-```
-## keyword arguments
-
 - Python allows to pass function arguments in the form of keywords which are also called **named arguments.**
 
 We can call the arguments using the formal identifiers:
@@ -71,41 +54,4 @@ def subtract(x, y):
 	return r
 
 print(subtract(2, x = 3))
-```
-
-## Positional-only arguments
-
-- We can use `/` in the function definition to force that all arguments before it must be specified by position (and not by keyword argument).
-
-Example:
-```Python
-def subtract(x, y, /):
-	"""Return the subtraction of passed args"""
-	r = x - y
-	return r
-
-print(subtract(x = 2, y = 3)) # keyword arguments yields error
-```
-
-## keyword-only arguments
-
-- We can use `*` in the function definition to force that all arguments after it must be specified using a keyword
-
-Example:
-```Python
-def subtract(*, x, y):
-	"""Return the subtraction of passed args"""
-	r = x - y
-	return r
-
-print(subtract(2, 3)) # positional arguments yields error
-```
-
-- We can combine positional-only, regular, and keyword-only arguments in that order:
-```Python
-def combine_args(positional_arg, /, regular_arg, *, keyword_arg):
-	"""Print passed arguments"""
-	print(positional_arg, regular_arg, keyword_arg)
-	
-combine_args('positional', 'regular', keyword_arg='keyword_arg')
 ```

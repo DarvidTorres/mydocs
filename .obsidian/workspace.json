@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "2fa9f1d1b255fe32",
+            "id": "432b459179b5a380",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Functions/Arguments.md",
+                "file": "Python/Functions/Positional-only or keyword-only/keyword arguments.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "cfb9641ef49b9dbe",
+            "id": "9e0eead75ef5969f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Operators/Arithmetic operators.md",
+                "file": "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "260db0d39c9a8b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Functions/Positional-only or keyword-only/Positional-only or keyword-only.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Functions/Arguments.md",
+                "file": "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Functions/Arguments.md"
+                "file": "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md"
               }
             }
           },
@@ -206,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Functions/Arguments.md",
+                "file": "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,10 +261,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0b58ece58924e30c",
+  "active": "9e0eead75ef5969f",
   "lastOpenFiles": [
+    "Python/Functions/Positional-only or keyword-only/keyword arguments.md",
+    "Python/Functions/Positional-only or keyword-only/Positional-only or keyword-only.md",
     "Python/Functions/Functions.md",
-    "Python/Functions/Arguments.md",
+    "Python/Functions/Positional-only or keyword-only/Default arguments.md",
+    "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md",
+    "Python/Functions/Positional-only or keyword-only",
     "Python/Operators/Arithmetic operators.md",
     "Python/data types/Boolean.md",
     "Python/Operators/Assignment operators.md",
@@ -273,9 +290,6 @@
     "C/memory/memory.md",
     "C/data types/types.md",
     "C/data types/integers/char.md",
-    "C/memory/stack vs heap.md",
-    "C/memory/address.md",
-    "C/data types/pointers/dereferencing.md",
     "Python/data types/Iterables",
     "Python/Functions",
     "Python/data types/Collections",
@@ -285,7 +299,6 @@
     "Python/control_flow",
     "Python/data types/strings",
     "C/Fetch Execute Cycle",
-    "Python",
     "Pasted image 20230319193607.png"
   ]
 }

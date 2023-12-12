@@ -241,14 +241,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "map-of-content:Update Map of Content": false
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "2fa9f1d1b255fe32",
+  "active": "0b58ece58924e30c",
   "lastOpenFiles": [
     "Python/Functions/Functions.md",
     "Python/Functions/Arguments.md",

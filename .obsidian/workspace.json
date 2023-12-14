@@ -257,11 +257,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "map-of-content:Update Map of Content": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "9e0eead75ef5969f",
+  "active": "0b58ece58924e30c",
   "lastOpenFiles": [
     "Python/Functions/Positional-only or keyword-only/keyword arguments.md",
     "Python/Functions/Positional-only or keyword-only/Positional-only or keyword-only.md",
@@ -292,13 +291,4 @@
     "C/data types/integers/char.md",
     "Python/data types/Iterables",
     "Python/Functions",
-    "Python/data types/Collections",
-    "Python/literals",
-    "Python/Operators",
-    "Python/data types",
-    "Python/control_flow",
-    "Python/data types/strings",
-    "C/Fetch Execute Cycle",
-    "Pasted image 20230319193607.png"
-  ]
-}
+    "P

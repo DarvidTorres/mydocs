@@ -2,12 +2,16 @@
 - The arbitrary number of arguments might be [[Positional-only or keyword-only|positional]] or [[keyword arguments|keyword]] arguments.
 
 Use: 
-
 - An argument prefixed with a single asterisk `*` for arbitrary positional arguments.
 - An argument prefixed with two asterisks `**` for arbitrary keyword arguments.
 
 ## \*args
 
-The function will receive a tuple of arguments, and can access the items accordingly:
+The function will receive a [[tuples|tuple]] of arguments, and can access the items accordingly:
+
+
+
+
+
 
 

@@ -7,11 +7,29 @@ Use:
 
 ## \*args
 
-The function will receive a [[tuples|tuple]] of arguments, and can access the items accordingly:
+The function will receive (positional) comma separated arguments without having to define how many.
+```Python
+def var_args(*args):
+	for i in args:
+		print(i)
 
+var_args('Foo', 'Bar')
+var_args('Baz')
+```
+Notice that the pass arguments aren't tuples or lists, but comma separated arguments:
 
+```Python
+def var_args(*args):
+	for i in args:
+		print(i)
 
+x = ('Foo', 'Bar')
+y = ('Baz')
+var_args(x)
+var_args(y, x)
+```
 
+Before the variable number of arguments, zero or more normal arguments may occur.
 
-
+Normally, these _variadic_ arguments will be last in the list of formal parameters, because they scoop up all remaining input arguments that are passed to the function. Any formal parameters which occur after the `*args` parameter are ‘keyword-only’ arguments, meaning that they can only be used as keywords rather than positional arguments.
 

@@ -4,7 +4,6 @@
 Use: 
 - An argument prefixed with a single asterisk `*` for arbitrary positional arguments.
 - An argument prefixed with two asterisks `**` for arbitrary keyword arguments.
-
 ## \*args
 
 Using the formal parameter `*<sequence_identifier>` the function will receive (when called) positional (comma separated) arguments without having to define how many.

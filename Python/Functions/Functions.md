@@ -15,6 +15,7 @@ def <function_identifier>([parameter(s)])
 	<suite>
 	[return [<return value>]]
 ```
+
 - The keyword `def` introduces a function definition.
 - Follow the naming convention `lowercase_with_underscores` for function identifiers.
 - You can pass data, known as parameters, into a function.
@@ -46,5 +47,7 @@ def subtract(x, y):
 print(subtract(2, 3))
 print(subtract(3, 2))
 ```
+
+![[docstrings#function docstrings]]
 
 

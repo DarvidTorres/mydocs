@@ -5,24 +5,36 @@
       "path": "Python/Functions/Arguments/Arbitrary arguments.md"
     },
     {
-      "basename": "keyword arguments",
-      "path": "Python/Functions/Arguments/keyword arguments.md"
-    },
-    {
       "basename": "Functions",
       "path": "Python/Functions/Functions.md"
+    },
+    {
+      "basename": "keyword arguments",
+      "path": "Python/Functions/Arguments/keyword arguments.md"
     },
     {
       "basename": "Default arguments",
       "path": "Python/Functions/Arguments/Default arguments.md"
     },
     {
-      "basename": "Positional-only or keyword-only",
-      "path": "Python/Functions/Arguments/Positional-only or keyword-only.md"
+      "basename": "docstrings",
+      "path": "Python/docstrings.md"
     },
     {
       "basename": "Arithmetic operators",
       "path": "Python/Operators/Arithmetic operators.md"
+    },
+    {
+      "basename": "Operators",
+      "path": "Python/Operators/Operators.md"
+    },
+    {
+      "basename": "Modules",
+      "path": "Python/Modules.md"
+    },
+    {
+      "basename": "Positional-only or keyword-only",
+      "path": "Python/Functions/Arguments/Positional-only or keyword-only.md"
     },
     {
       "basename": "Boolean",
@@ -31,14 +43,6 @@
     {
       "basename": "Assignment operators",
       "path": "Python/Operators/Assignment operators.md"
-    },
-    {
-      "basename": "Modules",
-      "path": "Python/Modules.md"
-    },
-    {
-      "basename": "docstrings",
-      "path": "Python/docstrings.md"
     },
     {
       "basename": "comments",
@@ -151,10 +155,6 @@
     {
       "basename": "Match-Case",
       "path": "Python/control_flow/Match-Case.md"
-    },
-    {
-      "basename": "Operators",
-      "path": "Python/Operators/Operators.md"
     },
     {
       "basename": "Membership operators",

@@ -39,7 +39,7 @@ q \in \mathbb{Z}, \quad a = nq+r, \quad |r|<|n|
 $$
 Example:
 $$
-\frac{7}{3} \Longrightarrow 7 = (3) \underbrace{(2)}_{\text{quotient}} + \underbrace{1}_{\text{reminder}}
+\frac{7}{3} \Longrightarrow 7 = (3) \underbrace{(2)}_{\text{quotient}} + \underbrace{1}_{\text{reminder}} \approx 2.\overline{3}
 $$
 In Python, to obtain:
 - the quotient, use the **Floor division**: `//`

@@ -6,6 +6,7 @@
 Example:
 ```Python
 def default_args(x = 'Foo'):
+	"""Print passed argument"""
     print(x)
     
 default_args()

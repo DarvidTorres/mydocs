@@ -11,3 +11,4 @@ def default_args(x = 'Foo'):
 default_args()
 default_args('Bar')
 ```
+

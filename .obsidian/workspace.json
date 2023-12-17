@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Functions/Positional-only or keyword-only/keyword arguments.md",
+                "file": "Python/Functions/Arguments/keyword arguments.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md",
+                "file": "Python/Functions/Arguments/Arbitrary arguments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1a5100ba8e179e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Functions/Arguments/Default arguments.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Functions/Positional-only or keyword-only/Positional-only or keyword-only.md",
+                "file": "Python/Functions/Arguments/Positional-only or keyword-only.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md",
+                "file": "Python/Functions/Arguments/Arbitrary arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md"
+                "file": "Python/Functions/Arguments/Arbitrary arguments.md"
               }
             }
           },
@@ -219,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md",
+                "file": "Python/Functions/Arguments/Arbitrary arguments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,14 +274,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0b58ece58924e30c",
+  "active": "9e0eead75ef5969f",
   "lastOpenFiles": [
-    "Python/Functions/Positional-only or keyword-only/keyword arguments.md",
-    "Python/Functions/Positional-only or keyword-only/Positional-only or keyword-only.md",
+    "Python/Functions/Arguments/keyword arguments.md",
+    "Python/Functions/Arguments/Arbitrary arguments.md",
     "Python/Functions/Functions.md",
-    "Python/Functions/Positional-only or keyword-only/Default arguments.md",
-    "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md",
-    "Python/Functions/Positional-only or keyword-only",
+    "Python/Functions/Arguments/Default arguments.md",
+    "Python/Functions/Arguments/Positional-only or keyword-only.md",
+    "Python/Functions/Arguments",
     "Python/Operators/Arithmetic operators.md",
     "Python/data types/Boolean.md",
     "Python/Operators/Assignment operators.md",

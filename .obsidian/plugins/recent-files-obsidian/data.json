@@ -2,15 +2,11 @@
   "recentFiles": [
     {
       "basename": "Arbitrary arguments",
-      "path": "Python/Functions/Positional-only or keyword-only/Arbitrary arguments.md"
+      "path": "Python/Functions/Arguments/Arbitrary arguments.md"
     },
     {
       "basename": "keyword arguments",
-      "path": "Python/Functions/Positional-only or keyword-only/keyword arguments.md"
-    },
-    {
-      "basename": "Positional-only or keyword-only",
-      "path": "Python/Functions/Positional-only or keyword-only/Positional-only or keyword-only.md"
+      "path": "Python/Functions/Arguments/keyword arguments.md"
     },
     {
       "basename": "Functions",
@@ -18,7 +14,11 @@
     },
     {
       "basename": "Default arguments",
-      "path": "Python/Functions/Positional-only or keyword-only/Default arguments.md"
+      "path": "Python/Functions/Arguments/Default arguments.md"
+    },
+    {
+      "basename": "Positional-only or keyword-only",
+      "path": "Python/Functions/Arguments/Positional-only or keyword-only.md"
     },
     {
       "basename": "Arithmetic operators",

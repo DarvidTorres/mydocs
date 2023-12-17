@@ -17,17 +17,16 @@ var_args('Foo', 'Bar')
 var_args('Baz')
 ```
 Notice that the pass arguments aren't tuples or lists, but comma separated arguments:
-
 ```Python
 def var_args(*args):
 	for i in args:
 		print(i)
 
-x = ('Foo', 'Bar')
-y = ('Baz')
-var_args(x)
+x = ('a', 'b')
+y = ('c', 'd')
 var_args(y, x)
 ```
+What get's printed are not the components of the tuples `x` and `y` but the tuples themselves.
 
 Before the variable number of arguments, zero or more normal arguments may occur.
 

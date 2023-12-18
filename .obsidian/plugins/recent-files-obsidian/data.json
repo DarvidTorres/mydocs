@@ -5,12 +5,12 @@
       "path": "Python/Modules.md"
     },
     {
-      "basename": "Classes, objects and inheritance",
-      "path": "Python/OOP/Classes, objects and inheritance.md"
-    },
-    {
       "basename": "Functions",
       "path": "Python/Functions/Functions.md"
+    },
+    {
+      "basename": "Classes, objects and inheritance",
+      "path": "Python/OOP/Classes, objects and inheritance.md"
     },
     {
       "basename": "docstrings",

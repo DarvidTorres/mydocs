@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Classes",
-      "path": "Python/OOP/Classes.md"
+      "basename": "Modules",
+      "path": "Python/Modules.md"
+    },
+    {
+      "basename": "Classes, objects and inheritance",
+      "path": "Python/OOP/Classes, objects and inheritance.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "Python/Functions/Functions.md"
     },
     {
       "basename": "docstrings",
@@ -29,10 +37,6 @@
       "path": "Python/Functions/Arguments/Arbitrary arguments.md"
     },
     {
-      "basename": "Functions",
-      "path": "Python/Functions/Functions.md"
-    },
-    {
       "basename": "keyword arguments",
       "path": "Python/Functions/Arguments/keyword arguments.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Operators",
       "path": "Python/Operators/Operators.md"
-    },
-    {
-      "basename": "Modules",
-      "path": "Python/Modules.md"
     },
     {
       "basename": "Positional-only or keyword-only",
@@ -195,10 +195,6 @@
     {
       "basename": "type_casting",
       "path": "Python/data types/type_casting.md"
-    },
-    {
-      "basename": "Comparison operators",
-      "path": "Python/Operators/Comparison operators.md"
     }
   ],
   "omittedPaths": [],

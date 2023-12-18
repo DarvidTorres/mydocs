@@ -28,7 +28,7 @@ def <function_identifier>([parameter(s)])
 	- An **argument** is a value passed during function invocation.
 		- Also called **actual arguments.**
 - The first statement of the function body can optionally* be a [[Python/data types/strings/strings|string]] [[literals|literal]] that acts as the function’s documentation string, or [[docstrings|docstring]].
-	- \*[[docstrings]] aren't syntactically required, but you *must* add them to every function definition.
+	- \*[[docstrings#function docstrings|docstrings]] aren't syntactically required, but you *must* add them to every function definition.
 
 In general, a function takes arguments (if any), performs some operations, and returns a value (or object).
 

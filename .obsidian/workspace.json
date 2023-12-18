@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Functions/Arguments/Arbitrary arguments.md",
+                "file": "Python/Functions/lambda functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84dcb145baaed8ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/control_flow/Control structures.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a1daded7afbc5e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/control_flow/for.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Functions/Arguments/Arbitrary arguments.md",
+                "file": "Python/Functions/lambda functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Functions/Arguments/Arbitrary arguments.md"
+                "file": "Python/Functions/lambda functions.md"
               }
             }
           },
@@ -237,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Functions/Arguments/Arbitrary arguments.md",
+                "file": "Python/Functions/lambda functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,8 +308,11 @@
   },
   "active": "a1c502f1a5033027",
   "lastOpenFiles": [
-    "Python/Functions/Functions.md",
+    "Python/control_flow/for.md",
+    "Python/control_flow/Control structures.md",
+    "Python/Functions/lambda functions.md",
     "Python/Functions/Arguments/Arbitrary arguments.md",
+    "Python/Functions/Functions.md",
     "Python/Functions/Arguments/keyword arguments.md",
     "Python/Functions/Arguments/Default arguments.md",
     "Python/docstrings.md",
@@ -296,7 +325,6 @@
     "Python/Operators/Assignment operators.md",
     "Python/comments.md",
     "Python/literals.md",
-    "Python/control_flow/for.md",
     "Python/data types/Iterables/Range.md",
     "Python/data types/Iterables/Sequences.md",
     "Python/data types/Iterables/Dictionaries.md",
@@ -307,8 +335,6 @@
     "Python/data types/Iterables/Sequence methods.md",
     "Python/data types/strings/strings.md",
     "Python/data types/data types.md",
-    "C/memory/memory.md",
-    "C/data types/types.md",
     "Python/data types/Iterables",
     "Python/Functions",
     "Python/data types/Collections",

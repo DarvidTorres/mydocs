@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "lambda functions",
+      "path": "Python/Functions/lambda functions.md"
+    },
+    {
+      "basename": "for",
+      "path": "Python/control_flow/for.md"
+    },
+    {
+      "basename": "Control structures",
+      "path": "Python/control_flow/Control structures.md"
+    },
+    {
       "basename": "Arbitrary arguments",
       "path": "Python/Functions/Arguments/Arbitrary arguments.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "literals",
       "path": "Python/literals.md"
-    },
-    {
-      "basename": "for",
-      "path": "Python/control_flow/for.md"
     },
     {
       "basename": "Range",
@@ -169,10 +177,6 @@
       "path": "Python/Operators/Logical operators.md"
     },
     {
-      "basename": "Control structures",
-      "path": "Python/control_flow/Control structures.md"
-    },
-    {
       "basename": "if",
       "path": "Python/control_flow/if.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "multiline strings",
       "path": "Python/data types/strings/multiline strings.md"
-    },
-    {
-      "basename": "f-strings",
-      "path": "Python/data types/strings/f-strings.md"
     }
   ],
   "omittedPaths": [],

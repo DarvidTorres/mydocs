@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Classes",
+      "path": "Python/OOP/Classes.md"
+    },
+    {
+      "basename": "docstrings",
+      "path": "Python/docstrings.md"
+    },
+    {
       "basename": "if",
       "path": "Python/control_flow/if.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Default arguments",
       "path": "Python/Functions/Arguments/Default arguments.md"
-    },
-    {
-      "basename": "docstrings",
-      "path": "Python/docstrings.md"
     },
     {
       "basename": "Arithmetic operators",
@@ -195,10 +199,6 @@
     {
       "basename": "Comparison operators",
       "path": "Python/Operators/Comparison operators.md"
-    },
-    {
-      "basename": "multiline strings",
-      "path": "Python/data types/strings/multiline strings.md"
     }
   ],
   "omittedPaths": [],

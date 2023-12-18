@@ -11,11 +11,29 @@ def my_function():
 ```
 
 Use the module we just created, by using the `import` statement:
-
 ```Python
 import my_module
 
 my_module.my_function()
 ```
 Note: When using a function from a module, use the syntax: `<module_name>.<function_name>`, like in the example above.
+
+`import` does not import the functions or classes directly instead imports the module only. To access the functions inside the module the dot(`.`) operator is used.
+
+- We can assign attributes from a module 
+
+- We can import a module and rename it locally using `as`:
+```Python
+import my_module as renamed_module
+
+renamed_module.my_function()
+```
+
+- We can import specific attributes from a module using `from`:
+```Python
+from my_module import my_function
+
+my_function()
+```
+By importing specific objects from the module we don't need to use the `.` operator.
 

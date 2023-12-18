@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "8ce6fb70682428b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/data types/types.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "00bddf86834f15bb",
             "type": "leaf",
             "state": {
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Modules.md",
+                "file": "C/data types/types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Modules.md"
+                "file": "C/data types/types.md"
               }
             }
           },
@@ -226,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Modules.md",
+                "file": "C/data types/types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,11 +282,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "00bddf86834f15bb",
+  "active": "8ce6fb70682428b2",
   "lastOpenFiles": [
-    "Python/Functions/Functions.md",
-    "Python/Modules.md",
     "Python/OOP/Classes, objects and inheritance.md",
+    "C/data types/types.md",
+    "Python/Modules.md",
+    "Python/Functions/Functions.md",
     "Python/Functions/Untitled.md",
     "Python/docstrings.md",
     "Python/control_flow/if.md",
@@ -299,7 +313,6 @@
     "Python/data types/Iterables/Collections.md",
     "Python/data types/Iterables/sets.md",
     "Python/control_flow/while.md",
-    "Python/data types/Iterables/Iterables.md",
     "Python/data types/Iterables",
     "Python/Functions",
     "Python/data types/Collections",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "if",
+      "path": "Python/control_flow/if.md"
+    },
+    {
       "basename": "lambda functions",
       "path": "Python/Functions/lambda functions.md"
     },
@@ -175,10 +179,6 @@
     {
       "basename": "Logical operators",
       "path": "Python/Operators/Logical operators.md"
-    },
-    {
-      "basename": "if",
-      "path": "Python/control_flow/if.md"
     },
     {
       "basename": "lists",

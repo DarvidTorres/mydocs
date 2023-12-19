@@ -1,13 +1,19 @@
 # Objects
 
 - In Python, an object is an entity that resides in memory.
-- Each object has a unique identity, which is an integer representing its address in memory. This identity can be obtained using the `id()` function.
+- Each object in Python is identified by a unique memory address.
+- This address can be thought of as the location where the object is stored in memory.
+- This identity can be obtained using the `id()` function.
 
 ```Python
 id('a')
 ```
 
+- The reserved memory address is not the object itself, but rather a way to access or reference the object in memory.
+
 - Each object has a [[data types|type]] which is immutable.
+	- the [[data types|type]] determines what operations the object supports and also defines the possible values it can hold.
+- Each object has a value.
 
 - Instantiation is nothing but creating a new object/instance of a class.
 

@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "54a64efb3ba48fce",
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/data types/types.md",
+                "file": "Python/OOP/Classes, objects and inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/data types/types.md"
+                "file": "Python/OOP/Classes, objects and inheritance.md"
               }
             }
           },
@@ -239,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/data types/types.md",
+                "file": "Python/OOP/Classes, objects and inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,10 +281,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8ce6fb70682428b2",
+  "active": "bafd77a14373f044",
   "lastOpenFiles": [
-    "Python/OOP/Classes, objects and inheritance.md",
     "C/data types/types.md",
+    "Python/OOP/Classes, objects and inheritance.md",
     "Python/Modules.md",
     "Python/Functions/Functions.md",
     "Python/Functions/Untitled.md",

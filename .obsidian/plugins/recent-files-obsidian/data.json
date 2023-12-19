@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "types",
-      "path": "C/data types/types.md"
-    },
-    {
       "basename": "Classes, objects and inheritance",
       "path": "Python/OOP/Classes, objects and inheritance.md"
+    },
+    {
+      "basename": "types",
+      "path": "C/data types/types.md"
     },
     {
       "basename": "Modules",

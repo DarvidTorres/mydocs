@@ -1,6 +1,7 @@
 - A Python module is a file containing Python definitions and statements.
 - A module can define functions, classes, and variables.
 - A module can also include runnable code.
+
 - To create a module save the code you want in a file with the file extension `.py`.
 
 Save the file `my_module.py`
@@ -37,3 +38,4 @@ my_function()
 ```
 By importing specific objects from the module we don't need to use the `.` operator.
 
+References to names in modules are [[Classes, objects and inheritance#Objects|attribute]] references: in the expression modname.funcname, modname is a module object and funcname is an attribute of it. In this case there happens to be a straightforward mapping between the module’s attributes and the global names defined in the module: they share the same namespace

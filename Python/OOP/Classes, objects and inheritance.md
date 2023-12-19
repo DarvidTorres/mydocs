@@ -18,8 +18,9 @@ id('a')
 
 An object contains:
 1. Attributes (or State): Variables that are part of the object.
+	- Usually *attribute* refers to any name following a dot `<obj_identifier>.<obj_atribute>`
 	- Informally reflects the *properties* of an object.
-2. Methods: [[Python/Functions/Functions|Functions]] that are defined inside a class and are used to define the behaviors of an object.
+3. Methods: [[Python/Functions/Functions|Functions]] that are defined inside a class and are used to define the behaviors of an object.
 
 # Classes
 

@@ -1,6 +1,7 @@
 # Objects
 
-- In Python, an object is an entity that resides in memory.
+- In Python, an object is a data structure.
+	- A data structure is a way of organizing, managing, and storing data in a computer so that it can be accessed and modified efficiently. It's more about the relationship between the data elements and how they are organized.
 - Each object in Python is identified by a unique memory address.
 - This address can be thought of as the location where the object is stored in memory.
 - This identity can be obtained using the `id()` function.
@@ -15,23 +16,16 @@ id('a')
 	- the [[data types|type]] determines what operations the object supports and also defines the possible values it can hold.
 - Each object has a value.
 
-- Instantiation is nothing but creating a new object/instance of a class.
-
-Example:
-```Python
-class MyClass:
-	"""An empty class"""
-	pass
-
-print(my_obj := MyClass())
-```
+An object contains:
+1. Attributes: Variables that are part of the object.
+2. Methods: [[Python/Functions/Functions|Functions]] that are defined inside a class and are used to define the behaviors of an object.
 
 # Classes
 
-`class` creates a new [[data types|type]] of object, allowing new _instances_ of that type to be made. Each class instance can have attributes attached to it for maintaining its state. Class instances can also have methods (defined by its class) for modifying its state.
-
+In Python, a class is a user-defined prototype or template from which objects are created, encompassing a set of attributes and methods that are common to all objects of that class.
 - A class is a collection of objects. 
 - Unlike primitive data structures, classes are data structures that the user defines.
+- `class` creates a new [[data types|type]] of object, allowing new _instances_ of that type to be made. 
 
 syntax:
 ```Python
@@ -54,4 +48,18 @@ class MyClass:
 
 When we define a class, only the description or a blueprint of the object is created. There is no memory allocation until we create its object. The objector instance contains real data or information.
 
+# instantiation
 
+- Objects are created by calling the class as if it were a function, e.g., `obj = MyClass()`.
+- Instantiation is creating a new object/instance of a class.
+
+Example:
+```Python
+class MyClass:
+	"""An empty class"""
+	pass
+
+print(my_obj := MyClass())
+```
+
+- Inheritance: A mechanism in which a new class is derived from an existing class. The derived class (child class) inherits attributes and methods from the base class (parent class).

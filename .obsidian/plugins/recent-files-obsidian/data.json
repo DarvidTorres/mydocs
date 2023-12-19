@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Namespaces and Scope",
+      "path": "Python/Namespaces and Scope.md"
+    },
+    {
       "basename": "Classes, objects and inheritance",
       "path": "Python/OOP/Classes, objects and inheritance.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "Python/Functions/Functions.md"
+    },
+    {
+      "basename": "Methods",
+      "path": "Python/Functions/Methods.md"
     },
     {
       "basename": "types",
@@ -11,10 +23,6 @@
     {
       "basename": "Modules",
       "path": "Python/Modules.md"
-    },
-    {
-      "basename": "Functions",
-      "path": "Python/Functions/Functions.md"
     },
     {
       "basename": "docstrings",
@@ -191,10 +199,6 @@
     {
       "basename": "tuples",
       "path": "Python/data types/Iterables/tuples.md"
-    },
-    {
-      "basename": "type_casting",
-      "path": "Python/data types/type_casting.md"
     }
   ],
   "omittedPaths": [],

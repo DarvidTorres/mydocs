@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bafd77a14373f044",
+            "id": "ffb94cdf32077431",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,27 +19,20 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f0766174252929d9",
+        "type": "tabs",
+        "children": [
           {
-            "id": "8ce6fb70682428b2",
+            "id": "64963b3794a40af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/data types/types.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00bddf86834f15bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Modules.md",
+                "file": "Python/Namespaces and Scope.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,39 +40,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "54a64efb3ba48fce",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d71b85bed878d1fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/docstrings.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2db1025b67c5063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Functions/Functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP/Classes, objects and inheritance.md",
+                "file": "Python/Namespaces and Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOP/Classes, objects and inheritance.md"
+                "file": "Python/Namespaces and Scope.md"
               }
             }
           },
@@ -238,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOP/Classes, objects and inheritance.md",
+                "file": "Python/Namespaces and Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,13 +241,14 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "bafd77a14373f044",
+  "active": "64963b3794a40af2",
   "lastOpenFiles": [
-    "C/data types/types.md",
     "Python/OOP/Classes, objects and inheritance.md",
-    "Python/Modules.md",
     "Python/Functions/Functions.md",
-    "Python/Functions/Untitled.md",
+    "Python/Functions/Methods.md",
+    "Python/Namespaces and Scope.md",
+    "C/data types/types.md",
+    "Python/Modules.md",
     "Python/docstrings.md",
     "Python/control_flow/if.md",
     "Python/OOP/Untitled",
@@ -311,7 +272,6 @@
     "Python/data types/Iterables/Dictionaries.md",
     "Python/data types/Iterables/Collections.md",
     "Python/data types/Iterables/sets.md",
-    "Python/control_flow/while.md",
     "Python/data types/Iterables",
     "Python/Functions",
     "Python/data types/Collections",

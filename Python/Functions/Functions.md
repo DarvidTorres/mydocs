@@ -13,7 +13,7 @@ syntax:
 def <function_identifier>([parameter(s)])
 	["""<docstring>"""]
 	<suite>
-	[return [<return value>]]
+	[return [<return_value>]]
 ```
 
 - The keyword `def` introduces a function definition.

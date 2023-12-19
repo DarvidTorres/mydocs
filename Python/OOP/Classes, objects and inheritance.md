@@ -17,7 +17,8 @@ id('a')
 - Each object has a value.
 
 An object contains:
-1. Attributes: Variables that are part of the object.
+1. Attributes (or State): Variables that are part of the object.
+	- Informally reflects the *properties* of an object.
 2. Methods: [[Python/Functions/Functions|Functions]] that are defined inside a class and are used to define the behaviors of an object.
 
 # Classes
@@ -35,7 +36,7 @@ class <ClassIdentifier>:
 ```
 
 - Classes are created at runtime, and can be modified further after creation.
-- Class names should normally use the `CapWords` convention.
+- Class names should use the `CapWords` convention.
 - The first statement of the class body can optionally* be a [[Python/data types/strings/strings|string]] [[literals|literal]] that acts as the class’s documentation string, or [[docstrings|docstring]].
 	- \*[[docstrings#class docstrings|docstrings]] aren't syntactically required, but you *must* add them to every class definition.
 
@@ -48,6 +49,7 @@ class MyClass:
 
 When we define a class, only the description or a blueprint of the object is created. There is no memory allocation until we create its object. The objector instance contains real data or information.
 
+- Classes can inherit attributes and methods from other classes.
 # instantiation
 
 - Objects are created by calling the class as if it were a function, e.g., `obj = MyClass()`.

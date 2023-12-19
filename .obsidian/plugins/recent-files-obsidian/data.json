@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Namespaces and Scope",
+      "path": "Python/Namespaces and Scope.md"
+    },
+    {
       "basename": "Modules",
       "path": "Python/Modules.md"
+    },
+    {
+      "basename": "Methods",
+      "path": "Python/Functions/Methods.md"
     },
     {
       "basename": "Classes, objects and inheritance",
       "path": "Python/OOP/Classes, objects and inheritance.md"
     },
     {
-      "basename": "Namespaces and Scope",
-      "path": "Python/Namespaces and Scope.md"
-    },
-    {
       "basename": "Functions",
       "path": "Python/Functions/Functions.md"
-    },
-    {
-      "basename": "Methods",
-      "path": "Python/Functions/Methods.md"
     },
     {
       "basename": "types",

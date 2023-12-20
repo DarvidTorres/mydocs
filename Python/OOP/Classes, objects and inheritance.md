@@ -50,14 +50,10 @@ class MyClass:
 
 - Class objects support two kinds of operations: attribute references and instantiation.
 - Classes can inherit attributes and methods from other classes.
-
-## Attribute references
-
 - Attribute references use the standard syntax used for all attribute references in Python: `<obj_identifier>.<obj_atribute>`.
-- Valid attribute names are all the names that were in the class’s namespace when the class object was created.
+- Valid attribute names are all the names that were in the class’s namespace when the class object was created. 
 
-
-## instantiation
+Class instantiation uses function notation. Just pretend that the class object is a parameterless function that returns a new instance of the class.
 
 - Objects are created by calling the class as if it were a function, e.g., `obj = MyClass()`.
 - Instantiation is creating a new object/instance of a class.
@@ -70,5 +66,6 @@ class MyClass:
 
 print(my_obj := MyClass())
 ```
+creates a new _instance_ of the class and assigns this object to the local variable `my_obj`.
 
 - Inheritance: A mechanism in which a new class is derived from an existing class. The derived class (child class) inherits attributes and methods from the base class (parent class).

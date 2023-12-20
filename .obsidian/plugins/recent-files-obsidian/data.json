@@ -5,16 +5,16 @@
       "path": "Python/OOP/Classes, objects and inheritance.md"
     },
     {
-      "basename": "Methods",
-      "path": "Python/Functions/Methods.md"
-    },
-    {
       "basename": "Modules",
       "path": "Python/Modules.md"
     },
     {
       "basename": "Namespaces and Scope",
       "path": "Python/Namespaces and Scope.md"
+    },
+    {
+      "basename": "Methods",
+      "path": "Python/Functions/Methods.md"
     },
     {
       "basename": "Functions",
@@ -195,10 +195,6 @@
     {
       "basename": "lists",
       "path": "Python/data types/Iterables/lists.md"
-    },
-    {
-      "basename": "tuples",
-      "path": "Python/data types/Iterables/tuples.md"
     }
   ],
   "omittedPaths": [],

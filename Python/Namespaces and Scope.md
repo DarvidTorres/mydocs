@@ -23,8 +23,18 @@ Note: The `dir()` method in Python is a built-in [[Python/Functions/Functions|fu
 
 A _scope_ is a textual region of a Python program where a namespace is directly accessible. “Directly accessible” here means that an unqualified reference to a name attempts to find the name in the namespace.
 
-- In Python, there are generally three levels of scope before the built-in scope:
-
-
-
 - Name mangling in Python is a mechanism used primarily for name conflict resolution.
+
+The scope of a name is the region of a program in which that name has meaning. The interpreter determines this at runtime based on where the name definition occurs and where in the code the name is referenced.
+
+The interpreter searches for a name from the inside out, looking in the **l**ocal, **e**nclosing, **g**lobal, and finally the **b**uilt-in scope:
+
+1. **Local:** If you refer to x inside a function, then the interpreter first searches for it in the innermost scope that’s local to that function.
+2. **Enclosing:** If x isn’t in the local scope but appears in a function that resides inside another function, then the interpreter searches in the enclosing function’s scope.
+3. **Global**: If neither of the above searches is fruitful, then the interpreter looks in the global scope next.
+
+```mermaid
+
+```
+
+

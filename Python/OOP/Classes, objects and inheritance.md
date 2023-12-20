@@ -17,10 +17,10 @@ id('a')
 - Each object has a value.
 
 An object contains:
-1. Attributes (or State): Variables that are part of the object. ^d39e86
+1. **Attributes** (or State): Variables that are part of the object. ^d39e86
 	- Usually *attribute* refers to any name following a dot `<obj_identifier>.<obj_atribute>`
 	- Informally reflects the *properties* of an object.
-3. Methods: [[Python/Functions/Functions|Functions]] that are defined inside a class and are used to define the behaviors of an object.
+3. **Methods**: [[Python/Functions/Functions|Functions]] that are defined inside a class and are used to define the behaviors of an object.
 
 # Classes
 
@@ -48,10 +48,16 @@ class MyClass:
 	pass
 ```
 
-When we define a class, only the description or a blueprint of the object is created. There is no memory allocation until we create its object. The objector instance contains real data or information.
-
+- Class objects support two kinds of operations: attribute references and instantiation.
 - Classes can inherit attributes and methods from other classes.
-# instantiation
+
+## Attribute references
+
+- Attribute references use the standard syntax used for all attribute references in Python: `<obj_identifier>.<obj_atribute>`.
+- Valid attribute names are all the names that were in the class’s namespace when the class object was created.
+
+
+## instantiation
 
 - Objects are created by calling the class as if it were a function, e.g., `obj = MyClass()`.
 - Instantiation is creating a new object/instance of a class.

@@ -5,12 +5,12 @@
       "path": "Python/OOP/Classes, objects and inheritance.md"
     },
     {
-      "basename": "Modules",
-      "path": "Python/Modules.md"
-    },
-    {
       "basename": "Namespaces and Scope",
       "path": "Python/Namespaces and Scope.md"
+    },
+    {
+      "basename": "Modules",
+      "path": "Python/Modules.md"
     },
     {
       "basename": "Methods",

@@ -68,6 +68,28 @@ print(my_obj := MyClass())
 ```
 creates a new _instance_ of the class and assigns this object to the local variable `my_obj`.
 
+In class-based, object-oriented programming, a **constructor** (abbreviation: `ctor`) is a special type of function called to create an object. However, unlike constructors in some other languages, `__init__()` does not actually create the object; it's rather used to initialize an object that has already been created.
+
+- The `__init__()` method is the Python constructor.
+- When you create a new object by invoking the class identifier (like `my_obj = MyClass()`), Python automatically calls the `__init__()` method of that class.
+- It's not mandatory for a class to have an `__init__()` method. If you omit it, Python uses a default `__init__()` method that does nothing, which is suitable for simple classes.
+- Attributes are typically defined as formal arguments in the `__init__()` method.
+
+The first parameter of the `__init__()` method is always `self` (as a convention not as [[keyword arguments|keyword]]). It helps to differentiate between instance methods (which operate on an instance of the class) and other functions or methods.
+
+Through `self` you can access and modify the attributes of the class instance.
+
+Example:
+```Python
+class MyClass:
+    def __init__(self, value):
+        self.value = value
+
+my_obj = MyClass('Value')
+
+print(my_obj.value)
+```
 
 
 - Inheritance: A mechanism in which a new class is derived from an existing class. The derived class (child class) inherits attributes and methods from the base class (parent class).
+

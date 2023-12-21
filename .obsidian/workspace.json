@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffb94cdf32077431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/OOP/Classes, objects and inheritance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a87b2bc0ee5bb899",
             "type": "leaf",
             "state": {
@@ -32,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f36ff7c36818fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/OOP/Classes and objects.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a19e751f01d13b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/OOP/Inheritance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f0766174252929d9",
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP/Classes, objects and inheritance.md",
+                "file": "Python/OOP/Classes and objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOP/Classes, objects and inheritance.md"
+                "file": "Python/OOP/Classes and objects.md"
               }
             }
           },
@@ -211,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOP/Classes, objects and inheritance.md",
+                "file": "Python/OOP/Classes and objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,11 +253,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ffb94cdf32077431",
+  "active": "0f36ff7c36818fdc",
   "lastOpenFiles": [
-    "Python/Namespaces and Scope.md",
-    "Python/OOP/Classes, objects and inheritance.md",
     "Python/Modules.md",
+    "Python/OOP/Inheritance.md",
+    "Python/OOP/Classes and objects.md",
+    "Python/Namespaces and Scope.md",
     "Grammarly test.md",
     "Python/Functions/Methods.md",
     "Python/Functions/Functions.md",
@@ -269,7 +284,6 @@
     "Python/data types/Iterables/Range.md",
     "Python/data types/Iterables/Sequences.md",
     "Python/data types/Iterables/Dictionaries.md",
-    "Python/data types/Iterables/Collections.md",
     "Python/data types/Iterables",
     "Python/Functions",
     "Python/data types/Collections",

@@ -14,7 +14,7 @@ There is no relation between names in different namespaces; for instance, two di
 dir(__builtins__)
 type(__builtins__)
 ```
-Note: The `dir()` method in Python is a built-in [[Python/Functions/Functions|function]] used to list the [[Classes, objects and inheritance#^d39e86|attributes]] and methods of an [[Classes, objects and inheritance#Objects|object]]. If no parameters are given, `dir()` lists the names in the current local scope.
+Note: The `dir()` method in Python is a built-in [[Python/Functions/Functions|function]] used to list the [[Classes and objects#^d39e86|attributes]] and methods of an [[Classes and objects#Objects|object]]. If no parameters are given, `dir()` lists the names in the current local scope.
 
 - **Global Namespace**: Specific to the current [[Modules|module]] or script. This namespace is created when the module is loaded and lasts until the script ends or the module is unloaded.
 - **Local Namespace**: Specific to a [[Python/Functions/Functions|function]] or [[Methods|method]]; created when the function is called and lasts until the function returns.

@@ -49,7 +49,6 @@ class MyClass:
 ```
 
 - Class objects support two kinds of operations: attribute references and instantiation.
-- Classes can inherit attributes and methods from other classes.
 - Attribute references use the standard syntax used for all attribute references in Python: `<obj_identifier>.<obj_atribute>`.
 - Valid attribute names are all the names that were in the class’s namespace when the class object was created. 
 
@@ -82,14 +81,57 @@ Through `self` you can access and modify the attributes of the class instance.
 Example:
 ```Python
 class MyClass:
+    """A class to demonstrate the concept of instance attributes in Python.
+    
+    Attributes
+    ----------
+    attr: any type
+		Stores the value passed to the class when an instance is created.
+    """
     def __init__(self, value):
-        self.value = value
+        self.attr = value
 
 my_obj = MyClass('Value')
 
-print(my_obj.value)
+print(my_obj.attr)
 ```
 
+We can also define method attributes:
+```Python
+class MyClass:
+    """
+    A class that stores a single value and provides a method to display it.
 
-- Inheritance: A mechanism in which a new class is derived from an existing class. The derived class (child class) inherits attributes and methods from the base class (parent class).
+    Attributes
+    ----------
+    attr : any type
+        The value to be stored in the instance.
+
+    Methods
+    -------
+    show_value()
+        Prints the stored value to the console.
+    """
+
+    def __init__(self, value):
+        self.attr = value
+
+    def show_value(self):
+        print(self.attr)
+
+# Creating an instance of MyClass and calling show_value
+my_obj = MyClass('Value')
+
+my_obj.show_value()  # Calling the method attribute 'show_value'
+```
+
+- Method attributes in Python classes are functions that are intended to operate on instances of the class. They are defined within the class and are accessible via instances of that class.
+
+There are two types of attributes in classes:
+- **Instance methods**: These method attributes are functions that are defined within a class and are intended to be called on class instances (objects). They take self as their first parameter, which is a reference to the instance on which the method is being called. This allows the method to access other attributes and methods of the instance (and modify them if necessary).
+- **Class attributes**: belong to the class itself. They are shared by all instances of the class. This means that if you modify a class attribute, it changes for all instances of that class. Class attributes are declared within a class but outside any methods, typically right below the class header. Class attributes are useful for storing constants or default values that are the same for every instance of the class.
+
+Example:
+
+
 

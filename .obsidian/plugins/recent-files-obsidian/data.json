@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Inheritance",
+      "path": "Python/OOP/Inheritance.md"
+    },
+    {
+      "basename": "Polymorphism",
+      "path": "Python/OOP/Polymorphism.md"
+    },
+    {
+      "basename": "Encapsulation",
+      "path": "Python/OOP/Encapsulation.md"
+    },
+    {
       "basename": "Classes and objects",
       "path": "Python/OOP/Classes and objects.md"
     },
     {
       "basename": "Modules",
       "path": "Python/Modules.md"
-    },
-    {
-      "basename": "Inheritance",
-      "path": "Python/OOP/Inheritance.md"
     },
     {
       "basename": "Namespaces and Scope",
@@ -191,14 +199,6 @@
     {
       "basename": "Identity operators",
       "path": "Python/Operators/Identity operators.md"
-    },
-    {
-      "basename": "Logical operators",
-      "path": "Python/Operators/Logical operators.md"
-    },
-    {
-      "basename": "lists",
-      "path": "Python/data types/Iterables/lists.md"
     }
   ],
   "omittedPaths": [],

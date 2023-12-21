@@ -127,11 +127,55 @@ my_obj.show_value()  # Calling the method attribute 'show_value'
 
 - Method attributes in Python classes are functions that are intended to operate on instances of the class. They are defined within the class and are accessible via instances of that class.
 
-There are two types of attributes in classes:
+Generally speaking, instance variables are for data unique to each instance and class variables are for attributes and methods shared by all instances of the class:
 - **Instance methods**: These method attributes are functions that are defined within a class and are intended to be called on class instances (objects). They take self as their first parameter, which is a reference to the instance on which the method is being called. This allows the method to access other attributes and methods of the instance (and modify them if necessary).
 - **Class attributes**: belong to the class itself. They are shared by all instances of the class. This means that if you modify a class attribute, it changes for all instances of that class. Class attributes are declared within a class but outside any methods, typically right below the class header. Class attributes are useful for storing constants or default values that are the same for every instance of the class.
 
 Example:
 
+```Python
+class Dog:
+    """
+    A class representing a dog with a species class attribute and a name instance attribute.
 
+    Class Attributes
+    ----------------
+    species : str
+        The species of the dog. Default is "Canis lupus familiaris".
+
+    Attributes
+    ----------
+    name : str
+        The name of the dog instance.
+
+    Methods
+    -------
+    __init__(name: str)
+        Constructs all the necessary attributes for the dog object.
+    """
+
+    species = "Canis lupus familiaris"  # Class attribute
+
+    def __init__(self, name):
+        self.name = name  # Instance attribute
+
+# Creating instances of Dog
+dog1 = Dog("Rex")
+dog2 = Dog("Fido")
+
+# Accessing class attribute
+print(Dog.species)  # Outputs: Canis lupus familiaris
+print(dog1.species) # Outputs: Canis lupus familiaris
+
+# Accessing instance attribute
+print(dog1.name)  # Outputs: Rex
+print(dog2.name)  # Outputs: Fido
+
+# Modifying class attribute via an instance
+dog1.species = "Canis lupus"
+print(dog1.species) # Outputs: Canis lupus
+print(dog2.species) # Still outputs: Canis lupus familiaris
+print(Dog.species)  # Still outputs: Canis lupus familiaris
+
+```
 

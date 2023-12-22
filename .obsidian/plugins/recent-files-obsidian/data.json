@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Pandas",
+      "path": "Python/Pandas/Pandas.md"
+    },
+    {
+      "basename": "Data frames",
+      "path": "Python/Pandas/Data frames.md"
+    },
+    {
+      "basename": "Series",
+      "path": "Python/Pandas/Series.md"
+    },
+    {
       "basename": "Inheritance",
       "path": "Python/OOP/Inheritance.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "slicing",
       "path": "Python/data types/strings/slicing.md"
-    },
-    {
-      "basename": "Match-Case",
-      "path": "Python/control_flow/Match-Case.md"
-    },
-    {
-      "basename": "Membership operators",
-      "path": "Python/Operators/Membership operators.md"
-    },
-    {
-      "basename": "Identity operators",
-      "path": "Python/Operators/Identity operators.md"
     }
   ],
   "omittedPaths": [],

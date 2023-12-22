@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP/Inheritance.md",
+                "file": "Python/Pandas/Data frames.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e2f008d9ad9a049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Pandas/Pandas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f0766174252929d9",
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP/Inheritance.md",
+                "file": "Python/Pandas/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOP/Inheritance.md"
+                "file": "Python/Pandas/Pandas.md"
               }
             }
           },
@@ -225,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOP/Inheritance.md",
+                "file": "Python/Pandas/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,11 +266,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "fbcba1a9afaa7d59",
+  "active": "2e2f008d9ad9a049",
   "lastOpenFiles": [
+    "Python/Pandas/Data frames.md",
+    "Python/Pandas/Series.md",
+    "Python/Pandas/Pandas.md",
+    "Python/OOP/Inheritance.md",
+    "Python/Pandas",
     "Python/OOP/Polymorphism.md",
     "Python/OOP/Encapsulation.md",
-    "Python/OOP/Inheritance.md",
     "Python/OOP/Classes and objects.md",
     "Python/Modules.md",
     "Python/Namespaces and Scope.md",
@@ -281,16 +298,12 @@
     "Python/Functions/Arguments",
     "Python/data types/Boolean.md",
     "Python/Operators/Assignment operators.md",
-    "Python/comments.md",
-    "Python/literals.md",
-    "Python/data types/Iterables/Range.md",
     "Python/data types/Iterables",
     "Python/Functions",
     "Python/data types/Collections",
     "Python/literals",
     "Python/Operators",
     "Python/data types",
-    "Python/control_flow",
     "Pasted image 20230319193607.png"
   ]
 }

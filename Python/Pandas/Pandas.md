@@ -1,2 +1,3 @@
 - The Pandas library introduces two new data types to Python: [[Series]] and [[Data frames]]
-- 
+- we can use the `read_csv()` function to load a CSV data file.
+	- by default `read_csv()` will read a comma separated file

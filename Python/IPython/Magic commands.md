@@ -5,7 +5,13 @@
 
 Example: Create a `mymodule.py` file with the following Python code:
 ```Python
-def mymodule(x):
+def mymodule():
     """Print message"""
-    print("Module file")
+    return print("Module file")
+```
+
+Then run the following in IPython:
+```IPython
+%run myscript.py
+mymodule()
 ```

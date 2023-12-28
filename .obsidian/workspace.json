@@ -58,19 +58,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "93ef314ebc15398a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/IPython/Help.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -263,8 +250,8 @@
   "active": "2e2f008d9ad9a049",
   "lastOpenFiles": [
     "Python/IPython/Help.md",
-    "Python/IPython/IPython.md",
     "Python/IPython/Magic commands.md",
+    "Python/IPython/IPython.md",
     "Python/IPython/Jupyter settings.md",
     "Python/IPython",
     "Python/Pandas/Pandas.md",

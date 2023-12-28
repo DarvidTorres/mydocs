@@ -10,5 +10,13 @@ Note: these results are not returned as lists or strings.
 
 ```IPython
 dir = !pwd
+# type(!pwd) this will fail
 type(dir)
 ```
+
+we can pass Python variables into the shell using `{<var>}`:
+```IPython
+foo = 'bar'
+!echo {foo}
+```
+

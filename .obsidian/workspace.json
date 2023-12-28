@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pandas/Pandas.md",
+                "file": "Python/IPython/Magic commands.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93ef314ebc15398a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/IPython/Help.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -61,25 +74,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "f0766174252929d9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "64963b3794a40af2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Namespaces and Scope.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas/Pandas.md",
+                "file": "Python/IPython/Magic commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pandas/Pandas.md"
+                "file": "Python/IPython/Magic commands.md"
               }
             }
           },
@@ -238,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas/Pandas.md",
+                "file": "Python/IPython/Magic commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,9 +262,15 @@
   },
   "active": "2e2f008d9ad9a049",
   "lastOpenFiles": [
+    "Python/IPython/Help.md",
+    "Python/IPython/IPython.md",
+    "Python/IPython/Magic commands.md",
+    "Python/IPython/Jupyter settings.md",
+    "Python/IPython",
+    "Python/Pandas/Pandas.md",
+    "Python/NumPy",
     "Python/Pandas/Data frames.md",
     "Python/Pandas/Series.md",
-    "Python/Pandas/Pandas.md",
     "Python/OOP/Inheritance.md",
     "Python/Pandas",
     "Python/OOP/Polymorphism.md",
@@ -293,17 +293,11 @@
     "Python/Functions/Arguments/keyword arguments.md",
     "Python/Functions/Arguments/Default arguments.md",
     "Python/Operators/Arithmetic operators.md",
-    "Python/Operators/Operators.md",
-    "Python/Functions/Arguments/Positional-only or keyword-only.md",
     "Python/Functions/Arguments",
-    "Python/data types/Boolean.md",
-    "Python/Operators/Assignment operators.md",
     "Python/data types/Iterables",
     "Python/Functions",
     "Python/data types/Collections",
     "Python/literals",
-    "Python/Operators",
-    "Python/data types",
     "Pasted image 20230319193607.png"
   ]
 }

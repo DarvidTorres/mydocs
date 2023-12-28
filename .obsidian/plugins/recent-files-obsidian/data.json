@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Magic commands",
+      "path": "Python/IPython/Magic commands.md"
+    },
+    {
+      "basename": "Help",
+      "path": "Python/IPython/Help.md"
+    },
+    {
+      "basename": "IPython",
+      "path": "Python/IPython/IPython.md"
+    },
+    {
+      "basename": "Jupyter settings",
+      "path": "Python/IPython/Jupyter settings.md"
+    },
+    {
       "basename": "Pandas",
       "path": "Python/Pandas/Pandas.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "pointers",
       "path": "C/data types/pointers/pointers.md"
-    },
-    {
-      "basename": "pointer arithmetic",
-      "path": "C/data types/pointers/pointer arithmetic.md"
-    },
-    {
-      "basename": "structures",
-      "path": "C/structures/structures.md"
-    },
-    {
-      "basename": "string methods",
-      "path": "Python/data types/strings/string methods.md"
-    },
-    {
-      "basename": "slicing",
-      "path": "Python/data types/strings/slicing.md"
     }
   ],
   "omittedPaths": [],

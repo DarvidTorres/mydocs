@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/IPython/Magic commands.md",
+                "file": "Python/IPython/Shell commands.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/IPython/Magic commands.md",
+                "file": "Python/IPython/Shell commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/IPython/Magic commands.md"
+                "file": "Python/IPython/Shell commands.md"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/IPython/Magic commands.md",
+                "file": "Python/IPython/Shell commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +249,10 @@
   },
   "active": "2e2f008d9ad9a049",
   "lastOpenFiles": [
-    "Python/IPython/Help.md",
     "Python/IPython/Magic commands.md",
+    "Python/IPython/Shell commands.md",
+    "README.md",
+    "Python/IPython/Help.md",
     "Python/IPython/IPython.md",
     "Python/IPython/Jupyter settings.md",
     "Python/IPython",
@@ -278,8 +280,6 @@
     "Python/control_flow/Control structures.md",
     "Python/Functions/Arguments/Arbitrary arguments.md",
     "Python/Functions/Arguments/keyword arguments.md",
-    "Python/Functions/Arguments/Default arguments.md",
-    "Python/Operators/Arithmetic operators.md",
     "Python/Functions/Arguments",
     "Python/data types/Iterables",
     "Python/Functions",

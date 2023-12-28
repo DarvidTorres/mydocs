@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Shell commands",
+      "path": "Python/IPython/Shell commands.md"
+    },
+    {
       "basename": "Magic commands",
       "path": "Python/IPython/Magic commands.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Help",
@@ -191,14 +199,6 @@
     {
       "basename": "int",
       "path": "C/data types/integers/int.md"
-    },
-    {
-      "basename": "type qualifiers",
-      "path": "C/data types/type qualifiers.md"
-    },
-    {
-      "basename": "pointers",
-      "path": "C/data types/pointers/pointers.md"
     }
   ],
   "omittedPaths": [],

@@ -12,6 +12,6 @@ def mymodule():
 
 Then run the following in IPython:
 ```IPython
-%run myscript.py
+%run mymodule.py
 mymodule()
 ```

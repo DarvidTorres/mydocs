@@ -13,13 +13,16 @@ Note: integers are up-cast to floating point.
 If we want to explicitly set the data type of the resulting array, we can use the `dtype` keyword:
 
 ```Python
-np.array([1, 2, 3, 4], dtype='float32')
+np.array([1, 2, 3, 4], dtype='float')
 ```
 
 - Unlike Python lists, NumPy arrays can explicitly be multi-dimensional.
 
-Example:
+Example (using [[lists#List comprehension|list comprehension]]):
 ```Python
 # nested lists result in multi-dimensional arrays
 np.array([range(i, i + 3) for i in [2, 4, 6]])
 ```
+In this case, each range generates a list. Each list is treated as a row of the resulting two-dimensional array.
+
+

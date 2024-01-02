@@ -75,11 +75,16 @@ syntax:
 [<expr> for <item> in <iterable>]
 ```
 
-Example:
+Example 1:
 ```Python
-my_list = [x for x in range(1, 10)]
+[x for x in range(1, 10)]
 ```
 Each item from the [[Iterables|iterable]] is added to the list.
+
+Example 2:
+```Python
+[(x, y) for x in [1, 2, 3] for y in ['a', 'b', 'c']]
+```
 ## Case 2:
 
 One [[Boolean|boolean expression]].
@@ -91,13 +96,15 @@ syntax:
 
 Example:
 ```Python
-my_list = [x for x in range(1, 10) if x % 2 == 0]
+[x for x in range(1, 10) if x % 2 == 0]
 ```
 Only even numbers will be added to the list.
 
+We can nest `if` clauses in list comprehension:
+
 Example:
 ```Python
-my_list = [x for x in range(1, 10) if x % 2 == 0 if x % 3 == 0]
+[x for x in range(1, 10) if x % 2 == 0 if x % 3 == 0]
 ```
 Only even numbers that are multiple of 3 will be added to the list.
 
@@ -113,7 +120,7 @@ my_list
 
 Example:
 ```Python
-my_list = [x for x in range(1, 10) if x % 2 == 0 and x % 3 == 0]
+[x for x in range(1, 10) if x % 2 == 0 and x % 3 == 0]
 ```
 Note: we can also use `or`.
 
@@ -127,12 +134,30 @@ for x in range(1, 10):
 
 ## Case 3
 
-We can use the [[if#short hand if-else|ternary operator]]:
+We can use the [[if#short hand if-else|ternary operator]] in list comprehension.
 
 syntax:
 ```Python
 [<ternary_operator> for <item> in <iterable>]
-[<if_suite> if <bool_expr> else  for <item> in <iterable>]
+[<if_suite> if <bool_expr> else <else_suite> for <item> in <iterable>]
 ```
 
+Example:
+```Python
+['even' if x % 2 == 0 else 'odd' for x in range(1, 10)]
+```
 
+We can nest  `if` clauses.
+
+syntax:
+```Python
+[<ternary_operator> <ternary_operator> for <item> in <iterable>]
+[<if_suite1> if <bool_expr1> else <else_suite1> <if_suite2> if <bool_expr2> else <else_suite2> for <item> in <iterable>]
+```
+
+Example:
+```Python
+['even' if x % 2 == 0 else 'number three' if x == 3 else 'odd' 
+             for x in range(1, 10)]
+```
+Even numbers will be added as 'even', the number three will be added as 'number three' and the rest will be added as 'odd'.

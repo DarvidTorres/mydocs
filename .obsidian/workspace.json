@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "fe0a005427b0ee6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/NumPy/Unfunc.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2536b9f587e98288",
             "type": "leaf",
             "state": {
@@ -32,21 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fe0a005427b0ee6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/NumPy/Arrays.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/data types/Iterables/lists.md",
+                "file": "Python/NumPy/Unfunc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/data types/Iterables/lists.md"
+                "file": "Python/NumPy/Unfunc.md"
               }
             }
           },
@@ -205,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/data types/Iterables/lists.md",
+                "file": "Python/NumPy/Unfunc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,14 +234,16 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4c3adf767f5c249b",
+  "active": "fe0a005427b0ee6b",
   "lastOpenFiles": [
-    "Python/control_flow/if.md",
+    "Python/NumPy/Slicing.md",
+    "Python/NumPy/Unfunc.md",
+    "Python/NumPy/Arrays.md",
     "Python/data types/Iterables/lists.md",
+    "Python/control_flow/if.md",
     "Python/Functions/Functions.md",
     "Python/OOP/Classes and objects.md",
     "Python/Pandas/Data frames.md",
-    "Python/NumPy/Arrays.md",
     "Python/data types/Boolean.md",
     "Python/control_flow/Control structures.md",
     "Python/control_flow/for.md",
@@ -262,8 +265,6 @@
     "Python/OOP/Polymorphism.md",
     "Python/OOP/Encapsulation.md",
     "Python/Namespaces and Scope.md",
-    "Grammarly test.md",
-    "Python/Functions/Methods.md",
     "Python/OOP/Untitled",
     "Python/OOP",
     "Python/Functions/Arguments",

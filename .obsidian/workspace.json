@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/NumPy/Unfunc.md",
+                "file": "Python/NumPy/Broadcasting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/NumPy/Unfunc.md",
+                "file": "Python/NumPy/Broadcasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/NumPy/Unfunc.md"
+                "file": "Python/NumPy/Broadcasting.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/NumPy/Unfunc.md",
+                "file": "Python/NumPy/Broadcasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,8 +236,9 @@
   },
   "active": "fe0a005427b0ee6b",
   "lastOpenFiles": [
-    "Python/NumPy/Slicing.md",
     "Python/NumPy/Unfunc.md",
+    "Python/NumPy/Broadcasting.md",
+    "Python/NumPy/Slicing.md",
     "Python/NumPy/Arrays.md",
     "Python/data types/Iterables/lists.md",
     "Python/control_flow/if.md",
@@ -264,7 +265,6 @@
     "Python/Pandas",
     "Python/OOP/Polymorphism.md",
     "Python/OOP/Encapsulation.md",
-    "Python/Namespaces and Scope.md",
     "Python/OOP/Untitled",
     "Python/OOP",
     "Python/Functions/Arguments",

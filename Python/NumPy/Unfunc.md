@@ -8,3 +8,9 @@ np.multiply(x, 10, out=y)
 print(y)
 ```
 
+any ufunc can compute the output of all pairs of two different inputs using the `outer` method. This allows you, in one line, to do things like create a multiplication table:
+
+```Python
+x = np.arange(1, 6)
+np.multiply.outer(x, x)
+```

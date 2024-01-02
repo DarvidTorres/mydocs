@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Broadcasting",
+      "path": "Python/NumPy/Broadcasting.md"
+    },
+    {
       "basename": "Unfunc",
       "path": "Python/NumPy/Unfunc.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "memory",
       "path": "C/memory/memory.md"
-    },
-    {
-      "basename": "char",
-      "path": "C/data types/integers/char.md"
     }
   ],
   "omittedPaths": [],

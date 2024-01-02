@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a87b2bc0ee5bb899",
+            "id": "4c3adf767f5c249b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Modules.md",
+                "file": "Python/data types/Iterables/lists.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "0f36ff7c36818fdc",
+            "id": "2536b9f587e98288",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP/Classes and objects.md",
+                "file": "Python/control_flow/if.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,33 +34,19 @@
             }
           },
           {
-            "id": "fbcba1a9afaa7d59",
+            "id": "fe0a005427b0ee6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pandas/Data frames.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e2f008d9ad9a049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/IPython/Shell commands.md",
+                "file": "Python/NumPy/Arrays.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "header files",
+                "query": "boolean expression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/IPython/Shell commands.md",
+                "file": "Python/data types/Iterables/lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/IPython/Shell commands.md"
+                "file": "Python/data types/Iterables/lists.md"
               }
             }
           },
@@ -219,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/IPython/Shell commands.md",
+                "file": "Python/data types/Iterables/lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,10 +233,22 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2e2f008d9ad9a049",
+  "active": "4c3adf767f5c249b",
   "lastOpenFiles": [
-    "Python/IPython/Magic commands.md",
+    "Python/control_flow/if.md",
+    "Python/data types/Iterables/lists.md",
+    "Python/Functions/Functions.md",
+    "Python/OOP/Classes and objects.md",
+    "Python/Pandas/Data frames.md",
+    "Python/NumPy/Arrays.md",
+    "Python/data types/Boolean.md",
+    "Python/control_flow/Control structures.md",
+    "Python/control_flow/for.md",
+    "Python/data types/type_casting.md",
+    "Python/data types/data types.md",
     "Python/IPython/Shell commands.md",
+    "Python/Modules.md",
+    "Python/IPython/Magic commands.md",
     "README.md",
     "Python/IPython/Help.md",
     "Python/IPython/IPython.md",
@@ -258,28 +256,16 @@
     "Python/IPython",
     "Python/Pandas/Pandas.md",
     "Python/NumPy",
-    "Python/Pandas/Data frames.md",
     "Python/Pandas/Series.md",
     "Python/OOP/Inheritance.md",
     "Python/Pandas",
     "Python/OOP/Polymorphism.md",
     "Python/OOP/Encapsulation.md",
-    "Python/OOP/Classes and objects.md",
-    "Python/Modules.md",
     "Python/Namespaces and Scope.md",
     "Grammarly test.md",
     "Python/Functions/Methods.md",
-    "Python/Functions/Functions.md",
-    "C/data types/types.md",
-    "Python/docstrings.md",
-    "Python/control_flow/if.md",
     "Python/OOP/Untitled",
     "Python/OOP",
-    "Python/Functions/lambda functions.md",
-    "Python/control_flow/for.md",
-    "Python/control_flow/Control structures.md",
-    "Python/Functions/Arguments/Arbitrary arguments.md",
-    "Python/Functions/Arguments/keyword arguments.md",
     "Python/Functions/Arguments",
     "Python/data types/Iterables",
     "Python/Functions",

@@ -1,4 +1,11 @@
 
+Python is a dynamically-typed language, which means we can assign any kind of data to any variable:
+
+```Python
+x = 4
+x = "Four"
+```
+
 ```mermaid
 ---
 title: Python datatypes
@@ -48,3 +55,4 @@ print(type(bytearray(5)))
 print(type(memoryview(bytes(5))))
 print(type(None))
 ```
+

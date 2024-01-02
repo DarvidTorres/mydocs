@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "lists",
+      "path": "Python/data types/Iterables/lists.md"
+    },
+    {
+      "basename": "if",
+      "path": "Python/control_flow/if.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "Python/Functions/Functions.md"
+    },
+    {
+      "basename": "Classes and objects",
+      "path": "Python/OOP/Classes and objects.md"
+    },
+    {
+      "basename": "Data frames",
+      "path": "Python/Pandas/Data frames.md"
+    },
+    {
+      "basename": "Arrays",
+      "path": "Python/NumPy/Arrays.md"
+    },
+    {
+      "basename": "Boolean",
+      "path": "Python/data types/Boolean.md"
+    },
+    {
+      "basename": "Control structures",
+      "path": "Python/control_flow/Control structures.md"
+    },
+    {
+      "basename": "for",
+      "path": "Python/control_flow/for.md"
+    },
+    {
+      "basename": "type_casting",
+      "path": "Python/data types/type_casting.md"
+    },
+    {
+      "basename": "data types",
+      "path": "Python/data types/data types.md"
+    },
+    {
       "basename": "Shell commands",
       "path": "Python/IPython/Shell commands.md"
+    },
+    {
+      "basename": "Modules",
+      "path": "Python/Modules.md"
     },
     {
       "basename": "Magic commands",
@@ -29,10 +77,6 @@
       "path": "Python/Pandas/Pandas.md"
     },
     {
-      "basename": "Data frames",
-      "path": "Python/Pandas/Data frames.md"
-    },
-    {
       "basename": "Series",
       "path": "Python/Pandas/Series.md"
     },
@@ -49,24 +93,12 @@
       "path": "Python/OOP/Encapsulation.md"
     },
     {
-      "basename": "Classes and objects",
-      "path": "Python/OOP/Classes and objects.md"
-    },
-    {
-      "basename": "Modules",
-      "path": "Python/Modules.md"
-    },
-    {
       "basename": "Namespaces and Scope",
       "path": "Python/Namespaces and Scope.md"
     },
     {
       "basename": "Methods",
       "path": "Python/Functions/Methods.md"
-    },
-    {
-      "basename": "Functions",
-      "path": "Python/Functions/Functions.md"
     },
     {
       "basename": "types",
@@ -77,20 +109,8 @@
       "path": "Python/docstrings.md"
     },
     {
-      "basename": "if",
-      "path": "Python/control_flow/if.md"
-    },
-    {
       "basename": "lambda functions",
       "path": "Python/Functions/lambda functions.md"
-    },
-    {
-      "basename": "for",
-      "path": "Python/control_flow/for.md"
-    },
-    {
-      "basename": "Control structures",
-      "path": "Python/control_flow/Control structures.md"
     },
     {
       "basename": "Arbitrary arguments",
@@ -115,10 +135,6 @@
     {
       "basename": "Positional-only or keyword-only",
       "path": "Python/Functions/Arguments/Positional-only or keyword-only.md"
-    },
-    {
-      "basename": "Boolean",
-      "path": "Python/data types/Boolean.md"
     },
     {
       "basename": "Assignment operators",
@@ -169,10 +185,6 @@
       "path": "Python/data types/strings/strings.md"
     },
     {
-      "basename": "data types",
-      "path": "Python/data types/data types.md"
-    },
-    {
       "basename": "memory",
       "path": "C/memory/memory.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "address",
       "path": "C/memory/address.md"
-    },
-    {
-      "basename": "dereferencing",
-      "path": "C/data types/pointers/dereferencing.md"
-    },
-    {
-      "basename": "function pointers",
-      "path": "C/data types/pointers/function pointers.md"
-    },
-    {
-      "basename": "int",
-      "path": "C/data types/integers/int.md"
     }
   ],
   "omittedPaths": [],

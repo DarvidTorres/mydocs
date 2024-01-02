@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Series",
+      "path": "Python/Pandas/Series.md"
+    },
+    {
       "basename": "Broadcasting",
       "path": "Python/NumPy/Broadcasting.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "Pandas",
       "path": "Python/Pandas/Pandas.md"
-    },
-    {
-      "basename": "Series",
-      "path": "Python/Pandas/Series.md"
     },
     {
       "basename": "Inheritance",

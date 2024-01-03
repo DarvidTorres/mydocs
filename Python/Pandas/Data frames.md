@@ -46,3 +46,4 @@ And a `columns` attribute, which is an `Index` object holding the column labels:
 ```Python
 states.columns
 ```
+

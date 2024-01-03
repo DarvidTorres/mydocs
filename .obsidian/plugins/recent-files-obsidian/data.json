@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "dtypes",
-      "path": "Python/Pandas/dtypes.md"
+      "basename": "Missing data",
+      "path": "Python/Pandas/Missing data.md"
     },
     {
       "basename": "Data frames",
       "path": "Python/Pandas/Data frames.md"
+    },
+    {
+      "basename": "dtypes",
+      "path": "Python/Pandas/dtypes.md"
     },
     {
       "basename": "Series",
@@ -195,10 +199,6 @@
     {
       "basename": "Iterables",
       "path": "Python/data types/Iterables/Iterables.md"
-    },
-    {
-      "basename": "Sequence methods",
-      "path": "Python/data types/Iterables/Sequence methods.md"
     }
   ],
   "omittedPaths": [],

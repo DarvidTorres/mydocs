@@ -57,3 +57,28 @@ else:
   print("Nothing went wrong")
 ```
 
+- The `finally` block, if specified, will be executed regardless if the try block raises an error or not.
+- 
+```Python
+try:
+  print(x)
+except:
+  print("Something went wrong")
+finally:
+  print("The 'try except' is finished")
+```
+
+This can be useful to close objects and clean up resources:.
+
+```Python
+try:
+  f = open("demofile.txt")
+  try:
+    f.write("Lorum Ipsum")
+  except:
+    print("Something went wrong when writing to the file")
+  finally:
+    f.close()
+except:
+  print("Something went wrong when opening the file")
+```

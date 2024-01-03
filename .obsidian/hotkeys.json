@@ -88,5 +88,7 @@
       "key": "'"
     }
   ],
-  "workspace:new-tab": []
+  "workspace:new-tab": [],
+  "workspace:next-tab": [],
+  "workspace:previous-tab": []
 }

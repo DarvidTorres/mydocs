@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Data frames",
+      "path": "Python/Pandas/Data frames.md"
+    },
+    {
       "basename": "Series",
       "path": "Python/Pandas/Series.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Classes and objects",
       "path": "Python/OOP/Classes and objects.md"
-    },
-    {
-      "basename": "Data frames",
-      "path": "Python/Pandas/Data frames.md"
     },
     {
       "basename": "Boolean",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MultiIndex",
+      "path": "Python/Pandas/MultiIndex.md"
+    },
+    {
       "basename": "Missing data",
       "path": "Python/Pandas/Missing data.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "while",
       "path": "Python/control_flow/while.md"
-    },
-    {
-      "basename": "Iterables",
-      "path": "Python/data types/Iterables/Iterables.md"
     }
   ],
   "omittedPaths": [],

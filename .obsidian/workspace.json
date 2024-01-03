@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pandas/Missing data.md",
+                "file": "Python/Pandas/MultiIndex.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas/Missing data.md",
+                "file": "Python/Pandas/MultiIndex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pandas/Missing data.md"
+                "file": "Python/Pandas/MultiIndex.md"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas/Missing data.md",
+                "file": "Python/Pandas/MultiIndex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +249,9 @@
   },
   "active": "cc2e97166aca7310",
   "lastOpenFiles": [
-    "Python/Pandas/Data frames.md",
     "Python/Pandas/Missing data.md",
+    "Python/Pandas/MultiIndex.md",
+    "Python/Pandas/Data frames.md",
     "Python/Pandas/dtypes.md",
     "Python/Pandas/Untitled",
     "Python/Pandas/Series.md",
@@ -276,7 +277,6 @@
     "Python/IPython/Help.md",
     "Python/IPython/IPython.md",
     "Python/IPython",
-    "Python/Pandas/Pandas.md",
     "Python/NumPy",
     "Python/Pandas",
     "Python/OOP/Untitled",

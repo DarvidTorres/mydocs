@@ -250,6 +250,7 @@
   "active": "c8bf969360f52d1c",
   "lastOpenFiles": [
     "Python/Pandas/Series.md",
+    "Python/Pandas/Data frames.md",
     "Python/NumPy/Broadcasting.md",
     "Python/NumPy/Unfunc.md",
     "Python/NumPy/Slicing.md",
@@ -258,7 +259,6 @@
     "Python/control_flow/if.md",
     "Python/Functions/Functions.md",
     "Python/OOP/Classes and objects.md",
-    "Python/Pandas/Data frames.md",
     "Python/data types/Boolean.md",
     "Python/control_flow/Control structures.md",
     "Python/control_flow/for.md",

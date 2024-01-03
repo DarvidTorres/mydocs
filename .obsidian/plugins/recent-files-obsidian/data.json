@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "dtypes",
+      "path": "Python/Pandas/dtypes.md"
+    },
+    {
       "basename": "Data frames",
       "path": "Python/Pandas/Data frames.md"
     },
     {
       "basename": "Series",
       "path": "Python/Pandas/Series.md"
+    },
+    {
+      "basename": "Jupyter settings",
+      "path": "Python/IPython/Jupyter settings.md"
+    },
+    {
+      "basename": "Alias",
+      "path": "Python/Alias.md"
     },
     {
       "basename": "Broadcasting",
@@ -83,10 +95,6 @@
     {
       "basename": "IPython",
       "path": "Python/IPython/IPython.md"
-    },
-    {
-      "basename": "Jupyter settings",
-      "path": "Python/IPython/Jupyter settings.md"
     },
     {
       "basename": "Pandas",
@@ -191,14 +199,6 @@
     {
       "basename": "Sequence methods",
       "path": "Python/data types/Iterables/Sequence methods.md"
-    },
-    {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
-    },
-    {
-      "basename": "memory",
-      "path": "C/memory/memory.md"
     }
   ],
   "omittedPaths": [],

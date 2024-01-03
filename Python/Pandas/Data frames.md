@@ -37,3 +37,12 @@ pd.DataFrame([{'Foo': 1, 'Bar': 2},
 ```
 Note: Even if some keys in the dictionary are missing, Pandas will fill them in with NaN (i.e., "not a number").
 
+The `DataFrame` has an `index` attribute that gives access to the index labels:
+```Python
+states.index
+```
+
+And a `columns` attribute, which is an `Index` object holding the column labels:
+```Python
+states.columns
+```

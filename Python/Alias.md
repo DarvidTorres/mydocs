@@ -1,0 +1,1 @@
+alias: In Python alias are an alternate name for referring to the same thing.

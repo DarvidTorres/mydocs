@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "c8bf969360f52d1c",
+            "id": "cc2e97166aca7310",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07fc2dbcce09092d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Pandas/dtypes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas/Data frames.md",
+                "file": "Python/Pandas/dtypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pandas/Data frames.md"
+                "file": "Python/Pandas/dtypes.md"
               }
             }
           },
@@ -219,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas/Data frames.md",
+                "file": "Python/Pandas/dtypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,10 +260,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c8bf969360f52d1c",
+  "active": "07fc2dbcce09092d",
   "lastOpenFiles": [
-    "Python/Pandas/Series.md",
     "Python/Pandas/Data frames.md",
+    "Python/Pandas/dtypes.md",
+    "Python/Pandas/Untitled",
+    "Python/Pandas/Series.md",
+    "Python/IPython/Jupyter settings.md",
+    "Python/Alias.md",
     "Python/NumPy/Broadcasting.md",
     "Python/NumPy/Unfunc.md",
     "Python/NumPy/Slicing.md",
@@ -270,21 +287,17 @@
     "README.md",
     "Python/IPython/Help.md",
     "Python/IPython/IPython.md",
-    "Python/IPython/Jupyter settings.md",
     "Python/IPython",
     "Python/Pandas/Pandas.md",
     "Python/NumPy",
     "Python/OOP/Inheritance.md",
     "Python/Pandas",
-    "Python/OOP/Polymorphism.md",
-    "Python/OOP/Encapsulation.md",
     "Python/OOP/Untitled",
     "Python/OOP",
     "Python/Functions/Arguments",
     "Python/data types/Iterables",
     "Python/Functions",
     "Python/data types/Collections",
-    "Python/literals",
     "Pasted image 20230319193607.png"
   ]
 }

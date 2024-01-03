@@ -16,3 +16,11 @@ InteractiveShell.ast_node_interactivity = 'all'
 ## Google Colab
 
 Install IPython
+
+# Error messages
+
+`%xmode` takes a single argument, the mode, and there are three possibilities: `Plain`, `Context`, and `Verbose`. The default is `Context`, and gives output like that just shown before. `Plain` is more compact and gives less information:
+
+```Python
+%xmode Plain
+```

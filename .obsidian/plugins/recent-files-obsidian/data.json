@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "try exception",
+      "path": "Python/try exception.md"
+    },
+    {
       "basename": "MultiIndex",
       "path": "Python/Pandas/MultiIndex.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "sets",
       "path": "Python/data types/Iterables/sets.md"
-    },
-    {
-      "basename": "while",
-      "path": "Python/control_flow/while.md"
     }
   ],
   "omittedPaths": [],

@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pandas/MultiIndex.md",
+                "file": "Python/try exception.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas/MultiIndex.md",
+                "file": "Python/try exception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pandas/MultiIndex.md"
+                "file": "Python/try exception.md"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas/MultiIndex.md",
+                "file": "Python/try exception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +249,11 @@
   },
   "active": "cc2e97166aca7310",
   "lastOpenFiles": [
-    "Python/Pandas/Missing data.md",
     "Python/Pandas/MultiIndex.md",
+    "Python/try exception.md",
+    "Python/Try_Except/try.md",
+    "Python/Try_Except",
+    "Python/Pandas/Missing data.md",
     "Python/Pandas/Data frames.md",
     "Python/Pandas/dtypes.md",
     "Python/Pandas/Untitled",
@@ -274,8 +277,6 @@
     "Python/Modules.md",
     "Python/IPython/Magic commands.md",
     "README.md",
-    "Python/IPython/Help.md",
-    "Python/IPython/IPython.md",
     "Python/IPython",
     "Python/NumPy",
     "Python/Pandas",
@@ -284,7 +285,6 @@
     "Python/Functions/Arguments",
     "Python/data types/Iterables",
     "Python/Functions",
-    "Python/data types/Collections",
     "Pasted image 20230319193607.png"
   ]
 }

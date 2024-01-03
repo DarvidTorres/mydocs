@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c3adf767f5c249b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/Iterables/lists.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fe0a005427b0ee6b",
             "type": "leaf",
             "state": {
@@ -53,6 +40,19 @@
               "type": "markdown",
               "state": {
                 "file": "Python/try exception.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f53293cec678620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Pandas/MultiIndex.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/try exception.md",
+                "file": "Python/Pandas/MultiIndex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/try exception.md"
+                "file": "Python/Pandas/MultiIndex.md"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/try exception.md",
+                "file": "Python/Pandas/MultiIndex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,10 +247,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc2e97166aca7310",
+  "active": "7f53293cec678620",
   "lastOpenFiles": [
-    "Python/Pandas/MultiIndex.md",
     "Python/try exception.md",
+    "Python/Pandas/MultiIndex.md",
     "Python/Try_Except/try.md",
     "Python/Try_Except",
     "Python/Pandas/Missing data.md",

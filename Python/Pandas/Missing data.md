@@ -68,4 +68,25 @@ df.columns
 df.dropna(axis='columns')
 ```
 
-The argument `how` specifies which columns to drop. By default `how=any` will drop any 
+The argument `how` specifies which columns to drop. By default `how=any` will drop any row or column (depending on the axis keyword) containing a null value will be drop. `how=all` will only drop rows/columns that are all null values:
+```Python
+df[3] = np.nan
+df
+df.dropna(axis='columns', how='all')
+```
+
+The `thresh` parameter lets you specify a minimum number of non-null values for the row/column to be kept:
+```Python
+df.dropna(axis='rows', thresh=3)
+```
+
+If rather than dropping NA values, you'd rather replace them with a valid value, Pandas provides the `fillna()` method, which returns a copy of the array with the null values replaced.
+
+```Python
+data = pd.Series([1, np.nan, 2, None, 3], index=list('abcde'))
+data
+data.fillna(0)
+df
+df.fillna(method='ffill', axis=1)
+```
+

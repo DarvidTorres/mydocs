@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/try exception.md",
+                "file": "Anaconda/Workflow/Environment creation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "7f53293cec678620",
+            "id": "f98a074051514191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pandas/MultiIndex.md",
+                "file": "Python/Modules.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas/MultiIndex.md",
+                "file": "Anaconda/Workflow/Environment creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pandas/MultiIndex.md"
+                "file": "Anaconda/Workflow/Environment creation.md"
               }
             }
           },
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas/MultiIndex.md",
+                "file": "Anaconda/Workflow/Environment creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,9 +247,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f53293cec678620",
+  "active": "cc2e97166aca7310",
   "lastOpenFiles": [
+    "Python/Modules.md",
+    "Anaconda/Workflow/Environment creation.md",
+    "Bash/OS.md",
+    "Anaconda/Conda.md",
+    "Anaconda/Workflow",
+    "Anaconda/Modules, Packages and Libraries.md",
     "Python/try exception.md",
+    "Anaconda",
+    "R/R.md",
     "Python/Pandas/MultiIndex.md",
     "Python/Try_Except/try.md",
     "Python/Try_Except",
@@ -271,20 +279,12 @@
     "Python/data types/Boolean.md",
     "Python/control_flow/Control structures.md",
     "Python/control_flow/for.md",
-    "Python/data types/type_casting.md",
-    "Python/data types/data types.md",
-    "Python/IPython/Shell commands.md",
-    "Python/Modules.md",
-    "Python/IPython/Magic commands.md",
-    "README.md",
     "Python/IPython",
     "Python/NumPy",
     "Python/Pandas",
     "Python/OOP/Untitled",
     "Python/OOP",
     "Python/Functions/Arguments",
-    "Python/data types/Iterables",
-    "Python/Functions",
     "Pasted image 20230319193607.png"
   ]
 }

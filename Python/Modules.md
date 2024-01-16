@@ -1,6 +1,7 @@
 - A Python module is a file containing Python definitions and statements.
 - A module can define functions, classes, and variables.
 - A module can also include runnable code.
+- Modules should have short, all-lowercase names. Underscores can be used in the module name if it improves readability.
 
 - To create a module save the code you want in a file with the file extension `.py`.
 

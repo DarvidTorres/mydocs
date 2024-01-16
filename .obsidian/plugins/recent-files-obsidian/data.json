@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "MultiIndex",
-      "path": "Python/Pandas/MultiIndex.md"
+      "basename": "Environment creation",
+      "path": "Anaconda/Workflow/Environment creation.md"
+    },
+    {
+      "basename": "Modules",
+      "path": "Python/Modules.md"
+    },
+    {
+      "basename": "OS",
+      "path": "Bash/OS.md"
+    },
+    {
+      "basename": "Conda",
+      "path": "Anaconda/Conda.md"
+    },
+    {
+      "basename": "Modules, Packages and Libraries",
+      "path": "Anaconda/Modules, Packages and Libraries.md"
     },
     {
       "basename": "try exception",
       "path": "Python/try exception.md"
+    },
+    {
+      "basename": "R",
+      "path": "R/R.md"
+    },
+    {
+      "basename": "MultiIndex",
+      "path": "Python/Pandas/MultiIndex.md"
     },
     {
       "basename": "Missing data",
@@ -87,10 +111,6 @@
     {
       "basename": "Shell commands",
       "path": "Python/IPython/Shell commands.md"
-    },
-    {
-      "basename": "Modules",
-      "path": "Python/Modules.md"
     },
     {
       "basename": "Magic commands",
@@ -179,26 +199,6 @@
     {
       "basename": "literals",
       "path": "Python/literals.md"
-    },
-    {
-      "basename": "Range",
-      "path": "Python/data types/Iterables/Range.md"
-    },
-    {
-      "basename": "Sequences",
-      "path": "Python/data types/Iterables/Sequences.md"
-    },
-    {
-      "basename": "Dictionaries",
-      "path": "Python/data types/Iterables/Dictionaries.md"
-    },
-    {
-      "basename": "Collections",
-      "path": "Python/data types/Iterables/Collections.md"
-    },
-    {
-      "basename": "sets",
-      "path": "Python/data types/Iterables/sets.md"
     }
   ],
   "omittedPaths": [],

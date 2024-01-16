@@ -7,14 +7,23 @@ Note: The active environment is the one with an asterisk (`*`). Don't work in `b
 
 - To create an environment:
 ```Conda
-conda create -n <env-name> [python[=<version>]] [<package_name>[=<version>]...]
+conda create --name <env-name> [python[=<version>]] [<package_name>[=<version>]...]
 ```
 
 Example:
 ```Conda
-conda create -n my_env python=3.9 scipy=0.17.3 pandas
+conda create -n my_env python=3.9 pandas=2.1.4 numpy
 ```
 
+- To activate environment:
+```Conda
+conda activate <env-name>
+```
 
+- Deactivate environment:
+```Conda
+conda deactivate <env-name>
+conda deactivate # Deactivates active environment
+```
 
 - Reproducible environments are created using YAML.

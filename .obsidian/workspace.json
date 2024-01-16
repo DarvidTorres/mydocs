@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaconda/Workflow/Environment creation.md",
+                "file": "Anaconda/Export and import environments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14cc956103d45b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anaconda/Environment creation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anaconda/Workflow/Environment creation.md",
+                "file": "Anaconda/Export and import environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anaconda/Workflow/Environment creation.md"
+                "file": "Anaconda/Export and import environments.md"
               }
             }
           },
@@ -219,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anaconda/Workflow/Environment creation.md",
+                "file": "Anaconda/Export and import environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +262,10 @@
   },
   "active": "cc2e97166aca7310",
   "lastOpenFiles": [
+    "Anaconda/Environment creation.md",
+    "Anaconda/Export and import environments.md",
+    "Anaconda/Revisions.md",
     "Python/Modules.md",
-    "Anaconda/Workflow/Environment creation.md",
     "Bash/OS.md",
     "Anaconda/Conda.md",
     "Anaconda/Workflow",
@@ -277,8 +292,6 @@
     "Python/Functions/Functions.md",
     "Python/OOP/Classes and objects.md",
     "Python/data types/Boolean.md",
-    "Python/control_flow/Control structures.md",
-    "Python/control_flow/for.md",
     "Python/IPython",
     "Python/NumPy",
     "Python/Pandas",

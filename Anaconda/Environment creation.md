@@ -25,5 +25,6 @@ conda activate <env-name>
 conda deactivate <env-name>
 conda deactivate # Deactivates active environment
 ```
+Note: Deactivate environments when not being used is a best practice.
 
 - Reproducible environments are created using YAML.

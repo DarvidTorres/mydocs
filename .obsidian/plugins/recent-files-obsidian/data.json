@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Export and import environments",
+      "path": "Anaconda/Export and import environments.md"
+    },
+    {
       "basename": "Environment creation",
-      "path": "Anaconda/Workflow/Environment creation.md"
+      "path": "Anaconda/Environment creation.md"
+    },
+    {
+      "basename": "Revisions",
+      "path": "Anaconda/Revisions.md"
     },
     {
       "basename": "Modules",
@@ -191,14 +199,6 @@
     {
       "basename": "Assignment operators",
       "path": "Python/Operators/Assignment operators.md"
-    },
-    {
-      "basename": "comments",
-      "path": "Python/comments.md"
-    },
-    {
-      "basename": "literals",
-      "path": "Python/literals.md"
     }
   ],
   "omittedPaths": [],

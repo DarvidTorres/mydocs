@@ -58,19 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "181b8288b0ed3c8a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,7 +247,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "181b8288b0ed3c8a",
+  "active": "8966850d5a43a99b",
   "lastOpenFiles": [
     "Anaconda/Packages.md",
     "Anaconda/Environment creation.md",

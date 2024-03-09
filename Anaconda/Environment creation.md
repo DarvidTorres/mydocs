@@ -1,5 +1,6 @@
 ```Conda
 conda --version
+conda init # Initialize conda for shell interaction
 conda env list # List of conda environments
 conda info --envs # Same as above
 ```

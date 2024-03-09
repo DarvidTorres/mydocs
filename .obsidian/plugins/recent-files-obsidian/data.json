@@ -5,12 +5,12 @@
       "path": "Anaconda/Environment creation.md"
     },
     {
-      "basename": "Packages",
-      "path": "Anaconda/Packages.md"
-    },
-    {
       "basename": "Export and import environments",
       "path": "Anaconda/Export and import environments.md"
+    },
+    {
+      "basename": "Packages",
+      "path": "Anaconda/Packages.md"
     },
     {
       "basename": "Conda",

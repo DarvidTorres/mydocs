@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "R",
+      "path": "R/R.md"
+    },
+    {
+      "basename": "Data frames",
+      "path": "Python/Pandas/Data frames.md"
+    },
+    {
+      "basename": "Pandas",
+      "path": "Python/Pandas/Pandas.md"
+    },
+    {
+      "basename": "Modules",
+      "path": "Python/Modules.md"
+    },
+    {
+      "basename": "Series",
+      "path": "Python/Pandas/Series.md"
+    },
+    {
+      "basename": "dtypes",
+      "path": "Python/Pandas/dtypes.md"
+    },
+    {
       "basename": "Environment creation",
       "path": "Anaconda/Environment creation.md"
     },
@@ -17,20 +41,12 @@
       "path": "Anaconda/Conda.md"
     },
     {
-      "basename": "Series",
-      "path": "Python/Pandas/Series.md"
-    },
-    {
       "basename": "Broadcasting",
       "path": "Python/NumPy/Broadcasting.md"
     },
     {
       "basename": "Revisions",
       "path": "Anaconda/Revisions.md"
-    },
-    {
-      "basename": "Modules",
-      "path": "Python/Modules.md"
     },
     {
       "basename": "OS",
@@ -41,24 +57,12 @@
       "path": "Python/try exception.md"
     },
     {
-      "basename": "R",
-      "path": "R/R.md"
-    },
-    {
       "basename": "MultiIndex",
       "path": "Python/Pandas/MultiIndex.md"
     },
     {
       "basename": "Missing data",
       "path": "Python/Pandas/Missing data.md"
-    },
-    {
-      "basename": "Data frames",
-      "path": "Python/Pandas/Data frames.md"
-    },
-    {
-      "basename": "dtypes",
-      "path": "Python/Pandas/dtypes.md"
     },
     {
       "basename": "Jupyter settings",
@@ -135,10 +139,6 @@
     {
       "basename": "IPython",
       "path": "Python/IPython/IPython.md"
-    },
-    {
-      "basename": "Pandas",
-      "path": "Python/Pandas/Pandas.md"
     },
     {
       "basename": "Inheritance",

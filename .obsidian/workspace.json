@@ -54,19 +54,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8966850d5a43a99b",
+            "id": "c9628051d3948e7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaconda/Environment creation.md",
+                "file": "Python/Pandas/Data frames.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c0165c468579e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R/R.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anaconda/Environment creation.md",
+                "file": "R/R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anaconda/Environment creation.md"
+                "file": "R/R.md"
               }
             }
           },
@@ -225,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anaconda/Environment creation.md",
+                "file": "R/R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,16 +267,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8966850d5a43a99b",
+  "active": "1c0165c468579e09",
   "lastOpenFiles": [
-    "Anaconda/Export and import environments.md",
+    "Python/Pandas/Data frames.md",
+    "Python/Pandas/Pandas.md",
+    "Python/Modules.md",
+    "Python/Pandas/Series.md",
+    "Python/Pandas/dtypes.md",
     "Anaconda/Environment creation.md",
+    "Anaconda/Export and import environments.md",
     "Anaconda/Packages.md",
     "Anaconda/Conda.md",
-    "Python/Pandas/Series.md",
     "Python/NumPy/Broadcasting.md",
     "Anaconda/Revisions.md",
-    "Python/Modules.md",
     "Bash/OS.md",
     "Anaconda/Workflow",
     "Python/try exception.md",
@@ -272,8 +289,6 @@
     "Python/Try_Except/try.md",
     "Python/Try_Except",
     "Python/Pandas/Missing data.md",
-    "Python/Pandas/Data frames.md",
-    "Python/Pandas/dtypes.md",
     "Python/Pandas/Untitled",
     "Python/IPython/Jupyter settings.md",
     "Python/Alias.md",
@@ -284,7 +299,6 @@
     "Python/control_flow/if.md",
     "Python/Functions/Functions.md",
     "Python/OOP/Classes and objects.md",
-    "Python/data types/Boolean.md",
     "Python/IPython",
     "Python/NumPy",
     "Python/Pandas",

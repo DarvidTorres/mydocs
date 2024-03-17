@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "R",
-      "path": "R/R.md"
+      "basename": "Revisions",
+      "path": "Anaconda/Revisions.md"
     },
     {
       "basename": "Data frames",
       "path": "Python/Pandas/Data frames.md"
+    },
+    {
+      "basename": "R",
+      "path": "R/R.md"
     },
     {
       "basename": "Pandas",
@@ -43,10 +47,6 @@
     {
       "basename": "Broadcasting",
       "path": "Python/NumPy/Broadcasting.md"
-    },
-    {
-      "basename": "Revisions",
-      "path": "Anaconda/Revisions.md"
     },
     {
       "basename": "OS",

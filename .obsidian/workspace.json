@@ -46,41 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "75a7306b33986232",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9628051d3948e7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Pandas/Data frames.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c0165c468579e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R/R.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R/R.md",
+                "file": "Anaconda/Revisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R/R.md"
+                "file": "Anaconda/Revisions.md"
               }
             }
           },
@@ -239,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/R.md",
+                "file": "Anaconda/Revisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,9 +233,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c0165c468579e09",
+  "active": "432a2dda9a327c69",
   "lastOpenFiles": [
     "Python/Pandas/Data frames.md",
+    "R/R.md",
     "Python/Pandas/Pandas.md",
     "Python/Modules.md",
     "Python/Pandas/Series.md",
@@ -284,7 +251,6 @@
     "Anaconda/Workflow",
     "Python/try exception.md",
     "Anaconda",
-    "R/R.md",
     "Python/Pandas/MultiIndex.md",
     "Python/Try_Except/try.md",
     "Python/Try_Except",

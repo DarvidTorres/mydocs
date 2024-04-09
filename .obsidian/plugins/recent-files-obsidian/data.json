@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Jupyter settings",
+      "path": "Python/IPython/Jupyter settings.md"
+    },
+    {
+      "basename": "Packages",
+      "path": "Anaconda/Packages.md"
+    },
+    {
+      "basename": "Environment creation",
+      "path": "Anaconda/Environment creation.md"
+    },
+    {
+      "basename": "Conda",
+      "path": "Anaconda/Conda.md"
+    },
+    {
+      "basename": "git_github",
+      "path": "github/git_github.md"
+    },
+    {
       "basename": "Workflow",
       "path": "Python/Pandas/Workflow.md"
     },
@@ -33,20 +53,8 @@
       "path": "Python/Pandas/dtypes.md"
     },
     {
-      "basename": "Environment creation",
-      "path": "Anaconda/Environment creation.md"
-    },
-    {
       "basename": "Export and import environments",
       "path": "Anaconda/Export and import environments.md"
-    },
-    {
-      "basename": "Packages",
-      "path": "Anaconda/Packages.md"
-    },
-    {
-      "basename": "Conda",
-      "path": "Anaconda/Conda.md"
     },
     {
       "basename": "Broadcasting",
@@ -67,10 +75,6 @@
     {
       "basename": "Missing data",
       "path": "Python/Pandas/Missing data.md"
-    },
-    {
-      "basename": "Jupyter settings",
-      "path": "Python/IPython/Jupyter settings.md"
     },
     {
       "basename": "Alias",
@@ -195,10 +199,6 @@
     {
       "basename": "Operators",
       "path": "Python/Operators/Operators.md"
-    },
-    {
-      "basename": "Positional-only or keyword-only",
-      "path": "Python/Functions/Arguments/Positional-only or keyword-only.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pandas/Workflow.md",
+                "file": "Python/IPython/Jupyter settings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 436.5
   },
   "right": {
     "id": "5bb57be36f262ef5",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas/Workflow.md",
+                "file": "Python/IPython/Jupyter settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pandas/Workflow.md"
+                "file": "Python/IPython/Jupyter settings.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas/Workflow.md",
+                "file": "Python/IPython/Jupyter settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,18 +235,19 @@
   },
   "active": "432a2dda9a327c69",
   "lastOpenFiles": [
-    "Anaconda/Revisions.md",
+    "Anaconda/Packages.md",
+    "Anaconda/Environment creation.md",
+    "Anaconda/Conda.md",
+    "github/git_github.md",
     "Python/Pandas/Workflow.md",
+    "Anaconda/Revisions.md",
     "Python/Pandas/Data frames.md",
     "R/R.md",
     "Python/Pandas/Pandas.md",
     "Python/Modules.md",
     "Python/Pandas/Series.md",
     "Python/Pandas/dtypes.md",
-    "Anaconda/Environment creation.md",
     "Anaconda/Export and import environments.md",
-    "Anaconda/Packages.md",
-    "Anaconda/Conda.md",
     "Python/NumPy/Broadcasting.md",
     "Bash/OS.md",
     "Anaconda/Workflow",
@@ -264,7 +265,6 @@
     "Python/NumPy/Arrays.md",
     "Python/data types/Iterables/lists.md",
     "Python/control_flow/if.md",
-    "Python/Functions/Functions.md",
     "Python/IPython",
     "Python/NumPy",
     "Python/Pandas",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Workflow",
+      "path": "Python/Pandas/Workflow.md"
+    },
+    {
       "basename": "Revisions",
       "path": "Anaconda/Revisions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Positional-only or keyword-only",
       "path": "Python/Functions/Arguments/Positional-only or keyword-only.md"
-    },
-    {
-      "basename": "Assignment operators",
-      "path": "Python/Operators/Assignment operators.md"
     }
   ],
   "omittedPaths": [],

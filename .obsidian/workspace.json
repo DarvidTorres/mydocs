@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaconda/Revisions.md",
+                "file": "Python/Pandas/Workflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anaconda/Revisions.md",
+                "file": "Python/Pandas/Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anaconda/Revisions.md"
+                "file": "Python/Pandas/Workflow.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anaconda/Revisions.md",
+                "file": "Python/Pandas/Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,6 +235,8 @@
   },
   "active": "432a2dda9a327c69",
   "lastOpenFiles": [
+    "Anaconda/Revisions.md",
+    "Python/Pandas/Workflow.md",
     "Python/Pandas/Data frames.md",
     "R/R.md",
     "Python/Pandas/Pandas.md",
@@ -246,7 +248,6 @@
     "Anaconda/Packages.md",
     "Anaconda/Conda.md",
     "Python/NumPy/Broadcasting.md",
-    "Anaconda/Revisions.md",
     "Bash/OS.md",
     "Anaconda/Workflow",
     "Python/try exception.md",
@@ -264,7 +265,6 @@
     "Python/data types/Iterables/lists.md",
     "Python/control_flow/if.md",
     "Python/Functions/Functions.md",
-    "Python/OOP/Classes and objects.md",
     "Python/IPython",
     "Python/NumPy",
     "Python/Pandas",

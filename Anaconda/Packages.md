@@ -18,3 +18,7 @@ List packages:
 ```Conda
 conda list
 ```
+
+```
+conda config --append channels conda-forge
+```

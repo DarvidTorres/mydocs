@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaconda/Settings.md",
+                "file": "Python/Callables.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d92167acf3063d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/data types.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anaconda/Settings.md",
+                "file": "Python/Callables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anaconda/Settings.md"
+                "file": "Python/Callables.md"
               }
             }
           },
@@ -192,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anaconda/Settings.md",
+                "file": "Python/Callables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +234,15 @@
   },
   "active": "432a2dda9a327c69",
   "lastOpenFiles": [
-    "Anaconda/Conda.md",
+    "Python/data types/data types.md",
+    "Python/Callables.md",
+    "Python/data types/Iterables/lists.md",
+    "Python/data types/Iterables/Iterables.md",
+    "Python/data types/Iterables/sets.md",
+    "Python/data types/Iterables/Sequence methods.md",
+    "Python/Pandas/Workflow.md",
     "Anaconda/Settings.md",
+    "Anaconda/Conda.md",
     "Python/IPython/Jupyter settings.md",
     "Python/OOP/Inheritance.md",
     "Python/OOP/Classes and objects.md",
@@ -231,7 +250,6 @@
     "Anaconda/Packages.md",
     "Anaconda/Export and import environments.md",
     "github/git_github.md",
-    "Python/Pandas/Workflow.md",
     "Anaconda/Revisions.md",
     "Python/Pandas/Data frames.md",
     "R/R.md",
@@ -244,14 +262,8 @@
     "Anaconda/Workflow",
     "Python/try exception.md",
     "Anaconda",
-    "Python/Pandas/MultiIndex.md",
-    "Python/Try_Except/try.md",
     "Python/Try_Except",
-    "Python/Pandas/Missing data.md",
     "Python/Pandas/Untitled",
-    "Python/Alias.md",
-    "Python/NumPy/Unfunc.md",
-    "Python/NumPy/Slicing.md",
     "Python/IPython",
     "Python/NumPy",
     "Python/Pandas",

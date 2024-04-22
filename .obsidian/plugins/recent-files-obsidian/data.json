@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Callables",
+      "path": "Python/Callables.md"
+    },
+    {
+      "basename": "data types",
+      "path": "Python/data types/data types.md"
+    },
+    {
+      "basename": "lists",
+      "path": "Python/data types/Iterables/lists.md"
+    },
+    {
+      "basename": "Iterables",
+      "path": "Python/data types/Iterables/Iterables.md"
+    },
+    {
+      "basename": "sets",
+      "path": "Python/data types/Iterables/sets.md"
+    },
+    {
+      "basename": "Sequence methods",
+      "path": "Python/data types/Iterables/Sequence methods.md"
+    },
+    {
+      "basename": "Workflow",
+      "path": "Python/Pandas/Workflow.md"
+    },
+    {
       "basename": "Settings",
       "path": "Anaconda/Settings.md"
     },
@@ -35,10 +63,6 @@
     {
       "basename": "git_github",
       "path": "github/git_github.md"
-    },
-    {
-      "basename": "Workflow",
-      "path": "Python/Pandas/Workflow.md"
     },
     {
       "basename": "Revisions",
@@ -105,10 +129,6 @@
       "path": "Python/NumPy/Arrays.md"
     },
     {
-      "basename": "lists",
-      "path": "Python/data types/Iterables/lists.md"
-    },
-    {
       "basename": "if",
       "path": "Python/control_flow/if.md"
     },
@@ -131,10 +151,6 @@
     {
       "basename": "type_casting",
       "path": "Python/data types/type_casting.md"
-    },
-    {
-      "basename": "data types",
-      "path": "Python/data types/data types.md"
     },
     {
       "basename": "Shell commands",
@@ -183,22 +199,6 @@
     {
       "basename": "lambda functions",
       "path": "Python/Functions/lambda functions.md"
-    },
-    {
-      "basename": "Arbitrary arguments",
-      "path": "Python/Functions/Arguments/Arbitrary arguments.md"
-    },
-    {
-      "basename": "keyword arguments",
-      "path": "Python/Functions/Arguments/keyword arguments.md"
-    },
-    {
-      "basename": "Default arguments",
-      "path": "Python/Functions/Arguments/Default arguments.md"
-    },
-    {
-      "basename": "Arithmetic operators",
-      "path": "Python/Operators/Arithmetic operators.md"
     }
   ],
   "omittedPaths": [],

@@ -8,10 +8,9 @@ Example
 myString = "string"
 myFloat = 2.32
 myIntA = 3
-myIntB = 3
 myComplex = 1+2j
 myBool = True
-my_list = [myString, myFloat, myIntA, myIntB, myComplex, myBool]
+my_list = [myString, myFloat, myIntA, myIntA, myComplex, myBool]
 print(my_list)
 print(type(my_list))
 ```

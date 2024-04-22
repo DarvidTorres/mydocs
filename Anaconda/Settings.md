@@ -1,3 +1,3 @@
 # VS Code
 
-conda init
+`conda init`

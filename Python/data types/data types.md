@@ -11,18 +11,28 @@ x = "Four"
 title: Python datatypes
 ---
 flowchart LR
-A(Python - Data types)
+A(Types)
 A --> B(Numeric)
-	B --> Integer
-	B --> Float
-	B --> Z(Complex Number)
-A --> C(Dictionary)
-A --> D(Boolean)
-A --> E(Set)
-A --> F(Sequence type)
-F --> String
-F --> List
-F --> Tuple
+	B --> C(Integral)
+		C --> Integer
+		C --> Boolean
+	B --> D(Non-integral)
+		D --> Float
+		D --> Complex
+A --> E(Collections)
+	E --> F(Sequences)
+		F --> G(Mutable)
+			G --> Lists
+		F --> H(Immutable)
+			H --> Tuples
+			H --> Strings
+	E --> I(Sets)
+		I --> J(Mutable)
+			J --> sets
+		I --> K(Immutable)
+			K --> L[Frozen Sets]
+		I --> M(Mappings)
+			M --> Dictionary
 ```
 
 | Description     | Type                               |

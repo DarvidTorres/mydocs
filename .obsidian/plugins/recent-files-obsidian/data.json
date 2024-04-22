@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Settings",
+      "path": "Anaconda/Settings.md"
+    },
+    {
+      "basename": "Conda",
+      "path": "Anaconda/Conda.md"
+    },
+    {
+      "basename": "Jupyter settings",
+      "path": "Python/IPython/Jupyter settings.md"
+    },
+    {
+      "basename": "Inheritance",
+      "path": "Python/OOP/Inheritance.md"
+    },
+    {
+      "basename": "Classes and objects",
+      "path": "Python/OOP/Classes and objects.md"
+    },
+    {
       "basename": "Environment creation",
       "path": "Anaconda/Environment creation.md"
     },
@@ -11,14 +31,6 @@
     {
       "basename": "Export and import environments",
       "path": "Anaconda/Export and import environments.md"
-    },
-    {
-      "basename": "Jupyter settings",
-      "path": "Python/IPython/Jupyter settings.md"
-    },
-    {
-      "basename": "Conda",
-      "path": "Anaconda/Conda.md"
     },
     {
       "basename": "git_github",
@@ -105,10 +117,6 @@
       "path": "Python/Functions/Functions.md"
     },
     {
-      "basename": "Classes and objects",
-      "path": "Python/OOP/Classes and objects.md"
-    },
-    {
       "basename": "Boolean",
       "path": "Python/data types/Boolean.md"
     },
@@ -147,10 +155,6 @@
     {
       "basename": "IPython",
       "path": "Python/IPython/IPython.md"
-    },
-    {
-      "basename": "Inheritance",
-      "path": "Python/OOP/Inheritance.md"
     },
     {
       "basename": "Polymorphism",
@@ -195,10 +199,6 @@
     {
       "basename": "Arithmetic operators",
       "path": "Python/Operators/Arithmetic operators.md"
-    },
-    {
-      "basename": "Operators",
-      "path": "Python/Operators/Operators.md"
     }
   ],
   "omittedPaths": [],

@@ -1,4 +1,4 @@
-In Python, inheritance is a way to define a new class based on an existing class. The new class is called the child class and the existing class is called the parent class. The child class inherits all the attributes and methods of the parent class, and can also add new attributes and methods of its own
+In Python, inheritance is a way to define a new class based on an existing [[Classes and objects#Classes|class]]. The new [[Classes and objects#Classes|class]]]] is called the child class and the existing class is called the parent class. The child class inherits all the attributes and methods of the parent class, and can also add new attributes and methods of its own
 
 - Classes can inherit attributes and methods from other classes.
 

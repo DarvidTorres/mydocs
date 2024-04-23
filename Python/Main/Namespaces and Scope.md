@@ -3,7 +3,7 @@
 - A namespace is a mapping from names to objects. Most namespaces are currently implemented as Python [[dictionaries]], but that’s normally not noticeable in any way (except for performance), and it may change in the future.
 	- A dictionary namespace maps the names (as keys) to their respective objects (as values).
 
-There is no relation between names in different namespaces; for instance, two different modules may both define a [[Python/Functions/Functions|function]] `maximize` without confusion — users of the [[modules]] must prefix it with the module name.
+There is no relation between names in different namespaces; for instance, two different modules may both define a [[Python/Functions/Functions|function]] `maximize` without confusion — users of the [[Modules]] must prefix it with the module name.
 
 - Namespaces are created at different moments and have different lifetimes.
 - The namespace containing the built-in names is created when the Python interpreter starts up, and is never deleted.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Callables.md",
+                "file": "Python/data types/strings/strings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Callables.md",
+                "file": "Python/data types/data types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Callables.md"
+                "file": "Python/data types/data types.md"
               }
             }
           },
@@ -205,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Callables.md",
+                "file": "Python/data types/data types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,10 +233,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "432a2dda9a327c69",
+  "active": "1d92167acf3063d7",
   "lastOpenFiles": [
+    "Python/OOP/Inheritance.md",
     "Python/data types/data types.md",
-    "Python/Callables.md",
+    "Python/data types/strings/strings.md",
+    "Python/Main/Singletons.md",
+    "Python/Main/Callables.md",
+    "Python/Main",
     "Python/data types/Iterables/lists.md",
     "Python/data types/Iterables/Iterables.md",
     "Python/data types/Iterables/sets.md",
@@ -244,7 +249,6 @@
     "Anaconda/Settings.md",
     "Anaconda/Conda.md",
     "Python/IPython/Jupyter settings.md",
-    "Python/OOP/Inheritance.md",
     "Python/OOP/Classes and objects.md",
     "Anaconda/Environment creation.md",
     "Anaconda/Packages.md",
@@ -254,13 +258,11 @@
     "Python/Pandas/Data frames.md",
     "R/R.md",
     "Python/Pandas/Pandas.md",
-    "Python/Modules.md",
+    "Python/Main/Modules.md",
     "Python/Pandas/Series.md",
     "Python/Pandas/dtypes.md",
     "Python/NumPy/Broadcasting.md",
-    "Bash/OS.md",
     "Anaconda/Workflow",
-    "Python/try exception.md",
     "Anaconda",
     "Python/Try_Except",
     "Python/Pandas/Untitled",
@@ -269,7 +271,6 @@
     "Python/Pandas",
     "Python/OOP/Untitled",
     "Python/OOP",
-    "Python/Functions/Arguments",
     "Pasted image 20230319193607.png"
   ]
 }

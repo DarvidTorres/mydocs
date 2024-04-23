@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Callables",
-      "path": "Python/Callables.md"
-    },
-    {
       "basename": "data types",
       "path": "Python/data types/data types.md"
+    },
+    {
+      "basename": "Inheritance",
+      "path": "Python/OOP/Inheritance.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
+    },
+    {
+      "basename": "Singletons",
+      "path": "Python/Main/Singletons.md"
+    },
+    {
+      "basename": "Callables",
+      "path": "Python/Main/Callables.md"
     },
     {
       "basename": "lists",
@@ -39,10 +51,6 @@
     {
       "basename": "Jupyter settings",
       "path": "Python/IPython/Jupyter settings.md"
-    },
-    {
-      "basename": "Inheritance",
-      "path": "Python/OOP/Inheritance.md"
     },
     {
       "basename": "Classes and objects",
@@ -82,7 +90,7 @@
     },
     {
       "basename": "Modules",
-      "path": "Python/Modules.md"
+      "path": "Python/Main/Modules.md"
     },
     {
       "basename": "Series",
@@ -102,7 +110,7 @@
     },
     {
       "basename": "try exception",
-      "path": "Python/try exception.md"
+      "path": "Python/Main/try exception.md"
     },
     {
       "basename": "MultiIndex",
@@ -114,7 +122,7 @@
     },
     {
       "basename": "Alias",
-      "path": "Python/Alias.md"
+      "path": "Python/Main/Alias.md"
     },
     {
       "basename": "Unfunc",
@@ -182,7 +190,7 @@
     },
     {
       "basename": "Namespaces and Scope",
-      "path": "Python/Namespaces and Scope.md"
+      "path": "Python/Main/Namespaces and Scope.md"
     },
     {
       "basename": "Methods",
@@ -191,14 +199,6 @@
     {
       "basename": "types",
       "path": "C/data types/types.md"
-    },
-    {
-      "basename": "docstrings",
-      "path": "Python/docstrings.md"
-    },
-    {
-      "basename": "lambda functions",
-      "path": "Python/Functions/lambda functions.md"
     }
   ],
   "omittedPaths": [],

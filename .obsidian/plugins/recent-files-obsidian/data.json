@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Environment creation",
+      "path": "Anaconda/Environment creation.md"
+    },
+    {
+      "basename": "Packages",
+      "path": "Anaconda/Packages.md"
+    },
+    {
+      "basename": "Conda",
+      "path": "Anaconda/Conda.md"
+    },
+    {
       "basename": "data types",
       "path": "Python/data types/data types.md"
     },
@@ -45,24 +57,12 @@
       "path": "Anaconda/Settings.md"
     },
     {
-      "basename": "Conda",
-      "path": "Anaconda/Conda.md"
-    },
-    {
       "basename": "Jupyter settings",
       "path": "Python/IPython/Jupyter settings.md"
     },
     {
       "basename": "Classes and objects",
       "path": "Python/OOP/Classes and objects.md"
-    },
-    {
-      "basename": "Environment creation",
-      "path": "Anaconda/Environment creation.md"
-    },
-    {
-      "basename": "Packages",
-      "path": "Anaconda/Packages.md"
     },
     {
       "basename": "Export and import environments",

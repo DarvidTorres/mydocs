@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Environment creation",
-      "path": "Anaconda/Environment creation.md"
+      "basename": "Workflow",
+      "path": "Python/Pandas/Workflow.md"
+    },
+    {
+      "basename": "Data frames",
+      "path": "Python/Pandas/Data frames.md"
+    },
+    {
+      "basename": "Jupyter settings",
+      "path": "Python/IPython/Jupyter settings.md"
     },
     {
       "basename": "Packages",
       "path": "Anaconda/Packages.md"
     },
     {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
+      "basename": "Environment creation",
+      "path": "Anaconda/Environment creation.md"
     },
     {
-      "basename": "Inheritance",
-      "path": "Python/OOP/Inheritance.md"
+      "basename": "Conda",
+      "path": "Anaconda/Conda.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "Anaconda/Settings.md"
     },
     {
       "basename": "Revisions",
       "path": "Anaconda/Revisions.md"
     },
     {
-      "basename": "Conda",
-      "path": "Anaconda/Conda.md"
+      "basename": "Inheritance",
+      "path": "Python/OOP/Inheritance.md"
+    },
+    {
+      "basename": "IPython",
+      "path": "Python/IPython/IPython.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
     },
     {
       "basename": "data types",
@@ -53,18 +73,6 @@
       "path": "Python/data types/Iterables/Sequence methods.md"
     },
     {
-      "basename": "Workflow",
-      "path": "Python/Pandas/Workflow.md"
-    },
-    {
-      "basename": "Settings",
-      "path": "Anaconda/Settings.md"
-    },
-    {
-      "basename": "Jupyter settings",
-      "path": "Python/IPython/Jupyter settings.md"
-    },
-    {
       "basename": "Classes and objects",
       "path": "Python/OOP/Classes and objects.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "git_github",
       "path": "github/git_github.md"
-    },
-    {
-      "basename": "Data frames",
-      "path": "Python/Pandas/Data frames.md"
     },
     {
       "basename": "R",
@@ -175,10 +179,6 @@
     {
       "basename": "Help",
       "path": "Python/IPython/Help.md"
-    },
-    {
-      "basename": "IPython",
-      "path": "Python/IPython/IPython.md"
     },
     {
       "basename": "Polymorphism",

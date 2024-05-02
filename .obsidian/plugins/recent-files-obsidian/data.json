@@ -9,20 +9,24 @@
       "path": "Anaconda/Packages.md"
     },
     {
-      "basename": "Conda",
-      "path": "Anaconda/Conda.md"
-    },
-    {
-      "basename": "data types",
-      "path": "Python/data types/data types.md"
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
     },
     {
       "basename": "Inheritance",
       "path": "Python/OOP/Inheritance.md"
     },
     {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
+      "basename": "Revisions",
+      "path": "Anaconda/Revisions.md"
+    },
+    {
+      "basename": "Conda",
+      "path": "Anaconda/Conda.md"
+    },
+    {
+      "basename": "data types",
+      "path": "Python/data types/data types.md"
     },
     {
       "basename": "Singletons",
@@ -71,10 +75,6 @@
     {
       "basename": "git_github",
       "path": "github/git_github.md"
-    },
-    {
-      "basename": "Revisions",
-      "path": "Anaconda/Revisions.md"
     },
     {
       "basename": "Data frames",

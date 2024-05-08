@@ -1,4 +1,6 @@
 
+An iterable is an [[Classes and objects#Objects|object]] capable of returning values one at a time.
+
 ```mermaid
 ---
 title: Iterables

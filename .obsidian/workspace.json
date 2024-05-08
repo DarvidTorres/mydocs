@@ -8,58 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a28f2acc3072d4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Main/Line continuation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1f6ea761c19b2c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Main/identifiers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3811e59c1fb5e1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Functions/Functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21c78ab729ec6177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Functions/lambda functions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9a41e774ef0d79a2",
             "type": "leaf",
             "state": {
@@ -79,6 +27,19 @@
               "type": "markdown",
               "state": {
                 "file": "Python/control_flow/for.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0ae374c0b828873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/Iterable/Iterable.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Main/try exception.md",
+                "file": "Python/data types/Iterable/Iterable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Main/try exception.md"
+                "file": "Python/data types/Iterable/Iterable.md"
               }
             }
           },
@@ -271,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Main/try exception.md",
+                "file": "Python/data types/Iterable/Iterable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,13 +259,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a41e774ef0d79a2",
+  "active": "b0ae374c0b828873",
   "lastOpenFiles": [
+    "Python/control_flow/for.md",
+    "Python/Main/try exception.md",
     "Python/control_flow/while.md",
     "Python/Operators/Arithmetic operators.md",
     "Python/Operators/Operators.md",
-    "Python/control_flow/for.md",
-    "Python/Main/try exception.md",
     "Python/Functions/Arguments/Arbitrary arguments.md",
     "Python/Functions/Arguments/Default arguments.md",
     "Python/Functions/lambda functions.md",

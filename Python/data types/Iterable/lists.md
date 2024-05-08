@@ -78,7 +78,7 @@ Example 1:
 ```Python
 [x for x in range(1, 10)]
 ```
-Each item from the [[Iterables|iterable]] is added to the list.
+Each item from the [[Iterable|iterable]] is added to the list.
 
 Example 2:
 ```Python

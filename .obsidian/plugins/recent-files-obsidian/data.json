@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Iterable",
+      "path": "Python/data types/Iterable/Iterable.md"
+    },
+    {
+      "basename": "for",
+      "path": "Python/control_flow/for.md"
+    },
+    {
       "basename": "try exception",
       "path": "Python/Main/try exception.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Operators",
       "path": "Python/Operators/Operators.md"
-    },
-    {
-      "basename": "for",
-      "path": "Python/control_flow/for.md"
     },
     {
       "basename": "Arbitrary arguments",
@@ -118,19 +122,15 @@
     },
     {
       "basename": "lists",
-      "path": "Python/data types/Iterables/lists.md"
-    },
-    {
-      "basename": "Iterables",
-      "path": "Python/data types/Iterables/Iterables.md"
+      "path": "Python/data types/Iterable/lists.md"
     },
     {
       "basename": "sets",
-      "path": "Python/data types/Iterables/sets.md"
+      "path": "Python/data types/Iterable/sets.md"
     },
     {
       "basename": "Sequence methods",
-      "path": "Python/data types/Iterables/Sequence methods.md"
+      "path": "Python/data types/Iterable/Sequence methods.md"
     },
     {
       "basename": "Workflow",

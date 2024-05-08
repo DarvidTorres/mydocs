@@ -13,6 +13,12 @@ from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = 'all'
 ```
 
+# Working directory
+
+```IPython
+%pwd
+%cd
+```
 ## Google Colab
 
 Install IPython

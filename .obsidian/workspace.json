@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "a95342b4011a63bf",
+            "id": "21c78ab729ec6177",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP/Classes and objects.md",
+                "file": "Python/Functions/lambda functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "52b476fe70cc08f2",
+            "id": "9a41e774ef0d79a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Main/Namespaces and Scope.md",
+                "file": "Python/Main/try exception.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +73,12 @@
             }
           },
           {
-            "id": "86bd42bb692fc19b",
+            "id": "094dd24a29c5ff61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Main/comments.md",
+                "file": "Python/control_flow/for.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,12 +86,12 @@
             }
           },
           {
-            "id": "0d40e907dd46975d",
+            "id": "a1ff1ad8458506ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Main/docstrings.md",
+                "file": "Python/control_flow/while.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,38 +99,12 @@
             }
           },
           {
-            "id": "3972055f0c6dc6d3",
+            "id": "6aea6522f3ff57f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaconda/Conda.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b747ecf149bca18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anaconda/Revisions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ff60df3ce65b64d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/OOP/Inheritance.md",
+                "file": "Python/Operators/Arithmetic operators.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boolean expression",
+                "query": "continue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 434.5
   },
   "right": {
     "id": "5bb57be36f262ef5",
@@ -228,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP/Classes and objects.md",
+                "file": "Python/Main/try exception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOP/Classes and objects.md"
+                "file": "Python/Main/try exception.md"
               }
             }
           },
@@ -297,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOP/Classes and objects.md",
+                "file": "Python/Main/try exception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,9 +298,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a95342b4011a63bf",
+  "active": "9a41e774ef0d79a2",
   "lastOpenFiles": [
+    "Python/control_flow/while.md",
+    "Python/Operators/Arithmetic operators.md",
+    "Python/Operators/Operators.md",
+    "Python/control_flow/for.md",
+    "Python/Main/try exception.md",
+    "Python/Functions/Arguments/Arbitrary arguments.md",
+    "Python/Functions/Arguments/Default arguments.md",
+    "Python/Functions/lambda functions.md",
     "Python/Functions/Functions.md",
+    "Python/Main/comments.md",
+    "Python/Main/docstrings.md",
+    "Anaconda/Conda.md",
+    "Anaconda/Revisions.md",
+    "Python/control_flow/if.md",
+    "Python/OOP/Classes and objects.md",
     "Python/Main/identifiers.md",
     "Python/Main/Namespaces and Scope.md",
     "Python/Main/Alias.md",
@@ -334,25 +322,11 @@
     "R/Types.md",
     "Python/data types/data types.md",
     "Python/data types/strings/multiline strings.md",
-    "Python/Main/docstrings.md",
-    "Python/Main/comments.md",
     "Python/Main/Line continuation.md",
     "conflict-files-obsidian-git.md",
     "Python/data types/strings/strings.md",
     "Anaconda/Packages.md",
-    "Anaconda/Environment creation.md",
-    "Python/OOP/Inheritance.md",
-    "Anaconda/Revisions.md",
-    "Anaconda/Conda.md",
-    "Python/Main/Singletons.md",
-    "Python/Main/Callables.md",
     "Python/Main",
-    "Python/data types/Iterables/lists.md",
-    "Python/data types/Iterables/Iterables.md",
-    "Python/data types/Iterables/sets.md",
-    "Python/data types/Iterables/Sequence methods.md",
-    "Python/Pandas/Workflow.md",
-    "Anaconda/Settings.md",
     "Anaconda/Workflow",
     "Anaconda",
     "Python/Try_Except",

@@ -51,6 +51,28 @@ print(subtract(2, 3))
 print(subtract(3, 2))
 ```
 
+The function itself is an object, can be returned in an interactive display like [[IPython]], without calling arguments, only identifier:
+```IPython
+def my_fun():
+	print("Foo")
+	
+my_fun # Return function object
+type(my_fun)
+my_fun() # Actual invokation
+```
+
+We can flag expected type as documentation to the function arguments, although it doesn't prevent the passing of other types:
+
+```Python
+def my_fun(a: int, b: int):
+	print(a * b)
+	
+my_fun(2, 3)
+my_fun('a', 3)
+my_fun([1, 2], 3)
+```
+
+
 ![[docstrings#function docstrings]]
 
 

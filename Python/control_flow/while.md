@@ -31,7 +31,7 @@ else:
 
 ## break
 - With the break statement we can stop the loop even if the while condition is `True`.
-- `break` may only occur syntactically nested in a `for` or `while` loop, but not nested in a function or class definition within that loop.
+- `break` may only occur syntactically nested in a `for` or `while` loop, but not nested in a [[Python/Functions/Functions|function]] or [[Classes and objects#Classes|class]] definition within that loop.
 - It **terminates** the nearest enclosing loop, skipping the optional `else` clause if the loop has one.
 Example: 
 ```Python

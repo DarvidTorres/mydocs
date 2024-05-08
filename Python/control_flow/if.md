@@ -45,7 +45,7 @@ syntax:
 if <if_bool_expr>:
     <if_suite>
 elif <elif_bool_expr>:
-    <elif_suite_0>
+    <elif_suite>
 else:
     <suite>
 ```

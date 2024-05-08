@@ -1,12 +1,13 @@
-| Operator | Name           | Example      |
-| -------- | -------------- | ------------ |
-| `+`      | Addition       | `a + b = 30` |
-| `-`      | Subtraction    | `a – b = -10` |
-| `*`      | Multiplication | `a * b = 200` |
-| `/`      | Division       | `b / a = 2` |
-| `%`      | Modulus        | `b % a = 0` |
-| `**`     | Exponent       | `a**b =10**20` |
-| `//`     | Floor Division | `9//2 = 4` |
+
+| Operator | Name           |
+| -------- | -------------- |
+| `+`      | Addition       |
+| `-`      | Subtraction    |
+| `*`      | Multiplication |
+| `/`      | Division       |
+| `%`      | Modulus        |
+| `**`     | Exponent       |
+| `//`     | Floor Division |
 
 - Addition of `integer` and `float` results in a `float`. See [[type_casting#Implicit casting]]
 ```Python

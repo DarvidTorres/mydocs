@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Classes and objects",
-      "path": "Python/OOP/Classes and objects.md"
+      "basename": "try exception",
+      "path": "Python/Main/try exception.md"
+    },
+    {
+      "basename": "while",
+      "path": "Python/control_flow/while.md"
+    },
+    {
+      "basename": "Arithmetic operators",
+      "path": "Python/Operators/Arithmetic operators.md"
+    },
+    {
+      "basename": "Operators",
+      "path": "Python/Operators/Operators.md"
+    },
+    {
+      "basename": "for",
+      "path": "Python/control_flow/for.md"
+    },
+    {
+      "basename": "Arbitrary arguments",
+      "path": "Python/Functions/Arguments/Arbitrary arguments.md"
+    },
+    {
+      "basename": "Default arguments",
+      "path": "Python/Functions/Arguments/Default arguments.md"
+    },
+    {
+      "basename": "lambda functions",
+      "path": "Python/Functions/lambda functions.md"
     },
     {
       "basename": "Functions",
       "path": "Python/Functions/Functions.md"
+    },
+    {
+      "basename": "comments",
+      "path": "Python/Main/comments.md"
+    },
+    {
+      "basename": "docstrings",
+      "path": "Python/Main/docstrings.md"
+    },
+    {
+      "basename": "Conda",
+      "path": "Anaconda/Conda.md"
+    },
+    {
+      "basename": "Revisions",
+      "path": "Anaconda/Revisions.md"
+    },
+    {
+      "basename": "if",
+      "path": "Python/control_flow/if.md"
+    },
+    {
+      "basename": "Classes and objects",
+      "path": "Python/OOP/Classes and objects.md"
     },
     {
       "basename": "identifiers",
@@ -37,14 +89,6 @@
       "path": "Python/data types/strings/multiline strings.md"
     },
     {
-      "basename": "docstrings",
-      "path": "Python/Main/docstrings.md"
-    },
-    {
-      "basename": "comments",
-      "path": "Python/Main/comments.md"
-    },
-    {
       "basename": "Line continuation",
       "path": "Python/Main/Line continuation.md"
     },
@@ -63,14 +107,6 @@
     {
       "basename": "Inheritance",
       "path": "Python/OOP/Inheritance.md"
-    },
-    {
-      "basename": "Revisions",
-      "path": "Anaconda/Revisions.md"
-    },
-    {
-      "basename": "Conda",
-      "path": "Anaconda/Conda.md"
     },
     {
       "basename": "Singletons",
@@ -149,10 +185,6 @@
       "path": "Bash/OS.md"
     },
     {
-      "basename": "try exception",
-      "path": "Python/Main/try exception.md"
-    },
-    {
       "basename": "MultiIndex",
       "path": "Python/Pandas/MultiIndex.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Slicing",
       "path": "Python/NumPy/Slicing.md"
-    },
-    {
-      "basename": "Arrays",
-      "path": "Python/NumPy/Arrays.md"
-    },
-    {
-      "basename": "if",
-      "path": "Python/control_flow/if.md"
-    },
-    {
-      "basename": "Boolean",
-      "path": "Python/data types/Boolean.md"
-    },
-    {
-      "basename": "Control structures",
-      "path": "Python/control_flow/Control structures.md"
-    },
-    {
-      "basename": "for",
-      "path": "Python/control_flow/for.md"
-    },
-    {
-      "basename": "type_casting",
-      "path": "Python/data types/type_casting.md"
-    },
-    {
-      "basename": "Shell commands",
-      "path": "Python/IPython/Shell commands.md"
-    },
-    {
-      "basename": "Magic commands",
-      "path": "Python/IPython/Magic commands.md"
     }
   ],
   "omittedPaths": [],

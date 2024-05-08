@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Environment creation",
-      "path": "Anaconda/Environment creation.md"
+      "basename": "Line continuation",
+      "path": "Python/Main/Line continuation.md"
+    },
+    {
+      "basename": "comments",
+      "path": "Python/Main/comments.md"
+    },
+    {
+      "basename": "multiline strings",
+      "path": "Python/data types/strings/multiline strings.md"
+    },
+    {
+      "basename": "docstrings",
+      "path": "Python/Main/docstrings.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
     },
     {
       "basename": "Packages",
       "path": "Anaconda/Packages.md"
     },
     {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
+      "basename": "literals",
+      "path": "Python/Main/literals.md"
+    },
+    {
+      "basename": "Environment creation",
+      "path": "Anaconda/Environment creation.md"
     },
     {
       "basename": "Inheritance",
@@ -179,26 +199,6 @@
     {
       "basename": "IPython",
       "path": "Python/IPython/IPython.md"
-    },
-    {
-      "basename": "Polymorphism",
-      "path": "Python/OOP/Polymorphism.md"
-    },
-    {
-      "basename": "Encapsulation",
-      "path": "Python/OOP/Encapsulation.md"
-    },
-    {
-      "basename": "Namespaces and Scope",
-      "path": "Python/Main/Namespaces and Scope.md"
-    },
-    {
-      "basename": "Methods",
-      "path": "Python/Functions/Methods.md"
-    },
-    {
-      "basename": "types",
-      "path": "C/data types/types.md"
     }
   ],
   "omittedPaths": [],

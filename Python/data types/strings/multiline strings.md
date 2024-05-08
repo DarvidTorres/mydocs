@@ -1,6 +1,18 @@
-# multiline strings
 
 String [[literals]] can span multiple lines using triple-quotes:
+
+```python
+print(
+    '''This is a
+    multi-line
+    string
+    '''
+)
+
+print("Single-line string")
+```
+
+Non-visible characters such as newlines, tabs, etc. are actually part of the string.
 
 ```Python
 print("""a\

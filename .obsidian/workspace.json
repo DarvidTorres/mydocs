@@ -8,38 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "432a2dda9a327c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/strings/strings.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d92167acf3063d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anaconda/Packages.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2a28f2acc3072d4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaconda/Environment creation.md",
+                "file": "Python/Main/Line continuation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1f6ea761c19b2c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/strings/multiline strings.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86bd42bb692fc19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Main/comments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d40e907dd46975d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Main/docstrings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anaconda/Environment creation.md",
+                "file": "Python/Main/Line continuation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anaconda/Environment creation.md"
+                "file": "Python/Main/Line continuation.md"
               }
             }
           },
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anaconda/Environment creation.md",
+                "file": "Python/Main/Line continuation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,11 +286,16 @@
   },
   "active": "2a28f2acc3072d4a",
   "lastOpenFiles": [
-    "Anaconda/Packages.md",
+    "Python/Main/comments.md",
+    "Python/data types/strings/multiline strings.md",
+    "Python/Main/Line continuation.md",
+    "Python/Main/docstrings.md",
     "Python/data types/strings/strings.md",
+    "Anaconda/Packages.md",
+    "Python/Main/literals.md",
+    "Anaconda/Environment creation.md",
     "Python/OOP/Inheritance.md",
     "Anaconda/Revisions.md",
-    "Anaconda/Environment creation.md",
     "Anaconda/Conda.md",
     "Python/data types/data types.md",
     "Python/Main/Singletons.md",
@@ -296,11 +313,6 @@
     "github/git_github.md",
     "Python/Pandas/Data frames.md",
     "R/R.md",
-    "Python/Pandas/Pandas.md",
-    "Python/Main/Modules.md",
-    "Python/Pandas/Series.md",
-    "Python/Pandas/dtypes.md",
-    "Python/NumPy/Broadcasting.md",
     "Anaconda/Workflow",
     "Anaconda",
     "Python/Try_Except",

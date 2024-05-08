@@ -27,7 +27,9 @@ An object contains:
 In Python, a class is a user-defined prototype or template from which objects are created, encompassing a set of attributes and methods that are common to all objects of that class.
 - A class is a collection of objects. 
 - Unlike primitive data structures, classes are data structures that the user defines.
-- `class` creates a new [[data types|type]] of object, allowing new _instances_ of that type to be made. 
+- `class` creates a new [[data types|type]] of object, allowing new _instances_ of that type to be made.
+
+- Class identifiers should be `CapWords`
 
 syntax:
 ```Python

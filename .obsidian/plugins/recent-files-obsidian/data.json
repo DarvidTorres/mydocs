@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Line continuation",
-      "path": "Python/Main/Line continuation.md"
+      "basename": "Classes and objects",
+      "path": "Python/OOP/Classes and objects.md"
     },
     {
-      "basename": "comments",
-      "path": "Python/Main/comments.md"
+      "basename": "Functions",
+      "path": "Python/Functions/Functions.md"
+    },
+    {
+      "basename": "identifiers",
+      "path": "Python/Main/identifiers.md"
+    },
+    {
+      "basename": "Namespaces and Scope",
+      "path": "Python/Main/Namespaces and Scope.md"
+    },
+    {
+      "basename": "Alias",
+      "path": "Python/Main/Alias.md"
+    },
+    {
+      "basename": "literals",
+      "path": "Python/Main/literals.md"
+    },
+    {
+      "basename": "Types",
+      "path": "R/Types.md"
+    },
+    {
+      "basename": "data types",
+      "path": "Python/data types/data types.md"
     },
     {
       "basename": "multiline strings",
@@ -17,16 +41,20 @@
       "path": "Python/Main/docstrings.md"
     },
     {
+      "basename": "comments",
+      "path": "Python/Main/comments.md"
+    },
+    {
+      "basename": "Line continuation",
+      "path": "Python/Main/Line continuation.md"
+    },
+    {
       "basename": "strings",
       "path": "Python/data types/strings/strings.md"
     },
     {
       "basename": "Packages",
       "path": "Anaconda/Packages.md"
-    },
-    {
-      "basename": "literals",
-      "path": "Python/Main/literals.md"
     },
     {
       "basename": "Environment creation",
@@ -43,10 +71,6 @@
     {
       "basename": "Conda",
       "path": "Anaconda/Conda.md"
-    },
-    {
-      "basename": "data types",
-      "path": "Python/data types/data types.md"
     },
     {
       "basename": "Singletons",
@@ -83,10 +107,6 @@
     {
       "basename": "Jupyter settings",
       "path": "Python/IPython/Jupyter settings.md"
-    },
-    {
-      "basename": "Classes and objects",
-      "path": "Python/OOP/Classes and objects.md"
     },
     {
       "basename": "Export and import environments",
@@ -141,10 +161,6 @@
       "path": "Python/Pandas/Missing data.md"
     },
     {
-      "basename": "Alias",
-      "path": "Python/Main/Alias.md"
-    },
-    {
       "basename": "Unfunc",
       "path": "Python/NumPy/Unfunc.md"
     },
@@ -159,10 +175,6 @@
     {
       "basename": "if",
       "path": "Python/control_flow/if.md"
-    },
-    {
-      "basename": "Functions",
-      "path": "Python/Functions/Functions.md"
     },
     {
       "basename": "Boolean",
@@ -187,14 +199,6 @@
     {
       "basename": "Magic commands",
       "path": "Python/IPython/Magic commands.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Help",
-      "path": "Python/IPython/Help.md"
     }
   ],
   "omittedPaths": [],

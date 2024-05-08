@@ -6,7 +6,10 @@
 	- Functions defined in built-in [[Modules|modules]]
 	- User-defined functions
 
+
 - Function objects are created by function definition.
+
+- function identifiers must be `snake_case`.
 
 syntax:
 ```Python

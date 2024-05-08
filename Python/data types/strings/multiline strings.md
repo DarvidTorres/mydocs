@@ -1,15 +1,14 @@
+- For triple-quoted strings, always use double quote characters to be consistent with the [[docstrings|docstring]] convention in PEP 257.
+- The line length should be limited to 72 characters.
 
 String [[literals]] can span multiple lines using triple-quotes:
 
-```python
-print(
-    '''This is a
-    multi-line
-    string
-    '''
-)
-
-print("Single-line string")
+ ```python
+ a = '''this
+ is a string
+ '''
+ a
+ print(a)
 ```
 
 Non-visible characters such as newlines, tabs, etc. are actually part of the string.

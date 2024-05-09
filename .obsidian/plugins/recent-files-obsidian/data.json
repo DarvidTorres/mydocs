@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Classes and objects",
+      "path": "Python/OOP/Classes and objects.md"
+    },
+    {
       "basename": "Iterable",
       "path": "Python/data types/Iterable/Iterable.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "if",
       "path": "Python/control_flow/if.md"
-    },
-    {
-      "basename": "Classes and objects",
-      "path": "Python/OOP/Classes and objects.md"
     },
     {
       "basename": "identifiers",

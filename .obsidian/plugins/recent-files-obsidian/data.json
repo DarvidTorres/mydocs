@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Jupyter settings",
-      "path": "Python/IPython/Jupyter settings.md"
+      "basename": "data types",
+      "path": "Python/data types/data types.md"
     },
     {
       "basename": "variables",
       "path": "Python/Variables/variables.md"
+    },
+    {
+      "basename": "Jupyter settings",
+      "path": "Python/IPython/Jupyter settings.md"
     },
     {
       "basename": "Functions",
@@ -99,10 +103,6 @@
     {
       "basename": "Types",
       "path": "R/Types.md"
-    },
-    {
-      "basename": "data types",
-      "path": "Python/data types/data types.md"
     },
     {
       "basename": "multiline strings",

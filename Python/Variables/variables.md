@@ -32,6 +32,4 @@ a = [1, 2, 3]
 print(hex(id(a)))
 b = a
 print(hex(id(a)))
-
-
 ```

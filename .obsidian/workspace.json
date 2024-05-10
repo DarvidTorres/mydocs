@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "685e3f239863ca60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/data types.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d95f11da865cce81",
             "type": "leaf",
             "state": {
@@ -176,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/IPython/Jupyter settings.md",
+                "file": "Python/data types/data types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/IPython/Jupyter settings.md"
+                "file": "Python/data types/data types.md"
               }
             }
           },
@@ -245,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/IPython/Jupyter settings.md",
+                "file": "Python/data types/data types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,9 +285,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d95f11da865cce81",
+  "active": "685e3f239863ca60",
   "lastOpenFiles": [
     "Python/Variables/variables.md",
+    "Python/IPython/Jupyter settings.md",
     "Python/Functions/Functions.md",
     "Python/Main/identifiers.md",
     "Python/Main/Namespaces and Scope.md",
@@ -300,7 +314,6 @@
     "Python/Main/literals.md",
     "R/Types.md",
     "Python/data types/data types.md",
-    "Python/data types/strings/multiline strings.md",
     "Python/Main",
     "Anaconda/Workflow",
     "Anaconda",

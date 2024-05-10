@@ -1,4 +1,4 @@
-- Pointers are [[variables]] that store a variable [[address]].
+- Pointers are [[C/variables/variables]] that store a variable [[address]].
 - Pointers have a [[C/data types/types|type]].
 - Pointer type must match the variable type it *points* to.
 - In 64-bit data models, pointer size are always 8 bytes (64 bits).

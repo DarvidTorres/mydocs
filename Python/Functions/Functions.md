@@ -61,7 +61,9 @@ type(my_fun)
 my_fun() # Actual invokation
 ```
 
-We can flag expected type as documentation to the function arguments, although it doesn't prevent the passing of other types:
+## Annotations
+
+We can annotate expected type as documentation to the function arguments, although it doesn't prevent the passing of other types:
 
 ```Python
 def my_fun(a: int, b: int):

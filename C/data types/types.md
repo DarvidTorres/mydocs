@@ -6,7 +6,7 @@ A data type is a set of *data values* associated to a set of allowed operations 
 	- Different programming languages provide the definition of a data type in different ways.
 
 - The data type does not store any value, but it defines that which type of value can be stored in a variable.
-- The type of a [[variables|variable]] determines how much space it occupies in [[memory|storage]] and how the *bit pattern* stored is interpreted.
+- The type of a [[C/variables/variables|variable]] determines how much space it occupies in [[memory|storage]] and how the *bit pattern* stored is interpreted.
 
 Data type is a type of information transmitted between the programmer and the compiler where the programmer informs the compiler about what type of data is to be stored and also tells how much space it requires in the memory
 
@@ -75,7 +75,7 @@ Similarly, this can be extended to other types of different size as well. For 
 
 # storage size
 
-The type of a [[variables|variable]] determines how much space it occupies in storage and how the bit pattern stored is interpreted (value range).
+The type of a [[C/variables/variables|variable]] determines how much space it occupies in storage and how the bit pattern stored is interpreted (value range).
 
 The [[main function#C standards|C standard]] usually does not specify exact sizes for the native types, preferring to set a basic minimum that all conforming implementations of C must meet. Implementations are free to go above these minimum requirements.
 

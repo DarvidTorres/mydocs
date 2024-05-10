@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Jupyter settings",
+      "path": "Python/IPython/Jupyter settings.md"
+    },
+    {
+      "basename": "variables",
+      "path": "Python/Variables/variables.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "Python/Functions/Functions.md"
+    },
+    {
+      "basename": "identifiers",
+      "path": "Python/Main/identifiers.md"
+    },
+    {
+      "basename": "Namespaces and Scope",
+      "path": "Python/Main/Namespaces and Scope.md"
+    },
+    {
+      "basename": "Alias",
+      "path": "Python/Main/Alias.md"
+    },
+    {
+      "basename": "address",
+      "path": "C/memory/address.md"
+    },
+    {
+      "basename": "memory",
+      "path": "C/memory/memory.md"
+    },
+    {
       "basename": "Classes and objects",
       "path": "Python/OOP/Classes and objects.md"
     },
@@ -41,10 +73,6 @@
       "path": "Python/Functions/lambda functions.md"
     },
     {
-      "basename": "Functions",
-      "path": "Python/Functions/Functions.md"
-    },
-    {
       "basename": "comments",
       "path": "Python/Main/comments.md"
     },
@@ -63,18 +91,6 @@
     {
       "basename": "if",
       "path": "Python/control_flow/if.md"
-    },
-    {
-      "basename": "identifiers",
-      "path": "Python/Main/identifiers.md"
-    },
-    {
-      "basename": "Namespaces and Scope",
-      "path": "Python/Main/Namespaces and Scope.md"
-    },
-    {
-      "basename": "Alias",
-      "path": "Python/Main/Alias.md"
     },
     {
       "basename": "literals",
@@ -141,10 +157,6 @@
       "path": "Anaconda/Settings.md"
     },
     {
-      "basename": "Jupyter settings",
-      "path": "Python/IPython/Jupyter settings.md"
-    },
-    {
       "basename": "Export and import environments",
       "path": "Anaconda/Export and import environments.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "MultiIndex",
       "path": "Python/Pandas/MultiIndex.md"
-    },
-    {
-      "basename": "Missing data",
-      "path": "Python/Pandas/Missing data.md"
-    },
-    {
-      "basename": "Unfunc",
-      "path": "Python/NumPy/Unfunc.md"
-    },
-    {
-      "basename": "Slicing",
-      "path": "Python/NumPy/Slicing.md"
     }
   ],
   "omittedPaths": [],

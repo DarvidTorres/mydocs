@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/data types/data types.md",
+                "file": "Python/Variables/variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/data types/data types.md"
+                "file": "Python/Variables/variables.md"
               }
             }
           },
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/data types/data types.md",
+                "file": "Python/Variables/variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,10 +285,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "685e3f239863ca60",
+  "active": "6755b201a9b48574",
   "lastOpenFiles": [
-    "Python/Variables/variables.md",
+    "Python/data types/data types.md",
     "Python/IPython/Jupyter settings.md",
+    "Python/Variables/variables.md",
     "Python/Functions/Functions.md",
     "Python/Main/identifiers.md",
     "Python/Main/Namespaces and Scope.md",
@@ -313,7 +314,6 @@
     "Python/control_flow/if.md",
     "Python/Main/literals.md",
     "R/Types.md",
-    "Python/data types/data types.md",
     "Python/Main",
     "Anaconda/Workflow",
     "Anaconda",

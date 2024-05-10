@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "data types",
-      "path": "Python/data types/data types.md"
-    },
-    {
       "basename": "variables",
       "path": "Python/Variables/variables.md"
+    },
+    {
+      "basename": "data types",
+      "path": "Python/data types/data types.md"
     },
     {
       "basename": "Jupyter settings",

@@ -1,0 +1,4 @@
+- Changing the data inside an [[Python/OOP/Objects|object]] is called **modifying the internal state** of the object.
+- When changing the value of a variable, the memory address doesn't change, only the internal state (data) has changed. We say that the object was mutated.
+- An object whose internal state can be changed is called **mutable**.
+- An object whose internal state cannot be changed is called immutable.

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP/Objects.md",
+                "file": "Python/OOP/Mutability.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "7e7887f53d7a1ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/OOP/Objects.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "685e3f239863ca60",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -259,13 +272,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38b12bae7d95d497",
+  "active": "7e7887f53d7a1ff4",
   "lastOpenFiles": [
     "C/data structures/data structures.md",
+    "Python/Variables/variables.md",
+    "Python/OOP/Mutability.md",
     "Python/OOP/Objects.md",
     "Python/OOP/Classes.md",
     "Python/OOP/Classes and objects.md",
-    "Python/Variables/variables.md",
     "Python/data types/data types.md",
     "Python/IPython/Jupyter settings.md",
     "Python/Functions/Functions.md",
@@ -287,7 +301,6 @@
     "Python/Main/comments.md",
     "Python/Main/docstrings.md",
     "Anaconda/Conda.md",
-    "Anaconda/Revisions.md",
     "Python/Main",
     "Anaconda/Workflow",
     "Anaconda",

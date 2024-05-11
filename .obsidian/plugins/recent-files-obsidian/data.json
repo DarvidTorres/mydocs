@@ -9,12 +9,16 @@
       "path": "C/data structures/data structures.md"
     },
     {
-      "basename": "Classes",
-      "path": "Python/OOP/Classes.md"
-    },
-    {
       "basename": "variables",
       "path": "Python/Variables/variables.md"
+    },
+    {
+      "basename": "Mutability",
+      "path": "Python/OOP/Mutability.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "Python/OOP/Classes.md"
     },
     {
       "basename": "data types",
@@ -195,10 +199,6 @@
     {
       "basename": "dtypes",
       "path": "Python/Pandas/dtypes.md"
-    },
-    {
-      "basename": "Broadcasting",
-      "path": "Python/NumPy/Broadcasting.md"
     }
   ],
   "omittedPaths": [],

@@ -1,4 +1,4 @@
-Do not confuse with data [[structures]].
+Do not confuse with data [[data structures]].
 
 A data type is a set of *data values* associated to a set of allowed operations on these values.
 - The data type is basically a classification of data.

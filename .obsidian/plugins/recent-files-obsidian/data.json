@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Objects",
+      "path": "Python/OOP/Objects.md"
+    },
+    {
+      "basename": "data structures",
+      "path": "C/data structures/data structures.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "Python/OOP/Classes.md"
+    },
+    {
       "basename": "variables",
       "path": "Python/Variables/variables.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "memory",
       "path": "C/memory/memory.md"
-    },
-    {
-      "basename": "Classes and objects",
-      "path": "Python/OOP/Classes and objects.md"
     },
     {
       "basename": "Iterable",
@@ -191,14 +199,6 @@
     {
       "basename": "Broadcasting",
       "path": "Python/NumPy/Broadcasting.md"
-    },
-    {
-      "basename": "OS",
-      "path": "Bash/OS.md"
-    },
-    {
-      "basename": "MultiIndex",
-      "path": "Python/Pandas/MultiIndex.md"
     }
   ],
   "omittedPaths": [],

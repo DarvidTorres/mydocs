@@ -26,33 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/memory/address.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a22df6d231febccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/data types.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38b12bae7d95d497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/OOP/Mutability.md",
+                "file": "Python/Variables/Variable equality.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +47,12 @@
             }
           },
           {
-            "id": "7e7887f53d7a1ff4",
+            "id": "83fa8887f38f5958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/OOP/Objects.md",
+                "file": "Python/Variables/Shared references.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "continue",
+                "query": "none",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +128,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "af55bc0fe283fce4",
@@ -189,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/OOP/Mutability.md",
+                "file": "Python/Variables/Shared references.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/OOP/Mutability.md"
+                "file": "Python/Variables/Shared references.md"
               }
             }
           },
@@ -258,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/OOP/Mutability.md",
+                "file": "Python/Variables/Shared references.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,20 +260,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38b12bae7d95d497",
+  "active": "33ac149912db4319",
   "lastOpenFiles": [
+    "C/data structures/data structures.md",
+    "Python/Variables/Reference counting.md",
+    "Python/Main/Mutability.md",
+    "Python/Variables/Variable equality.md",
+    "Python/memory/address.md",
+    "Python/Variables/Variables.md",
+    "Python/Variables/Shared references.md",
+    "Python/OOP/Objects.md",
+    "Python/data types/data types.md",
+    "C/main/main function.md",
+    "C/functions/prototypes.md",
+    "C/functions/functions.md",
+    "C/variables/variables.md",
     "Python/data types/strings/strings.md",
     "Python/data types/strings/quotes.md",
     "Python/data types/strings/string interpolation.md",
-    "Python/OOP/Mutability.md",
-    "Python/memory/address.md",
-    "Python/data types/data types.md",
     "C/memory/address.md",
     "Python/memory",
-    "Python/Variables/variables.md",
     "C/memory/memory.md",
-    "Python/OOP/Objects.md",
-    "C/data structures/data structures.md",
     "Python/OOP/Classes.md",
     "Python/OOP/Classes and objects.md",
     "Python/IPython/Jupyter settings.md",
@@ -308,13 +290,6 @@
     "Python/Main/Alias.md",
     "Python/Variables",
     "Python/data types/Iterable/Iterable.md",
-    "Python/control_flow/for.md",
-    "Python/Main/try exception.md",
-    "Python/control_flow/while.md",
-    "Python/Operators/Arithmetic operators.md",
-    "Python/Operators/Operators.md",
-    "Python/Functions/Arguments/Arbitrary arguments.md",
-    "Python/Functions/Arguments/Default arguments.md",
     "Python/Main",
     "Anaconda/Workflow",
     "Anaconda",

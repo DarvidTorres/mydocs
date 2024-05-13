@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Functions",
+      "path": "Python/Functions/Functions.md"
+    },
+    {
       "basename": "Shared references",
       "path": "Python/Variables/Shared references.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Jupyter settings",
       "path": "Python/IPython/Jupyter settings.md"
-    },
-    {
-      "basename": "Functions",
-      "path": "Python/Functions/Functions.md"
     },
     {
       "basename": "identifiers",

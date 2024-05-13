@@ -5,6 +5,10 @@
       "path": "Python/Functions/Functions.md"
     },
     {
+      "basename": "Default arguments",
+      "path": "Python/Functions/Arguments/Default arguments.md"
+    },
+    {
       "basename": "Shared references",
       "path": "Python/Variables/Shared references.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "Arbitrary arguments",
       "path": "Python/Functions/Arguments/Arbitrary arguments.md"
-    },
-    {
-      "basename": "Default arguments",
-      "path": "Python/Functions/Arguments/Default arguments.md"
     },
     {
       "basename": "lambda functions",

@@ -1,4 +1,4 @@
-- Pointers are [[C/variables/variables]] that store a variable [[address]].
+- Pointers are [[C/variables/variables]] that store a variable [[C/memory/address]].
 - Pointers have a [[C/data types/types|type]].
 - Pointer type must match the variable type it *points* to.
 - In 64-bit data models, pointer size are always 8 bytes (64 bits).
@@ -59,7 +59,7 @@ int main() {
 }
 ```
 
-Though pointers can point to themselves, it is practically useless, as we can get a pointer's [[address]] by using the reference operator `&`. 
+Though pointers can point to themselves, it is practically useless, as we can get a pointer's [[C/memory/address]] by using the reference operator `&`. 
 
 Example:
 ```C

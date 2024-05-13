@@ -1,4 +1,3 @@
-# quotes
 
 To quote a quote, we need to “escape” it, by preceding it with `\`. Alternatively, we can use the other type of quotation marks:
 

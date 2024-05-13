@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Mutability",
+      "path": "Python/OOP/Mutability.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
+    },
+    {
+      "basename": "quotes",
+      "path": "Python/data types/strings/quotes.md"
+    },
+    {
+      "basename": "string interpolation",
+      "path": "Python/data types/strings/string interpolation.md"
+    },
+    {
+      "basename": "address",
+      "path": "Python/memory/address.md"
+    },
+    {
+      "basename": "data types",
+      "path": "Python/data types/data types.md"
+    },
+    {
+      "basename": "address",
+      "path": "C/memory/address.md"
+    },
+    {
+      "basename": "variables",
+      "path": "Python/Variables/variables.md"
+    },
+    {
+      "basename": "memory",
+      "path": "C/memory/memory.md"
+    },
+    {
       "basename": "Objects",
       "path": "Python/OOP/Objects.md"
     },
@@ -9,20 +45,8 @@
       "path": "C/data structures/data structures.md"
     },
     {
-      "basename": "variables",
-      "path": "Python/Variables/variables.md"
-    },
-    {
-      "basename": "Mutability",
-      "path": "Python/OOP/Mutability.md"
-    },
-    {
       "basename": "Classes",
       "path": "Python/OOP/Classes.md"
-    },
-    {
-      "basename": "data types",
-      "path": "Python/data types/data types.md"
     },
     {
       "basename": "Jupyter settings",
@@ -43,14 +67,6 @@
     {
       "basename": "Alias",
       "path": "Python/Main/Alias.md"
-    },
-    {
-      "basename": "address",
-      "path": "C/memory/address.md"
-    },
-    {
-      "basename": "memory",
-      "path": "C/memory/memory.md"
     },
     {
       "basename": "Iterable",
@@ -125,10 +141,6 @@
       "path": "Python/Main/Line continuation.md"
     },
     {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
-    },
-    {
       "basename": "Packages",
       "path": "Anaconda/Packages.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Pandas",
       "path": "Python/Pandas/Pandas.md"
-    },
-    {
-      "basename": "Modules",
-      "path": "Python/Main/Modules.md"
-    },
-    {
-      "basename": "Series",
-      "path": "Python/Pandas/Series.md"
-    },
-    {
-      "basename": "dtypes",
-      "path": "Python/Pandas/dtypes.md"
     }
   ],
   "omittedPaths": [],

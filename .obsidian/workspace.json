@@ -73,6 +73,19 @@
             }
           },
           {
+            "id": "cf292c8e29279eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/Iterable/lists.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ac3298ba2c1785f7",
             "type": "leaf",
             "state": {
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pass",
+                "query": "list comprehens",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,8 +167,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "af55bc0fe283fce4",
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/control_flow/for.md",
+                "file": "Python/data types/Iterable/lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/control_flow/for.md"
+                "file": "Python/data types/Iterable/lists.md"
               }
             }
           },
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/control_flow/for.md",
+                "file": "Python/data types/Iterable/lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,8 +299,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae7463af7fb142d1",
+  "active": "c0d9dd5ebd5d1621",
   "lastOpenFiles": [
+    "Python/control_flow/for.md",
     "Python/Memory/Interning.md",
     "Python/OOP/Classes.md",
     "Python/data types/strings/strings.md",
@@ -316,7 +329,6 @@
     "Python/Variables/Shared references.md",
     "C/data structures/data structures.md",
     "Python/Variables/Reference counting.md",
-    "Python/Main/Mutability.md",
     "Python/Memory",
     "Python/Variables",
     "Python/Main",

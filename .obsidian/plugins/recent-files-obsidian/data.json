@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "lists",
+      "path": "Python/data types/Iterable/lists.md"
+    },
+    {
       "basename": "for",
       "path": "Python/control_flow/for.md"
     },

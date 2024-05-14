@@ -1,8 +1,5 @@
-A singleton is a [[Classes and objects#Classes|class]] that only allows creating one [[Classes and objects#Classes|instance]] of itself.
 
-# None
-
-`None` is an example of a singleton object in Python. The [[Classes and objects#Classes|class]] of `None` is `NoneType`:
+`None` is an example of a singleton object in Python. The [[Classes|class]] of `None` is `NoneType`:
 
 ```python
 type(None)
@@ -23,7 +20,3 @@ new_none is None
 So there's only one instance of `NoneType` in Python, and it's `None`.
 
 https://www.pythonmorsels.com/making-singletons/
-
-# NotImplemented
-
-# Ellipsis

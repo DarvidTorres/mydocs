@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d41a7a1d566ce89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/memory/memory.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6755b201a9b48574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Variables/Variable equality.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3c6f4163d9c4069b",
             "type": "leaf",
             "state": {
@@ -65,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Functions/Functions.md",
+                "file": "Python/Memory/Interning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +47,51 @@
             }
           },
           {
-            "id": "685e3f239863ca60",
+            "id": "ac3ef28474b99f9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data types/data types.md",
+                "file": "Python/Memory/Interning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae7463af7fb142d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/control_flow/for.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac3298ba2c1785f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/strings/strings.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7401e56c37f758db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Operators/Assignment operators/Walrus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "none",
+                "query": "pass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "af55bc0fe283fce4",
@@ -176,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Functions/Functions.md",
+                "file": "Python/control_flow/for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Functions/Functions.md"
+                "file": "Python/control_flow/for.md"
               }
             }
           },
@@ -245,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Functions/Functions.md",
+                "file": "Python/control_flow/for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,35 +287,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51c1cd1953bba142",
+  "active": "ae7463af7fb142d1",
   "lastOpenFiles": [
-    "Python/Functions/Arguments/Default arguments.md",
+    "Python/Memory/Interning.md",
+    "Python/OOP/Classes.md",
+    "Python/data types/strings/strings.md",
+    "Python/data types/type_casting.md",
+    "Python/Operators/Assignment operators/Walrus.md",
+    "Python/Operators/Assignment operators/Modulus and assign.md",
+    "Python/Operators/Assignment operators/Assignment operators.md",
+    "Python/Operators/Assignment operators/Floor division and assign.md",
+    "Python/Operators/Assignment operators/Divide and Assign.md",
+    "Python/Operators/Assignment operators/Exponent and assign.md",
+    "Python/Operators/Assignment operators/Multiply and ssign.md",
+    "Python/Operators/Assignment operators/Subtract and assign.md",
+    "Python/Operators/Assignment operators/Add and assign.md",
+    "Python/Operators/Assignment operators/multiple assignment.md",
+    "Python/Operators/Assignment operators/Assignment.md",
+    "Python/Operators/Arithmetic operators.md",
+    "Python/Operators/Assignment operators",
+    "Python/Operators/Operators.md",
+    "Python/OOP/Singletons/None.md",
+    "Python/OOP/Singletons/Singletons.md",
+    "Python/OOP/Singletons",
     "Python/Functions/Functions.md",
+    "Python/data types/strings/raw strings.md",
+    "Python/Functions/Arguments/Default arguments.md",
     "Python/Variables/Shared references.md",
     "C/data structures/data structures.md",
     "Python/Variables/Reference counting.md",
     "Python/Main/Mutability.md",
-    "Python/Variables/Variable equality.md",
-    "Python/memory/address.md",
-    "Python/Variables/Variables.md",
-    "Python/OOP/Objects.md",
-    "Python/data types/data types.md",
-    "C/main/main function.md",
-    "C/functions/prototypes.md",
-    "C/functions/functions.md",
-    "C/variables/variables.md",
-    "Python/data types/strings/strings.md",
-    "Python/data types/strings/quotes.md",
-    "Python/data types/strings/string interpolation.md",
-    "C/memory/address.md",
-    "Python/memory",
-    "C/memory/memory.md",
-    "Python/OOP/Classes.md",
-    "Python/OOP/Classes and objects.md",
-    "Python/IPython/Jupyter settings.md",
-    "Python/Main/identifiers.md",
-    "Python/Main/Namespaces and Scope.md",
-    "Python/Main/Alias.md",
+    "Python/Memory",
     "Python/Variables",
     "Python/Main",
     "Anaconda/Workflow",
@@ -309,8 +325,6 @@
     "Python/Try_Except",
     "Python/Pandas/Untitled",
     "Python/IPython",
-    "Python/NumPy",
-    "Python/Pandas",
     "Pasted image 20230319193607.png"
   ]
 }

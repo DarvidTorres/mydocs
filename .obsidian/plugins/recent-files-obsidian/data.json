@@ -1,8 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "for",
+      "path": "Python/control_flow/for.md"
+    },
+    {
+      "basename": "Interning",
+      "path": "Python/Memory/Interning.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "Python/OOP/Classes.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
+    },
+    {
+      "basename": "type_casting",
+      "path": "Python/data types/type_casting.md"
+    },
+    {
+      "basename": "Walrus",
+      "path": "Python/Operators/Assignment operators/Walrus.md"
+    },
+    {
+      "basename": "Modulus and assign",
+      "path": "Python/Operators/Assignment operators/Modulus and assign.md"
+    },
+    {
+      "basename": "Floor division and assign",
+      "path": "Python/Operators/Assignment operators/Floor division and assign.md"
+    },
+    {
+      "basename": "Divide and Assign",
+      "path": "Python/Operators/Assignment operators/Divide and Assign.md"
+    },
+    {
+      "basename": "Exponent and assign",
+      "path": "Python/Operators/Assignment operators/Exponent and assign.md"
+    },
+    {
+      "basename": "Multiply and ssign",
+      "path": "Python/Operators/Assignment operators/Multiply and ssign.md"
+    },
+    {
+      "basename": "Subtract and assign",
+      "path": "Python/Operators/Assignment operators/Subtract and assign.md"
+    },
+    {
+      "basename": "Add and assign",
+      "path": "Python/Operators/Assignment operators/Add and assign.md"
+    },
+    {
+      "basename": "multiple assignment",
+      "path": "Python/Operators/Assignment operators/multiple assignment.md"
+    },
+    {
+      "basename": "Assignment",
+      "path": "Python/Operators/Assignment operators/Assignment.md"
+    },
+    {
+      "basename": "Arithmetic operators",
+      "path": "Python/Operators/Arithmetic operators.md"
+    },
+    {
+      "basename": "Operators",
+      "path": "Python/Operators/Operators.md"
+    },
+    {
+      "basename": "None",
+      "path": "Python/OOP/Singletons/None.md"
+    },
+    {
+      "basename": "Singletons",
+      "path": "Python/OOP/Singletons/Singletons.md"
+    },
+    {
       "basename": "Functions",
       "path": "Python/Functions/Functions.md"
+    },
+    {
+      "basename": "raw strings",
+      "path": "Python/data types/strings/raw strings.md"
     },
     {
       "basename": "Default arguments",
@@ -30,7 +110,7 @@
     },
     {
       "basename": "address",
-      "path": "Python/memory/address.md"
+      "path": "Python/Memory/address.md"
     },
     {
       "basename": "Variables",
@@ -61,10 +141,6 @@
       "path": "C/variables/variables.md"
     },
     {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
-    },
-    {
       "basename": "quotes",
       "path": "Python/data types/strings/quotes.md"
     },
@@ -79,10 +155,6 @@
     {
       "basename": "memory",
       "path": "C/memory/memory.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "Python/OOP/Classes.md"
     },
     {
       "basename": "Jupyter settings",
@@ -105,24 +177,12 @@
       "path": "Python/data types/Iterable/Iterable.md"
     },
     {
-      "basename": "for",
-      "path": "Python/control_flow/for.md"
-    },
-    {
       "basename": "try exception",
       "path": "Python/Main/try exception.md"
     },
     {
       "basename": "while",
       "path": "Python/control_flow/while.md"
-    },
-    {
-      "basename": "Arithmetic operators",
-      "path": "Python/Operators/Arithmetic operators.md"
-    },
-    {
-      "basename": "Operators",
-      "path": "Python/Operators/Operators.md"
     },
     {
       "basename": "Arbitrary arguments",
@@ -135,70 +195,6 @@
     {
       "basename": "comments",
       "path": "Python/Main/comments.md"
-    },
-    {
-      "basename": "docstrings",
-      "path": "Python/Main/docstrings.md"
-    },
-    {
-      "basename": "Conda",
-      "path": "Anaconda/Conda.md"
-    },
-    {
-      "basename": "Revisions",
-      "path": "Anaconda/Revisions.md"
-    },
-    {
-      "basename": "if",
-      "path": "Python/control_flow/if.md"
-    },
-    {
-      "basename": "literals",
-      "path": "Python/Main/literals.md"
-    },
-    {
-      "basename": "Types",
-      "path": "R/Types.md"
-    },
-    {
-      "basename": "multiline strings",
-      "path": "Python/data types/strings/multiline strings.md"
-    },
-    {
-      "basename": "Line continuation",
-      "path": "Python/Main/Line continuation.md"
-    },
-    {
-      "basename": "Packages",
-      "path": "Anaconda/Packages.md"
-    },
-    {
-      "basename": "Environment creation",
-      "path": "Anaconda/Environment creation.md"
-    },
-    {
-      "basename": "Inheritance",
-      "path": "Python/OOP/Inheritance.md"
-    },
-    {
-      "basename": "Singletons",
-      "path": "Python/Main/Singletons.md"
-    },
-    {
-      "basename": "Callables",
-      "path": "Python/Main/Callables.md"
-    },
-    {
-      "basename": "lists",
-      "path": "Python/data types/Iterable/lists.md"
-    },
-    {
-      "basename": "sets",
-      "path": "Python/data types/Iterable/sets.md"
-    },
-    {
-      "basename": "Sequence methods",
-      "path": "Python/data types/Iterable/Sequence methods.md"
     }
   ],
   "omittedPaths": [],

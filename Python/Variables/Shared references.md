@@ -1,4 +1,4 @@
-- [[Mutability|Immutable]] objects will share memory [[Python/memory/address|address]], while [[Mutability|immutable]] objects will not.
+- [[Mutability|Immutable]] objects will share memory [[Python/Memory/address|address]], while [[Mutability|immutable]] objects will not.
 
 Example with immutable objects:
 ```python

@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "04f5f5e9d2f55a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/Strings/f-strings/Format specification mini language.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ec3edb2283358639",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/data types/Integers/integer.md",
+                "file": "Python/data types/Strings/f-strings/Format specification mini language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/data types/Integers/integer.md"
+                "file": "Python/data types/Strings/f-strings/Format specification mini language.md"
               }
             }
           },
@@ -245,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/data types/Integers/integer.md",
+                "file": "Python/data types/Strings/f-strings/Format specification mini language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,10 +286,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02dfa598bde27b88",
+  "active": "04f5f5e9d2f55a58",
   "lastOpenFiles": [
-    "Python/data types/data types.md",
+    "Python/data types/Strings/f-strings/f-strings.md",
+    "Python/data types/Strings/f-strings/Format specification mini language.md",
+    "Python/data types/Strings/f-strings/f-string expression.md",
+    "Python/data types/Strings/f-strings",
     "Python/data types/Integers/integer.md",
+    "Python/data types/data types.md",
     "Python/data types/type_casting.md",
     "Python/Operators/Arithmetic operators.md",
     "Python/Operators/Operators.md",
@@ -300,17 +317,13 @@
     "Python/Operators/Assignment operators/Assignment.md",
     "Python/Operators/Assignment operators",
     "Python/OOP/Singletons/None.md",
-    "Python/OOP/Singletons/Singletons.md",
     "Python/OOP/Singletons",
-    "Python/Functions/Functions.md",
-    "Python/data types/Strings/raw strings.md",
     "Python/Memory",
     "Python/Variables",
     "Python/Main",
     "Anaconda/Workflow",
     "Anaconda",
     "Python/Try_Except",
-    "Python/Pandas/Untitled",
     "Pasted image 20230319193607.png"
   ]
 }

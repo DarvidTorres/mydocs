@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Format specification mini language",
+      "path": "Python/data types/Strings/f-strings/Format specification mini language.md"
+    },
+    {
+      "basename": "f-strings",
+      "path": "Python/data types/Strings/f-strings/f-strings.md"
+    },
+    {
       "basename": "integer",
       "path": "Python/data types/Integers/integer.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "try exception",
       "path": "Python/Main/try exception.md"
-    },
-    {
-      "basename": "while",
-      "path": "Python/control_flow/while.md"
-    },
-    {
-      "basename": "Arbitrary arguments",
-      "path": "Python/Functions/Arguments/Arbitrary arguments.md"
     }
   ],
   "omittedPaths": [],

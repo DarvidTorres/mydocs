@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "type_casting",
-      "path": "Python/data types/type_casting.md"
+      "basename": "integer",
+      "path": "Python/data types/Integers/integer.md"
     },
     {
       "basename": "data types",
       "path": "Python/data types/data types.md"
+    },
+    {
+      "basename": "type_casting",
+      "path": "Python/data types/type_casting.md"
     },
     {
       "basename": "Arithmetic operators",
@@ -195,10 +199,6 @@
     {
       "basename": "Arbitrary arguments",
       "path": "Python/Functions/Arguments/Arbitrary arguments.md"
-    },
-    {
-      "basename": "lambda functions",
-      "path": "Python/Functions/lambda functions.md"
     }
   ],
   "omittedPaths": [],

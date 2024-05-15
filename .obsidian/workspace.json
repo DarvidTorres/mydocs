@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/data types/data types.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3e2113976cd920c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/data types/type_casting.md",
+                "file": "Python/data types/Integers/integer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/data types/type_casting.md",
+                "file": "Python/data types/Integers/integer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/data types/type_casting.md"
+                "file": "Python/data types/Integers/integer.md"
               }
             }
           },
@@ -258,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/data types/type_casting.md",
+                "file": "Python/data types/Integers/integer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,9 +273,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3e2113976cd920c",
+  "active": "02dfa598bde27b88",
   "lastOpenFiles": [
     "Python/data types/data types.md",
+    "Python/data types/Integers/integer.md",
+    "Python/data types/type_casting.md",
     "Python/Operators/Arithmetic operators.md",
     "Python/Operators/Operators.md",
     "Python/Operators/Assignment operators/Floor division and assign.md",
@@ -299,7 +288,6 @@
     "Python/Memory/Interning.md",
     "Python/OOP/Classes.md",
     "Python/data types/Strings/strings.md",
-    "Python/data types/type_casting.md",
     "Python/Operators/Assignment operators/Walrus.md",
     "Python/Operators/Assignment operators/Modulus and assign.md",
     "Python/Operators/Assignment operators/Assignment operators.md",
@@ -316,7 +304,6 @@
     "Python/OOP/Singletons",
     "Python/Functions/Functions.md",
     "Python/data types/Strings/raw strings.md",
-    "Python/Functions/Arguments/Default arguments.md",
     "Python/Memory",
     "Python/Variables",
     "Python/Main",

@@ -20,7 +20,7 @@ The Most commonly used format specifiers are given below:
 
 Examples:
 
-- `%d` (Decimal [[int|Integer]]):
+- `%d` (Decimal [[C/data types/integers/int|Integer]]):
 
 ```C
 #include <stdio.h>

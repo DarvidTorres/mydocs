@@ -1,4 +1,4 @@
-- `char` is basically an [[int]].
+- `char` is basically an [[C/data types/integers/int]].
 - A `char` does not contain a character value itself rather the [[ASCII]] of the character variable.
 - Each character is given a numeric value such as A = 65, B = 66, etc.
 - The ASCII value represents the character variable in numbers, and each character variable is assigned with some number range from 0 to 127.

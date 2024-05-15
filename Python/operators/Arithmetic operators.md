@@ -33,6 +33,14 @@ print(type(a * c))
 ```
 
 ## Modulus and Floor division
+
+- The **floor** of  a number $a$ is the largest integer $\leq a$.
+	- Example: The floor of $-3.1$ is $-4$.
+- Floor division of $a$ and $b$, is the floor of the division of $a$ and $b$.
+	- Example $\frac{5}{3} = 1.\overline{6}$. So, the floor is $1$.
+- Floor division, `a // b` ,  is not the integer portion of `a / b`
+	- Example: `-5 // 3` is equal to $-2$.
+
 The quotient $q$ and the remainder $r$ of $a$ divided by $n$ satisfy the following:
 
 $$

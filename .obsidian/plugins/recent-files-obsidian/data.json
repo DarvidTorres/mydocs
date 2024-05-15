@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "type_casting",
+      "path": "Python/data types/type_casting.md"
+    },
+    {
       "basename": "data types",
       "path": "Python/data types/data types.md"
+    },
+    {
+      "basename": "Arithmetic operators",
+      "path": "Python/Operators/Arithmetic operators.md"
+    },
+    {
+      "basename": "Operators",
+      "path": "Python/Operators/Operators.md"
+    },
+    {
+      "basename": "Floor division and assign",
+      "path": "Python/Operators/Assignment operators/Floor division and assign.md"
     },
     {
       "basename": "int",
@@ -29,20 +45,12 @@
       "path": "Python/data types/Strings/strings.md"
     },
     {
-      "basename": "type_casting",
-      "path": "Python/data types/type_casting.md"
-    },
-    {
       "basename": "Walrus",
       "path": "Python/Operators/Assignment operators/Walrus.md"
     },
     {
       "basename": "Modulus and assign",
       "path": "Python/Operators/Assignment operators/Modulus and assign.md"
-    },
-    {
-      "basename": "Floor division and assign",
-      "path": "Python/Operators/Assignment operators/Floor division and assign.md"
     },
     {
       "basename": "Divide and Assign",
@@ -71,14 +79,6 @@
     {
       "basename": "Assignment",
       "path": "Python/Operators/Assignment operators/Assignment.md"
-    },
-    {
-      "basename": "Arithmetic operators",
-      "path": "Python/Operators/Arithmetic operators.md"
-    },
-    {
-      "basename": "Operators",
-      "path": "Python/Operators/Operators.md"
     },
     {
       "basename": "None",

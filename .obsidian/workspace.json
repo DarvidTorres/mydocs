@@ -8,58 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c6f4163d9c4069b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/data structures/data structures.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83fa8887f38f5958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Variables/Shared references.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51c1cd1953bba142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Memory/Interning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac3ef28474b99f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Memory/Interning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ae7463af7fb142d1",
             "type": "leaf",
             "state": {
@@ -99,6 +47,32 @@
             }
           },
           {
+            "id": "c3e2113976cd920c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/type_casting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec3edb2283358639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Operators/Arithmetic operators.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ac3298ba2c1785f7",
             "type": "leaf",
             "state": {
@@ -125,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/data types/data types.md",
+                "file": "Python/data types/type_casting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/data types/data types.md"
+                "file": "Python/data types/type_casting.md"
               }
             }
           },
@@ -284,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/data types/data types.md",
+                "file": "Python/data types/type_casting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,10 +286,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02dfa598bde27b88",
+  "active": "c3e2113976cd920c",
   "lastOpenFiles": [
-    "C/data types/integers/int.md",
     "Python/data types/data types.md",
+    "Python/Operators/Arithmetic operators.md",
+    "Python/Operators/Operators.md",
+    "Python/Operators/Assignment operators/Floor division and assign.md",
+    "C/data types/integers/int.md",
     "Python/data types/Integers",
     "Python/data types/Iterable/lists.md",
     "Python/control_flow/for.md",
@@ -326,7 +303,6 @@
     "Python/Operators/Assignment operators/Walrus.md",
     "Python/Operators/Assignment operators/Modulus and assign.md",
     "Python/Operators/Assignment operators/Assignment operators.md",
-    "Python/Operators/Assignment operators/Floor division and assign.md",
     "Python/Operators/Assignment operators/Divide and Assign.md",
     "Python/Operators/Assignment operators/Exponent and assign.md",
     "Python/Operators/Assignment operators/Multiply and ssign.md",
@@ -334,9 +310,7 @@
     "Python/Operators/Assignment operators/Add and assign.md",
     "Python/Operators/Assignment operators/multiple assignment.md",
     "Python/Operators/Assignment operators/Assignment.md",
-    "Python/Operators/Arithmetic operators.md",
     "Python/Operators/Assignment operators",
-    "Python/Operators/Operators.md",
     "Python/OOP/Singletons/None.md",
     "Python/OOP/Singletons/Singletons.md",
     "Python/OOP/Singletons",

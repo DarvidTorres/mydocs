@@ -14,6 +14,14 @@ print(type(a - b))
 print(type(a * b))
 ```
 
+- Division of `int` is typecast to `float`:
+```Python
+type(3)
+type(2)
+type(3 / 2)
+print(3 / 3) # Will print as float
+```
+
 - Any other conversion won't be performed automatically.
 
 Example:

@@ -1,4 +1,3 @@
-
 - An integer is an [[Python/OOP/Objects|object]], an instance of the `int` [[Classes|class]]
 - The `int` class provides multiple constructors:
 

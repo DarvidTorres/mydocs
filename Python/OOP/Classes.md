@@ -15,7 +15,7 @@ class <ClassIdentifier>:
 
 - Classes are created at runtime, and can be modified further after creation.
 - Class names should use the `CapWords` convention.
-- The first statement of the class body can optionally* be a [[Python/data types/strings/strings|string]] [[literals|literal]] that acts as the class’s documentation string, or [[docstrings|docstring]].
+- The first statement of the class body can optionally* be a [[Python/data types/Strings/strings|string]] [[literals|literal]] that acts as the class’s documentation string, or [[docstrings|docstring]].
 	- \*[[docstrings#class docstrings|docstrings]] aren't syntactically required, but you *must* add them to every class definition.
 
 Example:

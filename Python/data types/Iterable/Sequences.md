@@ -1,6 +1,6 @@
 
 - A sequence is a positionally **ordered** collection of items.
-- [[lists|Lists]], [[tuples|tuples]], and [[Python/data types/strings/strings|strings]] are sequences because things come out of them in the same order they were put in.
+- [[lists|Lists]], [[tuples|tuples]], and [[Python/data types/Strings/strings|strings]] are sequences because things come out of them in the same order they were put in.
 
 
 

@@ -30,7 +30,7 @@ def <function_identifier>([parameter(s)])
 		- Also called **formal arguments**.
 	- An **argument** is a value passed during function invocation.
 		- Also called **actual arguments.**
-- The first statement of the function body can optionally* be a [[Python/data types/strings/strings|string]] [[literals|literal]] that acts as the function’s documentation string, or [[docstrings|docstring]].
+- The first statement of the function body can optionally* be a [[Python/data types/Strings/strings|string]] [[literals|literal]] that acts as the function’s documentation string, or [[docstrings|docstring]].
 	- \*[[docstrings#function docstrings|docstrings]] aren't syntactically required, but you *must* add them to every function definition.
 
 

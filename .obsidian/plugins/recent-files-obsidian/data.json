@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "data types",
+      "path": "Python/data types/data types.md"
+    },
+    {
+      "basename": "int",
+      "path": "C/data types/integers/int.md"
+    },
+    {
       "basename": "lists",
       "path": "Python/data types/Iterable/lists.md"
     },
@@ -18,7 +26,7 @@
     },
     {
       "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
+      "path": "Python/data types/Strings/strings.md"
     },
     {
       "basename": "type_casting",
@@ -86,7 +94,7 @@
     },
     {
       "basename": "raw strings",
-      "path": "Python/data types/strings/raw strings.md"
+      "path": "Python/data types/Strings/raw strings.md"
     },
     {
       "basename": "Default arguments",
@@ -125,10 +133,6 @@
       "path": "Python/OOP/Objects.md"
     },
     {
-      "basename": "data types",
-      "path": "Python/data types/data types.md"
-    },
-    {
       "basename": "main function",
       "path": "C/main/main function.md"
     },
@@ -146,11 +150,11 @@
     },
     {
       "basename": "quotes",
-      "path": "Python/data types/strings/quotes.md"
+      "path": "Python/data types/Strings/quotes.md"
     },
     {
       "basename": "string interpolation",
-      "path": "Python/data types/strings/string interpolation.md"
+      "path": "Python/data types/Strings/string interpolation.md"
     },
     {
       "basename": "address",
@@ -195,10 +199,6 @@
     {
       "basename": "lambda functions",
       "path": "Python/Functions/lambda functions.md"
-    },
-    {
-      "basename": "comments",
-      "path": "Python/Main/comments.md"
     }
   ],
   "omittedPaths": [],

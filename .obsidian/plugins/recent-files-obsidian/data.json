@@ -5,6 +5,10 @@
       "path": "Python/data types/Strings/f-strings/Format specification mini language.md"
     },
     {
+      "basename": "String interpolation",
+      "path": "Python/data types/Strings/String interpolation.md"
+    },
+    {
       "basename": "f-strings",
       "path": "Python/data types/Strings/f-strings/f-strings.md"
     },
@@ -163,10 +167,6 @@
     {
       "basename": "quotes",
       "path": "Python/data types/Strings/quotes.md"
-    },
-    {
-      "basename": "string interpolation",
-      "path": "Python/data types/Strings/string interpolation.md"
     },
     {
       "basename": "address",

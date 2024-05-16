@@ -1,4 +1,4 @@
-To format f-string expressions use the following syntax:
+To format f-string [[f-strings#f-string expressions|expressions]] use the following syntax:
 
 ```Python
 f'{<value>:[[fill]align][sign][width][grouping_option]["." precision][type]}'

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "concatenate",
+      "path": "Python/data types/strings/concatenate.md"
+    },
+    {
+      "basename": "multiline strings",
+      "path": "Python/data types/strings/multiline strings.md"
+    },
+    {
       "basename": "Packages",
       "path": "Anaconda/Packages.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Namespaces and Scope",
       "path": "Python/Main/Namespaces and Scope.md"
-    },
-    {
-      "basename": "Methods",
-      "path": "Python/Functions/Methods.md"
-    },
-    {
-      "basename": "types",
-      "path": "C/data types/types.md"
     }
   ],
   "omittedPaths": [],

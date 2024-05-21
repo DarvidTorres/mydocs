@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59083ba3a34f3f35",
+            "id": "f8831f6ce82c948f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaconda/Environment creation.md",
+                "file": "Python/data types/strings/multiline strings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,116 +21,12 @@
             }
           },
           {
-            "id": "ac73c8a33a84adce",
+            "id": "3c946fb3bb2b64db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaconda/Settings.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "432089a89bdf63aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/IPython/IPython.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a68a28834030aed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/IPython/Jupyter settings.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a38a777decd0b20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Pandas/Data frames.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5356eb038dc36f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anaconda/Packages.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d92167acf3063d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anaconda/Packages.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3972055f0c6dc6d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anaconda/Conda.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b747ecf149bca18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anaconda/Revisions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ff60df3ce65b64d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/OOP/Inheritance.md",
+                "file": "Python/data types/strings/concatenate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anaconda/Packages.md",
+                "file": "Python/data types/strings/concatenate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anaconda/Packages.md"
+                "file": "Python/data types/strings/concatenate.md"
               }
             }
           },
@@ -297,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anaconda/Packages.md",
+                "file": "Python/data types/strings/concatenate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,13 +220,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5356eb038dc36f2",
+  "active": "3c946fb3bb2b64db",
   "lastOpenFiles": [
+    "Python/data types/strings/multiline strings.md",
+    "Python/data types/strings/concatenate.md",
+    "Anaconda/Packages.md",
     "Anaconda/Conda.md",
     "Python/Pandas/Workflow.md",
     "Python/Pandas/Data frames.md",
     "Python/IPython/Jupyter settings.md",
-    "Anaconda/Packages.md",
     "Anaconda/Environment creation.md",
     "Anaconda/Settings.md",
     "Anaconda/Revisions.md",
@@ -351,8 +249,6 @@
     "R/R.md",
     "Python/Pandas/Pandas.md",
     "Python/Main/Modules.md",
-    "Python/Pandas/Series.md",
-    "Python/Pandas/dtypes.md",
     "Anaconda/Workflow",
     "Anaconda",
     "Python/Try_Except",

@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Pandas/Workflow.md",
+                "file": "Anaconda/Packages.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas/Workflow.md",
+                "file": "Anaconda/Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pandas/Workflow.md"
+                "file": "Anaconda/Packages.md"
               }
             }
           },
@@ -297,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas/Workflow.md",
+                "file": "Anaconda/Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,11 +326,12 @@
   },
   "active": "e5356eb038dc36f2",
   "lastOpenFiles": [
+    "Anaconda/Conda.md",
+    "Python/Pandas/Workflow.md",
     "Python/Pandas/Data frames.md",
     "Python/IPython/Jupyter settings.md",
     "Anaconda/Packages.md",
     "Anaconda/Environment creation.md",
-    "Anaconda/Conda.md",
     "Anaconda/Settings.md",
     "Anaconda/Revisions.md",
     "Python/OOP/Inheritance.md",
@@ -344,7 +345,6 @@
     "Python/data types/Iterables/Iterables.md",
     "Python/data types/Iterables/sets.md",
     "Python/data types/Iterables/Sequence methods.md",
-    "Python/Pandas/Workflow.md",
     "Python/OOP/Classes and objects.md",
     "Anaconda/Export and import environments.md",
     "github/git_github.md",

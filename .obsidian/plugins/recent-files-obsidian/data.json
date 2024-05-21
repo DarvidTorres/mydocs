@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Packages",
+      "path": "Anaconda/Packages.md"
+    },
+    {
+      "basename": "Conda",
+      "path": "Anaconda/Conda.md"
+    },
+    {
       "basename": "Workflow",
       "path": "Python/Pandas/Workflow.md"
     },
@@ -13,16 +21,8 @@
       "path": "Python/IPython/Jupyter settings.md"
     },
     {
-      "basename": "Packages",
-      "path": "Anaconda/Packages.md"
-    },
-    {
       "basename": "Environment creation",
       "path": "Anaconda/Environment creation.md"
-    },
-    {
-      "basename": "Conda",
-      "path": "Anaconda/Conda.md"
     },
     {
       "basename": "Settings",

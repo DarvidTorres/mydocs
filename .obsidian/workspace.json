@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaconda/Packages.md",
+                "file": "Anaconda/Environment creation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,19 +73,6 @@
             }
           },
           {
-            "id": "06ed01f0c9988638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R/R.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "006f69643807dab1",
             "type": "leaf",
             "state": {
@@ -99,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R/R.md",
+                "file": "Anaconda/Environment creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R/R.md"
+                "file": "Anaconda/Environment creation.md"
               }
             }
           },
@@ -258,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/R.md",
+                "file": "Anaconda/Environment creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,14 +273,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06ed01f0c9988638",
+  "active": "fb2e61bece2b1ada",
   "lastOpenFiles": [
-    "Python/Pandas/Workflow.md",
     "Anaconda/Packages.md",
-    "Anaconda/Environment creation.md",
+    "Anaconda/Revisions.md",
     "Anaconda/Settings.md",
-    "Anaconda/Export and import environments.md",
     "Anaconda/Conda.md",
+    "R/R.md",
+    "Python/Pandas/Workflow.md",
+    "Anaconda/Environment creation.md",
+    "Anaconda/Export and import environments.md",
     "Python/data types/Strings/f-strings/Format specification mini language.md",
     "Python/data types/Strings/String interpolation.md",
     "Python/data types/Strings/f-strings/f-strings.md",
@@ -314,8 +303,6 @@
     "Python/data types/Strings/strings.md",
     "Python/Operators/Assignment operators/Walrus.md",
     "Python/Operators/Assignment operators/Modulus and assign.md",
-    "Python/Operators/Assignment operators/Assignment operators.md",
-    "Python/Operators/Assignment operators/Divide and Assign.md",
     "Python/Operators/Assignment operators",
     "Python/OOP/Singletons",
     "Python/Memory",

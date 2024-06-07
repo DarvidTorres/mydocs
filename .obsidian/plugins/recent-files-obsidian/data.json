@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Environment creation",
+      "path": "Anaconda/Environment creation.md"
+    },
+    {
+      "basename": "Packages",
+      "path": "Anaconda/Packages.md"
+    },
+    {
+      "basename": "Revisions",
+      "path": "Anaconda/Revisions.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "Anaconda/Settings.md"
+    },
+    {
+      "basename": "Conda",
+      "path": "Anaconda/Conda.md"
+    },
+    {
       "basename": "R",
       "path": "R/R.md"
     },
@@ -9,24 +29,8 @@
       "path": "Python/Pandas/Workflow.md"
     },
     {
-      "basename": "Packages",
-      "path": "Anaconda/Packages.md"
-    },
-    {
-      "basename": "Environment creation",
-      "path": "Anaconda/Environment creation.md"
-    },
-    {
-      "basename": "Settings",
-      "path": "Anaconda/Settings.md"
-    },
-    {
       "basename": "Export and import environments",
       "path": "Anaconda/Export and import environments.md"
-    },
-    {
-      "basename": "Conda",
-      "path": "Anaconda/Conda.md"
     },
     {
       "basename": "Format specification mini language",
@@ -195,10 +199,6 @@
     {
       "basename": "quotes",
       "path": "Python/data types/Strings/quotes.md"
-    },
-    {
-      "basename": "address",
-      "path": "C/memory/address.md"
     }
   ],
   "omittedPaths": [],

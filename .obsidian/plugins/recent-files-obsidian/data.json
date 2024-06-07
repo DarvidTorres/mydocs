@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "R",
+      "path": "R/R.md"
+    },
+    {
       "basename": "Workflow",
       "path": "Python/Pandas/Workflow.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "address",
       "path": "C/memory/address.md"
-    },
-    {
-      "basename": "memory",
-      "path": "C/memory/memory.md"
     }
   ],
   "omittedPaths": [],

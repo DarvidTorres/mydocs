@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Workflow",
+      "path": "Python/Pandas/Workflow.md"
+    },
+    {
+      "basename": "Packages",
+      "path": "Anaconda/Packages.md"
+    },
+    {
+      "basename": "Environment creation",
+      "path": "Anaconda/Environment creation.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "Anaconda/Settings.md"
+    },
+    {
+      "basename": "Export and import environments",
+      "path": "Anaconda/Export and import environments.md"
+    },
+    {
+      "basename": "Conda",
+      "path": "Anaconda/Conda.md"
+    },
+    {
       "basename": "Format specification mini language",
       "path": "Python/data types/Strings/f-strings/Format specification mini language.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "memory",
       "path": "C/memory/memory.md"
-    },
-    {
-      "basename": "Jupyter settings",
-      "path": "Python/IPython/Jupyter settings.md"
-    },
-    {
-      "basename": "identifiers",
-      "path": "Python/Main/identifiers.md"
-    },
-    {
-      "basename": "Namespaces and Scope",
-      "path": "Python/Main/Namespaces and Scope.md"
-    },
-    {
-      "basename": "Alias",
-      "path": "Python/Main/Alias.md"
-    },
-    {
-      "basename": "Iterable",
-      "path": "Python/data types/Iterable/Iterable.md"
-    },
-    {
-      "basename": "try exception",
-      "path": "Python/Main/try exception.md"
     }
   ],
   "omittedPaths": [],

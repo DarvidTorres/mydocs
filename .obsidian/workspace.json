@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "fb2e61bece2b1ada",
+            "id": "2bc5270af61267f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anaconda/Environment creation.md",
+                "file": "Anaconda/Packages.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,15 +273,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb2e61bece2b1ada",
+  "active": "f76451d9b4216149",
   "lastOpenFiles": [
     "Anaconda/Packages.md",
+    "Anaconda/Environment creation.md",
     "Anaconda/Revisions.md",
     "Anaconda/Settings.md",
     "Anaconda/Conda.md",
     "R/R.md",
     "Python/Pandas/Workflow.md",
-    "Anaconda/Environment creation.md",
     "Anaconda/Export and import environments.md",
     "Python/data types/Strings/f-strings/Format specification mini language.md",
     "Python/data types/Strings/String interpolation.md",

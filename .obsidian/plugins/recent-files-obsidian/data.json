@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Environment creation",
-      "path": "Anaconda/Environment creation.md"
-    },
-    {
-      "basename": "Packages",
-      "path": "Anaconda/Packages.md"
+      "basename": "Export and import environments",
+      "path": "Anaconda/Export and import environments.md"
     },
     {
       "basename": "Workflow",
       "path": "Python/Pandas/Workflow.md"
     },
     {
-      "basename": "Export and import environments",
-      "path": "Anaconda/Export and import environments.md"
+      "basename": "Packages",
+      "path": "Anaconda/Packages.md"
+    },
+    {
+      "basename": "Environment creation",
+      "path": "Anaconda/Environment creation.md"
     },
     {
       "basename": "Settings",

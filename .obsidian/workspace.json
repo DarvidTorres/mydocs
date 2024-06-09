@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anaconda/Environment creation.md",
+                "file": "Anaconda/Export and import environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anaconda/Environment creation.md"
+                "file": "Anaconda/Export and import environments.md"
               }
             }
           },
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anaconda/Environment creation.md",
+                "file": "Anaconda/Export and import environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,13 +273,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f76451d9b4216149",
+  "active": "006f69643807dab1",
   "lastOpenFiles": [
-    "Anaconda/Packages.md",
     "Python/Pandas/Workflow.md",
-    "Anaconda/Export and import environments.md",
+    "Anaconda/Packages.md",
     "Anaconda/Environment creation.md",
     "Anaconda/Settings.md",
+    "Anaconda/Export and import environments.md",
     "Anaconda/Conda.md",
     "Anaconda/Revisions.md",
     "R/R.md",

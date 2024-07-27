@@ -84,9 +84,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c019322457fbfa49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -273,7 +283,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "006f69643807dab1",
+  "active": "c019322457fbfa49",
   "lastOpenFiles": [
     "Python/Pandas/Workflow.md",
     "Anaconda/Packages.md",

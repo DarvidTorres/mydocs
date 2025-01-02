@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Standardization vs Normalization",
+      "path": "data/Standardization vs Normalization.md"
+    },
+    {
+      "basename": "Variable profiling",
+      "path": "data/Machine Leaning Process/Variable profiling.md"
+    },
+    {
+      "basename": "Links",
+      "path": "data/Resources/Links.md"
+    },
+    {
+      "basename": "Machine Learning Process",
+      "path": "data/Machine Leaning Process/Machine Learning Process.md"
+    },
+    {
       "basename": "Export and import environments",
       "path": "Anaconda/Export and import environments.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "main function",
       "path": "C/main/main function.md"
-    },
-    {
-      "basename": "prototypes",
-      "path": "C/functions/prototypes.md"
-    },
-    {
-      "basename": "functions",
-      "path": "C/functions/functions.md"
-    },
-    {
-      "basename": "variables",
-      "path": "C/variables/variables.md"
-    },
-    {
-      "basename": "quotes",
-      "path": "Python/data types/Strings/quotes.md"
     }
   ],
   "omittedPaths": [],

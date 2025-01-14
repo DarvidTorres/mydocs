@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "data/Untitled.md"
+    },
+    {
       "basename": "Standardization vs Normalization",
       "path": "data/Standardization vs Normalization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Objects",
       "path": "Python/OOP/Objects.md"
-    },
-    {
-      "basename": "main function",
-      "path": "C/main/main function.md"
     }
   ],
   "omittedPaths": [],

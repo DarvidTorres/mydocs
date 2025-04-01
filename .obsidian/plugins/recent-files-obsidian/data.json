@@ -5,8 +5,16 @@
       "path": "Python/Main/pip environments.md"
     },
     {
+      "basename": "Pandas",
+      "path": "Python/Pandas/Pandas.md"
+    },
+    {
       "basename": "for",
       "path": "Python/control_flow/for.md"
+    },
+    {
+      "basename": "Modules",
+      "path": "Python/Main/Modules.md"
     },
     {
       "basename": "docstrings",
@@ -111,14 +119,6 @@
     {
       "basename": "R",
       "path": "R/R.md"
-    },
-    {
-      "basename": "Pandas",
-      "path": "Python/Pandas/Pandas.md"
-    },
-    {
-      "basename": "Modules",
-      "path": "Python/Main/Modules.md"
     },
     {
       "basename": "Series",

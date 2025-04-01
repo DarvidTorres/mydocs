@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Main/venv.md",
+                "file": "Python/Pandas/Pandas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Main/venv.md",
+                "file": "Python/Pandas/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Main/venv.md"
+                "file": "Python/Pandas/Pandas.md"
               }
             }
           },
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Main/venv.md",
+                "file": "Python/Pandas/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,9 +287,9 @@
   },
   "active": "606a504cca15ca0b",
   "lastOpenFiles": [
+    "Python/Main/venv.md",
     "Python/IPython/IPython.md",
     "Python/IPython/Jupyter settings.md",
-    "Python/Main/venv.md",
     "Python/IPython/Magic commands.md",
     "Python/IPython/Shell commands.md",
     "Python/Pandas/Data frames.md",

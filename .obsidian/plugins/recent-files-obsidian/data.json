@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pandas",
+      "path": "Python/Pandas/Pandas.md"
+    },
+    {
       "basename": "venv",
       "path": "Python/Main/venv.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Data frames",
       "path": "Python/Pandas/Data frames.md"
-    },
-    {
-      "basename": "Pandas",
-      "path": "Python/Pandas/Pandas.md"
     },
     {
       "basename": "Missing data",

@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "pip environments",
-      "path": "Python/Main/pip environments.md"
+      "basename": "venv",
+      "path": "Python/Main/venv.md"
+    },
+    {
+      "basename": "IPython",
+      "path": "Python/IPython/IPython.md"
+    },
+    {
+      "basename": "Jupyter settings",
+      "path": "Python/IPython/Jupyter settings.md"
+    },
+    {
+      "basename": "Magic commands",
+      "path": "Python/IPython/Magic commands.md"
+    },
+    {
+      "basename": "Shell commands",
+      "path": "Python/IPython/Shell commands.md"
+    },
+    {
+      "basename": "Data frames",
+      "path": "Python/Pandas/Data frames.md"
     },
     {
       "basename": "Pandas",
       "path": "Python/Pandas/Pandas.md"
+    },
+    {
+      "basename": "Missing data",
+      "path": "Python/Pandas/Missing data.md"
+    },
+    {
+      "basename": "dtypes",
+      "path": "Python/Pandas/dtypes.md"
+    },
+    {
+      "basename": "MultiIndex",
+      "path": "Python/Pandas/MultiIndex.md"
+    },
+    {
+      "basename": "Workflow",
+      "path": "Python/Pandas/Workflow.md"
     },
     {
       "basename": "for",
@@ -45,18 +81,6 @@
       "path": "Anaconda/Conda.md"
     },
     {
-      "basename": "Workflow",
-      "path": "Python/Pandas/Workflow.md"
-    },
-    {
-      "basename": "Data frames",
-      "path": "Python/Pandas/Data frames.md"
-    },
-    {
-      "basename": "Jupyter settings",
-      "path": "Python/IPython/Jupyter settings.md"
-    },
-    {
       "basename": "Environment creation",
       "path": "Anaconda/Environment creation.md"
     },
@@ -71,10 +95,6 @@
     {
       "basename": "Inheritance",
       "path": "Python/OOP/Inheritance.md"
-    },
-    {
-      "basename": "IPython",
-      "path": "Python/IPython/IPython.md"
     },
     {
       "basename": "data types",
@@ -125,10 +145,6 @@
       "path": "Python/Pandas/Series.md"
     },
     {
-      "basename": "dtypes",
-      "path": "Python/Pandas/dtypes.md"
-    },
-    {
       "basename": "Broadcasting",
       "path": "Python/NumPy/Broadcasting.md"
     },
@@ -139,14 +155,6 @@
     {
       "basename": "try exception",
       "path": "Python/Main/try exception.md"
-    },
-    {
-      "basename": "MultiIndex",
-      "path": "Python/Pandas/MultiIndex.md"
-    },
-    {
-      "basename": "Missing data",
-      "path": "Python/Pandas/Missing data.md"
     },
     {
       "basename": "Alias",
@@ -183,14 +191,6 @@
     {
       "basename": "type_casting",
       "path": "Python/data types/type_casting.md"
-    },
-    {
-      "basename": "Shell commands",
-      "path": "Python/IPython/Shell commands.md"
-    },
-    {
-      "basename": "Magic commands",
-      "path": "Python/IPython/Magic commands.md"
     },
     {
       "basename": "README",

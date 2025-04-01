@@ -30,3 +30,10 @@ If you get an execution policy error in PowerShell, run:
 <venv>\Scripts\activate
 ```
 
+# JupyterNotebook
+
+To use in VSCode [[IPython|jupyter]] notebooks
+`pip install ipykernel jupyter notebook`
+
+Register environment:
+`python -m ipykernel install --user --name=your_venv_name --display-name="Python (your_venv_name)"`

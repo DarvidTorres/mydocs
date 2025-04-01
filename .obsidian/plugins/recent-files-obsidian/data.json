@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "quotes",
+      "path": "Python/data types/strings/quotes.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
+    },
+    {
       "basename": "concatenate",
       "path": "Python/data types/strings/concatenate.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "IPython",
       "path": "Python/IPython/IPython.md"
-    },
-    {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
     },
     {
       "basename": "data types",
@@ -195,10 +199,6 @@
     {
       "basename": "Encapsulation",
       "path": "Python/OOP/Encapsulation.md"
-    },
-    {
-      "basename": "Namespaces and Scope",
-      "path": "Python/Main/Namespaces and Scope.md"
     }
   ],
   "omittedPaths": [],

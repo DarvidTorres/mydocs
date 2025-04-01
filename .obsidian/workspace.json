@@ -32,9 +32,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2bf4f9f756d54b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/strings/strings.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8929921b058bae75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/data types/strings/quotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ab4d0e31e56a8b1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/data types/strings/concatenate.md",
+                "file": "Python/data types/strings/quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/data types/strings/concatenate.md"
+                "file": "Python/data types/strings/quotes.md"
               }
             }
           },
@@ -193,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/data types/strings/concatenate.md",
+                "file": "Python/data types/strings/quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +256,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c946fb3bb2b64db",
+  "active": "8ab4d0e31e56a8b1",
   "lastOpenFiles": [
-    "Python/data types/strings/multiline strings.md",
+    "Python/data types/strings/strings.md",
     "Python/data types/strings/concatenate.md",
+    "Python/data types/strings/multiline strings.md",
     "Anaconda/Packages.md",
     "Anaconda/Conda.md",
     "Python/Pandas/Workflow.md",
@@ -234,7 +271,6 @@
     "Anaconda/Revisions.md",
     "Python/OOP/Inheritance.md",
     "Python/IPython/IPython.md",
-    "Python/data types/strings/strings.md",
     "Python/data types/data types.md",
     "Python/Main/Singletons.md",
     "Python/Main/Callables.md",

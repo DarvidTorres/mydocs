@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Jupyter settings",
+      "path": "Python/IPython/Jupyter settings.md"
+    },
+    {
+      "basename": "Data frames",
+      "path": "Python/Pandas/Data frames.md"
+    },
+    {
+      "basename": "IPython",
+      "path": "Python/IPython/IPython.md"
+    },
+    {
       "basename": "Pandas",
       "path": "Python/Pandas/Pandas.md"
     },
@@ -9,24 +21,12 @@
       "path": "Python/Main/venv.md"
     },
     {
-      "basename": "IPython",
-      "path": "Python/IPython/IPython.md"
-    },
-    {
-      "basename": "Jupyter settings",
-      "path": "Python/IPython/Jupyter settings.md"
-    },
-    {
       "basename": "Magic commands",
       "path": "Python/IPython/Magic commands.md"
     },
     {
       "basename": "Shell commands",
       "path": "Python/IPython/Shell commands.md"
-    },
-    {
-      "basename": "Data frames",
-      "path": "Python/Pandas/Data frames.md"
     },
     {
       "basename": "Missing data",

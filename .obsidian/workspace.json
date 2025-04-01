@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Pandas/Pandas.md",
+                "file": "Python/IPython/Jupyter settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Pandas/Pandas.md"
+                "file": "Python/IPython/Jupyter settings.md"
               }
             }
           },
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Pandas/Pandas.md",
+                "file": "Python/IPython/Jupyter settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,15 +285,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "606a504cca15ca0b",
+  "active": "086810b207787c0f",
   "lastOpenFiles": [
-    "Python/Main/venv.md",
+    "Python/Pandas/Data frames.md",
     "Python/IPython/IPython.md",
     "Python/IPython/Jupyter settings.md",
+    "Python/Pandas/Pandas.md",
+    "Python/Main/venv.md",
     "Python/IPython/Magic commands.md",
     "Python/IPython/Shell commands.md",
-    "Python/Pandas/Data frames.md",
-    "Python/Pandas/Pandas.md",
     "Python/Pandas/Missing data.md",
     "Python/Pandas/dtypes.md",
     "Python/Pandas/MultiIndex.md",

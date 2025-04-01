@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "quotes",
-      "path": "Python/data types/strings/quotes.md"
+      "basename": "pip environments",
+      "path": "Python/Main/pip environments.md"
     },
     {
-      "basename": "strings",
-      "path": "Python/data types/strings/strings.md"
+      "basename": "for",
+      "path": "Python/control_flow/for.md"
+    },
+    {
+      "basename": "docstrings",
+      "path": "Python/Main/docstrings.md"
+    },
+    {
+      "basename": "multiline strings",
+      "path": "Python/data types/strings/multiline strings.md"
     },
     {
       "basename": "concatenate",
       "path": "Python/data types/strings/concatenate.md"
     },
     {
-      "basename": "multiline strings",
-      "path": "Python/data types/strings/multiline strings.md"
+      "basename": "strings",
+      "path": "Python/data types/strings/strings.md"
+    },
+    {
+      "basename": "quotes",
+      "path": "Python/data types/strings/quotes.md"
     },
     {
       "basename": "Packages",
@@ -169,10 +181,6 @@
       "path": "Python/control_flow/Control structures.md"
     },
     {
-      "basename": "for",
-      "path": "Python/control_flow/for.md"
-    },
-    {
       "basename": "type_casting",
       "path": "Python/data types/type_casting.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Help",
       "path": "Python/IPython/Help.md"
-    },
-    {
-      "basename": "Polymorphism",
-      "path": "Python/OOP/Polymorphism.md"
-    },
-    {
-      "basename": "Encapsulation",
-      "path": "Python/OOP/Encapsulation.md"
     }
   ],
   "omittedPaths": [],

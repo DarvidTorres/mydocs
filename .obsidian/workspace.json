@@ -8,156 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e8cb994bc165219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Pandas/Pandas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pandas"
-            }
-          },
-          {
-            "id": "e2f038798ad59efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Pandas/Data frames.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Data frames"
-            }
-          },
-          {
-            "id": "cf5ecb52892bb988",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/IPython/Shell commands.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Shell commands"
-            }
-          },
-          {
-            "id": "2ac9f2df96a8e25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/IPython/Magic commands.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Magic commands"
-            }
-          },
-          {
-            "id": "606a504cca15ca0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Pandas/Pandas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pandas"
-            }
-          },
-          {
-            "id": "4fbf0a9ca2671b60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/IPython/IPython.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "IPython"
-            }
-          },
-          {
             "id": "086810b207787c0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/IPython/Jupyter settings.md",
+                "file": "R/Settings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jupyter settings"
+              "title": "Settings"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/IPython/Jupyter settings.md",
+                "file": "R/Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +142,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jupyter settings"
+              "title": "Backlinks for Settings"
             }
           },
           {
@@ -296,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/IPython/Jupyter settings.md",
+                "file": "R/Settings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jupyter settings"
+              "title": "Outline of Settings"
             }
           },
           {
@@ -363,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/IPython/Jupyter settings.md",
+                "file": "R/Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jupyter settings"
+              "title": "Outgoing links from Settings"
             }
           }
         ]
@@ -394,9 +249,15 @@
   },
   "active": "086810b207787c0f",
   "lastOpenFiles": [
+    "R/R.md",
+    "R/Settings.md",
+    "R/Types.md",
+    "R/Indexing.md",
+    "R/Files.md",
+    "R/Packages.md",
+    "Python/IPython/Jupyter settings.md",
     "Python/Pandas/Data frames.md",
     "Python/IPython/IPython.md",
-    "Python/IPython/Jupyter settings.md",
     "Python/Pandas/Pandas.md",
     "Python/Main/venv.md",
     "Python/IPython/Magic commands.md",
@@ -414,12 +275,6 @@
     "Python/data types/strings/quotes.md",
     "Anaconda/Packages.md",
     "Anaconda/Conda.md",
-    "Anaconda/Environment creation.md",
-    "Anaconda/Settings.md",
-    "Anaconda/Revisions.md",
-    "Python/OOP/Inheritance.md",
-    "Python/data types/data types.md",
-    "Python/Main/Singletons.md",
     "Python/Main",
     "Anaconda/Workflow",
     "Anaconda",

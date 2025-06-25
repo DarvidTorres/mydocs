@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Settings",
+      "path": "R/Settings.md"
+    },
+    {
+      "basename": "R",
+      "path": "R/R.md"
+    },
+    {
+      "basename": "Types",
+      "path": "R/Types.md"
+    },
+    {
+      "basename": "Indexing",
+      "path": "R/Indexing.md"
+    },
+    {
+      "basename": "Files",
+      "path": "R/Files.md"
+    },
+    {
+      "basename": "Packages",
+      "path": "R/Packages.md"
+    },
+    {
       "basename": "Jupyter settings",
       "path": "Python/IPython/Jupyter settings.md"
     },
@@ -137,10 +161,6 @@
       "path": "github/git_github.md"
     },
     {
-      "basename": "R",
-      "path": "R/R.md"
-    },
-    {
       "basename": "Series",
       "path": "Python/Pandas/Series.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Functions",
       "path": "Python/Functions/Functions.md"
-    },
-    {
-      "basename": "Boolean",
-      "path": "Python/data types/Boolean.md"
-    },
-    {
-      "basename": "Control structures",
-      "path": "Python/control_flow/Control structures.md"
-    },
-    {
-      "basename": "type_casting",
-      "path": "Python/data types/type_casting.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Help",
-      "path": "Python/IPython/Help.md"
     }
   ],
   "omittedPaths": [],

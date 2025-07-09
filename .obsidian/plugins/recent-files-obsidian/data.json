@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Settings",
-      "path": "R/Settings.md"
+      "basename": "Errors",
+      "path": "R/Errors.md"
+    },
+    {
+      "basename": "Version",
+      "path": "R/Version.md"
+    },
+    {
+      "basename": "Objects",
+      "path": "R/Objects.md"
     },
     {
       "basename": "R",
       "path": "R/R.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "R/Settings.md"
     },
     {
       "basename": "Types",
@@ -187,18 +199,6 @@
     {
       "basename": "Slicing",
       "path": "Python/NumPy/Slicing.md"
-    },
-    {
-      "basename": "Arrays",
-      "path": "Python/NumPy/Arrays.md"
-    },
-    {
-      "basename": "if",
-      "path": "Python/control_flow/if.md"
-    },
-    {
-      "basename": "Functions",
-      "path": "Python/Functions/Functions.md"
     }
   ],
   "omittedPaths": [],

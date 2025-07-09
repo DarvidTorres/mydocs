@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Settings.md",
+                "file": "R/Errors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Settings"
-            }
-          },
-          {
-            "id": "a40f193a7a8b192f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "Errors"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Settings.md",
+                "file": "R/Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Settings"
+              "title": "Outgoing links from Errors"
             }
           }
         ]
@@ -260,8 +247,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a40f193a7a8b192f",
+  "active": "086810b207787c0f",
   "lastOpenFiles": [
+    "R/Version.md",
+    "R/Errors.md",
+    "R/Objects.md",
     "R/R.md",
     "R/Settings.md",
     "R/Types.md",
@@ -285,9 +275,6 @@
     "Python/data types/strings/multiline strings.md",
     "Python/data types/strings/concatenate.md",
     "Python/data types/strings/strings.md",
-    "Python/data types/strings/quotes.md",
-    "Anaconda/Packages.md",
-    "Anaconda/Conda.md",
     "Python/Main",
     "Anaconda/Workflow",
     "Anaconda",

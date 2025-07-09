@@ -1,40 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "VSCode",
-      "path": "R/VSCode.md"
-    },
-    {
-      "basename": "Version",
-      "path": "R/Version.md"
-    },
-    {
-      "basename": "Errors",
-      "path": "R/Errors.md"
-    },
-    {
       "basename": "Objects",
       "path": "R/Objects.md"
     },
     {
-      "basename": "R",
-      "path": "R/R.md"
-    },
-    {
-      "basename": "Settings",
-      "path": "R/Settings.md"
-    },
-    {
-      "basename": "Types",
-      "path": "R/Types.md"
+      "basename": "Shortcuts",
+      "path": "R/Shortcuts.md"
     },
     {
       "basename": "Indexing",
       "path": "R/Indexing.md"
     },
     {
+      "basename": "Settings",
+      "path": "R/Settings.md"
+    },
+    {
+      "basename": "Version",
+      "path": "R/Version.md"
+    },
+    {
+      "basename": "VSCode",
+      "path": "R/VSCode.md"
+    },
+    {
+      "basename": "Types",
+      "path": "R/Types.md"
+    },
+    {
+      "basename": "R",
+      "path": "R/R.md"
+    },
+    {
       "basename": "Files",
       "path": "R/Files.md"
+    },
+    {
+      "basename": "Errors",
+      "path": "R/Errors.md"
     },
     {
       "basename": "Packages",
@@ -195,10 +199,6 @@
     {
       "basename": "Alias",
       "path": "Python/Main/Alias.md"
-    },
-    {
-      "basename": "Unfunc",
-      "path": "Python/NumPy/Unfunc.md"
     }
   ],
   "omittedPaths": [],

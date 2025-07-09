@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/VSCode.md",
+                "file": "R/Objects.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VSCode"
+              "title": "Objects"
             }
           }
         ]
@@ -218,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/VSCode.md",
+                "file": "R/Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from VSCode"
+              "title": "Outgoing links from Objects"
             }
           }
         ]
@@ -249,15 +249,16 @@
   },
   "active": "086810b207787c0f",
   "lastOpenFiles": [
+    "R/Shortcuts.md",
+    "R/Indexing.md",
+    "R/Settings.md",
+    "R/Objects.md",
     "R/Version.md",
     "R/VSCode.md",
-    "R/Errors.md",
-    "R/Objects.md",
-    "R/R.md",
-    "R/Settings.md",
     "R/Types.md",
-    "R/Indexing.md",
+    "R/R.md",
     "R/Files.md",
+    "R/Errors.md",
     "R/Packages.md",
     "Python/IPython/Jupyter settings.md",
     "Python/Pandas/Data frames.md",
@@ -274,7 +275,6 @@
     "Python/Main/Modules.md",
     "Python/Main/docstrings.md",
     "Python/data types/strings/multiline strings.md",
-    "Python/data types/strings/concatenate.md",
     "Python/Main",
     "Anaconda/Workflow",
     "Anaconda",

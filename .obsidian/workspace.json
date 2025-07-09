@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Settings"
             }
+          },
+          {
+            "id": "a40f193a7a8b192f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,7 +260,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "086810b207787c0f",
+  "active": "a40f193a7a8b192f",
   "lastOpenFiles": [
     "R/R.md",
     "R/Settings.md",

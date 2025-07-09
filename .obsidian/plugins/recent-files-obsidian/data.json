@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Errors",
-      "path": "R/Errors.md"
+      "basename": "VSCode",
+      "path": "R/VSCode.md"
     },
     {
       "basename": "Version",
       "path": "R/Version.md"
+    },
+    {
+      "basename": "Errors",
+      "path": "R/Errors.md"
     },
     {
       "basename": "Objects",
@@ -195,10 +199,6 @@
     {
       "basename": "Unfunc",
       "path": "Python/NumPy/Unfunc.md"
-    },
-    {
-      "basename": "Slicing",
-      "path": "Python/NumPy/Slicing.md"
     }
   ],
   "omittedPaths": [],

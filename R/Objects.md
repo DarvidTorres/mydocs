@@ -27,7 +27,7 @@ Atomic vector types:
 # Lists
 
 - Lists have elements, each of which can contain any type of R object.
-- List elements are accessed through three different [[indexing]] operations.
+- List elements are accessed through three different [[Indexing]] operations.
 
 # NULL
 
@@ -45,7 +45,7 @@ All objects except `NULL` can have one or more attributes attached to them.
 - Names
 	- labels the individual elements of a vector or list.
 	- When an object is printed the `names` attribute, when present, is used to label the elements.
-	- The `names` attribute can also be used for [[indexing]] purposes.
+	- The `names` attribute can also be used for [[Indexing]] purposes.
 - Dimensions
 	- The `dim` attribute is used to implement arrays.
 	- The length of one or more dimensions may be zero.
@@ -68,7 +68,7 @@ All objects except `NULL` can have one or more attributes attached to them.
 
 Factors in R Programming Language are data structures that are implemented to categorize the data or represent categorical data and store it on multiple levels. 
 
-By default  `read.csv` imports [[files]] with `stringsAsFactors = FALSE`, for factors use: 
+By default  `read.csv` imports [[Files]] with `stringsAsFactors = FALSE`, for factors use: 
 
 ```R
 <var> <- read.csv("<PATH>", stringsAsFactors = T) # String as factors to see how many unique values per column

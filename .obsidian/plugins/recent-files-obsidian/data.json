@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Data frames",
+      "path": "R/Data frames.md"
+    },
+    {
+      "basename": "Types",
+      "path": "R/Types.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "R/Functions.md"
+    },
+    {
+      "basename": "Files",
+      "path": "R/Files.md"
+    },
+    {
       "basename": "Objects",
       "path": "R/Objects.md"
     },
@@ -23,18 +39,6 @@
     {
       "basename": "VSCode",
       "path": "R/VSCode.md"
-    },
-    {
-      "basename": "Types",
-      "path": "R/Types.md"
-    },
-    {
-      "basename": "R",
-      "path": "R/R.md"
-    },
-    {
-      "basename": "Files",
-      "path": "R/Files.md"
     },
     {
       "basename": "Errors",
@@ -195,10 +199,6 @@
     {
       "basename": "try exception",
       "path": "Python/Main/try exception.md"
-    },
-    {
-      "basename": "Alias",
-      "path": "Python/Main/Alias.md"
     }
   ],
   "omittedPaths": [],

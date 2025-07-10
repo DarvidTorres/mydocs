@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Objects.md",
+                "file": "R/Data frames.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Objects"
+              "title": "Data frames"
             }
           }
         ]
@@ -218,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Objects.md",
+                "file": "R/Data frames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Objects"
+              "title": "Outgoing links from Data frames"
             }
           }
         ]
@@ -249,15 +249,16 @@
   },
   "active": "086810b207787c0f",
   "lastOpenFiles": [
+    "R/Types.md",
+    "R/Data frames.md",
+    "R/Functions.md",
+    "R/Files.md",
+    "R/Objects.md",
     "R/Shortcuts.md",
     "R/Indexing.md",
     "R/Settings.md",
-    "R/Objects.md",
     "R/Version.md",
     "R/VSCode.md",
-    "R/Types.md",
-    "R/R.md",
-    "R/Files.md",
     "R/Errors.md",
     "R/Packages.md",
     "Python/IPython/Jupyter settings.md",
@@ -274,7 +275,6 @@
     "Python/control_flow/for.md",
     "Python/Main/Modules.md",
     "Python/Main/docstrings.md",
-    "Python/data types/strings/multiline strings.md",
     "Python/Main",
     "Anaconda/Workflow",
     "Anaconda",

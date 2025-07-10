@@ -5,6 +5,14 @@
       "path": "R/Data frames.md"
     },
     {
+      "basename": "Settings",
+      "path": "R/Settings.md"
+    },
+    {
+      "basename": "Version",
+      "path": "R/Version.md"
+    },
+    {
       "basename": "Types",
       "path": "R/Types.md"
     },
@@ -27,14 +35,6 @@
     {
       "basename": "Indexing",
       "path": "R/Indexing.md"
-    },
-    {
-      "basename": "Settings",
-      "path": "R/Settings.md"
-    },
-    {
-      "basename": "Version",
-      "path": "R/Version.md"
     },
     {
       "basename": "VSCode",

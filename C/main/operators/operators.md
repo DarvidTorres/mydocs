@@ -194,7 +194,7 @@ In the C programming language, operations can be performed on a bit level using 
 | Operator | Description                       | 
 | -------- | --------------------------------- |
 | sizeof() | Returns the [[C/data types/types#storage size|size]] of a variable    |
-| &        | Returns the [[address]] of a variable |
+| &        | Returns the [[C/memory/address]] of a variable |
 | *        | [[pointers\|Pointer]] to a variable             |
 | ? :      | [[if else#Ternary or Conditional operator\|Ternary or Conditional operator]].           |
 

@@ -31,7 +31,7 @@ else:
 
 ## break
 - With the break statement we can stop the loop even if the while condition is `True`.
-- `break` may only occur syntactically nested in a `for` or `while` loop, but not nested in a function or class definition within that loop.
+- `break` may only occur syntactically nested in a `for` or `while` loop, but not nested in a [[Python/Functions/Functions|function]] or [[Classes and objects#Classes|class]] definition within that loop.
 - It **terminates** the nearest enclosing loop, skipping the optional `else` clause if the loop has one.
 Example: 
 ```Python
@@ -68,8 +68,8 @@ while i < 6:
 ## while vs for
 > If you can iterate, do `for`, otherwise do `while
 
-- `while` is useful in scenarios where the `break` condition doesn't logically depend on any kind of [[Iterables#Sequences|sequence]]. 
-- When you're iterating over some kind of [[Iterables|collection]], it is usually better to use one of Python's iteration tools (use [[for]]).
+- `while` is useful in scenarios where the `break` condition doesn't logically depend on any kind of [[Iterable#Sequences|sequence]]. 
+- When you're iterating over some kind of [[Iterable|collection]], it is usually better to use one of Python's iteration tools (use [[for]]).
 
 [python - Why avoid while loops? - Stack Overflow](https://stackoverflow.com/questions/4270167/why-avoid-while-loops)
 

@@ -18,7 +18,7 @@ A computer program is a set of instructions that has two forms:
 		- So, the computer needs memory blocks to store numbers.
 
 - Memory is a (list) sequence of locations (bytes) to store [[C/data types/types#value range|data values]].
-- Storing locations (bytes) are assigned unique memory [[address|addresses]].
+- Storing locations (bytes) are assigned unique memory [[C/memory/address|addresses]].
 
 The Stack and the Heap are two memory areas located in the computer’s RAM.
 

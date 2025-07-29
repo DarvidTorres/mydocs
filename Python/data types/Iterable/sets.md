@@ -1,4 +1,4 @@
-- Set in Python also a [[Iterables|collection]] [[data types|data type]] such as [[lists|list]] or [[tuples|tuple]].
+- Set in Python also a [[Iterable|collection]] [[data types|data type]] such as [[lists|list]] or [[tuples|tuple]].
 - A set object is a collection of one or more objects enclosed within curly brackets `{}`.
 - Sets are **not** an ordered collection,
 	- Items in a set are **not** accessible by its positional index.

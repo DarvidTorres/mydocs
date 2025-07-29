@@ -13,7 +13,7 @@ C supports:
 
 # const
 
-- `const` declares a [[variables|variable]] to be a [[tokens#constants|constant]] (unmodifiable variable).
+- `const` declares a [[C/variables/variables|variable]] to be a [[tokens#constants|constant]] (unmodifiable variable).
 - Prevents changes to defined variables.
 - variables declared with `const` will default to $0$.
 

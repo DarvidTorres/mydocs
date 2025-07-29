@@ -18,7 +18,8 @@ print("Hello, World!")
 print("Hello World")
 ```
 
-* We use triple quotation marks for multi-line strings.
+* We use triple quotation marks for [[multiline strings]].
+* The line length should be limited to 72 characters.
 
 Since Python will ignore string literals that are not assigned to a variable, you can add a multiline string (triple quotes) in your code, and place your comment inside it:
 
@@ -32,4 +33,4 @@ more than just one line
 print("Hello, World!")
 ```
 
-
+[[multiline strings]] are not comments, although they can be used as such, especially with special comments called [[docstrings]].

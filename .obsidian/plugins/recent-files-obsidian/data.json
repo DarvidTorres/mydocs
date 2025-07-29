@@ -149,32 +149,8 @@
       "path": "Python/data types/data types.md"
     },
     {
-      "basename": "Singletons",
-      "path": "Python/Main/Singletons.md"
-    },
-    {
       "basename": "Callables",
       "path": "Python/Main/Callables.md"
-    },
-    {
-      "basename": "lists",
-      "path": "Python/data types/Iterables/lists.md"
-    },
-    {
-      "basename": "Iterables",
-      "path": "Python/data types/Iterables/Iterables.md"
-    },
-    {
-      "basename": "sets",
-      "path": "Python/data types/Iterables/sets.md"
-    },
-    {
-      "basename": "Sequence methods",
-      "path": "Python/data types/Iterables/Sequence methods.md"
-    },
-    {
-      "basename": "Classes and objects",
-      "path": "Python/OOP/Classes and objects.md"
     },
     {
       "basename": "Export and import environments",

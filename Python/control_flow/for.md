@@ -1,4 +1,4 @@
-Iterate over the items of an [[Iterables|iterable]].
+Iterate over the items of an [[Iterable|iterable]].
 
 syntax:
 ```Python
@@ -23,7 +23,7 @@ for i in myList:
 - The `for` loop does not require an indexing variable to set beforehand, like the [[while#while vs for|while]] loop does.
 
 ## for-else
-- The `else` statement is executed when the [[Iterables|iterable]] is exhausted, then the loop terminates.
+- The `else` statement is executed when the [[Iterable|iterable]] is exhausted, then the loop terminates.
 
 Example:
 ```Python

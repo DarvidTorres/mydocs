@@ -46,7 +46,7 @@ myDict = {
 print(myDict["a"])
 ```
 
-- [[Iterables|Iteration]] on a dictionary runs over the `key` part of pairs.
+- [[Iterable|Iteration]] on a dictionary runs over the `key` part of pairs.
 
 - The `keys()` method will return a list of all the keys in the dictionary.
 - The `values()` method will return a list of all the values in the dictionary.
@@ -61,4 +61,4 @@ print(myDict.values())
 print(myDict.items())
 ```
 
-- `dict_keys`, `dict_values` and `dict_items` classes are [[Iterables|iterable]].
+- `dict_keys`, `dict_values` and `dict_items` classes are [[Iterable|iterable]].

@@ -1,12 +1,13 @@
-| Operator | Name           | Example      |
-| -------- | -------------- | ------------ |
-| `+`      | Addition       | `a + b = 30` |
-| `-`      | Subtraction    | `a – b = -10` |
-| `*`      | Multiplication | `a * b = 200` |
-| `/`      | Division       | `b / a = 2` |
-| `%`      | Modulus        | `b % a = 0` |
-| `**`     | Exponent       | `a**b =10**20` |
-| `//`     | Floor Division | `9//2 = 4` |
+
+| Operator | Name           |
+| -------- | -------------- |
+| `+`      | Addition       |
+| `-`      | Subtraction    |
+| `*`      | Multiplication |
+| `/`      | Division       |
+| `%`      | Modulus        |
+| `**`     | Exponent       |
+| `//`     | Floor Division |
 
 - Addition of `integer` and `float` results in a `float`. See [[type_casting#Implicit casting]]
 ```Python
@@ -32,6 +33,14 @@ print(type(a * c))
 ```
 
 ## Modulus and Floor division
+
+- The **floor** of  a number $a$ is the largest integer $\leq a$.
+	- Example: The floor of $-3.1$ is $-4$.
+- Floor division of $a$ and $b$, is the floor of the division of $a$ and $b$.
+	- Example $\frac{5}{3} = 1.\overline{6}$. So, the floor is $1$.
+- Floor division, `a // b` ,  is not the integer portion of `a / b`
+	- Example: `-5 // 3` is equal to $-2$.
+
 The quotient $q$ and the remainder $r$ of $a$ divided by $n$ satisfy the following:
 
 $$

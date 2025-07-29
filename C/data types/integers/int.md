@@ -1,4 +1,4 @@
-- There are two [[C/data types/types]] (often called ‘flavors’) of integer [[variables]]:
+- There are two [[C/data types/types]] (often called ‘flavors’) of integer [[C/variables/variables]]:
 	- `int`
 	- [[char]]
 - integers can be [[signed vs unsigned|signed or unsigned]].

@@ -1,4 +1,4 @@
-- An [[tokens#Identifiers|identifier]] is a label (name) for a [[variables|variable]] or a [[C/functions/functions|function]].
+- An [[tokens#Identifiers|identifier]] is a label (name) for a [[C/variables/variables|variable]] or a [[C/functions/functions|function]].
 - A declaration introduces an identifier and describes its type.
 - A declaration is what the [[compilation|compiler]] needs to accept references to that identifier.
 

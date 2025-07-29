@@ -17,18 +17,6 @@ Note: Python details what type of exception error was encountered.
 
 Python comes with various built-in exceptions as well as the possibility to create self-defined exceptions.
 
-- Use `raise` to throw an exception if a condition occurs.
-
-```Python
-x = 10
-if x > 5:
-	raise Exception("This is an exception")
-```
-
-- The `try` and `except` block in Python is used to catch and handle exceptions.
-- Python executes code following the `try` statement as a normal part of the program.
-- The code that follows the `except` statement is the program's response to any exceptions in the preceding `try` clause.
-
 syntax:
 ```Python
 try:
@@ -36,6 +24,9 @@ try:
 except:
 	<executes_when_error_in_try_suite>
 ```
+
+- Python executes code following the `try` statement as a normal part of the program.
+- The code that follows the `except` statement will run if the code in the `try` clause terminates with an error.
 
 Example:
 ```Python
@@ -82,3 +73,13 @@ try:
 except:
   print("Something went wrong when opening the file")
 ```
+
+- Use `raise` to throw an exception if a condition is met.
+
+```Python
+x = 10
+if x > 5:
+	raise Exception("This is an exception")
+```
+
+- The `try` and `except` block in Python is used to catch and handle exceptions.

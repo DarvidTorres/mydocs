@@ -5,6 +5,14 @@
       "path": "R/Data frames.md"
     },
     {
+      "basename": "Shortcuts",
+      "path": "R/Shortcuts.md"
+    },
+    {
+      "basename": "Files",
+      "path": "R/Files.md"
+    },
+    {
       "basename": "Settings",
       "path": "R/Settings.md"
     },
@@ -21,16 +29,8 @@
       "path": "R/Functions.md"
     },
     {
-      "basename": "Files",
-      "path": "R/Files.md"
-    },
-    {
       "basename": "Objects",
       "path": "R/Objects.md"
-    },
-    {
-      "basename": "Shortcuts",
-      "path": "R/Shortcuts.md"
     },
     {
       "basename": "Indexing",

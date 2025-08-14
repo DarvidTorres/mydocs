@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Settings",
+      "path": "R/Settings.md"
+    },
+    {
+      "basename": "VSCode",
+      "path": "R/VSCode.md"
+    },
+    {
       "basename": "Data frames",
       "path": "R/Data frames.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Files",
       "path": "R/Files.md"
-    },
-    {
-      "basename": "Settings",
-      "path": "R/Settings.md"
     },
     {
       "basename": "Version",
@@ -35,10 +39,6 @@
     {
       "basename": "Indexing",
       "path": "R/Indexing.md"
-    },
-    {
-      "basename": "VSCode",
-      "path": "R/VSCode.md"
     },
     {
       "basename": "Errors",

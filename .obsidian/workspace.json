@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Data frames.md",
+                "file": "R/Settings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data frames"
+              "title": "Settings"
             }
           }
         ]
@@ -218,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Data frames.md",
+                "file": "R/Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data frames"
+              "title": "Outgoing links from Settings"
             }
           }
         ]
@@ -249,8 +249,9 @@
   },
   "active": "086810b207787c0f",
   "lastOpenFiles": [
-    "R/Shortcuts.md",
+    "R/VSCode.md",
     "R/Data frames.md",
+    "R/Shortcuts.md",
     "R/Files.md",
     "conflict-files-obsidian-git.md",
     "Python/data types/strings/f-strings/Format specification mini language.md",
@@ -280,7 +281,6 @@
     "Python/operators/Assignment operators/Walrus.md",
     "Python/operators/Assignment operators/Subtract and assign.md",
     "Python/operators/Assignment operators/Floor division and assign.md",
-    "Python/operators/Assignment operators/multiple assignment.md",
     "Python/operators/Assignment operators",
     "Python/memory",
     "Python/Variables",

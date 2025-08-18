@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Objects",
+      "path": "R/Objects.md"
+    },
+    {
       "basename": "Settings",
       "path": "R/Settings.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Functions",
       "path": "R/Functions.md"
-    },
-    {
-      "basename": "Objects",
-      "path": "R/Objects.md"
     },
     {
       "basename": "Indexing",

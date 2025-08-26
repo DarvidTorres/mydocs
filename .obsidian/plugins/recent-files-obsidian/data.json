@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "data/Untitled.md"
+      "basename": "Packages",
+      "path": "R/Packages.md"
+    },
+    {
+      "basename": "git_github",
+      "path": "github/git_github.md"
     },
     {
       "basename": "Standardization vs Normalization",
       "path": "data/Standardization vs Normalization.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "data/Untitled.md"
     },
     {
       "basename": "Variable profiling",
@@ -191,10 +199,6 @@
     {
       "basename": "Variables",
       "path": "Python/Variables/Variables.md"
-    },
-    {
-      "basename": "Objects",
-      "path": "Python/OOP/Objects.md"
     }
   ],
   "omittedPaths": [],

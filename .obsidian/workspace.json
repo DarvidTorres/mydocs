@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Standardization vs Normalization.md",
+                "file": "R/Packages.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Standardization vs Normalization"
+              "title": "Packages"
+            }
+          },
+          {
+            "id": "2c6f4f9fa1e290a5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           },
           {
@@ -45,21 +66,9 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
-          },
-          {
-            "id": "2589e46631402894",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,12 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Untitled.md",
+                "file": "R/Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Packages"
             }
           }
         ]
@@ -282,10 +291,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2589e46631402894",
+  "active": "e3ab6b24021e97a2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "github/git_github.md",
+    "data/Standardization vs Normalization.md",
     "data/Untitled.md",
+    "data/Machine Leaning Process/Variable profiling.md",
+    "conflict-files-obsidian-git.md",
     "R/Version.md",
     "R/VSCode.md",
     "R/Shortcuts.md",
@@ -293,8 +305,6 @@
     "R/Errors.md",
     "R/Data frames.md",
     "Python/Main/venv.md",
-    "data/Standardization vs Normalization.md",
-    "data/Machine Leaning Process/Variable profiling.md",
     "data/Resources/Links.md",
     "data/Resources",
     "data/Machine Leaning Process",
@@ -313,7 +323,6 @@
     "Python/data types/Strings/f-strings/f-strings.md",
     "Python/data types/Strings/f-strings/f-string expression.md",
     "Python/data types/Strings/f-strings",
-    "Python/data types/Integers/integer.md",
     "Python/data types/Integers",
     "Python/Operators/Assignment operators",
     "Python/OOP/Singletons",

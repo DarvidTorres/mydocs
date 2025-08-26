@@ -49,10 +49,6 @@
       "path": "Anaconda/Revisions.md"
     },
     {
-      "basename": "R",
-      "path": "R/R.md"
-    },
-    {
       "basename": "Format specification mini language",
       "path": "Python/data types/Strings/f-strings/Format specification mini language.md"
     },

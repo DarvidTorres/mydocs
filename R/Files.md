@@ -1,10 +1,13 @@
-## Working directory
+# Working directory
 
 * `getwd()` # Get working directory
 * `setwd("PATH")` # Set working directory to `PATH`
   * Example `(Windows): "C:\\Programming\\R\\R Programming A-Z"`
 * ``setwd(choose.dir())`` manually set working directory
 * `dir()` # See files within directory
+
+# Here
+
 * `here` library that allows you to use the `here()` function to create a string with the information you need to point R to a particular file.
 ```R 
 library(here) # Library to point working directory
@@ -12,7 +15,14 @@ here() # Shows working directory exactly as getwd()
 here("<cd>") # Path to subfolder cd
 ```
 
+Build a path to something in a subdirectory and use it.
 
+```r
+here("one", "two", "awesome.txt")
+#> [1] "/Users/jenny/rrr/here_here/one/two/awesome.txt"
+cat(readLines(here("one", "two", "awesome.txt")))
+#> OMG this is so awesome!
+```
 # Read files
 
 * Path: Windows: use "\\\\" or "/".

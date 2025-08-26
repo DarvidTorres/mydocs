@@ -45,9 +45,33 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "24d51ff8f9ba7b95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,12 +264,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           }
         ]
@@ -269,10 +293,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3ab6b24021e97a2",
+  "active": "24d51ff8f9ba7b95",
   "lastOpenFiles": [
-    "data/Standardization vs Normalization.md",
     "data/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "R/Version.md",
+    "R/VSCode.md",
+    "R/Shortcuts.md",
+    "R/Functions.md",
+    "R/Errors.md",
+    "R/Data frames.md",
+    "Python/Main/venv.md",
+    "data/Standardization vs Normalization.md",
     "data/Machine Leaning Process/Variable profiling.md",
     "data/Resources/Links.md",
     "data/Resources",
@@ -293,15 +325,7 @@
     "Python/data types/Strings/f-strings/f-string expression.md",
     "Python/data types/Strings/f-strings",
     "Python/data types/Integers/integer.md",
-    "Python/data types/data types.md",
-    "Python/data types/type_casting.md",
-    "Python/Operators/Arithmetic operators.md",
-    "Python/Operators/Operators.md",
-    "Python/Operators/Assignment operators/Floor division and assign.md",
-    "C/data types/integers/int.md",
     "Python/data types/Integers",
-    "Python/data types/Iterable/lists.md",
-    "Python/control_flow/for.md",
     "Python/Operators/Assignment operators",
     "Python/OOP/Singletons",
     "Python/Memory",

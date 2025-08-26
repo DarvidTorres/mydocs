@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "VSCode",
+      "path": "R/VSCode.md"
+    },
+    {
+      "basename": "Version",
+      "path": "R/Version.md"
+    },
+    {
+      "basename": "Files",
+      "path": "R/Files.md"
+    },
+    {
+      "basename": "Errors",
+      "path": "R/Errors.md"
+    },
+    {
+      "basename": "Data frames",
+      "path": "R/Data frames.md"
+    },
+    {
       "basename": "Packages",
       "path": "R/Packages.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "R/Settings.md"
+    },
+    {
+      "basename": "Terminal",
+      "path": "R/Terminal.md"
     },
     {
       "basename": "git_github",
@@ -171,34 +199,6 @@
     {
       "basename": "Default arguments",
       "path": "Python/Functions/Arguments/Default arguments.md"
-    },
-    {
-      "basename": "Shared references",
-      "path": "Python/Variables/Shared references.md"
-    },
-    {
-      "basename": "data structures",
-      "path": "C/data structures/data structures.md"
-    },
-    {
-      "basename": "Reference counting",
-      "path": "Python/Variables/Reference counting.md"
-    },
-    {
-      "basename": "Mutability",
-      "path": "Python/Main/Mutability.md"
-    },
-    {
-      "basename": "Variable equality",
-      "path": "Python/Variables/Variable equality.md"
-    },
-    {
-      "basename": "address",
-      "path": "Python/Memory/address.md"
-    },
-    {
-      "basename": "Variables",
-      "path": "Python/Variables/Variables.md"
     }
   ],
   "omittedPaths": [],

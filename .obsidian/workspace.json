@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/VSCode.md",
+                "file": "R/Packages.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VSCode"
+              "title": "Packages"
             }
           },
           {
@@ -247,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/VSCode.md",
+                "file": "R/Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from VSCode"
+              "title": "Outgoing links from Packages"
             }
           }
         ]
@@ -279,6 +279,8 @@
   },
   "active": "d05f7275f96744d4",
   "lastOpenFiles": [
+    "R/VSCode.md",
+    "data/Untitled.md",
     "R/Version.md",
     "R/Files.md",
     "R/Errors.md",
@@ -288,10 +290,8 @@
     "R/Terminal.md",
     "github/git_github.md",
     "data/Standardization vs Normalization.md",
-    "data/Untitled.md",
     "data/Machine Leaning Process/Variable profiling.md",
     "conflict-files-obsidian-git.md",
-    "R/VSCode.md",
     "R/Shortcuts.md",
     "R/Functions.md",
     "Python/Main/venv.md",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Packages",
+      "path": "R/Packages.md"
+    },
+    {
       "basename": "VSCode",
       "path": "R/VSCode.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "data/Untitled.md"
     },
     {
       "basename": "Version",
@@ -21,10 +29,6 @@
       "path": "R/Data frames.md"
     },
     {
-      "basename": "Packages",
-      "path": "R/Packages.md"
-    },
-    {
       "basename": "Settings",
       "path": "R/Settings.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Standardization vs Normalization",
       "path": "data/Standardization vs Normalization.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "data/Untitled.md"
     },
     {
       "basename": "Variable profiling",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Data frames",
+      "path": "R/Data frames.md"
+    },
+    {
+      "basename": "Factors",
+      "path": "R/Factors.md"
+    },
+    {
       "basename": "too_few arg",
       "path": "R/Separate/too_few arg.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Errors",
       "path": "R/Errors.md"
-    },
-    {
-      "basename": "Data frames",
-      "path": "R/Data frames.md"
     },
     {
       "basename": "Settings",
@@ -195,10 +199,6 @@
     {
       "basename": "Assignment",
       "path": "Python/Operators/Assignment operators/Assignment.md"
-    },
-    {
-      "basename": "None",
-      "path": "Python/OOP/Singletons/None.md"
     }
   ],
   "omittedPaths": [],

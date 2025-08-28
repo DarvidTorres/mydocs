@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Packages.md",
+                "file": "R/Separate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Packages"
+              "title": "Separate"
             }
           },
           {
@@ -247,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Packages.md",
+                "file": "R/Separate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Packages"
+              "title": "Outgoing links from Separate"
             }
           }
         ]
@@ -279,13 +279,16 @@
   },
   "active": "d05f7275f96744d4",
   "lastOpenFiles": [
+    "R/Packages.md",
+    "R/Separate.md",
+    "R/Separate()",
+    "R/Objects.md",
     "R/VSCode.md",
     "data/Untitled.md",
     "R/Version.md",
     "R/Files.md",
     "R/Errors.md",
     "R/Data frames.md",
-    "R/Packages.md",
     "R/Settings.md",
     "R/Terminal.md",
     "github/git_github.md",
@@ -306,15 +309,12 @@
     "Anaconda/Environment creation.md",
     "Anaconda/Settings.md",
     "Anaconda/Conda.md",
-    "Anaconda/Revisions.md",
-    "R/R.md",
     "Python/data types/Strings/f-strings",
     "Python/data types/Integers",
     "Python/Operators/Assignment operators",
     "Python/OOP/Singletons",
     "Python/Memory",
     "Python/Variables",
-    "Python/Main",
     "Pasted image 20230319193607.png"
   ]
 }

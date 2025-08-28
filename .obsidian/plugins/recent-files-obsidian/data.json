@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "too_few arg",
+      "path": "R/Separate/too_few arg.md"
+    },
+    {
+      "basename": "too_many arg",
+      "path": "R/Separate/too_many arg.md"
+    },
+    {
       "basename": "Separate",
-      "path": "R/Separate.md"
+      "path": "R/Separate/Separate.md"
     },
     {
       "basename": "Packages",
@@ -191,14 +199,6 @@
     {
       "basename": "None",
       "path": "Python/OOP/Singletons/None.md"
-    },
-    {
-      "basename": "Singletons",
-      "path": "Python/OOP/Singletons/Singletons.md"
-    },
-    {
-      "basename": "Functions",
-      "path": "Python/Functions/Functions.md"
     }
   ],
   "omittedPaths": [],

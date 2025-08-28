@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Separate.md",
+                "file": "R/Separate/too_few arg.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Separate"
+              "title": "too_few arg"
             }
           },
           {
@@ -247,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Separate.md",
+                "file": "R/Separate/too_few arg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Separate"
+              "title": "Outgoing links from too_few arg"
             }
           }
         ]
@@ -279,8 +279,11 @@
   },
   "active": "d05f7275f96744d4",
   "lastOpenFiles": [
+    "R/Separate/too_many arg.md",
+    "R/Separate/too_few arg.md",
+    "R/Separate/Separate.md",
+    "R/Separate",
     "R/Packages.md",
-    "R/Separate.md",
     "R/Separate()",
     "R/Objects.md",
     "R/VSCode.md",
@@ -307,14 +310,11 @@
     "Python/Pandas/Workflow.md",
     "Anaconda/Packages.md",
     "Anaconda/Environment creation.md",
-    "Anaconda/Settings.md",
-    "Anaconda/Conda.md",
     "Python/data types/Strings/f-strings",
     "Python/data types/Integers",
     "Python/Operators/Assignment operators",
     "Python/OOP/Singletons",
     "Python/Memory",
-    "Python/Variables",
     "Pasted image 20230319193607.png"
   ]
 }

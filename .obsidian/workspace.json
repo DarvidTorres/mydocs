@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Data frames.md",
+                "file": "R/VSCode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data frames"
+              "title": "VSCode"
             }
           },
           {
@@ -247,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Data frames.md",
+                "file": "R/VSCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data frames"
+              "title": "Outgoing links from VSCode"
             }
           }
         ]
@@ -279,6 +279,7 @@
   },
   "active": "d05f7275f96744d4",
   "lastOpenFiles": [
+    "R/Data frames.md",
     "R/Factors.md",
     "R/Dates/Untitled",
     "R/Dates",
@@ -294,7 +295,6 @@
     "R/Version.md",
     "R/Files.md",
     "R/Errors.md",
-    "R/Data frames.md",
     "R/Settings.md",
     "R/Terminal.md",
     "github/git_github.md",

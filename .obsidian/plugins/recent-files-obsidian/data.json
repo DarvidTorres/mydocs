@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "VSCode",
+      "path": "R/VSCode.md"
+    },
+    {
       "basename": "Data frames",
       "path": "R/Data frames.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Objects",
       "path": "R/Objects.md"
-    },
-    {
-      "basename": "VSCode",
-      "path": "R/VSCode.md"
     },
     {
       "basename": "Untitled",

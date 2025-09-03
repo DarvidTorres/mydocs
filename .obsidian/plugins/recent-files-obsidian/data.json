@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Shortcuts",
+      "path": "R/Shortcuts.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "R/Untitled.md"
+    },
+    {
       "basename": "VSCode",
       "path": "R/VSCode.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Add and assign",
       "path": "Python/Operators/Assignment operators/Add and assign.md"
-    },
-    {
-      "basename": "multiple assignment",
-      "path": "Python/Operators/Assignment operators/multiple assignment.md"
-    },
-    {
-      "basename": "Assignment",
-      "path": "Python/Operators/Assignment operators/Assignment.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/VSCode.md",
+                "file": "R/Shortcuts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VSCode"
+              "title": "Shortcuts"
             }
           },
           {
@@ -247,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/VSCode.md",
+                "file": "R/Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from VSCode"
+              "title": "Outgoing links from Shortcuts"
             }
           }
         ]
@@ -277,8 +277,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0d9dd5ebd5d1621",
+  "active": "d05f7275f96744d4",
   "lastOpenFiles": [
+    "R/Untitled.md",
+    "R/VSCode.md",
     "R/Data frames.md",
     "R/Factors.md",
     "R/Dates/Untitled",
@@ -290,7 +292,6 @@
     "R/Packages.md",
     "R/Separate()",
     "R/Objects.md",
-    "R/VSCode.md",
     "data/Untitled.md",
     "R/Version.md",
     "R/Files.md",

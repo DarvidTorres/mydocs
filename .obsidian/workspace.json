@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Distribution.md",
+                "file": "data/Means.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Distribution"
+              "title": "Means"
             }
           },
           {
@@ -247,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/Distribution.md",
+                "file": "data/Means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Distribution"
+              "title": "Outgoing links from Means"
             }
           }
         ]
@@ -279,8 +279,8 @@
   },
   "active": "d05f7275f96744d4",
   "lastOpenFiles": [
-    "data/Means.md",
     "data/Distribution.md",
+    "data/Means.md",
     "data/Measures.md",
     "data/Means",
     "data/Standardization vs Normalization.md",

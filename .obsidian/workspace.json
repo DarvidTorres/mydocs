@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Shortcuts.md",
+                "file": "data/Distribution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shortcuts"
+              "title": "Distribution"
             }
           },
           {
@@ -129,8 +129,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "af55bc0fe283fce4",
@@ -248,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Shortcuts.md",
+                "file": "data/Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Shortcuts"
+              "title": "Outgoing links from Distribution"
             }
           }
         ]
@@ -278,8 +277,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3ab6b24021e97a2",
+  "active": "d05f7275f96744d4",
   "lastOpenFiles": [
+    "data/Means.md",
+    "data/Distribution.md",
+    "data/Measures.md",
+    "data/Means",
+    "data/Standardization vs Normalization.md",
+    "R/Shortcuts.md",
     "R/Untitled.md",
     "R/VSCode.md",
     "R/Data frames.md",
@@ -293,17 +298,14 @@
     "R/Packages.md",
     "R/Separate()",
     "R/Objects.md",
-    "data/Untitled.md",
     "R/Version.md",
     "R/Files.md",
     "R/Errors.md",
     "R/Settings.md",
     "R/Terminal.md",
     "github/git_github.md",
-    "data/Standardization vs Normalization.md",
     "data/Machine Leaning Process/Variable profiling.md",
     "conflict-files-obsidian-git.md",
-    "R/Shortcuts.md",
     "R/Functions.md",
     "Python/Main/venv.md",
     "data/Resources/Links.md",
@@ -311,11 +313,8 @@
     "data/Machine Leaning Process",
     "data/Machine Leaning Process/Machine Learning Process.md",
     "data",
-    "Anaconda/Export and import environments.md",
-    "Python/Pandas/Workflow.md",
     "Python/data types/Strings/f-strings",
     "Python/data types/Integers",
-    "Python/Operators/Assignment operators",
     "Pasted image 20230319193607.png"
   ]
 }

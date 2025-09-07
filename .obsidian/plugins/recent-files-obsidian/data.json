@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Distribution",
+      "path": "data/Distribution.md"
+    },
+    {
+      "basename": "Means",
+      "path": "data/Means.md"
+    },
+    {
+      "basename": "Measures",
+      "path": "data/Measures.md"
+    },
+    {
+      "basename": "Standardization vs Normalization",
+      "path": "data/Standardization vs Normalization.md"
+    },
+    {
       "basename": "Shortcuts",
       "path": "R/Shortcuts.md"
     },
@@ -41,10 +57,6 @@
       "path": "R/Objects.md"
     },
     {
-      "basename": "Untitled",
-      "path": "data/Untitled.md"
-    },
-    {
       "basename": "Version",
       "path": "R/Version.md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "git_github",
       "path": "github/git_github.md"
-    },
-    {
-      "basename": "Standardization vs Normalization",
-      "path": "data/Standardization vs Normalization.md"
     },
     {
       "basename": "Variable profiling",
@@ -191,14 +199,6 @@
     {
       "basename": "Multiply and ssign",
       "path": "Python/Operators/Assignment operators/Multiply and ssign.md"
-    },
-    {
-      "basename": "Subtract and assign",
-      "path": "Python/Operators/Assignment operators/Subtract and assign.md"
-    },
-    {
-      "basename": "Add and assign",
-      "path": "Python/Operators/Assignment operators/Add and assign.md"
     }
   ],
   "omittedPaths": [],

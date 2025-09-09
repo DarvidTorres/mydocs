@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Column names",
+      "path": "R/read_data/Column names.md"
+    },
+    {
       "basename": "Distribution",
       "path": "data/Distribution.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Exponent and assign",
       "path": "Python/Operators/Assignment operators/Exponent and assign.md"
-    },
-    {
-      "basename": "Multiply and ssign",
-      "path": "Python/Operators/Assignment operators/Multiply and ssign.md"
     }
   ],
   "omittedPaths": [],

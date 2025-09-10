@@ -5,6 +5,10 @@
       "path": "R/data.table/lapply.md"
     },
     {
+      "basename": "SD",
+      "path": "R/data.table/SD.md"
+    },
+    {
       "basename": "order",
       "path": "R/data.table/order.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Walrus",
       "path": "Python/Operators/Assignment operators/Walrus.md"
-    },
-    {
-      "basename": "Modulus and assign",
-      "path": "Python/Operators/Assignment operators/Modulus and assign.md"
     }
   ],
   "omittedPaths": [],

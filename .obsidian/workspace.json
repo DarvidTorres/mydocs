@@ -255,8 +255,9 @@
   },
   "active": "d05f7275f96744d4",
   "lastOpenFiles": [
-    "R/data.table/order.md",
+    "R/data.table/SD.md",
     "R/data.table/lapply.md",
+    "R/data.table/order.md",
     "R/read_data/Column names.md",
     "R/data.table",
     "R/order.md",
@@ -287,7 +288,6 @@
     "R/Terminal.md",
     "github/git_github.md",
     "data/Machine Leaning Process/Variable profiling.md",
-    "conflict-files-obsidian-git.md",
     "data/Resources",
     "data/Machine Leaning Process",
     "data",

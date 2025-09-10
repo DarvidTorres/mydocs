@@ -1,9 +1,4 @@
-### 1. `.SD` is not exactly the same as `DT`
 
-- `.SD` is a **data.table**, but it only exists _inside the `j` expression_.
-- `DT` is the whole object, visible everywhere.
-
-So while they can look similar, `.SD` is a _special, temporary view_ of your data.
 
 ---
 

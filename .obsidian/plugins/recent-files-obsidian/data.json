@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Curly braces { }",
+      "path": "R/Curly braces { }.md"
+    },
+    {
       "basename": "lapply",
       "path": "R/data.table/lapply.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "strings",
       "path": "Python/data types/Strings/strings.md"
-    },
-    {
-      "basename": "Walrus",
-      "path": "Python/Operators/Assignment operators/Walrus.md"
     }
   ],
   "omittedPaths": [],

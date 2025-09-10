@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/lapply.md",
+                "file": "R/Curly braces { }.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lapply"
+              "title": "Curly braces { }"
             }
           }
         ]
@@ -223,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/lapply.md",
+                "file": "R/Curly braces { }.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lapply"
+              "title": "Outgoing links from Curly braces { }"
             }
           }
         ]
@@ -255,8 +255,9 @@
   },
   "active": "d05f7275f96744d4",
   "lastOpenFiles": [
-    "R/data.table/SD.md",
     "R/data.table/lapply.md",
+    "R/Curly braces { }.md",
+    "R/data.table/SD.md",
     "R/data.table/order.md",
     "R/read_data/Column names.md",
     "R/data.table",
@@ -287,7 +288,6 @@
     "R/Settings.md",
     "R/Terminal.md",
     "github/git_github.md",
-    "data/Machine Leaning Process/Variable profiling.md",
     "data/Resources",
     "data/Machine Leaning Process",
     "data",

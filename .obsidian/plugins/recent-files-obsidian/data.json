@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "lapply",
+      "path": "R/data.table/lapply.md"
+    },
+    {
+      "basename": "order",
+      "path": "R/data.table/order.md"
+    },
+    {
       "basename": "Column names",
       "path": "R/read_data/Column names.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Modulus and assign",
       "path": "Python/Operators/Assignment operators/Modulus and assign.md"
-    },
-    {
-      "basename": "Divide and Assign",
-      "path": "Python/Operators/Assignment operators/Divide and Assign.md"
-    },
-    {
-      "basename": "Exponent and assign",
-      "path": "Python/Operators/Assignment operators/Exponent and assign.md"
     }
   ],
   "omittedPaths": [],

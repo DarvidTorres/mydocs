@@ -14,7 +14,10 @@ So while they can look similar, `.SD` is a _special, temporary view_ of your dat
 ### Where `.SD` and `.SDcols` fit
 
 - `.SD` lives **inside `j`**. It’s the data table of columns you can operate on.
+- `.SD` contains all the columns _except the grouping columns_ by default.
 - `.SDcols` is an **argument**, not a slot. It tells data.table: _“Only include these columns in `.SD`.”_
+- `.SDcols`. It accepts either column names or column indices.
+	- For example, `.SDcols = c("a", "b")` ensures that `.SD` contains only these two columns for each group.
 
 ```r
 DT[, lapply(.SD, mean), .SDcols = c("a", "b", "c")]

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SD",
+      "path": "R/data.table/SD.md"
+    },
+    {
       "basename": "setkeys",
       "path": "R/data.table/setkeys.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "lapply",
       "path": "R/data.table/lapply.md"
-    },
-    {
-      "basename": "SD",
-      "path": "R/data.table/SD.md"
     },
     {
       "basename": "Column names",

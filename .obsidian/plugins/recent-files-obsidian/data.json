@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "setkeys",
+      "path": "R/data.table/setkeys.md"
+    },
+    {
+      "basename": "order",
+      "path": "R/data.table/order.md"
+    },
+    {
       "basename": "Curly braces { }",
       "path": "R/Curly braces { }.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "SD",
       "path": "R/data.table/SD.md"
-    },
-    {
-      "basename": "order",
-      "path": "R/data.table/order.md"
     },
     {
       "basename": "Column names",
@@ -195,10 +199,6 @@
     {
       "basename": "Classes",
       "path": "Python/OOP/Classes.md"
-    },
-    {
-      "basename": "strings",
-      "path": "Python/data types/Strings/strings.md"
     }
   ],
   "omittedPaths": [],

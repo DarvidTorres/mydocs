@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Curly braces { }.md",
+                "file": "R/data.table/setkeys.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Curly braces { }"
+              "title": "setkeys"
             }
           }
         ]
@@ -105,8 +105,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "af55bc0fe283fce4",
@@ -224,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Curly braces { }.md",
+                "file": "R/data.table/setkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Curly braces { }"
+              "title": "Outgoing links from setkeys"
             }
           }
         ]
@@ -254,12 +253,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3ab6b24021e97a2",
+  "active": "d05f7275f96744d4",
   "lastOpenFiles": [
-    "R/data.table/lapply.md",
-    "R/Curly braces { }.md",
-    "R/data.table/SD.md",
     "R/data.table/order.md",
+    "R/data.table/setkeys.md",
+    "R/Curly braces { }.md",
+    "R/data.table/lapply.md",
+    "R/data.table/SD.md",
     "R/read_data/Column names.md",
     "R/data.table",
     "R/order.md",
@@ -288,7 +288,6 @@
     "R/Errors.md",
     "R/Settings.md",
     "R/Terminal.md",
-    "github/git_github.md",
     "data/Resources",
     "data/Machine Leaning Process",
     "data",

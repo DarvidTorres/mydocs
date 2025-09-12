@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "data.table",
-      "path": "R/data.table/data.table.md"
-    },
-    {
       "basename": "SD",
       "path": "R/data.table/SD.md"
+    },
+    {
+      "basename": "data.table",
+      "path": "R/data.table/data.table.md"
     },
     {
       "basename": "order",

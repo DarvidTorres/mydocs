@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/data.table.md",
+                "file": "R/data.table/SD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "data.table"
+              "title": "SD"
             }
           }
         ]
@@ -223,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/data.table.md",
+                "file": "R/data.table/SD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from data.table"
+              "title": "Outgoing links from SD"
             }
           }
         ]
@@ -255,11 +255,11 @@
   },
   "active": "d05f7275f96744d4",
   "lastOpenFiles": [
+    "R/data.table/data.table.md",
     "R/data.table/SD.md",
     "R/data.table/order.md",
     "R/data.table/setkeys.md",
     "R/data.table/lapply.md",
-    "R/data.table/data.table.md",
     "R/read_data/Column names.md",
     "R/Curly braces { }.md",
     "R/data.table",

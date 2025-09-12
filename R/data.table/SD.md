@@ -65,12 +65,3 @@ DT[, { print(is.data.table(.SD)); print(is.list(.SD)); NULL }]
 ```
 
 You’ll see `.SD` is both a `data.table` **and** a `list`.
-
----
-
-✅ So the answer to your question:  
-Yes — `.SD` is a data.table, but since a data.table is also a special kind of list, `lapply()` is perfectly happy to work with it.
-
----
-
-👉 Would you like me to show you a mental model (a picture in words) for thinking of `.SD` as a “mini-list of columns” that changes when you use `by`?

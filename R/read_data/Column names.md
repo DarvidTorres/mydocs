@@ -1,6 +1,3 @@
-
----
-
 ### R Data Import & Column Names
 
 1. **Syntactic vs Non-syntactic Names**

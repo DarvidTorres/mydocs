@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "SD",
-      "path": "R/data.table/SD.md"
+      "basename": "data.table",
+      "path": "R/data.table/data.table.md"
     },
     {
-      "basename": "setkeys",
-      "path": "R/data.table/setkeys.md"
+      "basename": "SD",
+      "path": "R/data.table/SD.md"
     },
     {
       "basename": "order",
       "path": "R/data.table/order.md"
     },
     {
-      "basename": "Curly braces { }",
-      "path": "R/Curly braces { }.md"
+      "basename": "setkeys",
+      "path": "R/data.table/setkeys.md"
     },
     {
       "basename": "lapply",
@@ -23,6 +23,10 @@
     {
       "basename": "Column names",
       "path": "R/read_data/Column names.md"
+    },
+    {
+      "basename": "Curly braces { }",
+      "path": "R/Curly braces { }.md"
     },
     {
       "basename": "Distribution",
@@ -195,10 +199,6 @@
     {
       "basename": "Interning",
       "path": "Python/Memory/Interning.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "Python/OOP/Classes.md"
     }
   ],
   "omittedPaths": [],

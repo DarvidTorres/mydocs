@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "SD",
-      "path": "R/data.table/SD.md"
+      "basename": "setkeys",
+      "path": "R/data.table/setkeys.md"
     },
     {
       "basename": "data.table",
@@ -13,8 +13,12 @@
       "path": "R/data.table/order.md"
     },
     {
-      "basename": "setkeys",
-      "path": "R/data.table/setkeys.md"
+      "basename": "Walrus & Copy",
+      "path": "R/data.table/Walrus & Copy.md"
+    },
+    {
+      "basename": "SD",
+      "path": "R/data.table/SD.md"
     },
     {
       "basename": "lapply",
@@ -195,10 +199,6 @@
     {
       "basename": "for",
       "path": "Python/control_flow/for.md"
-    },
-    {
-      "basename": "Interning",
-      "path": "Python/Memory/Interning.md"
     }
   ],
   "omittedPaths": [],

@@ -2,6 +2,8 @@
 
 In **data.table**, a *key* is like a rowname: it defines one or more columns that are used for fast row lookups, joins, and grouping.
 
+`setkey()` and `setkeyv()` modify the input data.table by reference. They return the result invisibly.
+
 #### What happens when you set a key
 
 1. **Sorting the rows**

@@ -125,7 +125,6 @@ Result:
 4:      105       3     Hat  Carol
 ```
 
-
 ---
 ### Key rule to remember
 

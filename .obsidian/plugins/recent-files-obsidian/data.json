@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Joins",
+      "path": "R/data.table/Joins.md"
+    },
+    {
       "basename": "setkeys",
       "path": "R/data.table/setkeys.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "lists",
       "path": "Python/data types/Iterable/lists.md"
-    },
-    {
-      "basename": "for",
-      "path": "Python/control_flow/for.md"
     }
   ],
   "omittedPaths": [],

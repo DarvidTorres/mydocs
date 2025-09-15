@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/Joins.md",
+                "file": "R/data.table/data.table.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Joins"
+              "title": "data.table"
             }
           }
         ]
@@ -223,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/Joins.md",
+                "file": "R/data.table/data.table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Joins"
+              "title": "Outgoing links from data.table"
             }
           }
         ]
@@ -255,9 +255,9 @@
   },
   "active": "d05f7275f96744d4",
   "lastOpenFiles": [
+    "R/data.table/Joins.md",
     "R/data.table/Untitled",
     "R/data.table/setkeys.md",
-    "R/data.table/Joins.md",
     "R/data.table/data.table.md",
     "R/data.table/order.md",
     "R/data.table/Walrus & Copy.md",
@@ -290,7 +290,6 @@
     "R/Version.md",
     "data/Resources",
     "data/Machine Leaning Process",
-    "data",
     "Pasted image 20230319193607.png"
   ]
 }

@@ -32,7 +32,6 @@ DT_n
 # [1] "x" "y" "z"
 ```
 
-
 # copy
 
 The `copy()` function deep copies the input object and therefore any subsequent update by reference operations performed on the copied object will not affect the original object.

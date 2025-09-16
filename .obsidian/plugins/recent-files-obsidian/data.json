@@ -5,6 +5,14 @@
       "path": "R/data.table/data.table.md"
     },
     {
+      "basename": "Walrus & Copy",
+      "path": "R/data.table/Walrus & Copy.md"
+    },
+    {
+      "basename": "lapply",
+      "path": "R/data.table/lapply.md"
+    },
+    {
       "basename": "Joins",
       "path": "R/data.table/Joins.md"
     },
@@ -17,16 +25,8 @@
       "path": "R/data.table/order.md"
     },
     {
-      "basename": "Walrus & Copy",
-      "path": "R/data.table/Walrus & Copy.md"
-    },
-    {
       "basename": "SD",
       "path": "R/data.table/SD.md"
-    },
-    {
-      "basename": "lapply",
-      "path": "R/data.table/lapply.md"
     },
     {
       "basename": "Column names",

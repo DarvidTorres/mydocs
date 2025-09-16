@@ -46,6 +46,9 @@ Result:
 - Order rows:
     `flights_small[order(origin, -dest)]`
     → sorted by origin ↑, then dest ↓.
+- `.N`, number, in row or column:
+	Print the penultimate row: `flights_small[.N - 1]`
+
 ## Using `j` (columns)
 
 - Return a **vector**: `flights_small[, arr_delay]`

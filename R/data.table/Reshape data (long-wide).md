@@ -8,7 +8,7 @@ flights_small <- data.table(
   dep_delay = c(14, -3, -6, 25, -1, 10)
 )
 ```
-# melt (unpivot columns)
+# melt
 
 **`melt()`**: takes **wide data** (many columns) and reshapes it into **long form** (fewer columns, more rows). Think: “stack columns into rows.”
 
@@ -61,7 +61,52 @@ melt(
 )
 ```
 
-# dcast (pivot columns)
+# dcast
 
 **`dcast()`**: does the reverse — takes long data and spreads it back to wide. Think: “unstack rows into columns.”
 
+General form:
+```R
+dcast(
+  data,
+  formula,
+  value.var,
+  fun.aggregate
+)
+```
+
+- **`data`** → your long-format data (usually the result of `melt()`).
+- **`formula`** → the core instruction:
+    - LHS (left-hand side): the identifiers you want as rows.
+    - RHS (right-hand side): the identifiers you want as columns.  
+        Example: `year + month + origin + dest ~ delay_type` means rows are grouped by year+month+origin+dest, and columns spread out by `delay_type`.
+- **`value.var`** → which column contains the values to fill into the table (often the one you created with `value.name` in `melt()`).
+- **`fun.aggregate`** → optional function for when multiple values land in the same cell (like `mean`, `sum`, `length`). If you don’t supply it, but multiple values exist, `dcast()` will complain.
+
+```R
+dcast(
+  melted_data,
+  year + month + origin + dest ~ delay_type,
+  value.var = "delay_time"
+)
+```
+
+- **Left-hand side (before `~`)** = the **row identifiers** you want to keep as rows.  
+    → here: `year + month + origin + dest`
+- **Right-hand side (after `~`)** = what you want to become **new columns**.  
+    → here: `delay_type` (which has 2 levels: `arr_delay`, `dep_delay`)
+- **value.var** = which column has the numbers to fill those new cells.  
+    → here: `delay_time`
+### What happens
+
+1. Look at one row in your melted data:
+    `2014 1 JFK LAX arr_delay 13`
+    Another row says:
+    `2014 1 JFK LAX dep_delay 14`
+    They have the **same identifiers** (year, month, origin, dest), but different `delay_type`.
+2. `dcast()` will take those two rows and **spread them into columns**:
+```R
+year month origin dest arr_delay dep_delay
+2014     1   JFK   LAX        13        14
+```
+3. Doing this for all flights gives you back your original wide format.

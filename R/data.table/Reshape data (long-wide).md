@@ -56,8 +56,8 @@ melt(
 melt(
   flights_small,
   measure.vars = c("arr_delay", "dep_delay"),
-  variable.name = "delay_type",
-  value.name = "delay_time"
+  variable.name = "delay_type", # Assing column name
+  value.name = "delay_time"     # Assign column name
 )
 ```
 

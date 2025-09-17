@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/Reshape data (long-wide).md",
+                "file": "R/data.table/Joins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reshape data (long-wide)"
+              "title": "Joins"
             }
           }
         ]
@@ -223,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/Reshape data (long-wide).md",
+                "file": "R/data.table/Joins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reshape data (long-wide)"
+              "title": "Outgoing links from Joins"
             }
           }
         ]
@@ -255,8 +255,8 @@
   },
   "active": "d05f7275f96744d4",
   "lastOpenFiles": [
-    "R/data.table/data.table.md",
     "R/data.table/Reshape data (long-wide).md",
+    "R/data.table/data.table.md",
     "R/data.table/Walrus & Copy.md",
     "R/data.table/lapply.md",
     "R/data.table/Joins.md",

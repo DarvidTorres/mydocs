@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Joins",
+      "path": "R/data.table/Joins.md"
+    },
+    {
       "basename": "Reshape data (long-wide)",
       "path": "R/data.table/Reshape data (long-wide).md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "lapply",
       "path": "R/data.table/lapply.md"
-    },
-    {
-      "basename": "Joins",
-      "path": "R/data.table/Joins.md"
     },
     {
       "basename": "setkeys",

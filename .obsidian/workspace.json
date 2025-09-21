@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Objects.md",
+                "file": "R/Settings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Objects"
+              "title": "Settings"
             }
           }
         ]
@@ -218,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Objects.md",
+                "file": "R/Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Objects"
+              "title": "Outgoing links from Settings"
             }
           }
         ]
@@ -250,8 +250,9 @@
   },
   "active": "086810b207787c0f",
   "lastOpenFiles": [
-    "R/Settings.md",
     "R/VSCode.md",
+    "R/Objects.md",
+    "R/Settings.md",
     "R/Data frames.md",
     "R/Shortcuts.md",
     "R/Files.md",
@@ -281,7 +282,6 @@
     "data",
     "Python/operators/Assignment operators/Multiply and ssign.md",
     "Python/operators/Assignment operators/Walrus.md",
-    "Python/operators/Assignment operators/Subtract and assign.md",
     "Python/operators/Assignment operators",
     "Python/memory",
     "Python/Variables",

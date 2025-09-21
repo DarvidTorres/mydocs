@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Objects",
-      "path": "R/Objects.md"
-    },
-    {
       "basename": "Settings",
       "path": "R/Settings.md"
     },
     {
       "basename": "VSCode",
       "path": "R/VSCode.md"
+    },
+    {
+      "basename": "Objects",
+      "path": "R/Objects.md"
     },
     {
       "basename": "Data frames",

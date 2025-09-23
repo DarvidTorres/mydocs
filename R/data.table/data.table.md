@@ -117,7 +117,6 @@ For those familiar with the Unix terminal, the .. prefix should be reminiscent o
 - Count flights by origin–dest pair: `flights_small[, .N, by = .(origin, dest)]`
 - Order of `by` variables is preserved in the output.
 ### Grouping with calculations
-
 Average delays by origin:
 ```R
 flights_small[, .(avg_arr = mean(arr_delay), 
@@ -125,4 +124,76 @@ flights_small[, .(avg_arr = mean(arr_delay),
                              by = origin]
 ```
 - Order of `by` variables is preserved in the output.
+### Calculations in `by`
+
+Example: **Count flights per quarter**
+`flights_small[, .N, by = .(quarter = ceiling(month / 3))]`
+**Explanation using mental model:**
+**`by`** → creates a **temporary grouping variable** is created: `quarter = ceiling(month / 3)`
+    
+    - Conceptually:
+        
+
+`year month origin dest arr_delay dep_delay quarter 2014   1  JFK   LAX    13        14        1 2014   1  JFK   SFO    -5        -3        1 2014   6  JFK   LAX     0        -6        2 2014   6  LGA   ORD    20        25        2 2014   6  EWR   MIA    -2        -1        2 2014   6  JFK   ORD     8        10        2`
+
+3. **`j`** → `.N` counts rows **per group**
+    
+
+**Result:**
+
+   `quarter N 1:       1 2 2:       2 4`
+
+---
+
+## 2️⃣ **Calculations in both `by` and `j`**
+
+Example: **Average delays per quarter, grouped by origin**
+
+`flights_small[, .(   avg_arr = mean(arr_delay),   avg_dep = mean(dep_delay) ), by = .(quarter = ceiling(month / 3), origin)]`
+
+**Step-by-step mental model:**
+
+1. **`i`** → no filter; all rows included.
+    
+2. **`by`** → two temporary grouping variables are created:
+    
+    - `quarter = ceiling(month / 3)`
+        
+    - `origin` (already exists)
+        
+
+Conceptually:
+
+`year month origin dest arr_delay dep_delay quarter 2014   1  JFK   LAX    13        14        1 2014   1  JFK   SFO    -5        -3        1 2014   6  JFK   LAX     0        -6        2 2014   6  LGA   ORD    20        25        2 2014   6  EWR   MIA    -2        -1        2 2014   6  JFK   ORD     8        10        2`
+
+3. **`j`** → compute `mean(arr_delay)` and `mean(dep_delay)` **per group**
+    
+
+**Result:**
+
+   `quarter origin avg_arr avg_dep 1:       1  JFK       4       6 2:       2  JFK       4       2 3:       2  LGA      20      25 4:       2  EWR      -2      -1`
+
+---
+
+### ✅ Notes for the mental model
+
+- `i` → filter rows first
+    
+- `by` → create temporary grouping variables (can include calculations)
+    
+- `j` → perform computations **within each group**
+    
+- You can gradually increase complexity in your notes:
+    
+    1. `by` with calculations only, `j` simple
+        
+    2. Both `by` and `j` with calculations
+
+Conceptually (it doesn't really happens this way but it's a good mental model):
+- When you do `DT[, j, by = some_group]`, `data.table` **creates a temporary grouping variable** for the computation.
+- It’s like a new column exists internally.
+
+
+
+
 

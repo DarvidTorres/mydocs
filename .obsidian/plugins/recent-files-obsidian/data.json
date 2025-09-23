@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "data.table",
+      "path": "R/data.table/data.table.md"
+    },
+    {
+      "basename": "Distribution",
+      "path": "data/Distribution.md"
+    },
+    {
+      "basename": "Measures",
+      "path": "data/Measures.md"
+    },
+    {
+      "basename": "Means",
+      "path": "data/Means.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "R/Settings.md"
+    },
+    {
+      "basename": "Packages",
+      "path": "R/Packages.md"
+    },
+    {
+      "basename": "Indexing",
+      "path": "R/Indexing.md"
+    },
+    {
+      "basename": "Types",
+      "path": "R/Types.md"
+    },
+    {
+      "basename": "Functions",
+      "path": "R/Functions.md"
+    },
+    {
+      "basename": "Terminal",
+      "path": "R/Terminal.md"
+    },
+    {
+      "basename": "Errors",
+      "path": "R/Errors.md"
+    },
+    {
+      "basename": "VSCode",
+      "path": "R/VSCode.md"
+    },
+    {
+      "basename": "Objects",
+      "path": "R/Objects.md"
+    },
+    {
+      "basename": "Factors",
+      "path": "R/Factors.md"
+    },
+    {
+      "basename": "Shortcuts",
+      "path": "R/Shortcuts.md"
+    },
+    {
+      "basename": "Links",
+      "path": "data/Resources/Links.md"
+    },
+    {
+      "basename": "Machine Learning Process",
+      "path": "data/Machine Leaning Process/Machine Learning Process.md"
+    },
+    {
+      "basename": "Variable profiling",
+      "path": "data/Machine Leaning Process/Variable profiling.md"
+    },
+    {
       "basename": "Joins",
       "path": "R/data.table/Joins.md"
     },
     {
       "basename": "Reshape data (long-wide)",
       "path": "R/data.table/Reshape data (long-wide).md"
-    },
-    {
-      "basename": "data.table",
-      "path": "R/data.table/data.table.md"
     },
     {
       "basename": "Walrus & Copy",
@@ -41,40 +109,12 @@
       "path": "R/Curly braces { }.md"
     },
     {
-      "basename": "Distribution",
-      "path": "data/Distribution.md"
-    },
-    {
-      "basename": "Means",
-      "path": "data/Means.md"
-    },
-    {
-      "basename": "Measures",
-      "path": "data/Measures.md"
-    },
-    {
       "basename": "Standardization vs Normalization",
       "path": "data/Standardization vs Normalization.md"
     },
     {
-      "basename": "Shortcuts",
-      "path": "R/Shortcuts.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "R/Untitled.md"
-    },
-    {
-      "basename": "VSCode",
-      "path": "R/VSCode.md"
-    },
-    {
       "basename": "Data frames",
       "path": "R/Data frames.md"
-    },
-    {
-      "basename": "Factors",
-      "path": "R/Factors.md"
     },
     {
       "basename": "too_few arg",
@@ -89,14 +129,6 @@
       "path": "R/Separate/Separate.md"
     },
     {
-      "basename": "Packages",
-      "path": "R/Packages.md"
-    },
-    {
-      "basename": "Objects",
-      "path": "R/Objects.md"
-    },
-    {
       "basename": "Version",
       "path": "R/Version.md"
     },
@@ -105,32 +137,8 @@
       "path": "R/Files.md"
     },
     {
-      "basename": "Errors",
-      "path": "R/Errors.md"
-    },
-    {
-      "basename": "Settings",
-      "path": "R/Settings.md"
-    },
-    {
-      "basename": "Terminal",
-      "path": "R/Terminal.md"
-    },
-    {
       "basename": "git_github",
       "path": "github/git_github.md"
-    },
-    {
-      "basename": "Variable profiling",
-      "path": "data/Machine Leaning Process/Variable profiling.md"
-    },
-    {
-      "basename": "Links",
-      "path": "data/Resources/Links.md"
-    },
-    {
-      "basename": "Machine Learning Process",
-      "path": "data/Machine Leaning Process/Machine Learning Process.md"
     },
     {
       "basename": "Export and import environments",
@@ -191,14 +199,6 @@
     {
       "basename": "Operators",
       "path": "Python/Operators/Operators.md"
-    },
-    {
-      "basename": "Floor division and assign",
-      "path": "Python/Operators/Assignment operators/Floor division and assign.md"
-    },
-    {
-      "basename": "int",
-      "path": "C/data types/integers/int.md"
     }
   ],
   "omittedPaths": [],

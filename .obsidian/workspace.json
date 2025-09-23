@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a83f5f83459360b9",
+        "id": "b00f474bf4c279c3",
         "type": "tabs",
         "children": [
           {
-            "id": "d05f7275f96744d4",
+            "id": "52ea048547af6fa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/Joins.md",
+                "file": "R/data.table/data.table.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Joins"
+              "title": "data.table"
             }
           }
         ]
@@ -105,8 +105,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "af55bc0fe283fce4",
@@ -224,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/Joins.md",
+                "file": "R/data.table/data.table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Joins"
+              "title": "Outgoing links from data.table"
             }
           }
         ]
@@ -254,42 +253,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3ab6b24021e97a2",
+  "active": "52ea048547af6fa9",
   "lastOpenFiles": [
+    "data/Distribution.md",
+    "data/Measures.md",
+    "data/Means.md",
+    "R/Settings.md",
+    "R/Packages.md",
+    "R/Indexing.md",
+    "R/Types.md",
+    "R/Functions.md",
+    "R/Terminal.md",
+    "R/Errors.md",
+    "R/VSCode.md",
+    "R/Objects.md",
+    "R/Factors.md",
+    "R/Shortcuts.md",
+    "R/Untitled.md",
+    "data/Resources/Links.md",
+    "data/Machine Leaning Process/Machine Learning Process.md",
+    "data/Machine Leaning Process/Variable profiling.md",
+    "R/data.table/Joins.md",
     "R/data.table/Reshape data (long-wide).md",
     "R/data.table/data.table.md",
     "R/data.table/Walrus & Copy.md",
     "R/data.table/lapply.md",
-    "R/data.table/Joins.md",
     "R/data.table/Untitled",
     "R/data.table/setkeys.md",
     "R/data.table/order.md",
     "R/data.table/SD.md",
-    "R/read_data/Column names.md",
-    "R/Curly braces { }.md",
     "R/data.table",
-    "R/order.md",
-    "data/Distribution.md",
     "R/read_data",
-    "data/Means.md",
-    "data/Measures.md",
     "data/Means",
-    "data/Standardization vs Normalization.md",
-    "R/Shortcuts.md",
-    "R/Untitled.md",
-    "R/VSCode.md",
-    "R/Data frames.md",
-    "R/Factors.md",
     "R/Dates/Untitled",
     "R/Dates",
-    "R/Separate/too_few arg.md",
-    "R/Separate/too_many arg.md",
-    "R/Separate/Separate.md",
     "R/Separate",
-    "R/Packages.md",
     "R/Separate()",
-    "R/Objects.md",
-    "R/Version.md",
     "data/Resources",
     "data/Machine Leaning Process",
     "Pasted image 20230319193607.png"

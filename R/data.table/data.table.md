@@ -4,12 +4,25 @@ The general form of `data.table` syntax is: `DT[i, j, by]`.
 - **`by`** → groups (do `j` separately within each group)
 > Take DT (a data table), subset/reorder rows using `i`, then calculate `j`, grouped by `by`.
 
+This is easier to visualize as a **three-step pipeline**: Filter → Group → Compute
+1. **Filter (i)**
+    - Think of `i` as “which rows should I consider?”
+    - Example: `origin == "JFK"` only keeps JFK flights.
+2. **Group (by)**
+    - `by` defines **temporary grouping variables**.
+    - These can be existing columns or **calculations on columns**
+    - Conceptually, it’s like `data.table` creates a new temporary column used just for grouping.
+    - **Multiple columns in `by`** → treated as a “compound key” (like `(origin, dest)`), grouping by every unique combination.
+3. **Compute (j)**
+    - `j` contains the actual computations: summaries, transformations, counts, etc.
+    - Everything in `j` is computed **within each group defined by `by`**.
+
 ```R
 library(data.table)
 
 # create a small data.table
 flights_small <- data.table(
-  year    = c(2014, 2014, 2014, 2014, 2014, 2014),
+  year    = c(2025, 2025, 2025, 2025, 2025, 2025),
   month   = c(1, 1, 6, 6, 6, 6),
   origin  = c("JFK", "JFK", "JFK", "LGA", "EWR", "JFK"),
   dest    = c("LAX", "SFO", "LAX", "ORD", "MIA", "ORD"),
@@ -115,7 +128,21 @@ For those familiar with the Unix terminal, the .. prefix should be reminiscent o
 ### Grouping by multiple columns
 
 - Count flights by origin–dest pair: `flights_small[, .N, by = .(origin, dest)]`
-- Order of `by` variables is preserved in the output.
+	- Order of `by` variables is preserved in the output.
+- `data.table` conceptually **creates a temporary grouping variable** that represents **all combinations of the `by` columns**.
+- You can think of it as a “compound key” column — like `origin-dest` — but it’s **not actually added to the table**, it just exists internally for grouping.
+Conceptual table:
+```
+year month origin dest arr_delay dep_delay origin-dest
+2014   1   JFK   LAX    13        14       JKF-LAX
+2014   1   JFK   SFO    -5        -3       JFK-SFO
+2014   6   JFK   LAX     0        -6       JFK-LAX
+2014   6   LGA   ORD    20        25       LGA-ORD
+2014   6   EWR   MIA    -2        -1       EWR-MIA
+2014   6   JFK   ORD     8        10       JKF-ORD
+```
+Temporary grouping columns (quarter, origin) exist conceptually only for computation, not permanently.
+- `.N` counts **rows per combination of `quarter` and `origin`**.
 ### Grouping with calculations
 Average delays by origin:
 ```R
@@ -129,71 +156,56 @@ flights_small[, .(avg_arr = mean(arr_delay),
 Example: **Count flights per quarter**
 `flights_small[, .N, by = .(quarter = ceiling(month / 3))]`
 **Explanation using mental model:**
-**`by`** → creates a **temporary grouping variable** is created: `quarter = ceiling(month / 3)`
-    
-    - Conceptually:
-        
-
-`year month origin dest arr_delay dep_delay quarter 2014   1  JFK   LAX    13        14        1 2014   1  JFK   SFO    -5        -3        1 2014   6  JFK   LAX     0        -6        2 2014   6  LGA   ORD    20        25        2 2014   6  EWR   MIA    -2        -1        2 2014   6  JFK   ORD     8        10        2`
-
+- **`by`** → creates a **temporary grouping variable** is created: `quarter = ceiling(month / 3)`
+Conceptually:
+```
+year month origin dest arr_delay dep_delay quarter
+2025   1  JFK   LAX    13        14        1
+2025   1  JFK   SFO    -5        -3        1
+2025   6  JFK   LAX     0        -6        2
+2025   6  LGA   ORD    20        25        2
+2025   6  EWR   MIA    -2        -1        2
+2025   6  JFK   ORD     8        10        2
+```
 3. **`j`** → `.N` counts rows **per group**
-    
-
 **Result:**
-
-   `quarter N 1:       1 2 2:       2 4`
-
----
-
-## 2️⃣ **Calculations in both `by` and `j`**
+```
+   quarter N
+1:       1 2
+2:       2 4
+```
+### Calculations in both `by` and `j`
 
 Example: **Average delays per quarter, grouped by origin**
-
-`flights_small[, .(   avg_arr = mean(arr_delay),   avg_dep = mean(dep_delay) ), by = .(quarter = ceiling(month / 3), origin)]`
-
+```R
+flights_small[, .(
+  avg_arr = mean(arr_delay),
+  avg_dep = mean(dep_delay)
+), by = .(quarter = ceiling(month / 3), origin)]
+```
 **Step-by-step mental model:**
-
 1. **`i`** → no filter; all rows included.
-    
-2. **`by`** → two temporary grouping variables are created:
-    
+2. **`by`** → two temporary grouping variables:
     - `quarter = ceiling(month / 3)`
-        
     - `origin` (already exists)
-        
-
 Conceptually:
-
-`year month origin dest arr_delay dep_delay quarter 2014   1  JFK   LAX    13        14        1 2014   1  JFK   SFO    -5        -3        1 2014   6  JFK   LAX     0        -6        2 2014   6  LGA   ORD    20        25        2 2014   6  EWR   MIA    -2        -1        2 2014   6  JFK   ORD     8        10        2`
-
+```
+year month origin dest arr_delay dep_delay quarter
+2014   1  JFK   LAX    13        14        1
+2014   1  JFK   SFO    -5        -3        1
+2014   6  JFK   LAX     0        -6        2
+2014   6  LGA   ORD    20        25        2
+2014   6  EWR   MIA    -2        -1        2
+2014   6  JFK   ORD     8        10        2
+```
 3. **`j`** → compute `mean(arr_delay)` and `mean(dep_delay)` **per group**
-    
-
 **Result:**
-
-   `quarter origin avg_arr avg_dep 1:       1  JFK       4       6 2:       2  JFK       4       2 3:       2  LGA      20      25 4:       2  EWR      -2      -1`
-
----
-
-### ✅ Notes for the mental model
-
-- `i` → filter rows first
-    
-- `by` → create temporary grouping variables (can include calculations)
-    
-- `j` → perform computations **within each group**
-    
-- You can gradually increase complexity in your notes:
-    
-    1. `by` with calculations only, `j` simple
-        
-    2. Both `by` and `j` with calculations
-
-Conceptually (it doesn't really happens this way but it's a good mental model):
-- When you do `DT[, j, by = some_group]`, `data.table` **creates a temporary grouping variable** for the computation.
-- It’s like a new column exists internally.
-
-
-
+```
+   quarter origin avg_arr avg_dep
+1:       1  JFK       4       6
+2:       2  JFK       4       2
+3:       2  LGA      20      25
+4:       2  EWR      -2      -1
+```
 
 

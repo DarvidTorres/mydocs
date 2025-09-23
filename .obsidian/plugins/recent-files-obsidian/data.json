@@ -5,6 +5,14 @@
       "path": "R/data.table/data.table.md"
     },
     {
+      "basename": "order",
+      "path": "R/data.table/order.md"
+    },
+    {
+      "basename": "Reshape data (long-wide)",
+      "path": "R/data.table/Reshape data (long-wide).md"
+    },
+    {
       "basename": "Distribution",
       "path": "data/Distribution.md"
     },
@@ -77,10 +85,6 @@
       "path": "R/data.table/Joins.md"
     },
     {
-      "basename": "Reshape data (long-wide)",
-      "path": "R/data.table/Reshape data (long-wide).md"
-    },
-    {
       "basename": "Walrus & Copy",
       "path": "R/data.table/Walrus & Copy.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "setkeys",
       "path": "R/data.table/setkeys.md"
-    },
-    {
-      "basename": "order",
-      "path": "R/data.table/order.md"
     },
     {
       "basename": "SD",

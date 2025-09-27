@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "data.table",
-      "path": "R/data.table/data.table.md"
+      "basename": "SD",
+      "path": "R/data.table/SD.md"
     },
     {
       "basename": "order",
       "path": "R/data.table/order.md"
     },
     {
+      "basename": "Joins",
+      "path": "R/data.table/Joins.md"
+    },
+    {
+      "basename": "setkeys",
+      "path": "R/data.table/setkeys.md"
+    },
+    {
+      "basename": "lapply",
+      "path": "R/data.table/lapply.md"
+    },
+    {
       "basename": "Reshape data (long-wide)",
       "path": "R/data.table/Reshape data (long-wide).md"
+    },
+    {
+      "basename": "data.table",
+      "path": "R/data.table/data.table.md"
     },
     {
       "basename": "Distribution",
@@ -81,24 +97,8 @@
       "path": "data/Machine Leaning Process/Variable profiling.md"
     },
     {
-      "basename": "Joins",
-      "path": "R/data.table/Joins.md"
-    },
-    {
       "basename": "Walrus & Copy",
       "path": "R/data.table/Walrus & Copy.md"
-    },
-    {
-      "basename": "lapply",
-      "path": "R/data.table/lapply.md"
-    },
-    {
-      "basename": "setkeys",
-      "path": "R/data.table/setkeys.md"
-    },
-    {
-      "basename": "SD",
-      "path": "R/data.table/SD.md"
     },
     {
       "basename": "Column names",

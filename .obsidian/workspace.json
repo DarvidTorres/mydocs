@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/data.table.md",
+                "file": "R/data.table/SD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "data.table"
+              "title": "SD"
             }
           }
         ]
@@ -105,8 +105,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "af55bc0fe283fce4",
@@ -224,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/data.table.md",
+                "file": "R/data.table/SD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from data.table"
+              "title": "Outgoing links from SD"
             }
           }
         ]
@@ -254,9 +253,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3ab6b24021e97a2",
+  "active": "52ea048547af6fa9",
   "lastOpenFiles": [
     "R/data.table/order.md",
+    "R/data.table/Joins.md",
+    "R/data.table/setkeys.md",
+    "R/data.table/lapply.md",
     "R/data.table/Reshape data (long-wide).md",
     "R/data.table/data.table.md",
     "data/Distribution.md",
@@ -277,11 +279,8 @@
     "data/Resources/Links.md",
     "data/Machine Leaning Process/Machine Learning Process.md",
     "data/Machine Leaning Process/Variable profiling.md",
-    "R/data.table/Joins.md",
     "R/data.table/Walrus & Copy.md",
-    "R/data.table/lapply.md",
     "R/data.table/Untitled",
-    "R/data.table/setkeys.md",
     "R/data.table/SD.md",
     "R/data.table",
     "R/read_data",

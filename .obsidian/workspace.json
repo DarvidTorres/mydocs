@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/data.table.md",
+                "file": "R/data.table/Joins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "data.table"
+              "title": "Joins"
             }
           }
         ]
@@ -223,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/data.table.md",
+                "file": "R/data.table/Joins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from data.table"
+              "title": "Outgoing links from Joins"
             }
           }
         ]
@@ -255,13 +255,13 @@
   },
   "active": "52ea048547af6fa9",
   "lastOpenFiles": [
+    "R/data.table/data.table.md",
     "R/data.table/SD.md",
     "R/data.table/order.md",
     "R/data.table/Joins.md",
     "R/data.table/setkeys.md",
     "R/data.table/lapply.md",
     "R/data.table/Reshape data (long-wide).md",
-    "R/data.table/data.table.md",
     "data/Distribution.md",
     "data/Measures.md",
     "data/Means.md",

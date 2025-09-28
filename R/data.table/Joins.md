@@ -1,11 +1,3 @@
-```
-x[i, on, nomatch]
-| |  |   |
-| |  |   \__ If NULL only returns rows linked in x and i tables
-| |  \____ a character vector or list defining match logic
-| \_____ primary data.table, list or data.frame
-\____ secondary data.table
-```
 ### One-to-many join in `data.table`
 
 The general form of a join is:

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Joins",
+      "path": "R/data.table/Joins.md"
+    },
+    {
       "basename": "data.table",
       "path": "R/data.table/data.table.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "order",
       "path": "R/data.table/order.md"
-    },
-    {
-      "basename": "Joins",
-      "path": "R/data.table/Joins.md"
     },
     {
       "basename": "setkeys",

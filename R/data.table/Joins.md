@@ -6,12 +6,15 @@ The general form of a join is:
 x[i, on = "col", nomatch = ...]
 ```
 
-- `x` = primary table (outside)
-- `i` = secondary table (inside `[ ]`), **all rows from `i` are preserved**. 
+- `x` = secondary table (left-side)
+- `i` = primary table (inside `[ ]`), **all rows from `i` are preserved**. 
 - `on` = column(s) to match by
-- `nonmatch` = controls what happens when no match is found
+- `nomatch` = controls what happens when no match is found
 	- default is `NA` → unmatched rows in `i` are kept, with `NA` filled in from `x`
 	- if set to `FALSE` → unmatched rows are dropped
+	
+In the standard `x[i]` join, all rows from i (the table in the brackets) are preserved, but only the matching rows from x are kept. This is known as a right join because it keeps everything from the table on the right side of the expression.
+
 ---
 
 ### Example tables

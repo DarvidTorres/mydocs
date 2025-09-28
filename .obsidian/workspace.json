@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/SD.md",
+                "file": "R/data.table/data.table.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SD"
+              "title": "data.table"
             }
           }
         ]
@@ -223,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/SD.md",
+                "file": "R/data.table/data.table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SD"
+              "title": "Outgoing links from data.table"
             }
           }
         ]
@@ -255,6 +255,7 @@
   },
   "active": "52ea048547af6fa9",
   "lastOpenFiles": [
+    "R/data.table/SD.md",
     "R/data.table/order.md",
     "R/data.table/Joins.md",
     "R/data.table/setkeys.md",
@@ -281,7 +282,6 @@
     "data/Machine Leaning Process/Variable profiling.md",
     "R/data.table/Walrus & Copy.md",
     "R/data.table/Untitled",
-    "R/data.table/SD.md",
     "R/data.table",
     "R/read_data",
     "data/Means",

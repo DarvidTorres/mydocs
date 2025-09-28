@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "data.table",
+      "path": "R/data.table/data.table.md"
+    },
+    {
       "basename": "SD",
       "path": "R/data.table/SD.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Reshape data (long-wide)",
       "path": "R/data.table/Reshape data (long-wide).md"
-    },
-    {
-      "basename": "data.table",
-      "path": "R/data.table/data.table.md"
     },
     {
       "basename": "Distribution",

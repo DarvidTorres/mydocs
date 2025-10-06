@@ -5,44 +5,60 @@
       "path": "R/data.table/Joins.md"
     },
     {
-      "basename": "Column names",
-      "path": "R/read_data/Column names.md"
+      "basename": "Terminal",
+      "path": "R/Terminal.md"
     },
     {
-      "basename": "Settings",
-      "path": "R/Settings.md"
-    },
-    {
-      "basename": "VSCode",
-      "path": "R/VSCode.md"
-    },
-    {
-      "basename": "Objects",
-      "path": "R/Objects.md"
-    },
-    {
-      "basename": "Data frames",
-      "path": "R/Data frames.md"
+      "basename": "Factors",
+      "path": "R/Factors.md"
     },
     {
       "basename": "Shortcuts",
       "path": "R/Shortcuts.md"
     },
     {
-      "basename": "Files",
-      "path": "R/Files.md"
-    },
-    {
-      "basename": "Version",
-      "path": "R/Version.md"
+      "basename": "Curly braces { }",
+      "path": "R/Curly braces { }.md"
     },
     {
       "basename": "Types",
       "path": "R/Types.md"
     },
     {
+      "basename": "Data frames",
+      "path": "R/Data frames.md"
+    },
+    {
+      "basename": "Objects",
+      "path": "R/Objects.md"
+    },
+    {
       "basename": "Functions",
       "path": "R/Functions.md"
+    },
+    {
+      "basename": "Files",
+      "path": "R/Files.md"
+    },
+    {
+      "basename": "VSCode",
+      "path": "R/VSCode.md"
+    },
+    {
+      "basename": "Version",
+      "path": "R/Version.md"
+    },
+    {
+      "basename": "Settings",
+      "path": "R/Settings.md"
+    },
+    {
+      "basename": "Packages",
+      "path": "R/Packages.md"
+    },
+    {
+      "basename": "Column names",
+      "path": "R/read_data/Column names.md"
     },
     {
       "basename": "Indexing",
@@ -51,10 +67,6 @@
     {
       "basename": "Errors",
       "path": "R/Errors.md"
-    },
-    {
-      "basename": "Packages",
-      "path": "R/Packages.md"
     },
     {
       "basename": "Jupyter settings",

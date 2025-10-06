@@ -7,3 +7,10 @@
 }
 ```
 
+
+```
+# Restart the R terminal
+Ctrl + Shift + F10
+# Clean the terminal
+Ctrl + Shift + L
+```

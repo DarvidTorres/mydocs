@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/read_data/Column names.md",
+                "file": "R/data.table/Joins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Column names"
-            }
-          },
-          {
-            "id": "9d2fe1f97c68ed6e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Joins"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/read_data/Column names.md",
+                "file": "R/data.table/Joins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Column names"
+              "title": "Outgoing links from Joins"
             }
           }
         ]
@@ -261,14 +248,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d2fe1f97c68ed6e",
+  "active": "086810b207787c0f",
   "lastOpenFiles": [
+    "R/read_data/Column names.md",
     "R/Settings.md",
     "conflict-files-obsidian-git.md",
     "data/Measures.md",
     "data/Means.md",
     "data/Distribution.md",
-    "R/read_data/Column names.md",
     "R/read_data",
     "R/data.table/Walrus & Copy.md",
     "R/data.table/SD.md",

@@ -123,7 +123,7 @@ Result:
 ---
 ### Key rule to remember
 
-👉 In `x[i, on=..., nomatch=...]`:
+In `x[i, on=..., nomatch=...]`:
 - **Rows from `i` (inside `[ ]`) are preserved** by default, even if unmatched (with `NA`).
 - Use `nomatch = FALSE` to exclude unmatched rows instead.
 
@@ -344,9 +344,7 @@ NewTax[Products, on = c("unit", "type")]
 ### 4. **Notes on the output**
 
 - `tax_prop` is added from `NewTax` for matching rows.
-    
 - Rows in `Products` with no match in `NewTax` (e.g., `unit = "unit", type = "natural"`) get `NA`.
-    
 - Rows in `NewTax` that don’t match any row in `Products` are **ignored** because this is a **right join** (driven by `i`).
     
 
@@ -364,8 +362,6 @@ NewTax[Products, on = c("unit", "type")]
     
 
 ---
-
-✅ **Summary:**
 
 - Multi-column joins allow precise matching using composite keys.
     

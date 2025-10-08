@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/Joins.md",
+                "file": "R/data.table/Reshape data (long-wide).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Joins"
+              "title": "Reshape data (long-wide)"
             }
           }
         ]
@@ -218,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/Joins.md",
+                "file": "R/data.table/Reshape data (long-wide).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Joins"
+              "title": "Outgoing links from Reshape data (long-wide)"
             }
           }
         ]
@@ -250,6 +250,7 @@
   },
   "active": "086810b207787c0f",
   "lastOpenFiles": [
+    "R/data.table/Joins.md",
     "R/Terminal.md",
     "R/Factors.md",
     "R/Shortcuts.md",
@@ -263,7 +264,6 @@
     "R/Version.md",
     "R/Settings.md",
     "R/Packages.md",
-    "R/data.table/Joins.md",
     "R/read_data/Column names.md",
     "conflict-files-obsidian-git.md",
     "data/Measures.md",

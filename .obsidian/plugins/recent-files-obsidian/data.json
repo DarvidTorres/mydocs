@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Reshape data (long-wide)",
+      "path": "R/data.table/Reshape data (long-wide).md"
+    },
+    {
       "basename": "Joins",
       "path": "R/data.table/Joins.md"
     },

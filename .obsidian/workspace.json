@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/Reshape data (long-wide).md",
+                "file": "R/data.table/data.table.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reshape data (long-wide)"
+              "title": "data.table"
             }
           }
         ]
@@ -218,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/Reshape data (long-wide).md",
+                "file": "R/data.table/data.table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reshape data (long-wide)"
+              "title": "Outgoing links from data.table"
             }
           }
         ]
@@ -250,6 +250,7 @@
   },
   "active": "086810b207787c0f",
   "lastOpenFiles": [
+    "R/data.table/Reshape data (long-wide).md",
     "R/data.table/Joins.md",
     "R/Terminal.md",
     "R/Factors.md",
@@ -273,7 +274,6 @@
     "R/data.table/Walrus & Copy.md",
     "R/data.table/SD.md",
     "R/data.table/setkeys.md",
-    "R/data.table/Reshape data (long-wide).md",
     "R/data.table/order.md",
     "R/data.table/lapply.md",
     "R/data.table/data.table.md",

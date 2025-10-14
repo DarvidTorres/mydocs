@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Lookups",
+      "path": "R/data.table/Lookups.md"
+    },
+    {
+      "basename": "Joins",
+      "path": "R/data.table/Joins.md"
+    },
+    {
       "basename": "data.table",
       "path": "R/data.table/data.table.md"
     },
     {
       "basename": "Reshape data (long-wide)",
       "path": "R/data.table/Reshape data (long-wide).md"
-    },
-    {
-      "basename": "Joins",
-      "path": "R/data.table/Joins.md"
     },
     {
       "basename": "Terminal",
@@ -195,10 +199,6 @@
     {
       "basename": "Broadcasting",
       "path": "Python/NumPy/Broadcasting.md"
-    },
-    {
-      "basename": "OS",
-      "path": "Bash/OS.md"
     }
   ],
   "omittedPaths": [],

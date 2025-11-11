@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/Lookups.md",
+                "file": "R/data.table/data.table.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lookups"
+              "title": "data.table"
             }
           }
         ]
@@ -93,6 +93,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "358e6ddac3310812",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -181,8 +191,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -194,19 +204,9 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "ab1205812afde896",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "2c6675d20a6807f8",
@@ -218,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/Lookups.md",
+                "file": "R/data.table/data.table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lookups"
+              "title": "Outgoing links from data.table"
             }
           }
         ]
@@ -245,14 +245,21 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "086810b207787c0f",
   "lastOpenFiles": [
-    "R/data.table/Joins.md",
-    "R/data.table/Lookups.md",
+    "R/data.table/Modify by reference.md",
+    "R/data.table/SD.md",
+    "R/janitor/janitor.md",
+    "R/read_data/Column names.md",
+    "R/Separate/too_many arg.md",
     "R/data.table/data.table.md",
+    "R/data.table/Lookups.md",
+    "R/janitor",
+    "R/data.table/Joins.md",
     "R/data.table/Reshape data (long-wide).md",
     "R/Terminal.md",
     "R/Factors.md",
@@ -267,16 +274,11 @@
     "R/Version.md",
     "R/Settings.md",
     "R/Packages.md",
-    "R/read_data/Column names.md",
     "conflict-files-obsidian-git.md",
     "data/Measures.md",
     "data/Means.md",
     "data/Distribution.md",
     "R/read_data",
-    "R/data.table/Walrus & Copy.md",
-    "R/data.table/SD.md",
-    "R/data.table/setkeys.md",
-    "R/data.table/order.md",
     "R/data.table",
     "R/Separate",
     "Python/data types/strings/f-strings",
@@ -285,7 +287,6 @@
     "data/Resources",
     "data/Machine Leaning Process",
     "data",
-    "Python/operators/Assignment operators",
     "Pasted image 20230319193607.png"
   ]
 }

@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "data.table",
+      "path": "R/data.table/data.table.md"
+    },
+    {
+      "basename": "Modify by reference",
+      "path": "R/data.table/Modify by reference.md"
+    },
+    {
+      "basename": "SD",
+      "path": "R/data.table/SD.md"
+    },
+    {
+      "basename": "janitor",
+      "path": "R/janitor/janitor.md"
+    },
+    {
+      "basename": "Column names",
+      "path": "R/read_data/Column names.md"
+    },
+    {
+      "basename": "too_many arg",
+      "path": "R/Separate/too_many arg.md"
+    },
+    {
       "basename": "Lookups",
       "path": "R/data.table/Lookups.md"
     },
     {
       "basename": "Joins",
       "path": "R/data.table/Joins.md"
-    },
-    {
-      "basename": "data.table",
-      "path": "R/data.table/data.table.md"
     },
     {
       "basename": "Reshape data (long-wide)",
@@ -67,10 +87,6 @@
     {
       "basename": "Packages",
       "path": "R/Packages.md"
-    },
-    {
-      "basename": "Column names",
-      "path": "R/read_data/Column names.md"
     },
     {
       "basename": "Indexing",
@@ -183,25 +199,12 @@
     {
       "basename": "Callables",
       "path": "Python/Main/Callables.md"
-    },
-    {
-      "basename": "Export and import environments",
-      "path": "Anaconda/Export and import environments.md"
-    },
-    {
-      "basename": "git_github",
-      "path": "github/git_github.md"
-    },
-    {
-      "basename": "Series",
-      "path": "Python/Pandas/Series.md"
-    },
-    {
-      "basename": "Broadcasting",
-      "path": "Python/NumPy/Broadcasting.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }

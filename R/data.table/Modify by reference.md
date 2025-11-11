@@ -1,3 +1,4 @@
+Modify by reference is for columns only
 ##### _shallow_ vs _deep_ copy
 
 A _shallow_ copy is just a copy of the vector of column pointers (corresponding to the columns in a _data.frame_ or _data.table_). The actual data is not physically copied in memory.

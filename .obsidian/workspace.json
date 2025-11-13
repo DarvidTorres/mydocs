@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/data.table/data.table.md",
+                "file": "R/data.table/Lookups.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "data.table"
+              "title": "Lookups"
             }
           }
         ]
@@ -218,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/data.table/data.table.md",
+                "file": "R/data.table/Lookups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from data.table"
+              "title": "Outgoing links from Lookups"
             }
           }
         ]
@@ -251,12 +251,12 @@
   },
   "active": "086810b207787c0f",
   "lastOpenFiles": [
+    "R/data.table/data.table.md",
     "R/data.table/Modify by reference.md",
     "R/data.table/SD.md",
     "R/janitor/janitor.md",
     "R/read_data/Column names.md",
     "R/Separate/too_many arg.md",
-    "R/data.table/data.table.md",
     "R/data.table/Lookups.md",
     "R/janitor",
     "R/data.table/Joins.md",

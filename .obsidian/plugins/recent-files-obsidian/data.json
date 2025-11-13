@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lookups",
+      "path": "R/data.table/Lookups.md"
+    },
+    {
       "basename": "data.table",
       "path": "R/data.table/data.table.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "too_many arg",
       "path": "R/Separate/too_many arg.md"
-    },
-    {
-      "basename": "Lookups",
-      "path": "R/data.table/Lookups.md"
     },
     {
       "basename": "Joins",

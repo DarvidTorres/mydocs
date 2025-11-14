@@ -252,12 +252,12 @@
   "active": "086810b207787c0f",
   "lastOpenFiles": [
     "R/data.table/data.table.md",
+    "R/data.table/Lookups.md",
     "R/data.table/Modify by reference.md",
     "R/data.table/SD.md",
     "R/janitor/janitor.md",
     "R/read_data/Column names.md",
     "R/Separate/too_many arg.md",
-    "R/data.table/Lookups.md",
     "R/janitor",
     "R/data.table/Joins.md",
     "R/data.table/Reshape data (long-wide).md",
